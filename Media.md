@@ -1,2 +1,2 @@
-- [ ] wynd:9
-- [ ] the snadman:16
+- [ ] Wynd:9
+- [ ] The Sandman:16
