@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "vimMode": false,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "apparate"
+  ]
+}
