@@ -18,7 +18,7 @@ Macbeth
 - prince of Cumberland he must overcome(is jealous)
 - 
 Macbethś Wife
- - 
+ - wants to assist Macbeth with his kindly nature
 Banquo
 - The instruments of darkness tell us truth ... to betray (277)
 - 
@@ -28,8 +28,9 @@ Malcolm
 Interesting lines
  - 326
  - 333 letter
+ - 348 
  - 363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzQxNTY1MCwtMTU4NzE1MjE5MiwzNT
-g5ODY2MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE0OTY0MzUyNzksLTE1ODcxNTIxOTIsMz
+U4OTg2NjI2LC0yMDg4NzQ2NjEyXX0=
 -->
