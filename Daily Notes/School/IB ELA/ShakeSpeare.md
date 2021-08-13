@@ -19,6 +19,7 @@ Macbeth
 - 
 Macbethś Wife
  - wants to assist Macbeth with his kindly nature
+ - Wants to be full of direst cruelty(381)
 Banquo
 - The instruments of darkness tell us truth ... to betray (277)
 - 
@@ -31,6 +32,6 @@ Interesting lines
  - 348 
  - 363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY0MzUyNzksLTE1ODcxNTIxOTIsMz
-U4OTg2NjI2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTI2NjUwODA2MSwtMTU4NzE1MjE5MiwzNT
+g5ODY2MjYsLTIwODg3NDY2MTJdfQ==
 -->
