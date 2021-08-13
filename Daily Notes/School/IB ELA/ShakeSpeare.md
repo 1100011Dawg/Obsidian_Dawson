@@ -8,11 +8,13 @@ Ross
 Duncan
 - 
 Three witches
-- will meet Macbeth
-- 
+- tells Macbeth is Thane of Glamis Cawdor and king hereafter(144)
 
 Macbeth
 - 
+Banque
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDc4MDUyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwNDU2ODY4MjksLTIwODg3NDY2MTJdfQ
+==
 -->
