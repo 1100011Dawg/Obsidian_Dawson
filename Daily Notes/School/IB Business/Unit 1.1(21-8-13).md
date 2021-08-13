@@ -16,8 +16,11 @@
 **Customers vs Consumers**
 -Customer:Buys but doen always use the product
 -Consumer-Uses the product
+**Business Functions:
+-Human reasources
+finance and a
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk2NDIzMTZdfQ==
+eyJoaXN0b3J5IjpbNjAwNzI0NDVdfQ==
 -->
