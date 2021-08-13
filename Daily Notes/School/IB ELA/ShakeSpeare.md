@@ -19,7 +19,7 @@ Macbeth
 - 
 Macbethś Wife
  - wants to assist Macbeth with his kindly nature
- - Wants to be full of direst cruelty(381)
+ - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
 Banquo
 - The instruments of darkness tell us truth ... to betray (277)
 - 
@@ -32,6 +32,6 @@ Interesting lines
  - 348 
  - 363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjUwODA2MSwtMTU4NzE1MjE5MiwzNT
-g5ODY2MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTU0MTQyNjEyLC0xNTg3MTUyMTkyLDM1OD
+k4NjYyNiwtMjA4ODc0NjYxMl19
 -->
