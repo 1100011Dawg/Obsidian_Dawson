@@ -15,11 +15,14 @@ Three witches
 - 
 
 Macbeth
-- k
+- prince of Cumberland he must overcome
+- 
 Banquo
 - The instruments of darkness tell us truth ... to betray (277)
 - 
+Malcolm
+- prince of Cumberland
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTc2NjQxMywtMTU4NzE1MjE5MiwzNT
+eyJoaXN0b3J5IjpbLTU0ODM1MjM0OSwtMTU4NzE1MjE5MiwzNT
 g5ODY2MjYsLTIwODg3NDY2MTJdfQ==
 -->
