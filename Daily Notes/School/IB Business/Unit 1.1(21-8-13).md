@@ -24,14 +24,14 @@ finance and accounts
 **Sectors of Business Activity**
 - Primary Sector: Extraction of natural resources
 - Secondary sector: Construction and manufacturing
-	* Manufacturing: turning unprocessed natural reasources into goods
+	* Manufacturing: turning unprocessed natural resources into goods
 - Tertiary sector: Personal and business services
 - Quaternary Sector: knowledge part of the economy
 	* ex: I.T., R&D
-**Chain of Pruduction**
-- product may pass through sectors of industry
+**Chain of Production**
+- product may pass through sectors of industry this is called chain of production, each stage *adds value*
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjExNTczM119
+eyJoaXN0b3J5IjpbMjg4ODQ2NzM0XX0=
 -->
