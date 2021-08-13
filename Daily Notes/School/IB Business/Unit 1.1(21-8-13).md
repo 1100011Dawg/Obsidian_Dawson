@@ -27,9 +27,11 @@ finance and accounts
 	* Manufacturing: turning unprocessed natural reasources into goods
 - Tertiary sector: Personal and business services
 - Quaternary Sector: knowledge part of the economy
-	- 
+	* ex: I.T., R&D
+**Chain of Pruduction**
+- product may pass through sectors of industry
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjMxOTQyNTZdfQ==
+eyJoaXN0b3J5IjpbMTg1NjExNTczM119
 -->
