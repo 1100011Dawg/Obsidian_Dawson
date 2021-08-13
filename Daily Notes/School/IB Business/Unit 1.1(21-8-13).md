@@ -14,8 +14,10 @@
 - Services: Intangible products
 *Marketplace*:A place where buyers and sellers meet
 **Customers vs Consumers**
--C
+-Customer:Buys but doen always use the product
+-Consumer-Uses the product
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwODQ1MjMzXX0=
+eyJoaXN0b3J5IjpbLTE0MDk2NDIzMTZdfQ==
 -->
