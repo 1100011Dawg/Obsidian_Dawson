@@ -8,8 +8,11 @@
 -Labour Intensive: The process or industry needs a large amount of labour to produce itś goods or services.
 **Types of Products**
 -Consumer goods:
-	*
+	*Consumer durable goods:last a long time repeated use
+	*Consumer non-durable goods: Short life time, use immediate
+- Capital goods: Goods purchased by other businesses
+- Services: Intangible products
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MjIyMDk1XX0=
+eyJoaXN0b3J5IjpbNjMzNzQ1NzRdfQ==
 -->
