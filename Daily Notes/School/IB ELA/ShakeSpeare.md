@@ -8,10 +8,11 @@ Ross
 Angus
 - 
 Duncan
-- k
+- I the king
 Three witches
 - tells Macbeth is Thane of Glamis Cawdor and king hereafter(144)
 - Thou shalt get kings, though thou be none(161) to Banquo
+- 
 
 Macbeth
 - k
@@ -19,6 +20,6 @@ Banquo
 - The instruments of darkness tell us truth ... to betray (277)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODcxNTIxOTIsMzU4OTg2NjI2LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTc0OTc2NjQxMywtMTU4NzE1MjE5MiwzNT
+g5ODY2MjYsLTIwODg3NDY2MTJdfQ==
 -->
