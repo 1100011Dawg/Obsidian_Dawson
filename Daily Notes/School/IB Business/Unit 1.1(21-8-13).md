@@ -17,13 +17,16 @@
 -Customer:Buys but doen always use the product
 -Consumer-Uses the product
 **Business Functions**:
--Human reasources
+- Human reasources
 finance and acounts
--Marketing
--Operations
-**Sectors of Bu
+- Marketing
+- Operations
+**Sectors of Business Activity**
+- Primary Sector: Extration of natural resources
+- Secondary sector: Construction and manifacturing
+	- 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDgwODc3ODBdfQ==
+eyJoaXN0b3J5IjpbLTcxNjM1NDQyMF19
 -->
