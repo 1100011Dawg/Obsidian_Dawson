@@ -9,12 +9,12 @@ Duncan
 - 
 Three witches
 - tells Macbeth is Thane of Glamis Cawdor and king hereafter(144)
+- Thou shalt get kings, though thou be none(161) to Banqu
 
 Macbeth
 - 
 Banque
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU2ODY4MjksLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTc0NzAwMTM3MSwtMjA4ODc0NjYxMl19
 -->
