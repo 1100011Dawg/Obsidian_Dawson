@@ -15,7 +15,7 @@ Three witches
 - 
 
 Macbeth
-- prince of Cumberland he must overcome
+- prince of Cumberland he must overcome(is jealous)
 - 
 Banquo
 - The instruments of darkness tell us truth ... to betray (277)
@@ -23,6 +23,6 @@ Banquo
 Malcolm
 - prince of Cumberland
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODM1MjM0OSwtMTU4NzE1MjE5MiwzNT
-g5ODY2MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbOTM2NTgxODc1LC0xNTg3MTUyMTkyLDM1OD
+k4NjYyNiwtMjA4ODc0NjYxMl19
 -->
