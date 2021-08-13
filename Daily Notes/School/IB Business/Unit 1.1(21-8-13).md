@@ -12,8 +12,10 @@
 	*Consumer non-durable goods: Short life time, use immediate
 - Capital goods: Goods purchased by other businesses
 - Services: Intangible products
-*Marketplace*:A place where buyers and selelrs meet
+*Marketplace*:A place where buyers and sellers meet
+**Customers vs Consumers**
+-C
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODMwMTE0OF19
+eyJoaXN0b3J5IjpbNTYwODQ1MjMzXX0=
 -->
