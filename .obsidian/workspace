@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "59eb6a6b381e97b6",
+        "id": "088ae8e640cb6763",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -137,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59eb6a6b381e97b6",
+  "active": "088ae8e640cb6763",
   "lastOpenFiles": [
     "Media.md",
     "Factors of Production.md",
