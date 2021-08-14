@@ -7,8 +7,11 @@
         "id": "088ae8e640cb6763",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Template/Template_Default.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Template/Template_Default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Template/Template_Default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Template/Template_Default.md"
+              }
             }
           },
           {
@@ -139,10 +146,10 @@
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
+    "Template/Template_Default.md",
     "Media.md",
     "Factors of Production.md",
     "School/IB Business/Unit 1.1(21-8-13).md",
-    "Template/Template_Default.md",
     "Untitled.md",
     "Daily Notes/2021-08-08.md",
     "Daily Notes/2021-07-23.md",
