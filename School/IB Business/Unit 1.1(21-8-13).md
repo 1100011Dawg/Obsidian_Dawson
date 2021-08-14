@@ -18,18 +18,18 @@
 	-Consumer-Uses the product
 **Business Functions**:
 	- Human resources
--finance and accounts
+	-finance and accounts
 	- Marketing
 	- Operations
 **Sectors of Business Activity**
-- Primary Sector: Extraction of natural resources
-- Secondary sector: Construction and manufacturing
-	* Manufacturing: turning unprocessed natural resources into goods
-- Tertiary sector: Personal and business services
-- Quaternary Sector: knowledge part of the economy
-	* ex: I.T., R&D
+	- Primary Sector: Extraction of natural resources
+	- Secondary sector: Construction and manufacturing
+		* Manufacturing: turning unprocessed natural resources into goods
+	- Tertiary sector: Personal and business services
+	- Quaternary Sector: knowledge part of the economy
+		* ex: I.T., R&D
 **Chain of Production**
-- product may pass through sectors of industry this is called chain of production, each stage *adds value*
+	- product may pass through sectors of industry this is called chain of production, each stage *adds value*
 
  
 <!--stackedit_data:
