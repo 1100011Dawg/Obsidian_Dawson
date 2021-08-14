@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Template/Template_Default.md",
+            "file": "Media.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template_Default.md",
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template_Default.md",
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template_Default.md"
+                "file": "Media.md"
               }
             }
           },
@@ -146,8 +146,8 @@
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
-    "Template/Template_Default.md",
     "Media.md",
+    "Template/Template_Default.md",
     "Factors of Production.md",
     "School/IB Business/Unit 1.1(21-8-13).md",
     "Untitled.md",
