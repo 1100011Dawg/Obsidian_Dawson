@@ -7,11 +7,8 @@
         "id": "59eb6a6b381e97b6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Media.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,15 +139,15 @@
   },
   "active": "59eb6a6b381e97b6",
   "lastOpenFiles": [
+    "Factors of Production.md",
+    "School/IB Business/Unit 1.1(21-8-13).md",
+    "Template/Template_Default.md",
     "Media.md",
     "Untitled.md",
     "Daily Notes/2021-08-08.md",
     "Daily Notes/2021-07-23.md",
     "2021-08-08.md",
     "Writings/Story- pets at magic school..md",
-    "Writings/Poem Collection 1.md",
-    "Progress.md",
-    "Template/Template_Default.md",
-    "2021-07-23.md"
+    "Writings/Poem Collection 1.md"
   ]
 }
