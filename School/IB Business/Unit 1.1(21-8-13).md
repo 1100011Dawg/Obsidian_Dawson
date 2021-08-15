@@ -1,3 +1,4 @@
+inyribel
 **[[Factors of Production]]** 
 	- Physical: Natural resources, land, machinery
 	- Financial: cash or financial investments
