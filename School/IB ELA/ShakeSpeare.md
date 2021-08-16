@@ -21,7 +21,7 @@ Macbeth
 Macbethś Wife
  - wants to assist Macbeth with his kindly nature
  - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
- - "Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"(504) insunating he is a coward and you need to be willi
+ - "Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"(504) insunating he is a coward and you need to be willing to do it what takes
 Banquo
 - The instruments of darkness tell us truth ... to betray (277)
 - 
@@ -34,5 +34,5 @@ Interesting lines
  - 348 
  - 363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTY4MTIwNiwxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwMDM1OTQ4MTIsMTU0MTQyNjEyXX0=
 -->
