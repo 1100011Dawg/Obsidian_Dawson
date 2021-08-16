@@ -12,7 +12,7 @@ Duncan
 Three witches
 - tells Macbeth is Thane of Glamis Cawdor and king hereafter(144)
 - Thou shalt get kings, though thou be none(161) to Banquo
-- 
+- Is kind and likable
 
 Macbeth
 - prince of Cumberland he must overcome(is jealous)
@@ -32,5 +32,5 @@ Interesting lines
  - 348 
  - 363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTQyNjEyXX0=
+eyJoaXN0b3J5IjpbLTI2MjEzOTgzNywxNTQxNDI2MTJdfQ==
 -->
