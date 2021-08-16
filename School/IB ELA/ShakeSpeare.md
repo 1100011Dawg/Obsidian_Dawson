@@ -29,11 +29,14 @@ Banquo
 Malcolm
 - prince of Cumberland
 
+Page:27
 Interesting lines
- - 326
- - 333 letter
+ - 326 "Which the eye fears, when it is done, to see."
+ - 333 letter of Mcbeth to his wife
  - 348 
  - 363
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjU3MjE3MCwxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbMTU5Mzc0MzM4NSwxNTQxNDI2MTJdfQ==
 -->
