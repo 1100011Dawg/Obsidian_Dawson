@@ -16,6 +16,7 @@ Three witches
 
 Macbeth
 - prince of Cumberland he must overcome(is jealous)
+- Says around 457 the k
 - 
 Macbethś Wife
  - wants to assist Macbeth with his kindly nature
@@ -32,5 +33,5 @@ Interesting lines
  - 348 
  - 363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjEzOTgzNywxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbLTQxNjU3MDE4NywxNTQxNDI2MTJdfQ==
 -->
