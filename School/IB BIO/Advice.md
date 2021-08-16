@@ -3,6 +3,9 @@
 - Read the textbook
 - Use Bio ninja
 - Read and take notes on the Bio textbook
+IB PRogram
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NzMwOTA1LDQ4MTg2ODY5Ml19
+eyJoaXN0b3J5IjpbLTEyMDQ1MzA5NzEsODk2NzMwOTA1LDQ4MT
+g2ODY5Ml19
 -->
