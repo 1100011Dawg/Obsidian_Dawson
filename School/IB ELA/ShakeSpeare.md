@@ -32,11 +32,11 @@ Malcolm
 Page:27
 Interesting lines
  - 326 "Which the eye fears, when it is done, to see."
- - 333 letter of Mcbeth to his wife
- - 348 
- - 363
+ - 333 letter of Macbeth to his wife
+ - 348 "It is too full o’ th’ milk of human kindness" lady macbeth referring to Macbeth's kindness
+ - 363 "Which fate and metaphysical aid doth seem"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Mzc0MzM4NSwxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbMTU5Nzc5NjA5OCwxNTQxNDI2MTJdfQ==
 -->
