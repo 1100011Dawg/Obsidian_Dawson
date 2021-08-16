@@ -16,8 +16,8 @@ Three witches
 
 Macbeth
 - prince of Cumberland he must overcome(is jealous)
-- Says around 457 the k
-- 
+- Says around 457 the king trust him because he is the host and subject and should not kill him
+- 481- "d. I have no spur To prick the sides of my intent, but only Vaulting ambition" have no reason to do this 
 Macbethś Wife
  - wants to assist Macbeth with his kindly nature
  - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
@@ -33,5 +33,5 @@ Interesting lines
  - 348 
  - 363
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjU3MDE4NywxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbNTcyMjkyMDIwLDE1NDE0MjYxMl19
 -->
