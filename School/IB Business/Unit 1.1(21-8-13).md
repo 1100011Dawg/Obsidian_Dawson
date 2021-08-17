@@ -44,7 +44,8 @@ inyribel
  **Changes Economic Structure**
 	 - Industrialization: describes the growing importance of the secondary sector in developing countries
 	 - Deindustrialization: describes the general decline of importance in the secondary sector and increase in the tertiary sector
+*CIA World Factbook*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDUxMTQwMjcsMTY5MjE1NDgzNCwyOD
+eyJoaXN0b3J5IjpbLTEzNjkwMDQxNDksMTY5MjE1NDgzNCwyOD
 g4NDY3MzRdfQ==
 -->
