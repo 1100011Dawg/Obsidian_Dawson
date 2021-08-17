@@ -10,11 +10,15 @@ La salud Integral(integro):
 		- cómo lidiar
 		- con el estrés
 	- la salud espiritual
+		- identidad
+		- próposito
+		- destino
 	- la salud social
+		- 
 	- la salud económica
 Ideal pero realidad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjAxMDE3Niw0Mzk0NDMwMTgsLTIwOT
-M3MTAzXX0=
+eyJoaXN0b3J5IjpbMjU3NjU1NDEsNDM5NDQzMDE4LC0yMDkzNz
+EwM119
 -->
