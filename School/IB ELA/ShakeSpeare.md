@@ -4,7 +4,7 @@ Thane of Cawdor
 -	title goes to Macbeth
 -	was assisting Norway in a rebellion
 Ross
-- j
+- Seems loyal to the kind 
 Angus
 - 
 Duncan
@@ -38,5 +38,6 @@ Interesting lines
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Nzc5NjA5OCwxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbMTg3MDk1Nzg1MiwxNTk3Nzk2MDk4LDE1ND
+E0MjYxMl19
 -->
