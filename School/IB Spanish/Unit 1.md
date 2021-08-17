@@ -4,8 +4,8 @@ La salud Integral(integro):
 	- la salud emocional
 	- la salud espiritual
 	- la salud social
-	- la salud econónica
+	- la salud económica
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM4MzQyMDIsLTIwOTM3MTAzXX0=
+eyJoaXN0b3J5IjpbMTQzOTUxOTA3NywtMjA5MzcxMDNdfQ==
 -->
