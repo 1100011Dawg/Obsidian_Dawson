@@ -36,9 +36,12 @@ inyribel
 	- Internal growth(organic growth): were a firm expands by purchasing equipment and land
 	- External Growth: two or more firms join together to form a larger enterprise
 		- Integration: the merger of two or more firms or the takeover of one company by another
-
+**Integration**
+	- HOrizontal Integration: when a merger results in more of the same activity
+	- Vertical Integration: when a merger tkaes on diffrent stages of production
+		- 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMyMzExODAsMTY5MjE1NDgzNCwyOD
-g4NDY3MzRdfQ==
+eyJoaXN0b3J5IjpbNDMwMjg4OTMwLDE2OTIxNTQ4MzQsMjg4OD
+Q2NzM0XX0=
 -->
