@@ -18,9 +18,10 @@ Ecology: The study of relationships between living organisms and between organis
 			- Saprotrophs: Lives in or on non living organic matter, secreting digestive enzymes into it and absorbing the products.
 	- Mixotroph: Appears to be both Heterotrophic and Autotrophic
 **Food Chains**:shows the flow of energy through the trophic levels of a feeding relationship
-**Trophic level: feeding position of an organism in a food chain**
+**Trophic level**: feeding position of an organism in a food chain
+Quadrat Sampling: useing quadrant placed randomly to record the number of organisms preset
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMzMzMDczLC02Mzg0MjU4NjgsLTIwMz
-Q4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1MzkxLC0xOTAzMzkx
-NTc4XX0=
+eyJoaXN0b3J5IjpbMjIwODcxNjMsNTAwMzMzMDczLC02Mzg0Mj
+U4NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1Mzkx
+LC0xOTAzMzkxNTc4XX0=
 -->
