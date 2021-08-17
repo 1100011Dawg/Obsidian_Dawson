@@ -37,10 +37,10 @@ Interesting lines
  - 348 "It is too full o’ th’ milk of human kindness" lady macbeth referring to Macbeth's kindness
  - 363 "Which fate and metaphysical aid doth seem"
 Scene:
-	- The Scotish were fighting the irish invaders in scene 2. Also the Thane of cawdor was defeated with Norway repealed.
+	- The Scottish were fighting the irish invaders in scene 2. Also the Thane of cawdor was defeated with Norway repealed. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzkzOTgwMTcsMzUzNTY1NzE0LDE1OT
-c3OTYwOTgsMTU0MTQyNjEyXX0=
+eyJoaXN0b3J5IjpbMTQyMDA2MTM1LDM1MzU2NTcxNCwxNTk3Nz
+k2MDk4LDE1NDE0MjYxMl19
 -->
