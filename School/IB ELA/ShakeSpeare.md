@@ -24,6 +24,7 @@ Macbeth
 - Plan is make guards drunk and then use their daggers.
 - Says that he "I think not of them"(579) potentially lying to Banquo
 - "That summons thee to heaven or to hell."(629) gonna kill the king
+- Did not want to make the scene with the daggers to implicate
 Macbeth's Wife
  - wants to assist Macbeth with his kindly nature
  - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
@@ -52,7 +53,7 @@ Plot:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTY4MTk4MCwtMjA1MzI0ODY4MSwtOD
-UzMzgxNzgzLC0xMTgwNzU0OTUwLDM1MzU2NTcxNCwxNTk3Nzk2
-MDk4LDE1NDE0MjYxMl19
+eyJoaXN0b3J5IjpbLTgzODg0MjUxOCwtNTg1NjgxOTgwLC0yMD
+UzMjQ4NjgxLC04NTMzODE3ODMsLTExODA3NTQ5NTAsMzUzNTY1
+NzE0LDE1OTc3OTYwOTgsMTU0MTQyNjEyXX0=
 -->
