@@ -13,7 +13,7 @@ Three witches
 - tells Macbeth is Thane of Glamis Cawdor and king hereafter(144)
 - Thou shalt get kings, though thou be none(161) to Banquo
 - Is kind and likable
-- PRovided the title of Thane of Cajwdor to MAcbeth seems to indicate Mac
+- PRovided the title of Thane of Cawdor to MAcbeth seems to indicate Macbeth is favorable with him(91)
 
 Macbeth
 - prince of Cumberland he must overcome(is jealous)
@@ -39,6 +39,6 @@ Interesting lines
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzE3OTk4MiwxNTk3Nzk2MDk4LDE1ND
-E0MjYxMl19
+eyJoaXN0b3J5IjpbMzUzNTY1NzE0LDE1OTc3OTYwOTgsMTU0MT
+QyNjEyXX0=
 -->
