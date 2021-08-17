@@ -28,7 +28,7 @@ Macbeth's Wife
  - Also wanted to be unsexed to do these acts
  - "Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"(504) insinuating he is a coward and you need to be willing to do it what takes
 Banquo
-- The instruments of darkness tell us truth ... to betray (277) forshadows betrayal
+- The instruments of darkness tell us truth ... to betray (277) foreshadows betrayal in the witches
 - Is a heroic Captain
 - 
 Malcolm
@@ -48,7 +48,7 @@ Plot:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTM0MjIyNywtODUzMzgxNzgzLC0xMT
+eyJoaXN0b3J5IjpbLTE5NjczNDgwMSwtODUzMzgxNzgzLC0xMT
 gwNzU0OTUwLDM1MzU2NTcxNCwxNTk3Nzk2MDk4LDE1NDE0MjYx
 Ml19
 -->
