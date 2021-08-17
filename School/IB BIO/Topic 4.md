@@ -19,9 +19,9 @@ Ecology: The study of relationships between living organisms and between organis
 	- Mixotroph: Appears to be both Heterotrophic and Autotrophic
 **Food Chains**:shows the flow of energy through the trophic levels of a feeding relationship
 **Trophic level**: feeding position of an organism in a food chain
-Quadrat Sampling: useing quadrant placed randomly to record the number of organisms preset
+Quadrat Sampling: using quadrant placed randomly to record the number of organisms present.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwODcxNjMsNTAwMzMzMDczLC02Mzg0Mj
-U4NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1Mzkx
-LC0xOTAzMzkxNTc4XX0=
+eyJoaXN0b3J5IjpbLTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mz
+g0MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1
+MzkxLC0xOTAzMzkxNTc4XX0=
 -->
