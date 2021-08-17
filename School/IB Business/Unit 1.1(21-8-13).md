@@ -31,8 +31,8 @@ inyribel
 		* ex: I.T., R&D
 **Chain of Production**
 	- product may pass through sectors of industry this is called chain of production, each stage *adds value*
-
+**IPO**:Initial public offering.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4ODQ2NzM0XX0=
+eyJoaXN0b3J5IjpbMTY5MjE1NDgzNCwyODg4NDY3MzRdfQ==
 -->
