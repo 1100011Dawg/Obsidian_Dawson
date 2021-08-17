@@ -1,14 +1,14 @@
 La salud Integral(integro): 
-	- la salud física
-		- *soy* diabético(ahora es parte de identidad)
-		- la nutrición
-		- ejercicio
-	- la salud mental
-		- el estrés
-		- a la depresíon
-	- la salud emocional
-		- cómo lidiar
-		- con el estrés
+- la salud física
+	- *soy* diabético(ahora es parte de identidad)
+	- la nutrición
+	- ejercicio
+- la salud mental
+	- el estrés
+	- a la depresíon
+- la salud emocional
+	- cómo lidiar
+	- con el estrés
 	- la salud espiritual
 		- identidad
 		- próposito
@@ -20,6 +20,6 @@ La salud Integral(integro):
 Ideal pero realidad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM4NTg5ODYsNDM5NDQzMDE4LC0yMD
-kzNzEwM119
+eyJoaXN0b3J5IjpbNDYyNjkwMTk4LC0xOTgzODU4OTg2LDQzOT
+Q0MzAxOCwtMjA5MzcxMDNdfQ==
 -->
