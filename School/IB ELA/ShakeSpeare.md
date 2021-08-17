@@ -41,10 +41,10 @@ Plot:
 	- The Scottish were fighting the irish invaders in scene 2. Also the Thane of cawdor was defeated with Norway repealed.
 	-  Duncan thanks BAnquo and Macbeth for their heroism in scene 4
 	- Duncan and the Scotish lords arrive at Macbeth's castle in scene 6
-	- In scene 7 Macbeth wounder about killing the king
+	- In scene 7 Macbeth wounder about killing the king decides not to but lady macbeth convinces him otherwise.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI3MzEwNTgsMzUzNTY1NzE0LDE1OT
+eyJoaXN0b3J5IjpbLTExODA3NTQ5NTAsMzUzNTY1NzE0LDE1OT
 c3OTYwOTgsMTU0MTQyNjEyXX0=
 -->
