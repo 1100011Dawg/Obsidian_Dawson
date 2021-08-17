@@ -4,16 +4,17 @@ La salud Integral(integro):
 		- la nutrición
 		- ejercicio
 	- la salud mental
-		- el estés
+		- el estrés
 		- a la depresíon
 	- la salud emocional
-		- com
+		- cómo lidiar
+		- con el estrés
 	- la salud espiritual
 	- la salud social
 	- la salud económica
 Ideal pero realidad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NTA0NjQyLDQzOTQ0MzAxOCwtMjA5Mz
-cxMDNdfQ==
+eyJoaXN0b3J5IjpbLTY2NjAxMDE3Niw0Mzk0NDMwMTgsLTIwOT
+M3MTAzXX0=
 -->
