@@ -22,7 +22,7 @@ Macbeth
 - Says around 457 the king trust him because he is the host and subject and should not kill him
 - 481- "d. I have no spur To prick the sides of my intent, but only Vaulting ambition" have no reason to do this 
 - Plan is make guards drunk and then use their daggers.
-- Says that he "I think not of them"(579) potentialy lying to 
+- Says that he "I think not of them"(579) potentially lying to Banqou
 Macbeth's Wife
  - wants to assist Macbeth with his kindly nature
  - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
@@ -49,7 +49,7 @@ Plot:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjIxMzUwNjYsLTIwNTMyNDg2ODEsLT
+eyJoaXN0b3J5IjpbLTE2ODc1NDMxODYsLTIwNTMyNDg2ODEsLT
 g1MzM4MTc4MywtMTE4MDc1NDk1MCwzNTM1NjU3MTQsMTU5Nzc5
 NjA5OCwxNTQxNDI2MTJdfQ==
 -->
