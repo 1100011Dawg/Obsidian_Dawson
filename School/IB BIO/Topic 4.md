@@ -16,8 +16,8 @@ Ecology: The study of relationships between living organisms and between organis
 			- Detritivores: Ingest non-living organic matter
 			- Saprotrophs: Lives in or on non living organic matter, secreting digestive enzymes into it and absorbing the products.
 **Food Chains**:shows the flow of energy through the trophic levels of a feeding relationship
-**Trophic level: feeding posistion of an orga
+**Trophic level: feeding posistion of an organism in a food chain**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg2MDU5MCwtMTI4OTkxMzg5MiwtND
+eyJoaXN0b3J5IjpbMTAxMDU0NzM2NCwtMTI4OTkxMzg5MiwtND
 UxNDUzOTEsLTE5MDMzOTE1NzhdfQ==
 -->
