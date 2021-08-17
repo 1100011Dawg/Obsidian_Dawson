@@ -1,5 +1,6 @@
 Ecology: The study of relationships between living organisms and between organism and their environment
  - Population: A group of organisms of the  same species living in the same area at the same time
+	 - Community: A group of populations living and interacting with each other in an area
 	 - Species: A group of organisms that can interbreed to produce fertile offspring
 		 - Habitat: The environment in which a species normally lives.
 - Ecosystem:  A community and its abiotic environment
@@ -18,6 +19,6 @@ Ecology: The study of relationships between living organisms and between organis
 **Food Chains**:shows the flow of energy through the trophic levels of a feeding relationship
 **Trophic level: feeding posistion of an organism in a food chain**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDU0NzM2NCwtMTI4OTkxMzg5MiwtND
-UxNDUzOTEsLTE5MDMzOTE1NzhdfQ==
+eyJoaXN0b3J5IjpbLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLT
+Q1MTQ1MzkxLC0xOTAzMzkxNTc4XX0=
 -->
