@@ -33,10 +33,13 @@ inyribel
 	- product may pass through sectors of industry this is called chain of production, each stage *adds value*
 **IPO**:Initial public offering.
 **Businesses growth**
-	- Internal growth(organic growth)
+	- Internal growth(organic growth): were a firm expands by purchasing equipment and land
+	- External Growth: two or more firms join together to form a larger enterprise
+		- Integration: the merger of two or more firms or the takeover of one company by another
+	- 
 	- 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDMxMDYzMCwxNjkyMTU0ODM0LDI4OD
-g0NjczNF19
+eyJoaXN0b3J5IjpbLTIwNTkxMjk2MzYsMTY5MjE1NDgzNCwyOD
+g4NDY3MzRdfQ==
 -->
