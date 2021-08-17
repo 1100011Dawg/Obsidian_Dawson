@@ -42,7 +42,9 @@ inyribel
 		- Backward Vertical Integration: Earlier in the chain of production
  		- Forward Vertical Integration: Later in the chain of production
  **Changes Economic Structure**
+	 - Industrialization: describes the growing importance of the secondary sector in deveolping countries
+	 - De-industrilization: describes the general decline of importance in the secondary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzYwODc0NSwxNjkyMTU0ODM0LDI4OD
-g0NjczNF19
+eyJoaXN0b3J5IjpbMjkxNTg0MTUyLDE2OTIxNTQ4MzQsMjg4OD
+Q2NzM0XX0=
 -->
