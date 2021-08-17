@@ -38,10 +38,10 @@ inyribel
 		- Integration: the merger of two or more firms or the takeover of one company by another
 **Integration**
 	- HOrizontal Integration: when a merger results in more of the same activity
-	- Vertical Integration: when a merger tkaes on diffrent stages of production
-		- 
- 
+	- Vertical Integration: when a merger takes on different stages of production
+		- Backward Vertical Integration: Earlier in the chain of production
+ 		- Forward Vertical Integration: Later in the chain of production
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwMjg4OTMwLDE2OTIxNTQ4MzQsMjg4OD
-Q2NzM0XX0=
+eyJoaXN0b3J5IjpbMTk1MjAwNTY4OCwxNjkyMTU0ODM0LDI4OD
+g0NjczNF19
 -->
