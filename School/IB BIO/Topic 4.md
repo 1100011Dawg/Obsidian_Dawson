@@ -10,11 +10,12 @@ Ecology: The study of relationships between living organisms and between organis
 			- Chemoautotrophy: Chemothesis
 	- Heterotroph: Organisms which derive energy from other living organism
 		- Consumers: Ingest organic matter which is living or recently killed
-			- Primary: Eat producers
-			- Secondary Eat other consumers
+			- Primary: Eat producers(herbivores)
+			- Secondary Eat other consumers(carnivores, omnivores)
 		- Decomposers: Derive energy from non-living organic matter
 			- Detritivores: Ingest non-living organic matter
 			- Saprotrophs: Lives in or on non living organic matter, secreting digestive enzymes into it and absorbing the products.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTQ1MzkxLC0xOTAzMzkxNTc4XX0=
+eyJoaXN0b3J5IjpbLTEyODk5MTM4OTIsLTQ1MTQ1MzkxLC0xOT
+AzMzkxNTc4XX0=
 -->
