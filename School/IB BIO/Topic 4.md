@@ -16,9 +16,10 @@ Ecology: The study of relationships between living organisms and between organis
 		- Decomposers: Derive energy from non-living organic matter
 			- Detritivores: Ingest non-living organic matter
 			- Saprotrophs: Lives in or on non living organic matter, secreting digestive enzymes into it and absorbing the products.
+	- Mixotroph: Appears to be both Heterotrophic and Autotrophic
 **Food Chains**:shows the flow of energy through the trophic levels of a feeding relationship
 **Trophic level: feeding posistion of an organism in a food chain**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLT
-Q1MTQ1MzkxLC0xOTAzMzkxNTc4XX0=
+eyJoaXN0b3J5IjpbLTYzODQyNTg2OCwtMjAzNDgyMTkzMywtMT
+I4OTkxMzg5MiwtNDUxNDUzOTEsLTE5MDMzOTE1NzhdfQ==
 -->
