@@ -22,8 +22,8 @@ Macbeth
 - Says around 457 the king trust him because he is the host and subject and should not kill him
 - 481- "d. I have no spur To prick the sides of my intent, but only Vaulting ambition" have no reason to do this 
 - Plan is make guards drunk and then use their daggers.
-- Says that he "I think not of them"(579) potentially lying to Banqou
-- "That summons thee to heaven or to hell."
+- Says that he "I think not of them"(579) potentially lying to Banquo
+- "That summons thee to heaven or to hell."(629) gonna kill the king
 Macbeth's Wife
  - wants to assist Macbeth with his kindly nature
  - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
@@ -51,7 +51,7 @@ Plot:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTQ5MjI2NiwtMjA1MzI0ODY4MSwtOD
+eyJoaXN0b3J5IjpbMTI1NTk1NzQ4OSwtMjA1MzI0ODY4MSwtOD
 UzMzgxNzgzLC0xMTgwNzU0OTUwLDM1MzU2NTcxNCwxNTk3Nzk2
 MDk4LDE1NDE0MjYxMl19
 -->
