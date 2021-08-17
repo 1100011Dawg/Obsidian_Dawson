@@ -9,17 +9,17 @@ La salud Integral(integro):
 - la salud emocional
 	- cómo lidiar
 	- con el estrés
-	- la salud espiritual
-		- identidad
-		- próposito
-		- destino
-	- la salud social
-		- pertenencia
-	- la salud económica
+- la salud espiritual
+	- identidad
+	- próposito
+	- destino
+- la salud social
+	- pertenencia
+- la salud económica
 		- 
 Ideal pero realidad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNjkwMTk4LC0xOTgzODU4OTg2LDQzOT
-Q0MzAxOCwtMjA5MzcxMDNdfQ==
+eyJoaXN0b3J5IjpbLTM2MTIzODAxOCwtMTk4Mzg1ODk4Niw0Mz
+k0NDMwMTgsLTIwOTM3MTAzXX0=
 -->
