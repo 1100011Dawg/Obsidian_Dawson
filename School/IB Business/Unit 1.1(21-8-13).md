@@ -32,7 +32,11 @@ inyribel
 **Chain of Production**
 	- product may pass through sectors of industry this is called chain of production, each stage *adds value*
 **IPO**:Initial public offering.
+**Businesses growth**
+	- Internal growth(organic growth)
+	- 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjE1NDgzNCwyODg4NDY3MzRdfQ==
+eyJoaXN0b3J5IjpbLTQ1MDMxMDYzMCwxNjkyMTU0ODM0LDI4OD
+g0NjczNF19
 -->
