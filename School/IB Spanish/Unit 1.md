@@ -1,6 +1,6 @@
 La salud Integral(integro): 
 	- la salud física
-		- so
+		- *soy* diabético(ahora es parte de identidad)
 	- la salud mental
 	- la salud emocional
 	- la salud espiritual
@@ -8,5 +8,5 @@ La salud Integral(integro):
 	- la salud económica
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjUyNTA5OCwtMjA5MzcxMDNdfQ==
+eyJoaXN0b3J5IjpbNDM5NDQzMDE4LC0yMDkzNzEwM119
 -->
