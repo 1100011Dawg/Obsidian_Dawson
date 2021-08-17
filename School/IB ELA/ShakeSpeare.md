@@ -23,6 +23,7 @@ Macbeth
 Macbeth's Wife
  - wants to assist Macbeth with his kindly nature
  - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
+ - Also wanted to be unsexed to do these acts
  - "Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"(504) insinuating he is a coward and you need to be willing to do it what takes
 Banquo
 - The instruments of darkness tell us truth ... to betray (277)
@@ -36,11 +37,14 @@ Interesting lines
  - 333 letter of Macbeth to his wife
  - 348 "It is too full o’ th’ milk of human kindness" lady macbeth referring to Macbeth's kindness
  - 363 "Which fate and metaphysical aid doth seem"
-Scene:
-	- The Scottish were fighting the irish invaders in scene 2. Also the Thane of cawdor was defeated with Norway repealed. Duncan thanks BAnquo and Macbeth for their heroism in scene 4
+Plot:
+	- The Scottish were fighting the irish invaders in scene 2. Also the Thane of cawdor was defeated with Norway repealed.
+	-  Duncan thanks BAnquo and Macbeth for their heroism in scene 4
+	- Duncan and the Scotish lords arrive at Macbeth's castle in scene 6
+	- In scene 7 Macbeth wounder about killing the king
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTI3Nzk4MywzNTM1NjU3MTQsMTU5Nz
-c5NjA5OCwxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTI3MzEwNTgsMzUzNTY1NzE0LDE1OT
+c3OTYwOTgsMTU0MTQyNjEyXX0=
 -->
