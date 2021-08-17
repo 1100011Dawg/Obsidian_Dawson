@@ -31,6 +31,7 @@ Macbeth's Wife
  - Also wanted to be unsexed to do these acts
  - "Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"(504) insinuating he is a coward and you need to be willing to do it what takes
  - "Had he not resembled My father as he slept, I had done ’t."645 feeling guit
+ - "A little water clears us of this deed"(715) clearing the guilt
 Banquo
 - The instruments of darkness tell us truth ... to betray (277) foreshadows betrayal in the witches
 - Is a heroic Captain
@@ -50,10 +51,11 @@ Plot:
 	- Duncan and the Scottish lords arrive at Macbeth's castle in scene 6
 	- In scene 7 Macbeth wonder about killing the king decides not to but lady macbeth convinces him otherwise. analyze later
 	- Act 2 scen one sees vision of dagger
+	- Scene one had them kill the king and continued knowking, Macbeth didn't want to frame but Lady Macbeth did it.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODg0MjUxOCwtNTg1NjgxOTgwLC0yMD
+eyJoaXN0b3J5IjpbMTQ0NDUyMTgzNiwtNTg1NjgxOTgwLC0yMD
 UzMjQ4NjgxLC04NTMzODE3ODMsLTExODA3NTQ5NTAsMzUzNTY1
 NzE0LDE1OTc3OTYwOTgsMTU0MTQyNjEyXX0=
 -->
