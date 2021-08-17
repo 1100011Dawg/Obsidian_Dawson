@@ -36,10 +36,11 @@ Interesting lines
  - 333 letter of Macbeth to his wife
  - 348 "It is too full o’ th’ milk of human kindness" lady macbeth referring to Macbeth's kindness
  - 363 "Which fate and metaphysical aid doth seem"
-Scene
+Scene:
+	- The Scotish were fighting the irish invaders in scene 2. Also the Thane of cawdor was defeated with Norway repealed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NTM5MzYwLDM1MzU2NTcxNCwxNTk3Nz
-k2MDk4LDE1NDE0MjYxMl19
+eyJoaXN0b3J5IjpbLTE5MzkzOTgwMTcsMzUzNTY1NzE0LDE1OT
+c3OTYwOTgsMTU0MTQyNjEyXX0=
 -->
