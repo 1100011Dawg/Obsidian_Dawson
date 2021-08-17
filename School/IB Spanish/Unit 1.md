@@ -14,11 +14,12 @@ La salud Integral(integro):
 		- próposito
 		- destino
 	- la salud social
-		- 
+		- pertenencia
 	- la salud económica
+		- 
 Ideal pero realidad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NjU1NDEsNDM5NDQzMDE4LC0yMDkzNz
-EwM119
+eyJoaXN0b3J5IjpbLTE5ODM4NTg5ODYsNDM5NDQzMDE4LC0yMD
+kzNzEwM119
 -->
