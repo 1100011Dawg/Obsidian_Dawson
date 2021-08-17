@@ -14,7 +14,7 @@ Three witches
 - Thou shalt get kings, though thou be none(161) to Banquo
 - Is kind and likable
 - PRovided the title of Thane of Cawdor to MAcbeth seems to indicate Macbeth is favorable with him(91)
-- Gives Macbeths wife a jewel(570)
+- Gives Macbeth's wife a jewel(570)
 
 Macbeth
 - prince of Cumberland he must overcome(is jealous)
@@ -47,7 +47,7 @@ Plot:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNzc4OTUsLTg1MzM4MTc4MywtMTE4MD
-c1NDk1MCwzNTM1NjU3MTQsMTU5Nzc5NjA5OCwxNTQxNDI2MTJd
-fQ==
+eyJoaXN0b3J5IjpbLTcxOTA3OTU3MCwtODUzMzgxNzgzLC0xMT
+gwNzU0OTUwLDM1MzU2NTcxNCwxNTk3Nzk2MDk4LDE1NDE0MjYx
+Ml19
 -->
