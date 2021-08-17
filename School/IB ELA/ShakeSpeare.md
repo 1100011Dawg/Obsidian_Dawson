@@ -36,9 +36,10 @@ Interesting lines
  - 333 letter of Macbeth to his wife
  - 348 "It is too full o’ th’ milk of human kindness" lady macbeth referring to Macbeth's kindness
  - 363 "Which fate and metaphysical aid doth seem"
+Scene
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNTY1NzE0LDE1OTc3OTYwOTgsMTU0MT
-QyNjEyXX0=
+eyJoaXN0b3J5IjpbNDE2NTM5MzYwLDM1MzU2NTcxNCwxNTk3Nz
+k2MDk4LDE1NDE0MjYxMl19
 -->
