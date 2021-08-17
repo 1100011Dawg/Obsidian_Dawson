@@ -6,7 +6,9 @@ La salud Integral(integro):
 	- la salud espiritual
 	- la salud social
 	- la salud económica
+Ideal pero realidad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5NDQzMDE4LC0yMDkzNzEwM119
+eyJoaXN0b3J5IjpbMjE0MDI0NjA3Myw0Mzk0NDMwMTgsLTIwOT
+M3MTAzXX0=
 -->
