@@ -23,6 +23,7 @@ Macbeth
 - 481- "d. I have no spur To prick the sides of my intent, but only Vaulting ambition" have no reason to do this 
 - Plan is make guards drunk and then use their daggers.
 - Says that he "I think not of them"(579) potentially lying to Banqou
+- "That summons thee to heaven or to hell."
 Macbeth's Wife
  - wants to assist Macbeth with his kindly nature
  - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
@@ -46,10 +47,11 @@ Plot:
 	-  Duncan thanks BAnquo and Macbeth for their heroism in scene 4
 	- Duncan and the Scottish lords arrive at Macbeth's castle in scene 6
 	- In scene 7 Macbeth wonder about killing the king decides not to but lady macbeth convinces him otherwise. analyze later
+	- Act 2 scen one sees vision of dagger
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc1NDMxODYsLTIwNTMyNDg2ODEsLT
-g1MzM4MTc4MywtMTE4MDc1NDk1MCwzNTM1NjU3MTQsMTU5Nzc5
-NjA5OCwxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbLTU5NTQ5MjI2NiwtMjA1MzI0ODY4MSwtOD
+UzMzgxNzgzLC0xMTgwNzU0OTUwLDM1MzU2NTcxNCwxNTk3Nzk2
+MDk4LDE1NDE0MjYxMl19
 -->
