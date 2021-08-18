@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/IB Business/Unit 1.1(21-8-13).md",
+            "file": "School/IB ELA/MacBeth/Lennox.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5a9154830dbe457d",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB Business/Unit 1.1(21-8-13).md",
+                "file": "School/IB ELA/MacBeth/Lennox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB Business/Unit 1.1(21-8-13).md",
+                "file": "School/IB ELA/MacBeth/Lennox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IB Business/Unit 1.1(21-8-13).md"
+                "file": "School/IB ELA/MacBeth/Lennox.md"
               }
             }
           },
@@ -140,10 +140,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
+    "School/IB ELA/MacBeth/Lennox.md",
+    "School/IB ELA/MacBeth/Macbeth Book.md",
     "School/IB Business/Unit 1.1(21-8-13).md",
     "Media.md",
     "School/IB ELA/MacBeth/Three witches.md",
@@ -151,8 +154,6 @@
     "School/IB ELA/MacBeth/Thane of Cawdor.md",
     "School/IB ELA/MacBeth/Malcolm.md",
     "School/IB ELA/MacBeth/Duncan.md",
-    "School/IB ELA/MacBeth/Macbeth's Wife.md",
-    "School/IB ELA/MacBeth/Banquo.md",
-    "School/IB ELA/MacBeth/Angus.md"
+    "School/IB ELA/MacBeth/Macbeth's Wife.md"
   ]
 }

@@ -8,6 +8,7 @@ Charectors
 [[Lady Macbeth]]
 [[Banquo]]
 [[Malcolm]]
+[[Lennox]]
 
 
 Page:27
