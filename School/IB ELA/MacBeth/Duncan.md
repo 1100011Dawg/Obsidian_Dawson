@@ -1,4 +1,4 @@
 - I the king
 - Is kind and likable
-- PRovided the title of Thane of Cawdor to [[Macbeth]] seems to indicate [[Macbeth]] is favorable with him(91)
-- Gives [[Macbeth]]'s wife a jewel(570)
+- PRovided the title of [[Thane of Cawdor]] to [[Macbeth]] seems to indicate [[Macbeth]] is favorable with him(91)
+- Gives [[Lady Macbeth]] a jewel(570)
