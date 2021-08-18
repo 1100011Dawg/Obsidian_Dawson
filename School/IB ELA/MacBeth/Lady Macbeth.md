@@ -1,5 +1,5 @@
- - wants to assist Macbeth with his kindly nature
- - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
+ - wants to assist [[Macbeth]] with his kindly nature
+ - Wants to be full of direst cruelty(381), and tells [[Macbeth]] to look innocent but be a serpent(407)
  - Also wanted to be unsexed to do these acts
  - "Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"(504) insinuating he is a coward and you need to be willing to do it what takes
  - "Had he not resembled My father as he slept, I had done ’t."645 feeling guit
