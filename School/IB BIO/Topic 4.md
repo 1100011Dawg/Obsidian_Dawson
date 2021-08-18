@@ -20,10 +20,11 @@ Ecology: The study of relationships between living organisms and between organis
 **Food Chains**:shows the flow of energy through the trophic levels of a feeding relationship
 **Trophic level**: feeding position of an organism in a food chain
 Quadrat Sampling: using quadrant placed randomly to record the number of organisms present.
-	- Can be used to estamate population density, and the distribution
-	- Systematically with belt transect to m
+	- Can be used to estimate population density, and the distribution
+	- Systematically with belt transect to measure changing distribution
+	- Randomly to estimate population density
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTg4NTU4MywtMTg2MjQ3MDc2Niw1MD
+eyJoaXN0b3J5IjpbLTUzMzEwMTc4MiwtMTg2MjQ3MDc2Niw1MD
 AzMzMwNzMsLTYzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkx
 Mzg5MiwtNDUxNDUzOTEsLTE5MDMzOTE1NzhdfQ==
 -->
