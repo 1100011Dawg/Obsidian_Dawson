@@ -1,4 +1,7 @@
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3NDY2MTJdfQ==
--->
+- prince of Cumberland he must overcome(is jealous)
+- Says around 457 the king trust him because he is the host and subject and should not kill him
+- 481- "d. I have no spur To prick the sides of my intent, but only Vaulting ambition" have no reason to do this 
+- Plan is make guards drunk and then use their daggers.
+- Says that he "I think not of them"(579) potentially lying to Banquo
+- "That summons thee to heaven or to hell."(629) gonna kill the king
+- Did not want to make the scene with the daggers to implicate

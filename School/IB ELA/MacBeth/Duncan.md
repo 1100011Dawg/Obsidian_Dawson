@@ -1,0 +1,4 @@
+- I the king
+- Is kind and likable
+- PRovided the title of Thane of Cawdor to MAcbeth seems to indicate Macbeth is favorable with him(91)
+- Gives Macbeth's wife a jewel(570)

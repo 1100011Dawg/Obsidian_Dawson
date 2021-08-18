@@ -3,34 +3,12 @@ Charectors
 [[Thane of Cawdor]]
 [[Angus]]
 [[Three witches]]
+[[Duncan]]
+[[Macbeth]]
+[[Macbeth's Wife]]
+[[Banquo]]
+[[Malcolm]]
 
-Duncan
-- I the king
-- Is kind and likable
-- PRovided the title of Thane of Cawdor to MAcbeth seems to indicate Macbeth is favorable with him(91)
-- Gives Macbeth's wife a jewel(570)
-
-Macbeth
-- prince of Cumberland he must overcome(is jealous)
-- Says around 457 the king trust him because he is the host and subject and should not kill him
-- 481- "d. I have no spur To prick the sides of my intent, but only Vaulting ambition" have no reason to do this 
-- Plan is make guards drunk and then use their daggers.
-- Says that he "I think not of them"(579) potentially lying to Banquo
-- "That summons thee to heaven or to hell."(629) gonna kill the king
-- Did not want to make the scene with the daggers to implicate
-Macbeth's Wife
- - wants to assist Macbeth with his kindly nature
- - Wants to be full of direst cruelty(381), and tells Macbeth to look innocent but be a serpent(407)
- - Also wanted to be unsexed to do these acts
- - "Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"(504) insinuating he is a coward and you need to be willing to do it what takes
- - "Had he not resembled My father as he slept, I had done ’t."645 feeling guit
- - "A little water clears us of this deed"(715) clearing the guilt
-Banquo
-- The instruments of darkness tell us truth ... to betray (277) foreshadows betrayal in the witches
-- Is a heroic Captain
-- 
-Malcolm
-- prince of Cumberland
 
 Page:27
 Interesting lines

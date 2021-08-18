@@ -1,0 +1,3 @@
+- The instruments of darkness tell us truth ... to betray (277) foreshadows betrayal in the witches
+- Is a heroic Captain
+- 
