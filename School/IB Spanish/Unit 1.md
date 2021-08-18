@@ -26,9 +26,10 @@ Ideal pero realidad
 - la IDENTIDADES explora con tu trabajar y grupo de ejercicio
 - la EXPERIENCIAS explora con tu grupo de amigos y escuela
 - la COMO COMPARTIMOS EL PLANETA explora con la tierra alrededor nuestro habiticíon.
-- la ORGANIZACIóN SOCIAL explora con 
+- la ORGANIZACIóN SOCIAL explora con grupos de trabajar y groupo de escuala
+- la INGENIO HUMANO explora con nuestro creamos el groupo 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjYwNTYzMSwtMzYxMjM4MDE4LC0xOT
-gzODU4OTg2LDQzOTQ0MzAxOCwtMjA5MzcxMDNdfQ==
+eyJoaXN0b3J5IjpbOTM0Mzg4OTE0LC0zNjEyMzgwMTgsLTE5OD
+M4NTg5ODYsNDM5NDQzMDE4LC0yMDkzNzEwM119
 -->
