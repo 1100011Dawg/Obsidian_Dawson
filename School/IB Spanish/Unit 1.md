@@ -1,4 +1,5 @@
 La salud Integral(integro), El Bienestar: 
+La salud Integral es salud física, mental, emocional
 - la salud física
 	- *soy* diabético(ahora es parte de identidad)
 	- la nutrición
@@ -21,6 +22,6 @@ el aspecto de la salud integral me interesan más es la depresión y  espiritual
 Ideal pero realidad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAyMzA4NzAsLTM2MTIzODAxOCwtMT
-k4Mzg1ODk4Niw0Mzk0NDMwMTgsLTIwOTM3MTAzXX0=
+eyJoaXN0b3J5IjpbMTYwODIyNTQ2NCwtMzYxMjM4MDE4LC0xOT
+gzODU4OTg2LDQzOTQ0MzAxOCwtMjA5MzcxMDNdfQ==
 -->
