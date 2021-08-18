@@ -1,3 +1,2 @@
 - prince of Cumberland
 - Goes to England after his fathers death ([[Duncan]])puts suspicion on him
-- #
