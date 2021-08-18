@@ -23,8 +23,9 @@ Quadrat Sampling: using quadrant placed randomly to record the number of organis
 	- Can be used to estimate population density, and the distribution
 	- Systematically with belt transect to measure changing distribution
 	- Randomly to estimate population density
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzEwMTc4MiwtMTg2MjQ3MDc2Niw1MD
-AzMzMwNzMsLTYzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkx
-Mzg5MiwtNDUxNDUzOTEsLTE5MDMzOTE1NzhdfQ==
+eyJoaXN0b3J5IjpbODIzODgxNDMyLC0xODYyNDcwNzY2LDUwMD
+MzMzA3MywtNjM4NDI1ODY4LC0yMDM0ODIxOTMzLC0xMjg5OTEz
+ODkyLC00NTE0NTM5MSwtMTkwMzM5MTU3OF19
 -->
