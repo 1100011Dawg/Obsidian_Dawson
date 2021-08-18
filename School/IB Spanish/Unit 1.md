@@ -23,9 +23,11 @@ La salud Integral es salud física, mental, emocional, espiritual, social y econ
 el aspecto de la salud integral me interesan más es la depresión y  espiritual destino. 
 Ideal pero realidad
 
-- la IDENTIDADES explora con 
+- la IDENTIDADES explora con tu trabajar y grupo de ejercicio
+- la EXPERIENCIAS explora con tu grupo de amigos y escuala
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzAzMzI2MSwtMzYxMjM4MDE4LC0xOT
-gzODU4OTg2LDQzOTQ0MzAxOCwtMjA5MzcxMDNdfQ==
+eyJoaXN0b3J5IjpbNjA0NTQwNzExLC0zNjEyMzgwMTgsLTE5OD
+M4NTg5ODYsNDM5NDQzMDE4LC0yMDkzNzEwM119
 -->
