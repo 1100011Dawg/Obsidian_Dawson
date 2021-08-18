@@ -1,0 +1,1 @@
+-"The Lord’s anointed temple and stole thence The life o’ th’ building."802 refering to [[Duncan]]'s murder

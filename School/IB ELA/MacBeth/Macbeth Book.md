@@ -9,6 +9,7 @@ Charectors
 [[Banquo]]
 [[Malcolm]]
 [[Lennox]]
+[[Macduff]]
 
 
 Page:27
