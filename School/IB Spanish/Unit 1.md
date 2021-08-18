@@ -4,6 +4,7 @@ La salud Integral es salud física, mental, emocional, espiritual, social y econ
 	- *soy* diabético(ahora es parte de identidad)
 	- la nutrición
 	- ejercicio
+	- servicios médicos
 - la salud mental
 	- el estrés
 	- a la depresíon
@@ -32,7 +33,7 @@ Ideal pero realidad
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMjYwOTcsNjgyOTk5OTczLC0zNjEyMz
-gwMTgsLTE5ODM4NTg5ODYsNDM5NDQzMDE4LC0yMDkzNzEwM119
-
+eyJoaXN0b3J5IjpbLTc5NDkzNzg3Myw4MjMyNjA5Nyw2ODI5OT
+k5NzMsLTM2MTIzODAxOCwtMTk4Mzg1ODk4Niw0Mzk0NDMwMTgs
+LTIwOTM3MTAzXX0=
 -->
