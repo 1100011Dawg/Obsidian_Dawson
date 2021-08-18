@@ -1,2 +1,3 @@
 - prince of Cumberland
-- Goes to england after his fathers death puts suspetion on heim
+- Goes to England after his fathers death ([[Duncan]])puts suspicion on him
+- #
