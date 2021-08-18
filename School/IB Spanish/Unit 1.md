@@ -17,6 +17,7 @@ La salud Integral es salud física, mental, emocional, espiritual, social y econ
 - la salud social
 	- pertenencia
 	- el grupo de amigos
+- la salud educative
 	- 
 - la salud económica
 		- necesario para comida
@@ -31,6 +32,7 @@ Ideal pero realidad
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyOTk5OTczLC0zNjEyMzgwMTgsLTE5OD
-M4NTg5ODYsNDM5NDQzMDE4LC0yMDkzNzEwM119
+eyJoaXN0b3J5IjpbLTQ2OTAzMDIwMiw2ODI5OTk5NzMsLTM2MT
+IzODAxOCwtMTk4Mzg1ODk4Niw0Mzk0NDMwMTgsLTIwOTM3MTAz
+XX0=
 -->
