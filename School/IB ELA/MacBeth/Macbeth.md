@@ -5,4 +5,4 @@
 - Says that he "I think not of them"(579) potentially lying to [[Banquo]]
 - "That summons thee to heaven or to hell."(629) gonna kill the king
 - Did not want to make the scene with the daggers to implicate
-- "O, yet I do repent me of my fury, That I did kill them."()
+- "O, yet I do repent me of my fury, That I did kill them."(848) covering up the witnesses
