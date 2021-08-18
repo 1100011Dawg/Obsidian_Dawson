@@ -17,10 +17,10 @@ La salud Integral(integro), El Bienestar:
 	- pertenencia
 - la salud económica
 		- 
-el aspecto de la salud integral me insteran m
+el aspecto de la salud integral me interesan más es la depresión y  espiritual destino. 
 Ideal pero realidad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNDQzNDMwLC0zNjEyMzgwMTgsLTE5OD
-M4NTg5ODYsNDM5NDQzMDE4LC0yMDkzNzEwM119
+eyJoaXN0b3J5IjpbLTE2NjAyMzA4NzAsLTM2MTIzODAxOCwtMT
+k4Mzg1ODk4Niw0Mzk0NDMwMTgsLTIwOTM3MTAzXX0=
 -->
