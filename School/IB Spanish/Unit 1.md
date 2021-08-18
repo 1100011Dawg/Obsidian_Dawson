@@ -23,7 +23,7 @@ La salud Integral es salud física, mental, emocional, espiritual, social y econ
 - la salud económica
 		- necesario para comida
 el aspecto de la salud integral me interesan más es la depresión y  espiritual destino. 
-Ideas: Ideal school vs reality fo school
+Ideas: Ideal school vs reality fo school, thoose model cities
 Ideal pero realidad
 
 - la IDENTIDADES explora con tu trabajar y grupo de ejercicio
@@ -34,7 +34,8 @@ Ideal pero realidad
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTcwMTAzMCwtMjAyOTM4MjA4NSwtNz
-k0OTM3ODczLDgyMzI2MDk3LDY4Mjk5OTk3MywtMzYxMjM4MDE4
-LC0xOTgzODU4OTg2LDQzOTQ0MzAxOCwtMjA5MzcxMDNdfQ==
+eyJoaXN0b3J5IjpbMTg1Mzc2Mzc5MCwxNzAxNzAxMDMwLC0yMD
+I5MzgyMDg1LC03OTQ5Mzc4NzMsODIzMjYwOTcsNjgyOTk5OTcz
+LC0zNjEyMzgwMTgsLTE5ODM4NTg5ODYsNDM5NDQzMDE4LC0yMD
+kzNzEwM119
 -->
