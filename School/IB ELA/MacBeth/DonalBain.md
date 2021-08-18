@@ -1,0 +1,1 @@
+- Goes to ireland after [[Duncan]]'s death'
