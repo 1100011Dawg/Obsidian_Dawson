@@ -1,12 +1,9 @@
 
 Charectors
 [[Thane of Cawdor]]
-Angus
-- 
-Three witches
-- tells Macbeth is Thane of Glamis Cawdor and king hereafter(144)
-- Thou shalt get kings, though thou be none(161) to Banquo
-- Might have beards
+[[Angus]]
+[[Three witches]]
+
 Duncan
 - I the king
 - Is kind and likable

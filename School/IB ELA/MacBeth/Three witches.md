@@ -1,0 +1,3 @@
+- tells Macbeth is Thane of Glamis Cawdor and king hereafter(144)
+- Thou shalt get kings, though thou be none(161) to Banquo
+- Might have beards

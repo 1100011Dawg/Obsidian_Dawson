@@ -1,0 +1,1 @@
+- Seems loyal to the king
