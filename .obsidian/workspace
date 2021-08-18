@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Media.md",
+            "file": "School/IB Business/Unit 1.1(21-8-13).md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media.md",
+                "file": "School/IB Business/Unit 1.1(21-8-13).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media.md",
+                "file": "School/IB Business/Unit 1.1(21-8-13).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media.md"
+                "file": "School/IB Business/Unit 1.1(21-8-13).md"
               }
             }
           },
@@ -144,6 +144,7 @@
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
+    "School/IB Business/Unit 1.1(21-8-13).md",
     "Media.md",
     "School/IB ELA/MacBeth/Three witches.md",
     "School/IB ELA/MacBeth/Macbeth.md",
@@ -152,7 +153,6 @@
     "School/IB ELA/MacBeth/Duncan.md",
     "School/IB ELA/MacBeth/Macbeth's Wife.md",
     "School/IB ELA/MacBeth/Banquo.md",
-    "School/IB ELA/MacBeth/Angus.md",
-    "School/IB ELA/MacBeth/Macbeth Book.md"
+    "School/IB ELA/MacBeth/Angus.md"
   ]
 }
