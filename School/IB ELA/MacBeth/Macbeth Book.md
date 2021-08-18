@@ -25,6 +25,7 @@ Plot:
 	- In scene 7 [[Macbeth]] wonder about killing the king decides not to but [[Lady Macbeth]] convinces him otherwise. analyze later
 	- Act 2 scen one sees vision of dagger
 	- Scene one had them kill the king and continued knowking, [[Macbeth]] didn't want to frame but [[Lady Macbeth]] did it.
+	- Scene three they find out the king is dead and it seems their going to ireland and england to tell of the news
 
 
 <!--stackedit_data:
