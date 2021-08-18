@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/IB ELA/MacBeth/Macduff.md",
+            "file": "School/IB ELA/MacBeth/Macbeth.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB ELA/MacBeth/Macduff.md",
+                "file": "School/IB ELA/MacBeth/Macbeth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB ELA/MacBeth/Macduff.md",
+                "file": "School/IB ELA/MacBeth/Macbeth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IB ELA/MacBeth/Macduff.md"
+                "file": "School/IB ELA/MacBeth/Macbeth.md"
               }
             }
           },
@@ -145,8 +145,8 @@
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
-    "School/IB ELA/MacBeth/Macduff.md",
     "School/IB ELA/MacBeth/Macbeth.md",
+    "School/IB ELA/MacBeth/Macduff.md",
     "School/IB ELA/MacBeth/Macbeth Book.md",
     "School/IB ELA/MacBeth/Lennox.md",
     "School/IB Business/Unit 1.1(21-8-13).md",
