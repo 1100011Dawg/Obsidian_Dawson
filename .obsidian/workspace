@@ -7,8 +7,11 @@
         "id": "088ae8e640cb6763",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Media.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Media.md"
+              }
             }
           },
           {
@@ -137,6 +144,7 @@
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
+    "Media.md",
     "School/IB ELA/MacBeth/Three witches.md",
     "School/IB ELA/MacBeth/Macbeth.md",
     "School/IB ELA/MacBeth/Thane of Cawdor.md",
@@ -145,7 +153,6 @@
     "School/IB ELA/MacBeth/Macbeth's Wife.md",
     "School/IB ELA/MacBeth/Banquo.md",
     "School/IB ELA/MacBeth/Angus.md",
-    "School/IB ELA/MacBeth/Macbeth Book.md",
-    "School/IB ELA/MacBeth/ShakeSpeare.md"
+    "School/IB ELA/MacBeth/Macbeth Book.md"
   ]
 }
