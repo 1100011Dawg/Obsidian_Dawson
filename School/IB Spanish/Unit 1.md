@@ -1,4 +1,4 @@
-La salud Integral(integro): 
+La salud Integral(integro), El Bienestar: 
 - la salud física
 	- *soy* diabético(ahora es parte de identidad)
 	- la nutrición
@@ -17,9 +17,10 @@ La salud Integral(integro):
 	- pertenencia
 - la salud económica
 		- 
+el aspecto de la salud integral me insteran m
 Ideal pero realidad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTIzODAxOCwtMTk4Mzg1ODk4Niw0Mz
-k0NDMwMTgsLTIwOTM3MTAzXX0=
+eyJoaXN0b3J5IjpbNzEzNDQzNDMwLC0zNjEyMzgwMTgsLTE5OD
+M4NTg5ODYsNDM5NDQzMDE4LC0yMDkzNzEwM119
 -->
