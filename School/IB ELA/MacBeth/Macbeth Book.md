@@ -18,8 +18,8 @@ Interesting lines
  - 363 "Which fate and metaphysical aid doth seem"
 Plot:
 	- The Scottish were fighting the irish invaders in scene 2. Also the Thane of cawdor was defeated with Norway repealed.
-	-  Duncan thanks BAnquo and Macbeth for their heroism in scene 4
-	- Duncan and the Scottish lords arrive at Macbeth's castle in scene 6
+	-  [[Duncan]] thanks [[Banquo]] and Macbeth for their heroism in scene 4
+	- [[Duncan]] and the Scottish lords arrive at Macbeth's castle in scene 6
 	- In scene 7 Macbeth wonder about killing the king decides not to but lady macbeth convinces him otherwise. analyze later
 	- Act 2 scen one sees vision of dagger
 	- Scene one had them kill the king and continued knowking, Macbeth didn't want to frame but Lady Macbeth did it.
