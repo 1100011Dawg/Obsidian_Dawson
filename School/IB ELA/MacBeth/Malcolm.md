@@ -1,1 +1,2 @@
 - prince of Cumberland
+- Goes to england after his fathers death puts 
