@@ -36,14 +36,15 @@ Chi squared GOF
 Chi Squared
 	- (row total * column total)/ grand total
 	- DF= (column#-1)(Row # -1)
-
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODUyODk4LC0xMjIzNTUzNTEyLC0xMT
-YxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcy
-MzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNT
-AwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5
-MTM4OTIsLTQ1MTQ1MzkxLC0xOTAzMzkxNTc4XX0=
+eyJoaXN0b3J5IjpbMTMzNTE2MTY2OSwxODY4NTI4OTgsLTEyMj
+M1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5ODYyNzAsMTY3MzM5
+NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5NCwtMT
+g2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQyNTg2OCwtMjAzNDgy
+MTkzMywtMTI4OTkxMzg5MiwtNDUxNDUzOTEsLTE5MDMzOTE1Nz
+hdfQ==
 -->
