@@ -23,12 +23,13 @@ Ecology: The study of relationships between living organisms and between organis
 	- Secondary
 	- tertiary
 	- quaternary
-Quadrat Sampling: using quadrant placed randomly to record the number of organisms present.
+**Quadrat Sampling**: using quadrant placed randomly to record the number of organisms present.
 	- Can be used to estimate population density, and the distribution
 	- Systematically with belt transect to measure changing distribution
 	- Randomly to estimate population density
-Chi squared GOF
+**Chi squared GOF**
 	- Chi squared = sum(O-E)²/E
+	- $$\chi²=\frac{\sum{Obeserved}}$$
 	- H0:null hypothesis, Ha:Alternative hypothesis
 	- Conditions: SRS, categorical,expected values >=5, counts>=10
 	- Conclusion: Reject(failed reject) Ho since p-value < a(.05) thus we have evidence Ha. 
@@ -41,7 +42,7 @@ $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTE2MTY2OSwxODY4NTI4OTgsLTEyMj
+eyJoaXN0b3J5IjpbMjAxNzczNjM0NywxODY4NTI4OTgsLTEyMj
 M1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5ODYyNzAsMTY3MzM5
 NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5NCwtMT
 g2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQyNTg2OCwtMjAzNDgy
