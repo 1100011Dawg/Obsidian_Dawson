@@ -32,7 +32,7 @@ Ecology: The study of relationships between living organisms and between organis
 	- $$\chi²=\frac{\sum{(Obeserved*Expected)²}}{Expected}$$
 	-*Ho*:null hypothesis, *Ha*:Alternative hypothesis
 	- Conditions: SRS, categorical,expected values >=5, counts>=10
-	- Conclusion: Reject(failed reject) Ho since p-value < a(.05) thus we have evidence Ha. 
+	- Conclusion: Reject(or failed reject) Ho since p-value < a(.05) or(X²>Critical Value) thus we have evidence for Ha. 
 	- $DF = n-1$
 **Chi Squared**
 	- Comparing factors in a matrix for association
@@ -41,10 +41,10 @@ Ecology: The study of relationships between living organisms and between organis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NTQzNzYsLTEzMTM3OTI4ODQsMTg2OD
-UyODk4LC0xMjIzNTUzNTEyLC0xMTYxMDk0MzQyLC0xNjA4OTg2
-MjcwLDE2NzMzOTU3NTEsLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MD
-U5Nzc2OTQsLTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0MjU4
-NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1MzkxLC
-0xOTAzMzkxNTc4XX0=
+eyJoaXN0b3J5IjpbLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMz
+c5Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQz
+NDIsLTE2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LD
+g2NDczMDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMw
+NzMsLTYzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5Mi
+wtNDUxNDUzOTEsLTE5MDMzOTE1NzhdfQ==
 -->
