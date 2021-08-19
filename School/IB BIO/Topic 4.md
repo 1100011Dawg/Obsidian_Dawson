@@ -27,14 +27,15 @@ Quadrat Sampling: using quadrant placed randomly to record the number of organis
 	- Can be used to estimate population density, and the distribution
 	- Systematically with belt transect to measure changing distribution
 	- Randomly to estimate population density
-Chi squared
-	- 
+Chi squared GOF
+	- H0:null hypothesis, Ha:Alternative hypothesis
+	- `enter code here`
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nz
-c2OTQsLTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0MjU4Njgs
-LTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1MzkxLC0xOT
-AzMzkxNTc4XX0=
+eyJoaXN0b3J5IjpbLTEwODc4NzM2NzMsLTI5NTcyMzgzNiw4Nj
+Q3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNTAwMzMzMDcz
+LC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLT
+Q1MTQ1MzkxLC0xOTAzMzkxNTc4XX0=
 -->
