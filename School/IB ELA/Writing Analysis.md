@@ -3,8 +3,12 @@
 	 - Used for Warranting
  - Macro: choices that are bigger an can be traced throughout the text such as characterization, conflict , motiffś..
 	 - used for thesis
-**Backing**:revolution of how the evidence reveals something about the reader, writer or the historical context. Relates back to line of inquiry
-60% analysis 40% understanding
+
+**Backing** : revolution of how the evidence reveals something about the reader, writer or the historical context. Relates back to line of inquiry
+> 60% analysis 40% understanding for works
+> Use Present tense for analyzing literature
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIxOTk3ODldfQ==
+eyJoaXN0b3J5IjpbNzA3ODIwMjkwXX0=
 -->
