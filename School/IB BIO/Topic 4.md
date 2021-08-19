@@ -35,14 +35,15 @@ Chi squared GOF
 	- DF = n-1
 Chi Squared
 	- (row total * column total)/ grand total
+	- DF= (column#-1)(Row # -1)
 
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjczMTI2MiwtMTIyMzU1MzUxMiwtMT
-E2MTA5NDM0MiwtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0yOTU3
-MjM4MzYsODY0NzMwNTcsNzA1OTc3Njk0LC0xODYyNDcwNzY2LD
-UwMDMzMzA3MywtNjM4NDI1ODY4LC0yMDM0ODIxOTMzLC0xMjg5
-OTEzODkyLC00NTE0NTM5MSwtMTkwMzM5MTU3OF19
+eyJoaXN0b3J5IjpbMTg2ODUyODk4LC0xMjIzNTUzNTEyLC0xMT
+YxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcy
+MzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNT
+AwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5
+MTM4OTIsLTQ1MTQ1MzkxLC0xOTAzMzkxNTc4XX0=
 -->
