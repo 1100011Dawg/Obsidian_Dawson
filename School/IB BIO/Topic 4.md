@@ -28,6 +28,7 @@ Quadrat Sampling: using quadrant placed randomly to record the number of organis
 	- Systematically with belt transect to measure changing distribution
 	- Randomly to estimate population density
 Chi squared GOF
+	- Chi squared = sum(O-E)²/E
 	- H0:null hypothesis, Ha:Alternative hypothesis
 	- Conditions: SRS, categorical,expected values >=5, counts>=10
 	- Conclusion: Reject(failed reject) Ho since p-value < a(.05) thus we have evidence Ha. 
@@ -37,9 +38,9 @@ $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjEwOTQzNDIsLTE2MDg5ODYyNzAsMT
-Y3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5
-NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQyNTg2OCwtMj
-AzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUxNDUzOTEsLTE5MDMz
-OTE1NzhdfQ==
+eyJoaXN0b3J5IjpbLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLT
+E2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDcz
+MDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLT
+YzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUx
+NDUzOTEsLTE5MDMzOTE1NzhdfQ==
 -->
