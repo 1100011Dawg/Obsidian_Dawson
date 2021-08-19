@@ -29,25 +29,25 @@ Ecology: The study of relationships between living organisms and between organis
 	- Randomly to estimate population density
 **Chi squared GOF**
 	- Determine if data fits a distribution
-	- Chi squared = sum(O-E)²/E
 	- $$\chi²=\frac{\sum{(Obeserved*Expected)²}}{Expected}$$
-	- H0:null hypothesis, Ha:Alternative hypothesis
+	-*Ho*:null hypothesis, *Ha*:Alternative hypothesis
 	- Conditions: SRS, categorical,expected values >=5, counts>=10
 	- Conclusion: Reject(failed reject) Ho since p-value < a(.05) thus we have evidence Ha. 
-	- DF = n-1
+	- $DF = n-1$
 **Chi Squared**
-	- Comparing factors in a matrix
+	- Comparing factors in a matrix for associa
 	- (row total * column total)/ grand total
+	- $Row Total $
 	- DF= (column#-1)(Row # -1)
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYxNDkxMzQsLTEzMTM3OTI4ODQsMT
-g2ODUyODk4LC0xMjIzNTUzNTEyLC0xMTYxMDk0MzQyLC0xNjA4
-OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcyMzgzNiw4NjQ3MzA1Ny
-w3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0
-MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1Mz
-kxLC0xOTAzMzkxNTc4XX0=
+eyJoaXN0b3J5IjpbMTE0NTg0NDU3MiwtMTMxMzc5Mjg4NCwxOD
+Y4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5
+ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LD
+cwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQy
+NTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUxNDUzOT
+EsLTE5MDMzOTE1NzhdfQ==
 -->
