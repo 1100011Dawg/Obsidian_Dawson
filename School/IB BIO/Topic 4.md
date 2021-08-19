@@ -29,7 +29,7 @@ Ecology: The study of relationships between living organisms and between organis
 	- Randomly to estimate population density
 **Chi squared GOF**
 	- Chi squared = sum(O-E)²/E
-	- $$\chi²=\frac{\sum{Obeserved}}$$
+	- $$\chi²=\frac{\sum{(Obeserved*Expected)²}}{Expected}$$
 	- H0:null hypothesis, Ha:Alternative hypothesis
 	- Conditions: SRS, categorical,expected values >=5, counts>=10
 	- Conclusion: Reject(failed reject) Ho since p-value < a(.05) thus we have evidence Ha. 
@@ -42,10 +42,10 @@ $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzczNjM0NywxODY4NTI4OTgsLTEyMj
-M1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5ODYyNzAsMTY3MzM5
-NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5NCwtMT
-g2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQyNTg2OCwtMjAzNDgy
-MTkzMywtMTI4OTkxMzg5MiwtNDUxNDUzOTEsLTE5MDMzOTE1Nz
-hdfQ==
+eyJoaXN0b3J5IjpbLTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMj
+IzNTUzNTEyLC0xMTYxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMz
+OTU3NTEsLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLT
+E4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4
+MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1MzkxLC0xOTAzMzkxNT
+c4XX0=
 -->
