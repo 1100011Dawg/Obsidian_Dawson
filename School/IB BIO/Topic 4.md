@@ -29,16 +29,17 @@ Quadrat Sampling: using quadrant placed randomly to record the number of organis
 	- Randomly to estimate population density
 Chi squared GOF
 	- H0:null hypothesis, Ha:Alternative hypothesis
-	- Conditions: SRS, categorical
-	- ![enter image description here](https://photos.app.goo.gl/Nmc26E48ERpCmkgb9)
+	- Conditions: SRS, categorical,expected values >=5, counts>=10
+	- Conclusion: Reject(failed reject) Ho![enter image description here](https://photos.app.goo.gl/Nmc26E48ERpCmkgb9)
 	- DF = n-
 
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMj
-k1NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2
-Niw1MDAzMzMwNzMsLTYzODQyNTg2OCwtMjAzNDgyMTkzMywtMT
-I4OTkxMzg5MiwtNDUxNDUzOTEsLTE5MDMzOTE1NzhdfQ==
+eyJoaXN0b3J5IjpbLTExOTc1NzkxMiwtMTYwODk4NjI3MCwxNj
+czMzk1NzUxLC0yOTU3MjM4MzYsODY0NzMwNTcsNzA1OTc3Njk0
+LC0xODYyNDcwNzY2LDUwMDMzMzA3MywtNjM4NDI1ODY4LC0yMD
+M0ODIxOTMzLC0xMjg5OTEzODkyLC00NTE0NTM5MSwtMTkwMzM5
+MTU3OF19
 -->
