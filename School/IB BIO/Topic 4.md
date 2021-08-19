@@ -35,16 +35,15 @@ Ecology: The study of relationships between living organisms and between organis
 	- Conclusion: Reject(failed reject) Ho since p-value < a(.05) thus we have evidence Ha. 
 	- $DF = n-1$
 **Chi Squared**
-	- Comparing factors in a matrix for associa
-	- (row total * column total)/ grand total
-	- $Row Total $
+	- Comparing factors in a matrix for association
+	- $\frac{Row Total*Column Total}{Grand Total}=Expected Value$
 	- DF= (column#-1)(Row # -1)
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTg0NDU3MiwtMTMxMzc5Mjg4NCwxOD
+eyJoaXN0b3J5IjpbLTk5MzQwNjAwNywtMTMxMzc5Mjg4NCwxOD
 Y4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5
 ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LD
 cwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQy
