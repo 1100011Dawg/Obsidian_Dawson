@@ -29,12 +29,13 @@ Quadrat Sampling: using quadrant placed randomly to record the number of organis
 	- Randomly to estimate population density
 Chi squared GOF
 	- H0:null hypothesis, Ha:Alternative hypothesis
-	- `enter code here`
+	- Conditions: SRS, categorical
+	- 
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc4NzM2NzMsLTI5NTcyMzgzNiw4Nj
+eyJoaXN0b3J5IjpbLTE0OTI3MjA2MjcsLTI5NTcyMzgzNiw4Nj
 Q3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNTAwMzMzMDcz
 LC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLT
 Q1MTQ1MzkxLC0xOTAzMzkxNTc4XX0=
