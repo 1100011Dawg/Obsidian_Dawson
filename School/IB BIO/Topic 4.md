@@ -28,11 +28,13 @@ Quadrat Sampling: using quadrant placed randomly to record the number of organis
 	- Systematically with belt transect to measure changing distribution
 	- Randomly to estimate population density
 Chi squared
+	- 
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NzMwNTcsNzA1OTc3Njk0LC0xODYyND
-cwNzY2LDUwMDMzMzA3MywtNjM4NDI1ODY4LC0yMDM0ODIxOTMz
-LC0xMjg5OTEzODkyLC00NTE0NTM5MSwtMTkwMzM5MTU3OF19
+eyJoaXN0b3J5IjpbLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nz
+c2OTQsLTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0MjU4Njgs
+LTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1MzkxLC0xOT
+AzMzkxNTc4XX0=
 -->
