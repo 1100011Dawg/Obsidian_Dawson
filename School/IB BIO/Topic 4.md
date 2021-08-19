@@ -37,15 +37,14 @@ Ecology: The study of relationships between living organisms and between organis
 **Chi Squared**
 	- Comparing factors in a matrix for association
 	- $\frac{Row Total*Column Total}{Grand Total}=Expected Value$
-	- DF= (column#-1)(Row # -1)
 	- $DF=(Column\#-1)*(Row\# -1)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI1NzQyNTIsLTEzMTM3OTI4ODQsMT
-g2ODUyODk4LC0xMjIzNTUzNTEyLC0xMTYxMDk0MzQyLC0xNjA4
-OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcyMzgzNiw4NjQ3MzA1Ny
-w3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0
-MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1Mz
-kxLC0xOTAzMzkxNTc4XX0=
+eyJoaXN0b3J5IjpbOTc4NTQzNzYsLTEzMTM3OTI4ODQsMTg2OD
+UyODk4LC0xMjIzNTUzNTEyLC0xMTYxMDk0MzQyLC0xNjA4OTg2
+MjcwLDE2NzMzOTU3NTEsLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MD
+U5Nzc2OTQsLTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0MjU4
+NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1MzkxLC
+0xOTAzMzkxNTc4XX0=
 -->
