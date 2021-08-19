@@ -38,15 +38,14 @@ Ecology: The study of relationships between living organisms and between organis
 	- Comparing factors in a matrix for association
 	- $\frac{Row Total*Column Total}{Grand Total}=Expected Value$
 	- DF= (column#-1)(Row # -1)
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-$$```latex
-\[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
-```$$
+	- $DF=(Column\#-1)*(Row\# -1)$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzQwNjAwNywtMTMxMzc5Mjg4NCwxOD
-Y4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5
-ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LD
-cwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQy
-NTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUxNDUzOT
-EsLTE5MDMzOTE1NzhdfQ==
+eyJoaXN0b3J5IjpbLTE4MzI1NzQyNTIsLTEzMTM3OTI4ODQsMT
+g2ODUyODk4LC0xMjIzNTUzNTEyLC0xMTYxMDk0MzQyLC0xNjA4
+OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcyMzgzNiw4NjQ3MzA1Ny
+w3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0
+MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1Mz
+kxLC0xOTAzMzkxNTc4XX0=
 -->
