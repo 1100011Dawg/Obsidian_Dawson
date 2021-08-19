@@ -19,15 +19,20 @@ Ecology: The study of relationships between living organisms and between organis
 	- Mixotroph: Appears to be both Heterotrophic and Autotrophic
 **Food Chains**:shows the flow of energy through the trophic levels of a feeding relationship
 **Trophic level**: feeding position of an organism in a food chain
+	- Primary
+	- Secondary
+	- tertiary
+	- quaternary
 Quadrat Sampling: using quadrant placed randomly to record the number of organisms present.
 	- Can be used to estimate population density, and the distribution
 	- Systematically with belt transect to measure changing distribution
 	- Randomly to estimate population density
+Chi squared
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1OTc3Njk0LC0xODYyNDcwNzY2LDUwMD
-MzMzA3MywtNjM4NDI1ODY4LC0yMDM0ODIxOTMzLC0xMjg5OTEz
-ODkyLC00NTE0NTM5MSwtMTkwMzM5MTU3OF19
+eyJoaXN0b3J5IjpbODY0NzMwNTcsNzA1OTc3Njk0LC0xODYyND
+cwNzY2LDUwMDMzMzA3MywtNjM4NDI1ODY4LC0yMDM0ODIxOTMz
+LC0xMjg5OTEzODkyLC00NTE0NTM5MSwtMTkwMzM5MTU3OF19
 -->
