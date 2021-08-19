@@ -33,14 +33,16 @@ Chi squared GOF
 	- Conditions: SRS, categorical,expected values >=5, counts>=10
 	- Conclusion: Reject(failed reject) Ho since p-value < a(.05) thus we have evidence Ha. 
 	- DF = n-1
+Chi Squared
+	- (row total * column total)/ grand total
 
 $$```latex
 \[\tilde{\chi}^2=\frac{1}{d}\sum_{k=1}^{n} \frac{(O_k - E_k)^2}{E_k}\]
 ```$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLT
-E2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDcz
-MDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLT
-YzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUx
-NDUzOTEsLTE5MDMzOTE1NzhdfQ==
+eyJoaXN0b3J5IjpbMTk3MjczMTI2MiwtMTIyMzU1MzUxMiwtMT
+E2MTA5NDM0MiwtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0yOTU3
+MjM4MzYsODY0NzMwNTcsNzA1OTc3Njk0LC0xODYyNDcwNzY2LD
+UwMDMzMzA3MywtNjM4NDI1ODY4LC0yMDM0ODIxOTMzLC0xMjg5
+OTEzODkyLC00NTE0NTM5MSwtMTkwMzM5MTU3OF19
 -->
