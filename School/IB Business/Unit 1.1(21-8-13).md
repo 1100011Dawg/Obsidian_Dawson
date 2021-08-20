@@ -22,11 +22,12 @@
 
 #### Business Functions:
 - Human resources
+	- They deal with 
 - Finance and accounts
 - Marketing
 - Operations
 
-> 
+> Larger Business are able to hire specialized labourers for the Business Functions while smaller ones need to generalize more
 
 #### Sectors of Business Activity
 - Primary Sector: Extraction of natural resources
@@ -57,6 +58,6 @@
 
 > *CIA World Factbook*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQzNjQ1ODcsLTEzNjkwMDQxNDksMT
-Y5MjE1NDgzNCwyODg4NDY3MzRdfQ==
+eyJoaXN0b3J5IjpbMTk3NjQwNTAxNSwtMTM2OTAwNDE0OSwxNj
+kyMTU0ODM0LDI4ODg0NjczNF19
 -->
