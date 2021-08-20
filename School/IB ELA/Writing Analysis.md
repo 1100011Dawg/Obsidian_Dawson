@@ -8,16 +8,22 @@
 > 60% analysis 40% understanding for works
 > Use Present tense for analyzing literature
 
-#### Types of Charectors
+#### Types of Characters
  - Protagonist: the main character 
  - Antagonist: opposes the main character 
- - Secondary Charectory: less important but plays key roles
- - Tertiary Charectors may appear 1-2 scenes
+ - Secondary Characters: less important but plays key roles
+ - Tertiary Characters may appear 1-2 scenes
 
-- Round: authorals have deveolped with details
-- Flat
+- Round: authors have developed with details
+- Flat: underdeveloped
+
+- Static: does not change
+- Dynamic: Does change
+
+-Foil: contrasts a character through contrast
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTExODkzNSw3MDc4MjAyOTBdfQ==
+eyJoaXN0b3J5IjpbMTg0MTMzOTY4Nyw3MDc4MjAyOTBdfQ==
 -->
