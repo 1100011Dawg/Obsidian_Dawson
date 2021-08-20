@@ -26,8 +26,10 @@
 - Finance and accounts
 	- They make sure the appropriate funds are available to make the product/service, and keep records and forecasts.
 - Marketing
-	- They make sure 
+	- They make sure that the product is desired by a sufficient # of people.
 - Operations
+	- Ensuring that the approariate process are making the product/services
+	- Ex: Stock, Machines, ..
 
 > Larger Business are able to hire specialized labourers for the Business Functions while smaller ones need to generalize more
 
@@ -60,6 +62,6 @@
 
 > *CIA World Factbook*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMyMTI3OTksLTEzNjkwMDQxNDksMT
-Y5MjE1NDgzNCwyODg4NDY3MzRdfQ==
+eyJoaXN0b3J5IjpbLTQ5NTg0NzE3NCwtMTM2OTAwNDE0OSwxNj
+kyMTU0ODM0LDI4ODg0NjczNF19
 -->
