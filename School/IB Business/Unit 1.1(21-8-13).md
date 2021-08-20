@@ -22,9 +22,11 @@
 
 #### Business Functions:
 - Human resources
-- finance and accounts
+- Finance and accounts
 - Marketing
 - Operations
+
+> 
 
 #### Sectors of Business Activity
 - Primary Sector: Extraction of natural resources
@@ -55,6 +57,6 @@
 
 > *CIA World Factbook*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYxOTM4NjEsLTEzNjkwMDQxNDksMT
+eyJoaXN0b3J5IjpbLTE1NDQzNjQ1ODcsLTEzNjkwMDQxNDksMT
 Y5MjE1NDgzNCwyODg4NDY3MzRdfQ==
 -->
