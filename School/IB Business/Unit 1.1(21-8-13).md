@@ -1,18 +1,21 @@
 #### Factors of Production
-	- Physical: Natural resources, land, machinery
-	- Financial: cash or financial investments
-	- Human: Labour
-	- Enterprise: business know-how, ideas
+- Physical: Natural resources, land, machinery
+- Financial: cash or financial investments
+- Human: Labour
+- Enterprise: business know-how, ideas
 #### Types of Production Processes
-	-Capital Investment: The business needs a large amount of money to produce a good or service.
-	-Labour Intensive: The process or industry needs a large amount of labour to produce itś goods or services.
-####Types of Products
-	- Consumer goods:
-		- Consumer durable goods:last a long time repeated use
-		*Consumer non-durable goods: Short life time, use immediate
-	- Capital goods: Goods purchased by other businesses
-	- Services: Intangible products
-	*Marketplace*:A place where buyers and sellers meet
+- Capital Investment: The business needs a large amount of money to produce a good or service.
+- Labour Intensive: The process or industry needs a large amount of labour to produce itś goods or services.
+
+#### Types of Products
+- Consumer goods:
+	- Consumer durable goods:last a long time repeated use
+	- Consumer non-durable goods: Short life time, use immediate
+- Capital goods: Goods purchased by other businesses
+- Services: Intangible products
+
+ > 	*Marketplace* : A place where buyers and sellers meet 
+
 **Customers vs Consumers**
 	-Customer:Buys but doen always use the product
 	-Consumer-Uses the product
@@ -45,6 +48,6 @@
 	 - Deindustrialization: describes the general decline of importance in the secondary sector and increase in the tertiary sector
 *CIA World Factbook*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjAyNzM2MCwtMTM2OTAwNDE0OSwxNj
-kyMTU0ODM0LDI4ODg0NjczNF19
+eyJoaXN0b3J5IjpbLTg1ODUyNDk1LC0xMzY5MDA0MTQ5LDE2OT
+IxNTQ4MzQsMjg4ODQ2NzM0XX0=
 -->
