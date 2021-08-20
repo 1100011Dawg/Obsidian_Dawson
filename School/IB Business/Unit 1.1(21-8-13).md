@@ -1,4 +1,3 @@
-inyribel
 **[[Factors of Production]]** 
 	- Physical: Natural resources, land, machinery
 	- Financial: cash or financial investments
@@ -46,6 +45,6 @@ inyribel
 	 - Deindustrialization: describes the general decline of importance in the secondary sector and increase in the tertiary sector
 *CIA World Factbook*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkwMDQxNDksMTY5MjE1NDgzNCwyOD
-g4NDY3MzRdfQ==
+eyJoaXN0b3J5IjpbMTYxMDIxNTMyMywtMTM2OTAwNDE0OSwxNj
+kyMTU0ODM0LDI4ODg0NjczNF19
 -->
