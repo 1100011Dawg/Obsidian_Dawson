@@ -33,16 +33,20 @@
 	- Tertiary sector: Personal and business services
 	- Quaternary Sector: knowledge part of the economy
 		- ex: I.T., R&D
-**Chain of Production**
-	- product may pass through sectors of industry this is called chain of production, each stage *adds value*
-**IPO**:Initial public offering.
-**Businesses growth**
-	- Internal growth(organic growth): were a firm expands by purchasing equipment and land
-	- External Growth: two or more firms join together to form a larger enterprise
+
+#### Chain of Production
+- product may pass through sectors of industry this is called chain of production, each stage *adds value*
+
+#### IPO: Initial public offering.
+
+#### Businesses growth
+- Internal growth(organic growth): were a firm expands by purchasing equipment and land
+- External Growth: two or more firms join together to form a larger enterprise
 		- Integration: the merger of two or more firms or the takeover of one company by another
-**Integration**
-	- Horizontal Integration: when a merger results in more of the same activity
-	- Vertical Integration: when a merger takes on different stages of production
+
+#### Integration
+- Horizontal Integration: when a merger results in more of the same activity
+- Vertical Integration: when a merger takes on different stages of production
 		- Backward Vertical Integration: Earlier in the chain of production
  		- Forward Vertical Integration: Later in the chain of production
  **Changes Economic Structure**
@@ -50,6 +54,6 @@
 	 - Deindustrialization: describes the general decline of importance in the secondary sector and increase in the tertiary sector
 *CIA World Factbook*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTA5OTYyMSwtMTM2OTAwNDE0OSwxNj
-kyMTU0ODM0LDI4ODg0NjczNF19
+eyJoaXN0b3J5IjpbLTIxNDQ4MjMxMjUsLTEzNjkwMDQxNDksMT
+Y5MjE1NDgzNCwyODg4NDY3MzRdfQ==
 -->
