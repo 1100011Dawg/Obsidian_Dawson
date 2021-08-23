@@ -14,7 +14,7 @@
 - Capital goods: Goods purchased by other businesses
 - Services: Intangible products
 
- > 	*Marketplace* : A place where buyers and sellers meet 
+ > 	Marketplace : A place where buyers and sellers meet 
 
 #### Customers vs Consumers
 - Customer:Buys but doesn't always use the product
