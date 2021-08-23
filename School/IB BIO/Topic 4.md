@@ -44,14 +44,14 @@ Ecology: The study of relationships between living organisms and between organis
  - Goes through biotic and abiotic environments through the **Nutrient Cycle**
  #### Respiration: 
  - Converting Carbon products to energy(ATP).
- - 
+ - carbon compounds such as carbohydrates and lipids are oxidized
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMDA4MDQsMTEzMjc0ODgwOSwzNzQxMD
-I1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5Mjg4NCwx
-ODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLTE2MD
-g5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3
-LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzOD
-QyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUxNDUz
-OTFdfQ==
+eyJoaXN0b3J5IjpbLTIwMzc2NDI2NzEsMTEzMjc0ODgwOSwzNz
+QxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5Mjg4
+NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLT
+E2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDcz
+MDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLT
+YzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUx
+NDUzOTFdfQ==
 -->
