@@ -42,13 +42,16 @@ Ecology: The study of relationships between living organisms and between organis
  - Nitrogen and phosphorus
  - Approximately fifteen other elements are needed by living organisms.
  - Goes through biotic and abiotic environments through the **Nutrient Cycle**
+ #### Respiration: 
+ - Converting Carbon products to energy(ATP).
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjc0ODgwOSwzNzQxMDI1MjEsLTc0OD
-g5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5Mjg4NCwxODY4NTI4OTgs
-LTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5ODYyNzAsMT
-Y3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5
-NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQyNTg2OCwtMj
-AzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUxNDUzOTEsLTE5MDMz
-OTE1NzhdfQ==
+eyJoaXN0b3J5IjpbNjgwMDA4MDQsMTEzMjc0ODgwOSwzNzQxMD
+I1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5Mjg4NCwx
+ODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLTE2MD
+g5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3
+LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzOD
+QyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUxNDUz
+OTFdfQ==
 -->
