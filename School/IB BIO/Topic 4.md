@@ -40,14 +40,15 @@ Ecology: The study of relationships between living organisms and between organis
 	- $DF=(Column\#-1)*(Row\# -1)$
 #### Inorganic Nutrients
  - Nitrogen and phosphorus
- - 
+ - Approximately fifteen other elements are needed by living organisms.
+ - Goes 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzk1ODIyOSwzNzQxMDI1MjEsLTc0OD
-g5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5Mjg4NCwxODY4NTI4OTgs
-LTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5ODYyNzAsMT
-Y3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5
-NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQyNTg2OCwtMj
-AzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUxNDUzOTEsLTE5MDMz
-OTE1NzhdfQ==
+eyJoaXN0b3J5IjpbMzQyNTUwMzksMzc0MTAyNTIxLC03NDg4OT
+YzNzgsOTc4NTQzNzYsLTEzMTM3OTI4ODQsMTg2ODUyODk4LC0x
+MjIzNTUzNTEyLC0xMTYxMDk0MzQyLC0xNjA4OTg2MjcwLDE2Nz
+MzOTU3NTEsLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQs
+LTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0MjU4NjgsLTIwMz
+Q4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1MzkxLC0xOTAzMzkx
+NTc4XX0=
 -->
