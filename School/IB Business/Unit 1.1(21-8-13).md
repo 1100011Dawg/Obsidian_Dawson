@@ -64,7 +64,7 @@
 
 #### Entrepreneur
 - an individual who demonstrates enterprise and initiative in order to make a profit by making a business
-#### Entrepreneur
+#### Intrapreneur
  - an individual employed by a large organization who demonstrates entrepreneurial thinking in the development of new products or services for an established business
 
 > *CIA World Factbook*
