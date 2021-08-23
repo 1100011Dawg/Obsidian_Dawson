@@ -7,7 +7,7 @@
 - Did not want to make the scene with the daggers to implicate
 - "O, yet I do repent me of my fury, That I did kill them."(848) covering up the witnesses
 - Says kings kidś killed him, ¨Their cruel parricide, filling their hearers¨(987)
-- Fears [[Banquo]] due to prophecy 
+- Fears [[Banquo]] due to prophecy ¨Reigns that which would be feared. ’¨(1007)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzY4NjIyOF19
+eyJoaXN0b3J5IjpbMTU1Mzk1NDQxXX0=
 -->
