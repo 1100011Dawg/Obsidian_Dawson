@@ -22,11 +22,11 @@
 
 -Foil: contrasts a character through contrast
 #### Types of conflict:
-	- Charector vs Self, Society, Charector, Nature, Technology, 
+- Character vs Self, Society, Character, Nature, Technology, Fate/Supernatural.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2NjQ5NDM2LDE4NDEzMzk2ODcsNzA3OD
-IwMjkwXX0=
+eyJoaXN0b3J5IjpbLTE4NDAyMDU3OTcsMTg0MTMzOTY4Nyw3MD
+c4MjAyOTBdfQ==
 -->
