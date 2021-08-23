@@ -38,13 +38,16 @@ Ecology: The study of relationships between living organisms and between organis
 	- Comparing factors in a matrix for association
 	- $\frac{Row Total*Column Total}{Grand Total}=Expected Value$
 	- $DF=(Column\#-1)*(Row\# -1)$
-
+#### Inorganic Nutrients
+ - Nitrogen and phosphorus
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MTAyNTIxLC03NDg4OTYzNzgsOTc4NT
-QzNzYsLTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMjIzNTUzNTEy
-LC0xMTYxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NTEsLT
-I5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3
-NjYsNTAwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLT
-EyODk5MTM4OTIsLTQ1MTQ1MzkxLC0xOTAzMzkxNTc4XX0=
+eyJoaXN0b3J5IjpbLTcxNzk1ODIyOSwzNzQxMDI1MjEsLTc0OD
+g5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5Mjg4NCwxODY4NTI4OTgs
+LTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5ODYyNzAsMT
+Y3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5
+NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLTYzODQyNTg2OCwtMj
+AzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUxNDUzOTEsLTE5MDMz
+OTE1NzhdfQ==
 -->
