@@ -63,7 +63,9 @@
 > Sectoral Change: when the sectors of an industry change in composition
 
 Entrepreneur
-- anindividualwhodemonstrates enterpriseandinitiativeinorder tomakeaprot. 
+- an individual who demonstrates enterprise and initiative in order to make a profit
+Intrapreneur
+ - an individual employed by a largeo rganization who demonstratesentrepreneurial thinkinginthedevelopment of newproductsorservices
 
 > *CIA World Factbook*
 <!--stackedit_data:
