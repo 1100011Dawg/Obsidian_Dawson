@@ -73,6 +73,10 @@
  - Establishing Business requirements
  - Raising the finance
  - Testing the market
+#### Starting a buisness:
+- 4 business functions
+- The Idea for the business
+- The organization of the business
 
 > *CIA World Factbook*
 <!--stackedit_data:
