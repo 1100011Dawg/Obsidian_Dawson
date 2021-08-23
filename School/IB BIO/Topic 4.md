@@ -41,14 +41,14 @@ Ecology: The study of relationships between living organisms and between organis
 #### Inorganic Nutrients
  - Nitrogen and phosphorus
  - Approximately fifteen other elements are needed by living organisms.
- - Goes 
+ - Goes through organisms through the **Nutrient Cycle**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNTUwMzksMzc0MTAyNTIxLC03NDg4OT
-YzNzgsOTc4NTQzNzYsLTEzMTM3OTI4ODQsMTg2ODUyODk4LC0x
-MjIzNTUzNTEyLC0xMTYxMDk0MzQyLC0xNjA4OTg2MjcwLDE2Nz
-MzOTU3NTEsLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQs
-LTE4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0MjU4NjgsLTIwMz
-Q4MjE5MzMsLTEyODk5MTM4OTIsLTQ1MTQ1MzkxLC0xOTAzMzkx
-NTc4XX0=
+eyJoaXN0b3J5IjpbNzYwMjAxMjMwLDM3NDEwMjUyMSwtNzQ4OD
+k2Mzc4LDk3ODU0Mzc2LC0xMzEzNzkyODg0LDE4Njg1Mjg5OCwt
+MTIyMzU1MzUxMiwtMTE2MTA5NDM0MiwtMTYwODk4NjI3MCwxNj
+czMzk1NzUxLC0yOTU3MjM4MzYsODY0NzMwNTcsNzA1OTc3Njk0
+LC0xODYyNDcwNzY2LDUwMDMzMzA3MywtNjM4NDI1ODY4LC0yMD
+M0ODIxOTMzLC0xMjg5OTEzODkyLC00NTE0NTM5MSwtMTkwMzM5
+MTU3OF19
 -->
