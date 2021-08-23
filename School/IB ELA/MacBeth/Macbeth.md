@@ -8,7 +8,7 @@
 - "O, yet I do repent me of my fury, That I did kill them."(848) covering up the witnesses
 - Says kings kidś killed him, ¨Their cruel parricide, filling their hearers¨(987)
 - Fears [[Banquo]] due to prophecy ¨Reigns that which would be feared. ’¨(1007)
-- Want 
+- Want murders to kill [[Banquo]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTE2NDU1Ml19
+eyJoaXN0b3J5IjpbLTE3NTg2OTM2NTNdfQ==
 -->
