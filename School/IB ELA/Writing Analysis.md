@@ -21,9 +21,12 @@
 - Dynamic: Does change
 
 -Foil: contrasts a character through contrast
+#### Types of conflict:
+	- Charector vs Self, Society, Charector, Nature, Technology, 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTMzOTY4Nyw3MDc4MjAyOTBdfQ==
+eyJoaXN0b3J5IjpbMjU2NjQ5NDM2LDE4NDEzMzk2ODcsNzA3OD
+IwMjkwXX0=
 -->
