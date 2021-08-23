@@ -68,7 +68,12 @@
  - an individual employed by a large organization who demonstrates entrepreneurial thinking in the development of new products or services for an established business
 #### Sters for Start-Ups:
  - Organizing the Basics
- - Researching the 
+ - Researching the Markets
+ - Planning the Basics
+ - Establishing Business requirements
+ - Raising the finance
+ - Testing the market
+
 > *CIA World Factbook*
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTYzNDIyNTYxMSwtMTM2OTAwNDE0OSwxNj
