@@ -5,11 +5,11 @@ Ecology: The study of relationships between living organisms and between organis
 		 - Habitat: The environment in which a species normally lives.
 - Ecosystem:  A community and its abiotic environment
 **Feeding Methods**
-	- Autotrophy: Organisms which produce their won food from organic molecules
+	- Autotrophy: Organisms which produce their won food from organic molecules(make own Carbon substances)
 		- Producers:
 			- Photoautotrophy: Photosynthesis
 			- Chemoautotrophy: Chemothesis
-	- Heterotroph: Organisms which derive energy from other living organism
+	- Heterotroph: Organisms which derive energy from other living organism(OBtains Carbon substances from others)
 		- Consumers: Ingest organic matter which is living or recently killed
 			- Primary: Eat producers(herbivores)
 			- Secondary Eat other consumers(carnivores, omnivores)
@@ -41,10 +41,10 @@ Ecology: The study of relationships between living organisms and between organis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMz
-c5Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQz
-NDIsLTE2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LD
-g2NDczMDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMw
-NzMsLTYzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5Mi
-wtNDUxNDUzOTEsLTE5MDMzOTE1NzhdfQ==
+eyJoaXN0b3J5IjpbMzc0MTAyNTIxLC03NDg4OTYzNzgsOTc4NT
+QzNzYsLTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMjIzNTUzNTEy
+LC0xMTYxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NTEsLT
+I5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3
+NjYsNTAwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLT
+EyODk5MTM4OTIsLTQ1MTQ1MzkxLC0xOTAzMzkxNTc4XX0=
 -->
