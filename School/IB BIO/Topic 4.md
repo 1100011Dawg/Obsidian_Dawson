@@ -45,13 +45,14 @@ Ecology: The study of relationships between living organisms and between organis
  #### Respiration: 
  - Converting Carbon products to energy(ATP).
  - carbon compounds such as carbohydrates and lipids are oxidized
+> Biomass: Total dry mass of a group of organisms
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc2NDI2NzEsMTEzMjc0ODgwOSwzNz
-QxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5Mjg4
-NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLT
-E2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDcz
-MDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMwNzMsLT
-YzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4OTkxMzg5MiwtNDUx
-NDUzOTFdfQ==
+eyJoaXN0b3J5IjpbOTI2NjEwOTIzLC0yMDM3NjQyNjcxLDExMz
+I3NDg4MDksMzc0MTAyNTIxLC03NDg4OTYzNzgsOTc4NTQzNzYs
+LTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMjIzNTUzNTEyLC0xMT
+YxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcy
+MzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNT
+AwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5
+MTM4OTJdfQ==
 -->
