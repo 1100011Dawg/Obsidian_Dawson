@@ -27,12 +27,12 @@ Plot:
 	- Act 2 scen one sees vision of dagger
 	- Scene one had them kill the king and continued knowking, [[Macbeth]] didn't want to frame but [[Lady Macbeth]] did it.
 	- Scene three they find out the king is dead and it seems their going to ireland and england to tell of the news
-	- Act 3 scene 1: 
+	- Act 3 scene 1: [[Banquo]] thinks [[Macbeth]] killed the king [[Duncan]] and [[Macbeth]] convinces murderers to kill [[Banquo]] That night
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDAxNDYwMSwxNDQ0NTIxODM2LC01OD
-U2ODE5ODAsLTIwNTMyNDg2ODEsLTg1MzM4MTc4MywtMTE4MDc1
-NDk1MCwzNTM1NjU3MTQsMTU5Nzc5NjA5OCwxNTQxNDI2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTE0NTQxOTEzNDQsMTQ0NDUyMTgzNiwtNT
+g1NjgxOTgwLC0yMDUzMjQ4NjgxLC04NTMzODE3ODMsLTExODA3
+NTQ5NTAsMzUzNTY1NzE0LDE1OTc3OTYwOTgsMTU0MTQyNjEyXX
+0=
 -->
