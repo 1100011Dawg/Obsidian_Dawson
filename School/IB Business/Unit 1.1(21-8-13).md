@@ -62,10 +62,10 @@
 
 > Sectoral Change: when the sectors of an industry change in composition
 
-Entrepreneur
-- an individual who demonstrates enterprise and initiative in order to make a profit
-Intrapreneur
- - an individual employed by a largeo rganization who demonstratesentrepreneurial thinkinginthedevelopment of newproductsorservices
+#### Entrepreneur
+- an individual who demonstrates enterprise and initiative in order to make a profit by making a business
+#### Entrepreneur
+ - an individual employed by a large organization who demonstrates entrepreneurial thinking in the development of new products or services for an established business
 
 > *CIA World Factbook*
 <!--stackedit_data:
