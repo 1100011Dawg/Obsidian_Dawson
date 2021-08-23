@@ -59,7 +59,11 @@
  #### Changes Economic Structure
 - Industrialization: describes the growing importance of the secondary sector in developing countries
 - Deindustrialization: describes the general decline of importance in the secondary sector and increase in the tertiary sector
+
 > Sectoral Change: when the sectors of an industry change in composition
+
+Entrepreneur
+- anindividualwhodemonstrates enterpriseandinitiativeinorder tomakeaprot. 
 
 > *CIA World Factbook*
 <!--stackedit_data:
