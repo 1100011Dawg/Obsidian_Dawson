@@ -50,13 +50,13 @@ Ecology: The study of relationships between living organisms and between organis
 
 #### Pyramids of energy
  - Shoes the flow of energy between trophic levels
- - Measured in Units of energy per unit area per unit time( $$ kJ*m^{-2} * y^{-1} $$
+ - Measured in Units of energy per unit area per unit time( $kJ*m^{-2} * y^{-1}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1ODQ2MTA4LC0yMDM3NjQyNjcxLDExMz
-I3NDg4MDksMzc0MTAyNTIxLC03NDg4OTYzNzgsOTc4NTQzNzYs
-LTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMjIzNTUzNTEyLC0xMT
-YxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcy
-MzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNT
-AwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5
-MTM4OTJdfQ==
+eyJoaXN0b3J5IjpbLTE3NzkwNDk3NjQsNDQ1ODQ2MTA4LC0yMD
+M3NjQyNjcxLDExMzI3NDg4MDksMzc0MTAyNTIxLC03NDg4OTYz
+NzgsOTc4NTQzNzYsLTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMj
+IzNTUzNTEyLC0xMTYxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMz
+OTU3NTEsLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLT
+E4NjI0NzA3NjYsNTAwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4
+MjE5MzNdfQ==
 -->
