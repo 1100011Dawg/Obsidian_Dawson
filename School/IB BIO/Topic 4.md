@@ -48,12 +48,14 @@ Ecology: The study of relationships between living organisms and between organis
 > Biomass: Total dry mass of a group of organisms
 > 10% rule: only 10% of energy is transferred from one trophic level to the next. Heat released from cell respiration, Organic material not consumed, not all parts digested, all are reasons for energy loss.
 
+#### Pyramids of energy
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYyMTMxOTMsLTIwMzc2NDI2NzEsMT
-EzMjc0ODgwOSwzNzQxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3
-NiwtMTMxMzc5Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLT
-ExNjEwOTQzNDIsLTE2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1
-NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Ni
-w1MDAzMzMwNzMsLTYzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4
-OTkxMzg5Ml19
+eyJoaXN0b3J5IjpbMTE4MTYyMzg4MSwtMjAzNzY0MjY3MSwxMT
+MyNzQ4ODA5LDM3NDEwMjUyMSwtNzQ4ODk2Mzc4LDk3ODU0Mzc2
+LC0xMzEzNzkyODg0LDE4Njg1Mjg5OCwtMTIyMzU1MzUxMiwtMT
+E2MTA5NDM0MiwtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0yOTU3
+MjM4MzYsODY0NzMwNTcsNzA1OTc3Njk0LC0xODYyNDcwNzY2LD
+UwMDMzMzA3MywtNjM4NDI1ODY4LC0yMDM0ODIxOTMzLC0xMjg5
+OTEzODkyXX0=
 -->
