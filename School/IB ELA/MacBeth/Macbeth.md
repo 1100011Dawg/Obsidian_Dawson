@@ -9,6 +9,8 @@
 - Says kings kidś killed him, ¨Their cruel parricide, filling their hearers¨(987)
 - Fears [[Banquo]] due to prophecy ¨Reigns that which would be feared. ’¨(1007)
 - Want murders to kill [[Banquo]]
+- ¨Whom we, to gain our peace, have sent to peace,¨(1137)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg2OTM2NTNdfQ==
+eyJoaXN0b3J5IjpbLTExNzUyODczNzEsLTE3NTg2OTM2NTNdfQ
+==
 -->
