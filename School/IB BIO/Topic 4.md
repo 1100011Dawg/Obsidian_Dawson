@@ -49,13 +49,14 @@ Ecology: The study of relationships between living organisms and between organis
 > 10% rule: only 10% of energy is transferred from one trophic level to the next. Heat released from cell respiration, Organic material not consumed, not all parts digested, all are reasons for energy loss.
 
 #### Pyramids of energy
-
+ - Shoes the flow of energy between trophic levels
+ - Measured in Units of energy per unit area per unit time( $ kJ*m^(-2)*  y^(
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTYyMzg4MSwtMjAzNzY0MjY3MSwxMT
-MyNzQ4ODA5LDM3NDEwMjUyMSwtNzQ4ODk2Mzc4LDk3ODU0Mzc2
-LC0xMzEzNzkyODg0LDE4Njg1Mjg5OCwtMTIyMzU1MzUxMiwtMT
-E2MTA5NDM0MiwtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0yOTU3
-MjM4MzYsODY0NzMwNTcsNzA1OTc3Njk0LC0xODYyNDcwNzY2LD
-UwMDMzMzA3MywtNjM4NDI1ODY4LC0yMDM0ODIxOTMzLC0xMjg5
-OTEzODkyXX0=
+eyJoaXN0b3J5IjpbODAyMzc5MjM1LC0yMDM3NjQyNjcxLDExMz
+I3NDg4MDksMzc0MTAyNTIxLC03NDg4OTYzNzgsOTc4NTQzNzYs
+LTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMjIzNTUzNTEyLC0xMT
+YxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcy
+MzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNT
+AwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5
+MTM4OTJdfQ==
 -->
