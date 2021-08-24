@@ -11,12 +11,12 @@
 - Want murders to kill [[Banquo]]
 - ¨Whom we, to gain our peace, have sent to peace,¨(1137)
 - (1252) around this line Ghost of [[Banquo]] sits in his seat others can see ghost, so he looks crazy relates to him seeing a floating dagger
-- 
+- ¨And push us from our stools. This is more strange¨(1308) says the ghost is strange
 
 
 
 
  - mind of scorpean line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Mjg5MjM2NSwtMTc1ODY5MzY1M119
+eyJoaXN0b3J5IjpbMTIyMTU0ODQ2NCwtMTc1ODY5MzY1M119
 -->
