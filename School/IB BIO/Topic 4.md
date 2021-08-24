@@ -46,10 +46,10 @@ Ecology: The study of relationships between living organisms and between organis
  - Converting Carbon products to energy(ATP).
  - carbon compounds such as carbohydrates and lipids are oxidized
 > Biomass: Total dry mass of a group of organisms
-> 
+> 10% rule: only 10% of energy is transferred from one trophic level to the next. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTA0MDcxMywtMjAzNzY0MjY3MSwxMT
+eyJoaXN0b3J5IjpbMTk0NTU4NjIzMiwtMjAzNzY0MjY3MSwxMT
 MyNzQ4ODA5LDM3NDEwMjUyMSwtNzQ4ODk2Mzc4LDk3ODU0Mzc2
 LC0xMzEzNzkyODg0LDE4Njg1Mjg5OCwtMTIyMzU1MzUxMiwtMT
 E2MTA5NDM0MiwtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0yOTU3
