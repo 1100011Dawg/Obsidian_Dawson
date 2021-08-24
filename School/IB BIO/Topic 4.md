@@ -46,14 +46,14 @@ Ecology: The study of relationships between living organisms and between organis
  - Converting Carbon products to energy(ATP).
  - carbon compounds such as carbohydrates and lipids are oxidized
 > Biomass: Total dry mass of a group of organisms
-> 10% rule: only 10% of energy is transferred from one trophic level to the next. Heat released from cell respiration
+> 10% rule: only 10% of energy is transferred from one trophic level to the next. Heat released from cell respiration, Organic material not consuumed, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE0OTQyNDksLTIwMzc2NDI2NzEsMT
-EzMjc0ODgwOSwzNzQxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3
-NiwtMTMxMzc5Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLT
-ExNjEwOTQzNDIsLTE2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1
-NzIzODM2LDg2NDczMDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Ni
-w1MDAzMzMwNzMsLTYzODQyNTg2OCwtMjAzNDgyMTkzMywtMTI4
-OTkxMzg5Ml19
+eyJoaXN0b3J5IjpbNzI4NTk1Njg1LC0yMDM3NjQyNjcxLDExMz
+I3NDg4MDksMzc0MTAyNTIxLC03NDg4OTYzNzgsOTc4NTQzNzYs
+LTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMjIzNTUzNTEyLC0xMT
+YxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcy
+MzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNT
+AwMzMzMDczLC02Mzg0MjU4NjgsLTIwMzQ4MjE5MzMsLTEyODk5
+MTM4OTJdfQ==
 -->
