@@ -6,6 +6,7 @@
  - "A little water clears us of this deed"(715) clearing the guilt
  - ¨Naught’s had, all’s spent,¨(1120) beginning of mental deterioration
  - Wanted to convince Macbeth not to kill Banquo
+ - ¨With most admired disorder¨(1344) refering to the Banquo ghost incedent with how sta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzg5MjIwXX0=
+eyJoaXN0b3J5IjpbLTE3NjM0OTY0NzBdfQ==
 -->
