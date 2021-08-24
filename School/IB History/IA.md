@@ -16,7 +16,8 @@ IA topics
 Cold war and Science:
 	 - Lamarkism
 	 - Abiogenic petroleum origin
+	 - To what extent did the cold war stunt scientific progress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE3NjkxMzMsMTQ2Njk3Mzk0NSwzND
-MyODg3OCwtMjEzNDk2ODYwMl19
+eyJoaXN0b3J5IjpbMTgwMjEwMTEyMywtMTc1MTc2OTEzMywxND
+Y2OTczOTQ1LDM0MzI4ODc4LC0yMTM0OTY4NjAyXX0=
 -->
