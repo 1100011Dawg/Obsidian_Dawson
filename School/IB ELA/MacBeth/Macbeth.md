@@ -10,13 +10,12 @@
 - Fears [[Banquo]] due to prophecy ¨Reigns that which would be feared. ’¨(1007)
 - Want murders to kill [[Banquo]]
 - ¨Whom we, to gain our peace, have sent to peace,¨(1137)
-- 
+- (1252) around this line Ghost of [[Banquo]] sits in his seat others can see ghost, so he looks crazy
 
 
 
 
  - mind of scorpean line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc1OTYwNTksLTE3NTg2OTM2NTNdfQ
-==
+eyJoaXN0b3J5IjpbLTEyMDgzNjk5OSwtMTc1ODY5MzY1M119
 -->
