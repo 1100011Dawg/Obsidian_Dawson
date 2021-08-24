@@ -5,6 +5,7 @@
  - "Had he not resembled My father as he slept, I had done ’t."645 feeling guit
  - "A little water clears us of this deed"(715) clearing the guilt
  - ¨Naught’s had, all’s spent,¨(1120) beginning of mental deterioration
+ - Wanted to convince Macbeth not to kill Banquo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MzEwOTAwXX0=
+eyJoaXN0b3J5IjpbMTc2Nzg5MjIwXX0=
 -->
