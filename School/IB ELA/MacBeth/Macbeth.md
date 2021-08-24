@@ -10,11 +10,13 @@
 - Fears [[Banquo]] due to prophecy ¨Reigns that which would be feared. ’¨(1007)
 - Want murders to kill [[Banquo]]
 - ¨Whom we, to gain our peace, have sent to peace,¨(1137)
+- 
 
 
 
 
  - mind of scorpean line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzM5NDkwMiwtMTc1ODY5MzY1M119
+eyJoaXN0b3J5IjpbLTEyMDc1OTYwNTksLTE3NTg2OTM2NTNdfQ
+==
 -->
