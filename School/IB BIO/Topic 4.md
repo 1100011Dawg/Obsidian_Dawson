@@ -53,14 +53,22 @@ Ecology: The study of relationships between living organisms and between organis
  - Measured in Units of energy per unit area per unit time( $kJ*m^{-2} * y^{-1}$
 
 #### Carbon Cycle
- - Photosynthesis: a carbon sink
- - Resperation: 
+ - Cabon Source:
+	 - Respiration
+	 - Combustion
+	 - Methane Emitions
+ - Carbon Sinks:
+	 - Photophynthesis(carbon fix
+ - Photosynthesis: A carbon sink
+ - Respiration: A carbon source
+ - Combustion: Carbon source
+ - Methane Emitions: Carbon source
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MzMxNzU4LDQ4MTcxMTU0NCwtMTc3OT
-A0OTc2NCw0NDU4NDYxMDgsLTIwMzc2NDI2NzEsMTEzMjc0ODgw
-OSwzNzQxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMz
-c5Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQz
-NDIsLTE2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LD
-g2NDczMDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMw
-NzNdfQ==
+eyJoaXN0b3J5IjpbMTIxNDM1NzUyOSw0ODE3MTE1NDQsLTE3Nz
+kwNDk3NjQsNDQ1ODQ2MTA4LC0yMDM3NjQyNjcxLDExMzI3NDg4
+MDksMzc0MTAyNTIxLC03NDg4OTYzNzgsOTc4NTQzNzYsLTEzMT
+M3OTI4ODQsMTg2ODUyODk4LC0xMjIzNTUzNTEyLC0xMTYxMDk0
+MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NTEsLTI5NTcyMzgzNi
+w4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0NzA3NjYsNTAwMzMz
+MDczXX0=
 -->
