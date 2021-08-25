@@ -71,13 +71,13 @@ Ecology: The study of relationships between living organisms and between organis
 #### Methane
  - Oxidized to Water and CO2
  - Methanogenesis: Methane is produced from organic matter in anaerobic conditions by archaeans and some diffuse into the atmosphere
- - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Njg4MDM3NiwyMTM0NTIxODM2LC0xNT
-cxMjg4MjAyLDQ4MTcxMTU0NCwtMTc3OTA0OTc2NCw0NDU4NDYx
-MDgsLTIwMzc2NDI2NzEsMTEzMjc0ODgwOSwzNzQxMDI1MjEsLT
-c0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5Mjg4NCwxODY4NTI4
-OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzNDIsLTE2MDg5ODYyNz
-AsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2NDczMDU3LDcwNTk3
-NzY5NF19
+eyJoaXN0b3J5IjpbMTU4MTk3NjY4MSwxNDU2ODgwMzc2LDIxMz
+Q1MjE4MzYsLTE1NzEyODgyMDIsNDgxNzExNTQ0LC0xNzc5MDQ5
+NzY0LDQ0NTg0NjEwOCwtMjAzNzY0MjY3MSwxMTMyNzQ4ODA5LD
+M3NDEwMjUyMSwtNzQ4ODk2Mzc4LDk3ODU0Mzc2LC0xMzEzNzky
+ODg0LDE4Njg1Mjg5OCwtMTIyMzU1MzUxMiwtMTE2MTA5NDM0Mi
+wtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0yOTU3MjM4MzYsODY0
+NzMwNTddfQ==
 -->
