@@ -68,13 +68,13 @@ Ecology: The study of relationships between living organisms and between organis
  - Permafrost
  - Fossil Fuels
  - Limestone & Dolomite(lithosphere)
-	 - 
+	 - calcium carbonate from organism can become fossilized in limestone
 #### Methane
  - Oxidized to Water and CO2
  - Methanogenesis: Methane is produced from organic matter in anaerobic conditions by archaeans and some diffuse into the atmosphere
 
 #### Peat
- - PEat forms when organic matter is partially decomposed in anaerobic conditions in watterlogged soil
+ - PEat forms when organic matter is partially decomposed in anaerobic conditions in waterlogged soil
 #### Fossil Fuel
  - Partially decomposed organic matter from past geological eras was converted to petroleum natural gas and coal
  - Combustion:
@@ -82,11 +82,11 @@ Ecology: The study of relationships between living organisms and between organis
  - 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkwOTIwMDUsMTQ1Njg4MDM3NiwyMT
-M0NTIxODM2LC0xNTcxMjg4MjAyLDQ4MTcxMTU0NCwtMTc3OTA0
-OTc2NCw0NDU4NDYxMDgsLTIwMzc2NDI2NzEsMTEzMjc0ODgwOS
-wzNzQxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5
-Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzND
-IsLTE2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2
-NDczMDU3XX0=
+eyJoaXN0b3J5IjpbMTI2Njc4MzU2NiwxNDU2ODgwMzc2LDIxMz
+Q1MjE4MzYsLTE1NzEyODgyMDIsNDgxNzExNTQ0LC0xNzc5MDQ5
+NzY0LDQ0NTg0NjEwOCwtMjAzNzY0MjY3MSwxMTMyNzQ4ODA5LD
+M3NDEwMjUyMSwtNzQ4ODk2Mzc4LDk3ODU0Mzc2LC0xMzEzNzky
+ODg0LDE4Njg1Mjg5OCwtMTIyMzU1MzUxMiwtMTE2MTA5NDM0Mi
+wtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0yOTU3MjM4MzYsODY0
+NzMwNTddfQ==
 -->
