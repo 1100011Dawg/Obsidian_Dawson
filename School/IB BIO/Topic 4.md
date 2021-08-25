@@ -72,12 +72,16 @@ Ecology: The study of relationships between living organisms and between organis
  - Oxidized to Water and CO2
  - Methanogenesis: Methane is produced from organic matter in anaerobic conditions by archaeans and some diffuse into the atmosphere
 
+#### Peat
+ - PEat forms when organic matter is partially decomposed in anaerobic conditions in watterlogged soil
+#### Fossil Fuel
+  Partially decomposed orga
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTk3NjY4MSwxNDU2ODgwMzc2LDIxMz
-Q1MjE4MzYsLTE1NzEyODgyMDIsNDgxNzExNTQ0LC0xNzc5MDQ5
-NzY0LDQ0NTg0NjEwOCwtMjAzNzY0MjY3MSwxMTMyNzQ4ODA5LD
-M3NDEwMjUyMSwtNzQ4ODk2Mzc4LDk3ODU0Mzc2LC0xMzEzNzky
-ODg0LDE4Njg1Mjg5OCwtMTIyMzU1MzUxMiwtMTE2MTA5NDM0Mi
-wtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0yOTU3MjM4MzYsODY0
-NzMwNTddfQ==
+eyJoaXN0b3J5IjpbLTE0MDM5NzkyMjAsMTQ1Njg4MDM3NiwyMT
+M0NTIxODM2LC0xNTcxMjg4MjAyLDQ4MTcxMTU0NCwtMTc3OTA0
+OTc2NCw0NDU4NDYxMDgsLTIwMzc2NDI2NzEsMTEzMjc0ODgwOS
+wzNzQxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5
+Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQzND
+IsLTE2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LDg2
+NDczMDU3XX0=
 -->
