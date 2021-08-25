@@ -68,13 +68,15 @@ Ecology: The study of relationships between living organisms and between organis
  - Permafrost
  - Fossil Fuels
  - Limestone & Dolomite(lithosphere)
-
+#### Methane
+ - Oxidized to Water and CO2
+ - Methanogenesis: Methane is produced from organic matter in anaerobic conditions by archaenas and some diffuese into the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDUyMTgzNiwtMTU3MTI4ODIwMiw0OD
-E3MTE1NDQsLTE3NzkwNDk3NjQsNDQ1ODQ2MTA4LC0yMDM3NjQy
-NjcxLDExMzI3NDg4MDksMzc0MTAyNTIxLC03NDg4OTYzNzgsOT
-c4NTQzNzYsLTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMjIzNTUz
-NTEyLC0xMTYxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NT
-EsLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0
-NzA3NjZdfQ==
+eyJoaXN0b3J5IjpbNTU5Njk1OTkwLDIxMzQ1MjE4MzYsLTE1Nz
+EyODgyMDIsNDgxNzExNTQ0LC0xNzc5MDQ5NzY0LDQ0NTg0NjEw
+OCwtMjAzNzY0MjY3MSwxMTMyNzQ4ODA5LDM3NDEwMjUyMSwtNz
+Q4ODk2Mzc4LDk3ODU0Mzc2LC0xMzEzNzkyODg0LDE4Njg1Mjg5
+OCwtMTIyMzU1MzUxMiwtMTE2MTA5NDM0MiwtMTYwODk4NjI3MC
+wxNjczMzk1NzUxLC0yOTU3MjM4MzYsODY0NzMwNTcsNzA1OTc3
+Njk0XX0=
 -->
