@@ -68,6 +68,7 @@ Ecology: The study of relationships between living organisms and between organis
  - Permafrost
  - Fossil Fuels
  - Limestone & Dolomite(lithosphere)
+	 - 
 #### Methane
  - Oxidized to Water and CO2
  - Methanogenesis: Methane is produced from organic matter in anaerobic conditions by archaeans and some diffuse into the atmosphere
@@ -75,9 +76,13 @@ Ecology: The study of relationships between living organisms and between organis
 #### Peat
  - PEat forms when organic matter is partially decomposed in anaerobic conditions in watterlogged soil
 #### Fossil Fuel
-  Partially decomposed orga
+ - Partially decomposed organic matter from past geological eras was converted to petroleum natural gas and coal
+ - Combustion:
+	 - reaction of hydrocarbons
+ - 
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM5NzkyMjAsMTQ1Njg4MDM3NiwyMT
+eyJoaXN0b3J5IjpbLTE3MjkwOTIwMDUsMTQ1Njg4MDM3NiwyMT
 M0NTIxODM2LC0xNTcxMjg4MjAyLDQ4MTcxMTU0NCwtMTc3OTA0
 OTc2NCw0NDU4NDYxMDgsLTIwMzc2NDI2NzEsMTEzMjc0ODgwOS
 wzNzQxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMzc5
