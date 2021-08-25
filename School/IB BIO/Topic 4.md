@@ -52,13 +52,15 @@ Ecology: The study of relationships between living organisms and between organis
  - Shoes the flow of energy between trophic levels
  - Measured in Units of energy per unit area per unit time( $kJ*m^{-2} * y^{-1}$
 
-
+#### Carbon Cycle
+ - Photosynthesis: a carbon sink
+ - Resperation: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNzExNTQ0LC0xNzc5MDQ5NzY0LDQ0NT
-g0NjEwOCwtMjAzNzY0MjY3MSwxMTMyNzQ4ODA5LDM3NDEwMjUy
-MSwtNzQ4ODk2Mzc4LDk3ODU0Mzc2LC0xMzEzNzkyODg0LDE4Nj
-g1Mjg5OCwtMTIyMzU1MzUxMiwtMTE2MTA5NDM0MiwtMTYwODk4
-NjI3MCwxNjczMzk1NzUxLC0yOTU3MjM4MzYsODY0NzMwNTcsNz
-A1OTc3Njk0LC0xODYyNDcwNzY2LDUwMDMzMzA3MywtNjM4NDI1
-ODY4XX0=
+eyJoaXN0b3J5IjpbODI3MzMxNzU4LDQ4MTcxMTU0NCwtMTc3OT
+A0OTc2NCw0NDU4NDYxMDgsLTIwMzc2NDI2NzEsMTEzMjc0ODgw
+OSwzNzQxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3NiwtMTMxMz
+c5Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTExNjEwOTQz
+NDIsLTE2MDg5ODYyNzAsMTY3MzM5NTc1MSwtMjk1NzIzODM2LD
+g2NDczMDU3LDcwNTk3NzY5NCwtMTg2MjQ3MDc2Niw1MDAzMzMw
+NzNdfQ==
 -->
