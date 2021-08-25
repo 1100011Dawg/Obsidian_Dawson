@@ -65,15 +65,16 @@ Ecology: The study of relationships between living organisms and between organis
  - Atmosphere Carbon Store
  - Ocean Carbon Store
  - Biosphere Carbon Store
- - Fossil Fules
+ - Permafrost
+ - Fossil Fuels
  - Limestone & Dolomite(lithosphere)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzEyODgyMDIsNDgxNzExNTQ0LC0xNz
-c5MDQ5NzY0LDQ0NTg0NjEwOCwtMjAzNzY0MjY3MSwxMTMyNzQ4
-ODA5LDM3NDEwMjUyMSwtNzQ4ODk2Mzc4LDk3ODU0Mzc2LC0xMz
-EzNzkyODg0LDE4Njg1Mjg5OCwtMTIyMzU1MzUxMiwtMTE2MTA5
-NDM0MiwtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0yOTU3MjM4Mz
-YsODY0NzMwNTcsNzA1OTc3Njk0LC0xODYyNDcwNzY2LDUwMDMz
-MzA3M119
+eyJoaXN0b3J5IjpbMjEzNDUyMTgzNiwtMTU3MTI4ODIwMiw0OD
+E3MTE1NDQsLTE3NzkwNDk3NjQsNDQ1ODQ2MTA4LC0yMDM3NjQy
+NjcxLDExMzI3NDg4MDksMzc0MTAyNTIxLC03NDg4OTYzNzgsOT
+c4NTQzNzYsLTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMjIzNTUz
+NTEyLC0xMTYxMDk0MzQyLC0xNjA4OTg2MjcwLDE2NzMzOTU3NT
+EsLTI5NTcyMzgzNiw4NjQ3MzA1Nyw3MDU5Nzc2OTQsLTE4NjI0
+NzA3NjZdfQ==
 -->
