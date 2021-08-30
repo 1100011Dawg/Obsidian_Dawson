@@ -26,9 +26,10 @@ Plot:
 	- Scene 4 [[Duncan]] thanks [[Banquo]] and [[Macbeth]] for their heroism. [[Duncan]] announces his son [[Malcolm]] will inherit the throne when he dies
 	- Scene 5 [[Lady Macbeth]] receives letter from [[Macbeth]] and thinks that he is too kind.
 	- Scene 6 [[Duncan]] and the Scottish lords arrive at [[Macbeth]]'s castle
-	- In scene 7 [[Macbeth]] wonder about killing the king decides not to but [[Lady Macbeth]] convinces him otherwise. analyze later
-	- Act 2 scen one sees vision of dagger
-	- Scene one had them kill the king and continued knowking, [[Macbeth]] didn't want to frame but [[Lady Macbeth]] did it.
+	- In scene 7 [[Macbeth]] wonder about killing the king decides not to but [[Lady Macbeth]] convinces him otherwise. Hatches plan to have Duncan unguarded and to act surprised on [[Duncan]]´s Death
+
+	- Act 2 scene one [[ sees vision of dagger hears bell and goes to kill [[Duncan]]
+	- Scene one had them kill the king and continued knocking, [[Macbeth]] didn't want to frame but [[Lady Macbeth]] did it.
 	- Scene three they find out the king is dead and it seems their going to ireland and england to tell of the news
 
 	- Act 3 scene 1: [[Banquo]] thinks [[Macbeth]] killed the king [[Duncan]] and [[Macbeth]] convinces murderers to kill [[Banquo]] That night. [[Macbeth]] expresses his fears that [[Banquo]]´s children will become future kings leading his murders fruitless to his family.
@@ -40,8 +41,8 @@ Plot:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5MDM5MzI0LC0xNDU0MTkxMzQ0LDE0ND
-Q1MjE4MzYsLTU4NTY4MTk4MCwtMjA1MzI0ODY4MSwtODUzMzgx
-NzgzLC0xMTgwNzU0OTUwLDM1MzU2NTcxNCwxNTk3Nzk2MDk4LD
-E1NDE0MjYxMl19
+eyJoaXN0b3J5IjpbLTE0NjIyNDcyNjYsLTE0NTQxOTEzNDQsMT
+Q0NDUyMTgzNiwtNTg1NjgxOTgwLC0yMDUzMjQ4NjgxLC04NTMz
+ODE3ODMsLTExODA3NTQ5NTAsMzUzNTY1NzE0LDE1OTc3OTYwOT
+gsMTU0MTQyNjEyXX0=
 -->
