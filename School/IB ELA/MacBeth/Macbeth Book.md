@@ -22,8 +22,8 @@ Interesting lines
 Plot:
 	- Act 1 scene one: [[Three witches]] gather
 	-  scene 2 The Scottish were fighting the irish invaders in scene 2. Also the [[Thane of Cawdor]] was defeated with Norway repealed. [[Duncan]] has Roos greet Macbeth with [[Tane of Cawdor]] title.
-	- Scene 3 The [[Three Witches]] say that [[Macbeth]] will be the [[Thane of Cawdor]] the king and the Thane of Glimith. Also 
-	- Scene 4 [[Duncan]] thanks [[Banquo]] and [[Macbeth]] for their heroism in scene 4
+	- Scene 3 The [[Three Witches]] say that [[Macbeth]] will be the [[Thane of Cawdor]] the king and the Thane of Glimith. Also tells [[Banquo]] his desedents will be king. Ross tells nes to [[Macbeth]]
+	- Scene 4 [[Duncan]] thanks [[Banquo]] and [[Macbeth]] for their heroism. [[Duncan]] anounces his son [[Malcolm]] will inherit the throne when 
 	- [[Duncan]] and the Scottish lords arrive at [[Macbeth]]'s castle in scene 6
 	- In scene 7 [[Macbeth]] wonder about killing the king decides not to but [[Lady Macbeth]] convinces him otherwise. analyze later
 	- Act 2 scen one sees vision of dagger
@@ -39,8 +39,8 @@ Plot:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk5NDE5OCwtMTQ1NDE5MTM0NCwxND
-Q0NTIxODM2LC01ODU2ODE5ODAsLTIwNTMyNDg2ODEsLTg1MzM4
-MTc4MywtMTE4MDc1NDk1MCwzNTM1NjU3MTQsMTU5Nzc5NjA5OC
-wxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4OTMyNDc4NzYsLTE0NTQxOTEzNDQsMT
+Q0NDUyMTgzNiwtNTg1NjgxOTgwLC0yMDUzMjQ4NjgxLC04NTMz
+ODE3ODMsLTExODA3NTQ5NTAsMzUzNTY1NzE0LDE1OTc3OTYwOT
+gsMTU0MTQyNjEyXX0=
 -->
