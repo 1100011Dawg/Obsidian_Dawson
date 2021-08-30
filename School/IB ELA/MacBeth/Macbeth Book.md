@@ -29,11 +29,12 @@ Plot:
 	- Scene three they find out the king is dead and it seems their going to ireland and england to tell of the news
 	- Act 3 scene 1: [[Banquo]] thinks [[Macbeth]] killed the king [[Duncan]] and [[Macbeth]] convinces murderers to kill [[Banquo]] That night. [[Macbeth]] expresses his fears that [[Banquo]]´s children will become future kings leading his murders fruitless to his family.
 	- scene two [[Lady Macbeth]] tries to convince [[Macbeth]] not to kill [[Banquo]]. [[Macbeth]] has had terrible dreams and that his mind is ¨full of Scorpions¨ with fears about [[Banquo]] and [[Fleance]]
-	- Scene three, Murderers attack [[Fleance]] and     
+	- Scene three, Murderers attack [[Fleance]] and [[Banquo]] and [[Banquo]] Shouts ¨Thou mayst revenge¨
+	- Scene 4 [[Macbeth]] learns that [[Fleance]] lives though not concerned b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDI3NjMyNiwtMTQ1NDE5MTM0NCwxND
+eyJoaXN0b3J5IjpbLTIyODYwMDIzNiwtMTQ1NDE5MTM0NCwxND
 Q0NTIxODM2LC01ODU2ODE5ODAsLTIwNTMyNDg2ODEsLTg1MzM4
 MTc4MywtMTE4MDc1NDk1MCwzNTM1NjU3MTQsMTU5Nzc5NjA5OC
 wxNTQxNDI2MTJdfQ==
