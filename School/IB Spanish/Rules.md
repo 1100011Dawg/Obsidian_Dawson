@@ -5,7 +5,9 @@
 > common ending adj: ado ido
 
 noun with dad is la if its ma is el
+
+Do is implied with the ? instead of hacer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3ODE1MTQ3LC0xOTI3NjA5NjI5LC0xNj
-Y2MzIyOTAyXX0=
+eyJoaXN0b3J5IjpbMTk0NTA2MTgwOCw4Njc4MTUxNDcsLTE5Mj
+c2MDk2MjksLTE2NjYzMjI5MDJdfQ==
 -->
