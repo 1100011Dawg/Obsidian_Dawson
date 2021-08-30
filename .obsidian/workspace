@@ -7,8 +7,11 @@
         "id": "088ae8e640cb6763",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "School/IB ELA/MacBeth/Duncan.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/IB ELA/MacBeth/Duncan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/IB ELA/MacBeth/Duncan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/IB ELA/MacBeth/Duncan.md"
+              }
             }
           },
           {
@@ -138,6 +145,8 @@
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
+    "School/IB ELA/MacBeth/Duncan.md",
+    "School/IB ELA/MacBeth/Lady Macbeth.md",
     "School/IB BIO/Topic 4.md",
     "School/IB Business/Unit 1.1(21-8-13).md",
     "School/IB ELA/MacBeth/Malcolm.md",
@@ -145,8 +154,6 @@
     "School/IB ELA/MacBeth/Macbeth Book.md",
     "School/IB ELA/MacBeth/Macbeth.md",
     "School/IB ELA/MacBeth/Macduff.md",
-    "School/IB ELA/MacBeth/Lennox.md",
-    "Media.md",
-    "School/IB ELA/MacBeth/Three witches.md"
+    "School/IB ELA/MacBeth/Lennox.md"
   ]
 }
