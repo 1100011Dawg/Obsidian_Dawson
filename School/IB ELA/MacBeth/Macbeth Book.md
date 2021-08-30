@@ -31,7 +31,7 @@ Plot:
 	- Act 2 scene one [[Macbeth]]  sees vision of dagger hears bell and goes to kill [[Duncan]]
 	- Scene one had them kill the king and continued knocking, [[Macbeth]] didn't want to frame but [[Lady Macbeth]] did it. She plants the guards daggers.
 	- Scene three they find out the king is dead and it seems their going to ireland and england to tell of the news
-	- [[Macduff]] tells [[Ross]] that he thinks the guards that murdered [[Duncan]] were bribed by [[Malcolm]] and [[
+	- [[Macduff]] tells [[Ross]] that he thinks the guards that murdered [[Duncan]] were bribed by [[Malcolm]] and [[DonalBain]].
 
 	- Act 3 scene 1: [[Banquo]] thinks [[Macbeth]] killed the king [[Duncan]] and [[Macbeth]] convinces murderers to kill [[Banquo]] That night. [[Macbeth]] expresses his fears that [[Banquo]]´s children will become future kings leading his murders fruitless to his family.
 	- scene two [[Lady Macbeth]] tries to convince [[Macbeth]] not to kill [[Banquo]]. [[Macbeth]] has had terrible dreams and that his mind is ¨full of Scorpions¨ with fears about [[Banquo]] and [[Fleance]]
@@ -42,8 +42,8 @@ Plot:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk0NDcwODIsLTE0NTQxOTEzNDQsMT
-Q0NDUyMTgzNiwtNTg1NjgxOTgwLC0yMDUzMjQ4NjgxLC04NTMz
-ODE3ODMsLTExODA3NTQ5NTAsMzUzNTY1NzE0LDE1OTc3OTYwOT
-gsMTU0MTQyNjEyXX0=
+eyJoaXN0b3J5IjpbMjE0NDkyNjY3NCwtMTQ1NDE5MTM0NCwxND
+Q0NTIxODM2LC01ODU2ODE5ODAsLTIwNTMyNDg2ODEsLTg1MzM4
+MTc4MywtMTE4MDc1NDk1MCwzNTM1NjU3MTQsMTU5Nzc5NjA5OC
+wxNTQxNDI2MTJdfQ==
 -->
