@@ -31,12 +31,13 @@ Plot:
 	- scene two [[Lady Macbeth]] tries to convince [[Macbeth]] not to kill [[Banquo]]. [[Macbeth]] has had terrible dreams and that his mind is ¨full of Scorpions¨ with fears about [[Banquo]] and [[Fleance]]
 	- Scene three, Murderers attack [[Fleance]] and [[Banquo]] and [[Banquo]] Shouts ¨Thou mayst revenge¨
 	- Scene 4 [[Macbeth]] learns that [[Fleance]] lives though not concerned because of his youth. [[Macduff]] did not come to the banquote and there was the ghost of [[Banquo]]
-	- Scene 5 [[Hecate]] is angry at the [[Three Witches]]
+	- Scene 5 [[Hecate]] is angry at the [[Three Witches]] for giving [[Macbeth]] prophecy without telling her
+	- Scene 6 [[Lennox is suspicious abou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODU2MTg1NCwtMTQ1NDE5MTM0NCwxND
-Q0NTIxODM2LC01ODU2ODE5ODAsLTIwNTMyNDg2ODEsLTg1MzM4
-MTc4MywtMTE4MDc1NDk1MCwzNTM1NjU3MTQsMTU5Nzc5NjA5OC
-wxNTQxNDI2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MjQ2MzUyMTYsLTE0NTQxOTEzNDQsMT
+Q0NDUyMTgzNiwtNTg1NjgxOTgwLC0yMDUzMjQ4NjgxLC04NTMz
+ODE3ODMsLTExODA3NTQ5NTAsMzUzNTY1NzE0LDE1OTc3OTYwOT
+gsMTU0MTQyNjEyXX0=
 -->
