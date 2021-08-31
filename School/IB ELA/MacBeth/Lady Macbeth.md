@@ -8,7 +8,8 @@
  - Wanted to convince Macbeth not to kill Banquo
  - ¨With most admired disorder¨(1344) refering to the Banquo ghost incedent with how stange he is being
  - (2055) sleepwalking
- - 
+ - ¨It is an accustomed action with her to seem thus washing her hands¨(2065) from GentleWoman
+ - ¨Yet who would have thought the old man to have had so much blood in him?¨(2076) while sleepwalking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODc0MDE1OSwyNzkzNjAyNDJdfQ==
+eyJoaXN0b3J5IjpbMTMyMTA3OTkxOSwyNzkzNjAyNDJdfQ==
 -->
