@@ -14,13 +14,13 @@
 - ¨And push us from our stools. This is more strange¨(1308) says the ghost is strange
 - ¨Come, we’ll to sleep. My strange and self-abuse Is the initiate fear that wants hard use. We are yet but young in deed¨(1384) need to get used to murdering
 - ¨Thou art too like the spirit of Banquo. Down! Thy crown does sear mine eyeballs.¨(1605) to apparitions of kings
-- 
+- ¨The castle of Macduff I will surprise,¨(1649)
 
 
 
 
  - mind of scorpean line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA4Mzk0MjIsLTE3NDUzMjkyMDcsLT
+eyJoaXN0b3J5IjpbLTEyOTUyMzc2NTcsLTE3NDUzMjkyMDcsLT
 E3NTg2OTM2NTNdfQ==
 -->
