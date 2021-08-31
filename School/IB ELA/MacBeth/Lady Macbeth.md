@@ -7,6 +7,8 @@
  - ¨Naught’s had, all’s spent,¨(1120) beginning of mental deterioration
  - Wanted to convince Macbeth not to kill Banquo
  - ¨With most admired disorder¨(1344) refering to the Banquo ghost incedent with how stange he is being
+ - (2055) sleepwalking
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5MzYwMjQyXX0=
+eyJoaXN0b3J5IjpbMTkzODc0MDE1OSwyNzkzNjAyNDJdfQ==
 -->
