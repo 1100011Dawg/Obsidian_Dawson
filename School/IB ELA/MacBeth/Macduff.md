@@ -2,6 +2,13 @@
 -"O gentle lady, ’Tis not for you to hear what I can speak. The repetition in a woman’s ear Would murder as it fell." to [[Lady Macbeth]] having a sort of irony and gender stereotypes
  - Son dies and Wife runs away 1750
  - Finds out about the murder
+ - 1701 his son and mother
+	 - L:Yes, he is dead. How wilt thou do for a father?
+	 - S:Nay, how will you do for a husband?
+	 - L:Why, I can buy me twenty at any market
+ - 
+	 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODU5MTEwMiwtMzM0ODcxMzAyXX0=
+eyJoaXN0b3J5IjpbODA2OTM0MDkzLDE3Nzg1OTExMDIsLTMzND
+g3MTMwMl19
 -->
