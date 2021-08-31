@@ -6,10 +6,10 @@
 	 - L:Yes, he is dead. How wilt thou do for a father?
 	 - S:Nay, how will you do for a husband?
 	 - L:Why, I can buy me twenty at any market
- - Son:
+ - Son: ¨Thou liest, thou shag-eared villain!¨(1748) to murderer who says traitor
  - 
-	 - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkwOTA3MzgsMTc3ODU5MTEwMiwtMz
-M0ODcxMzAyXX0=
+eyJoaXN0b3J5IjpbLTg5NzM0Mjk5MCwxNzc4NTkxMTAyLC0zMz
+Q4NzEzMDJdfQ==
 -->
