@@ -7,9 +7,10 @@
 	 - S:Nay, how will you do for a husband?
 	 - L:Why, I can buy me twenty at any market
  - Son: ¨Thou liest, thou shag-eared villain!¨(1748) to murderer who says traitor
+ - ¨This tyrant, whose sole name blisters our tongues¨(1776) to [[Malcolm]]
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzM0Mjk5MCwxNzc4NTkxMTAyLC0zMz
-Q4NzEzMDJdfQ==
+eyJoaXN0b3J5IjpbOTgxMDgxMjQsMTc3ODU5MTEwMiwtMzM0OD
+cxMzAyXX0=
 -->
