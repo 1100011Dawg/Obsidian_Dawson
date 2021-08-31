@@ -13,12 +13,13 @@
 - (1252) around this line Ghost of [[Banquo]] sits in his seat others can see ghost, so he looks crazy relates to him seeing a floating dagger
 - ¨And push us from our stools. This is more strange¨(1308) says the ghost is strange
 - ¨Come, we’ll to sleep. My strange and self-abuse Is the initiate fear that wants hard use. We are yet but young in deed¨(1384) need to get used to murdering
+- 
 
 
 
 
  - mind of scorpean line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUzMjkyMDcsLTE3NTg2OTM2NTNdfQ
-==
+eyJoaXN0b3J5IjpbLTEzNDU3NzI0MTIsLTE3NDUzMjkyMDcsLT
+E3NTg2OTM2NTNdfQ==
 -->
