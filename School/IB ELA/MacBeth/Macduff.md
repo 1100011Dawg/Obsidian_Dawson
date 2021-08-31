@@ -11,9 +11,9 @@
  - ¨Bleed, bleed, poor country!¨(1792)
  - ¨Not in the legions Of horrid hell can come a devil more damned In evils to top Macbeth¨(1821)
  - ¨O Scotland, Scotland!¨(187)
- - 
+ - (1993) finds out his Wife and babes were slaughtered
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mjk0NjUwMywxMzczMzMyMjY0LDE3Nz
+eyJoaXN0b3J5IjpbMTIzODkzODU0OCwxMzczMzMyMjY0LDE3Nz
 g1OTExMDIsLTMzNDg3MTMwMl19
 -->
