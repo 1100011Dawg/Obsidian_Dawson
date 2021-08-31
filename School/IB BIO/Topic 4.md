@@ -81,18 +81,21 @@ Ecology: The study of relationships between living organisms and between organis
 	 - reaction of hydrocarbons
  - 
 #### GreenHouse Gases
+Trap radiation
  - Carbon Dioxide
  - Water Vapor
  - Methane
  - Nitrous Oxides
 
 > Anthropogenic = human-caused
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY2MDQ2MDksMTI2Njc4MzU2NiwxND
-U2ODgwMzc2LDIxMzQ1MjE4MzYsLTE1NzEyODgyMDIsNDgxNzEx
-NTQ0LC0xNzc5MDQ5NzY0LDQ0NTg0NjEwOCwtMjAzNzY0MjY3MS
-wxMTMyNzQ4ODA5LDM3NDEwMjUyMSwtNzQ4ODk2Mzc4LDk3ODU0
-Mzc2LC0xMzEzNzkyODg0LDE4Njg1Mjg5OCwtMTIyMzU1MzUxMi
-wtMTE2MTA5NDM0MiwtMTYwODk4NjI3MCwxNjczMzk1NzUxLC0y
-OTU3MjM4MzZdfQ==
+eyJoaXN0b3J5IjpbLTE2NDU5NDk0MTMsLTEwMTY2MDQ2MDksMT
+I2Njc4MzU2NiwxNDU2ODgwMzc2LDIxMzQ1MjE4MzYsLTE1NzEy
+ODgyMDIsNDgxNzExNTQ0LC0xNzc5MDQ5NzY0LDQ0NTg0NjEwOC
+wtMjAzNzY0MjY3MSwxMTMyNzQ4ODA5LDM3NDEwMjUyMSwtNzQ4
+ODk2Mzc4LDk3ODU0Mzc2LC0xMzEzNzkyODg0LDE4Njg1Mjg5OC
+wtMTIyMzU1MzUxMiwtMTE2MTA5NDM0MiwtMTYwODk4NjI3MCwx
+NjczMzk1NzUxXX0=
 -->
