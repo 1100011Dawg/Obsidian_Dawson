@@ -8,9 +8,9 @@
 	 - L:Why, I can buy me twenty at any market
  - Son: ¨Thou liest, thou shag-eared villain!¨(1748) to murderer who says traitor
  - ¨This tyrant, whose sole name blisters our tongues¨(1776) to [[Malcolm]]
- - 
+ - ¨Bleed, bleed, poor country!¨(1792)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMDgxMjQsMTc3ODU5MTEwMiwtMzM0OD
-cxMzAyXX0=
+eyJoaXN0b3J5IjpbLTQ5MTA1MzMzLDE3Nzg1OTExMDIsLTMzND
+g3MTMwMl19
 -->
