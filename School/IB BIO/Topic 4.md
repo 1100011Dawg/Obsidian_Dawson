@@ -92,12 +92,18 @@ Trap radiation
 #### Climate Change effects:
  - Dissolved Carbon dioxide increases acidity of oceans which break down calcium carbonate that makes up reefs.
 
+#### Important chemicals
+ - Carbohydrates
+ - Proteins 
+ - Lipids
+ - Nucleate acids
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODk0MzQ3NiwtMTY0NTk0OTQxMywtMT
-AxNjYwNDYwOSwxMjY2NzgzNTY2LDE0NTY4ODAzNzYsMjEzNDUy
-MTgzNiwtMTU3MTI4ODIwMiw0ODE3MTE1NDQsLTE3NzkwNDk3Nj
-QsNDQ1ODQ2MTA4LC0yMDM3NjQyNjcxLDExMzI3NDg4MDksMzc0
-MTAyNTIxLC03NDg4OTYzNzgsOTc4NTQzNzYsLTEzMTM3OTI4OD
-QsMTg2ODUyODk4LC0xMjIzNTUzNTEyLC0xMTYxMDk0MzQyLC0x
-NjA4OTg2MjcwXX0=
+eyJoaXN0b3J5IjpbLTkyODQ0NjMyMCwxMDI4OTQzNDc2LC0xNj
+Q1OTQ5NDEzLC0xMDE2NjA0NjA5LDEyNjY3ODM1NjYsMTQ1Njg4
+MDM3NiwyMTM0NTIxODM2LC0xNTcxMjg4MjAyLDQ4MTcxMTU0NC
+wtMTc3OTA0OTc2NCw0NDU4NDYxMDgsLTIwMzc2NDI2NzEsMTEz
+Mjc0ODgwOSwzNzQxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3Ni
+wtMTMxMzc5Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTEx
+NjEwOTQzNDJdfQ==
 -->
