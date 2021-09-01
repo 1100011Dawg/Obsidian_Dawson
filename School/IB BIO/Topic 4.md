@@ -10,7 +10,7 @@ Ecology: The study of relationships between living organisms and between organis
 			- Photoautotrophy: Photosynthesis
 			- Chemoautotrophy: Chemothesis
 	- Heterotroph: Organisms which derive energy from other living organism(OBtains Carbon substances from others)
-		- Parisite: 
+		- Parasite: In this, organisms obtain food from other living organism, the host, with the host receiving no benefit from parasite.
 		- Consumers: Ingest organic matter which is living or recently killed
 			- Primary: Eat producers(herbivores)
 			- Secondary Eat other consumers(carnivores, omnivores)
@@ -100,11 +100,11 @@ Trap radiation
  - Nucleic acids
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzA4NTk1NCwtOTI4NDQ2MzIwLDEwMj
-g5NDM0NzYsLTE2NDU5NDk0MTMsLTEwMTY2MDQ2MDksMTI2Njc4
-MzU2NiwxNDU2ODgwMzc2LDIxMzQ1MjE4MzYsLTE1NzEyODgyMD
-IsNDgxNzExNTQ0LC0xNzc5MDQ5NzY0LDQ0NTg0NjEwOCwtMjAz
-NzY0MjY3MSwxMTMyNzQ4ODA5LDM3NDEwMjUyMSwtNzQ4ODk2Mz
-c4LDk3ODU0Mzc2LC0xMzEzNzkyODg0LDE4Njg1Mjg5OCwtMTIy
-MzU1MzUxMl19
+eyJoaXN0b3J5IjpbODM0NzQ0NDMzLC05Mjg0NDYzMjAsMTAyOD
+k0MzQ3NiwtMTY0NTk0OTQxMywtMTAxNjYwNDYwOSwxMjY2Nzgz
+NTY2LDE0NTY4ODAzNzYsMjEzNDUyMTgzNiwtMTU3MTI4ODIwMi
+w0ODE3MTE1NDQsLTE3NzkwNDk3NjQsNDQ1ODQ2MTA4LC0yMDM3
+NjQyNjcxLDExMzI3NDg4MDksMzc0MTAyNTIxLC03NDg4OTYzNz
+gsOTc4NTQzNzYsLTEzMTM3OTI4ODQsMTg2ODUyODk4LC0xMjIz
+NTUzNTEyXX0=
 -->
