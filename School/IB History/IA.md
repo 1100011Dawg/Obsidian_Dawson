@@ -5,6 +5,7 @@ Sections
 	- Reflection(4 marks)
 	- Bibliography(two main book sources)
 IA topics
+	- Kelly Criterion and baynism in investing
 	- scinece and the cold war
 		-  lamarkism
 		- To what effect did the cold war stunt progress on ___
@@ -18,6 +19,7 @@ Cold war and Science:
 	 - Abiogenic petroleum origin
 	 - To what extent did the cold war stunt scientific progress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjEwMTEyMywtMTc1MTc2OTEzMywxND
-Y2OTczOTQ1LDM0MzI4ODc4LC0yMTM0OTY4NjAyXX0=
+eyJoaXN0b3J5IjpbNjcyMjU3OTQ2LDE4MDIxMDExMjMsLTE3NT
+E3NjkxMzMsMTQ2Njk3Mzk0NSwzNDMyODg3OCwtMjEzNDk2ODYw
+Ml19
 -->
