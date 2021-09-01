@@ -10,6 +10,7 @@ Ecology: The study of relationships between living organisms and between organis
 			- Photoautotrophy: Photosynthesis
 			- Chemoautotrophy: Chemothesis
 	- Heterotroph: Organisms which derive energy from other living organism(OBtains Carbon substances from others)
+		- Parisite: 
 		- Consumers: Ingest organic matter which is living or recently killed
 			- Primary: Eat producers(herbivores)
 			- Secondary Eat other consumers(carnivores, omnivores)
@@ -96,14 +97,14 @@ Trap radiation
  - Carbohydrates
  - Proteins 
  - Lipids
- - Nucleate acids
+ - Nucleic acids
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODQ0NjMyMCwxMDI4OTQzNDc2LC0xNj
-Q1OTQ5NDEzLC0xMDE2NjA0NjA5LDEyNjY3ODM1NjYsMTQ1Njg4
-MDM3NiwyMTM0NTIxODM2LC0xNTcxMjg4MjAyLDQ4MTcxMTU0NC
-wtMTc3OTA0OTc2NCw0NDU4NDYxMDgsLTIwMzc2NDI2NzEsMTEz
-Mjc0ODgwOSwzNzQxMDI1MjEsLTc0ODg5NjM3OCw5Nzg1NDM3Ni
-wtMTMxMzc5Mjg4NCwxODY4NTI4OTgsLTEyMjM1NTM1MTIsLTEx
-NjEwOTQzNDJdfQ==
+eyJoaXN0b3J5IjpbLTM1MzA4NTk1NCwtOTI4NDQ2MzIwLDEwMj
+g5NDM0NzYsLTE2NDU5NDk0MTMsLTEwMTY2MDQ2MDksMTI2Njc4
+MzU2NiwxNDU2ODgwMzc2LDIxMzQ1MjE4MzYsLTE1NzEyODgyMD
+IsNDgxNzExNTQ0LC0xNzc5MDQ5NzY0LDQ0NTg0NjEwOCwtMjAz
+NzY0MjY3MSwxMTMyNzQ4ODA5LDM3NDEwMjUyMSwtNzQ4ODk2Mz
+c4LDk3ODU0Mzc2LC0xMzEzNzkyODg0LDE4Njg1Mjg5OCwtMTIy
+MzU1MzUxMl19
 -->
