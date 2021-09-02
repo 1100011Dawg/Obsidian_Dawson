@@ -7,11 +7,8 @@
         "id": "088ae8e640cb6763",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "School/IB ELA/MacBeth/Duncan.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB ELA/MacBeth/Duncan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB ELA/MacBeth/Duncan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/IB ELA/MacBeth/Duncan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,6 +138,7 @@
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
+    "Tane of Cawdor.md",
     "School/IB ELA/MacBeth/Duncan.md",
     "School/IB ELA/MacBeth/Lady Macbeth.md",
     "School/IB BIO/Topic 4.md",
@@ -153,7 +147,6 @@
     "School/IB ELA/MacBeth/DonalBain.md",
     "School/IB ELA/MacBeth/Macbeth Book.md",
     "School/IB ELA/MacBeth/Macbeth.md",
-    "School/IB ELA/MacBeth/Macduff.md",
-    "School/IB ELA/MacBeth/Lennox.md"
+    "School/IB ELA/MacBeth/Macduff.md"
   ]
 }
