@@ -7,8 +7,9 @@
  #### Theodore Roosevelt
 - Started Big Stick Diplomacy.
 - Belief in the white anglo saxon nation of the United States.
- - William Howard Taft
-	- Started Dollar Diplomacy.
+- This was how he pursued improved economic conditions.
+ #### William Howard Taft
+ - Started Dollar Diplomacy.
 #### Woodrow Wilson
 Started Moral Diplomacy to overthrow un democratic leaders.
 Roosevelt Corollary
@@ -25,5 +26,5 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTY3NjQyMF19
+eyJoaXN0b3J5IjpbMTg4NTkxOTQxMV19
 -->
