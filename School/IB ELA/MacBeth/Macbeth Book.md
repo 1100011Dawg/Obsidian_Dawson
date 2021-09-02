@@ -21,7 +21,7 @@ Interesting lines
  - 363 "Which fate and metaphysical aid doth seem"
 Plot:
 	- Act 1 scene one: [[Three witches]] gather
-	-  scene 2 The Scottish were fighting the irish invaders in scene 2. Also the [[Thane of Cawdor]] was defeated with Norway repealed. [[Duncan]] has Roos greet Macbeth with [[Tane of Cawdor]] title.
+	-  scene 2 The Scottish were fighting the irish invaders in scene 2. Also the [[Thane of Cawdor]] was defeated with Norway repealed. [[Duncan]] has Roos greet Macbeth with [[Thane of Cawdor]] title.
 	- Scene 3 The [[Three Witches]] say that [[Macbeth]] will be the [[Thane of Cawdor]] the king and the Thane of Glimith. Also tells [[Banquo]] his descendants will be king. Ross tells nes to [[Macbeth]]
 	- Scene 4 [[Duncan]] thanks [[Banquo]] and [[Macbeth]] for their heroism. [[Duncan]] announces his son [[Malcolm]] will inherit the throne when he dies
 	- Scene 5 [[Lady Macbeth]] receives letter from [[Macbeth]] and thinks that he is too kind.
