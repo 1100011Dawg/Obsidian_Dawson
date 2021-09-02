@@ -20,7 +20,8 @@
 #### Woodrow Wilson
  - Started Moral Diplomacy to overthrow un democratic leaders.
 #### Roosevelt Corollary
- - Roosevelts interpretation of the Monroe Docturine
+ - Roosevelt's interpretation of the Monroe Doctrine
+ - Based of European intervention to get ehri debts and then had the United States be a arbitrator.
  - 
 Foraker Act
 Jones Act
@@ -35,6 +36,6 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUxMzAwOTUsNzU2MjkzMjgyLDIxMj
-UxMTM1MDldfQ==
+eyJoaXN0b3J5IjpbLTYzMzQzNjM2MCw3NTYyOTMyODIsMjEyNT
+ExMzUwOV19
 -->
