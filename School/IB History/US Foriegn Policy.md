@@ -1,13 +1,15 @@
- -  Big Stick Diplomacy(Gunboat Diplomacy)
+#### Big Stick Diplomacy(Gunboat Diplomacy)
 	 - Started by Teddy Rosevelt. In response to the Monroe Doctrine . Justifies repeated intervention. During the Progressive era, they improved domestic policy, not oversea policy.
- -  Dollar Diplomacy
- -  Moral Diplomacy
+#### Dollar Diplomacy
+ - 
+#### Moral Diplomacy
+ - 
  #### Theodore Roosevelt
 - Started Big Stick Diplomacy.
-- 
+- Belief in the white anglo saxon nation of the United States.
  - William Howard Taft
 	- Started Dollar Diplomacy.
- - Woodrow Wilson
+#### Woodrow Wilson
 Started Moral Diplomacy to overthrow un democratic leaders.
 Roosevelt Corollary
 Foraker Act
@@ -23,5 +25,5 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMjg5NDQwXX0=
+eyJoaXN0b3J5IjpbMTE4NTY3NjQyMF19
 -->
