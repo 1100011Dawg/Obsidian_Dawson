@@ -24,8 +24,11 @@
  - Based of European intervention to get ehri debts and then had the United States be a arbitrator.
  - Used if any intervention from european powers or when America´s lives are at *risk* 
  - Costed our relation with Latin American countries.
- - 
-Foraker Act
+ - Basically intervened on Europe's behalf
+#### Foraker Act
+ - Of 1990
+ - Made sure that Puerto Rican be a Protecturate of the United States
+ - Had The United States have the most power
 Jones Act
 Spooner Act
 Clayton Bulwer Treaty
@@ -38,6 +41,6 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDM0ODA4MywxNjk5ODgxNTEwLDc1Nj
-I5MzI4MiwyMTI1MTEzNTA5XX0=
+eyJoaXN0b3J5IjpbNzAyMDI5OTUzLDE2OTk4ODE1MTAsNzU2Mj
+kzMjgyLDIxMjUxMTM1MDldfQ==
 -->
