@@ -20,7 +20,8 @@
 #### Woodrow Wilson
  - Started Moral Diplomacy to overthrow un democratic leaders.
 #### Roosevelt Corollary
- - Roosevelts interpretation of the Onerly corelary
+ - Roosevelts interpretation of the Monroe Docturine
+ - 
 Foraker Act
 Jones Act
 Spooner Act
@@ -34,6 +35,6 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzU4NDE5LDc1NjI5MzI4MiwyMTI1MT
-EzNTA5XX0=
+eyJoaXN0b3J5IjpbLTE0NzUxMzAwOTUsNzU2MjkzMjgyLDIxMj
+UxMTM1MDldfQ==
 -->
