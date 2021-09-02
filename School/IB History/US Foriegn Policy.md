@@ -22,7 +22,8 @@
 #### Roosevelt Corollary
  - Roosevelt's interpretation of the Monroe Doctrine
  - Based of European intervention to get ehri debts and then had the United States be a arbitrator.
- - 
+ - Used if any intervention from european powers or when America´s lives are at *risk* 
+ - Costed our relation with Latin American countries.
 Foraker Act
 Jones Act
 Spooner Act
@@ -36,6 +37,6 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzQzNjM2MCw3NTYyOTMyODIsMjEyNT
+eyJoaXN0b3J5IjpbMTY5OTg4MTUxMCw3NTYyOTMyODIsMjEyNT
 ExMzUwOV19
 -->
