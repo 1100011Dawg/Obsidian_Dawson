@@ -2,6 +2,7 @@
  - Started by Teddy Roosevelt. In response to the Monroe Doctrine . Justifies repeated intervention.
 - During the Progressive era, they improved domestic policy, not oversea policy.
  - Usually just need the threat.
+ - James Cable spelled out the nature of Gunboat Diplomacy.
 #### Dollar Diplomacy
  - 
 #### Moral Diplomacy
@@ -10,6 +11,7 @@
 - Started Big Stick Diplomacy.
 - Belief in the white anglo saxon nation of the United States.
 - This was how he pursued improved economic conditions. 
+- Was president during the progressive era.
  #### William Howard Taft
  - Started Dollar Diplomacy.
 #### Woodrow Wilson
@@ -28,5 +30,5 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0NjIxOTg4XX0=
+eyJoaXN0b3J5IjpbMjEyNTExMzUwOV19
 -->
