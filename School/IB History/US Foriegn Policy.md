@@ -1,6 +1,7 @@
 #### Big Stick Diplomacy(Gunboat Diplomacy)
-	 - Started by Teddy Rosevelt. In response to the Monroe Doctrine . Justifies repeated intervention.  - During the Progressive era, they improved domestic policy, not oversea policy.
-	 - 
+ - Started by Teddy Roosevelt. In response to the Monroe Doctrine . Justifies repeated intervention.
+- During the Progressive era, they improved domestic policy, not oversea policy.
+ - Usually just need the threat.
 #### Dollar Diplomacy
  - 
 #### Moral Diplomacy
@@ -27,5 +28,5 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0OTUzNjAxXX0=
+eyJoaXN0b3J5IjpbMzM0NjIxOTg4XX0=
 -->
