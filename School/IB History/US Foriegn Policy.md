@@ -27,13 +27,13 @@
  - Basically intervened on Europe's behalf
 #### Foraker Act
  - Of 1990
- - Made sure that Puerto Rican be a Protecturate of the United States
- - Had The United States have the most power in the goverment
+ - Made sure that Puerto Rican be a Protectorate of the United States
+ - Had The United States have the most power in the government
  - US appointed governor
-Jones Act(19
+Jones Act(1917)
  - Made puerto Ricans Citizens of the United States
- - gove more power to the Local goverment
- - Puerto Ricanś governor is cermonial in the United states
+ - give more power to the Local government
+ - Puerto Ricanś governor is ceremonial in the United states
 Spooner Act
 Clayton Bulwer Treaty
 Hay Pauncefote Treaty
@@ -45,6 +45,6 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMTczOTkzLDE2OTk4ODE1MTAsNzU2Mj
-kzMjgyLDIxMjUxMTM1MDldfQ==
+eyJoaXN0b3J5IjpbLTMxNDAzNjc2NywxNjk5ODgxNTEwLDc1Nj
+I5MzI4MiwyMTI1MTEzNTA5XX0=
 -->
