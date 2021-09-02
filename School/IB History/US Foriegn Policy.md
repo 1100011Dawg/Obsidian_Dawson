@@ -13,7 +13,8 @@
 - Belief in the white anglo saxon nation of the United States.
 - This was how he pursued improved economic conditions. 
 - Was president during the progressive era.
-- Expanded the power of the presidency 
+- Expanded the power of the presidency
+- Realized that america needed the Panama canal for the navy. 
  #### William Howard Taft
  - Started Dollar Diplomacy.
 #### Woodrow Wilson
@@ -33,5 +34,6 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MjkzMjgyLDIxMjUxMTM1MDldfQ==
+eyJoaXN0b3J5IjpbLTMyMzU4NDE5LDc1NjI5MzI4MiwyMTI1MT
+EzNTA5XX0=
 -->
