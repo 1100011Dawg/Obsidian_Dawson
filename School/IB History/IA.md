@@ -6,6 +6,8 @@ Sections
 	- Bibliography(two main book sources)
 IA topics
 	- Kelly Criterion and baynism in investing
+		- stochastic calculus
+		- bronian motion
 	- scinece and the cold war
 		-  lamarkism
 		- To what effect did the cold war stunt progress on ___
@@ -19,7 +21,7 @@ Cold war and Science:
 	 - Abiogenic petroleum origin
 	 - To what extent did the cold war stunt scientific progress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMjU3OTQ2LDE4MDIxMDExMjMsLTE3NT
-E3NjkxMzMsMTQ2Njk3Mzk0NSwzNDMyODg3OCwtMjEzNDk2ODYw
-Ml19
+eyJoaXN0b3J5IjpbNjc5NTUwNzI4LDY3MjI1Nzk0NiwxODAyMT
+AxMTIzLC0xNzUxNzY5MTMzLDE0NjY5NzM5NDUsMzQzMjg4Nzgs
+LTIxMzQ5Njg2MDJdfQ==
 -->
