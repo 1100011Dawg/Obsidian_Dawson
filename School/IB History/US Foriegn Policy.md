@@ -13,7 +13,7 @@
 - Belief in the white anglo saxon nation of the United States.
 - This was how he pursued improved economic conditions. 
 - Was president during the progressive era.
-- Expanded the power of the presedencey 
+- Expanded the power of the presidency 
  #### William Howard Taft
  - Started Dollar Diplomacy.
 #### Woodrow Wilson
@@ -33,5 +33,5 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjQzMzkyNSwyMTI1MTEzNTA5XX0=
+eyJoaXN0b3J5IjpbNzU2MjkzMjgyLDIxMjUxMTM1MDldfQ==
 -->
