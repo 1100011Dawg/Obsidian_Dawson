@@ -3,6 +3,7 @@
 - During the Progressive era, they improved domestic policy, not oversea policy.
  - Usually just need the threat.
  - James Cable spelled out the nature of Gunboat Diplomacy.
+ - Great White Fleet
 #### Dollar Diplomacy
  - 
 #### Moral Diplomacy
@@ -12,6 +13,7 @@
 - Belief in the white anglo saxon nation of the United States.
 - This was how he pursued improved economic conditions. 
 - Was president during the progressive era.
+- Expanded the power of the presedencey 
  #### William Howard Taft
  - Started Dollar Diplomacy.
 #### Woodrow Wilson
@@ -31,5 +33,5 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY4NjA3NDcsMjEyNTExMzUwOV19
+eyJoaXN0b3J5IjpbMTAxMjQzMzkyNSwyMTI1MTEzNTA5XX0=
 -->
