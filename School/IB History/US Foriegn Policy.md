@@ -15,8 +15,9 @@
  #### William Howard Taft
  - Started Dollar Diplomacy.
 #### Woodrow Wilson
-Started Moral Diplomacy to overthrow un democratic leaders.
-Roosevelt Corollary
+ - Started Moral Diplomacy to overthrow un democratic leaders.
+#### Roosevelt Corollary
+ - Roosevelts interpretation of the Onerly corelary
 Foraker Act
 Jones Act
 Spooner Act
@@ -30,5 +31,5 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTExMzUwOV19
+eyJoaXN0b3J5IjpbLTEyODY4NjA3NDcsMjEyNTExMzUwOV19
 -->
