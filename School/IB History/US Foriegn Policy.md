@@ -6,7 +6,8 @@
  - Great White Fleet
  - Ues Roosevelt's corollary
 #### Dollar Diplomacy
- - 
+ - Asserts U.S. influence in foreign lands through investment and trade
+ - Used Shows of Milita
  - 
 #### Moral Diplomacy
  - The United States decides if the country is diplomatic
@@ -47,7 +48,7 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYzOTIzODMsODQ5Nzc4Mzc3LC0xOT
-QzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUxMCw3NTYyOTMy
-ODIsMjEyNTExMzUwOV19
+eyJoaXN0b3J5IjpbMTUxODI2MjczNiw4NDk3NzgzNzcsLTE5ND
+M0NDQ0MzUsLTMxNDAzNjc2NywxNjk5ODgxNTEwLDc1NjI5MzI4
+MiwyMTI1MTEzNTA5XX0=
 -->
