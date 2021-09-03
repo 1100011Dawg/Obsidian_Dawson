@@ -7,7 +7,7 @@
  - Ues Roosevelt's corollary
 #### Dollar Diplomacy
  - Asserts U.S. influence in foreign lands through investment and trade
- - Used Shows of Milita
+ - Used Shows of Military might to protect business interests
  - 
 #### Moral Diplomacy
  - The United States decides if the country is diplomatic
@@ -20,6 +20,7 @@
 - Realized that america needed the Panama canal for the navy. 
 #### William Howard Taft
  - Started Dollar Diplomacy.
+ - Used the show of military to help U.S. businesses
 #### Woodrow Wilson
  - Started Moral Diplomacy to overthrow un democratic leaders.
 #### Roosevelt Corollary
@@ -48,7 +49,7 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODI2MjczNiw4NDk3NzgzNzcsLTE5ND
+eyJoaXN0b3J5IjpbMTg2Njk3MjYyMyw4NDk3NzgzNzcsLTE5ND
 M0NDQ0MzUsLTMxNDAzNjc2NywxNjk5ODgxNTEwLDc1NjI5MzI4
 MiwyMTI1MTEzNTA5XX0=
 -->
