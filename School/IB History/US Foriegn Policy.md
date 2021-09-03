@@ -8,7 +8,7 @@
 #### Dollar Diplomacy
  - Asserts U.S. influence in foreign lands through investment and trade
  - Used Shows of Military might to protect business interests
- - 
+ - Repeatedly implemented puppet states
 #### Moral Diplomacy
  - The United States decides if the country is diplomatic
 #### Theodore Roosevelt
@@ -21,6 +21,7 @@
 #### William Howard Taft
  - Started Dollar Diplomacy.
  - Used the show of military to help U.S. businesses
+ - 
 #### Woodrow Wilson
  - Started Moral Diplomacy to overthrow un democratic leaders.
 #### Roosevelt Corollary
@@ -49,7 +50,7 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Njk3MjYyMyw4NDk3NzgzNzcsLTE5ND
-M0NDQ0MzUsLTMxNDAzNjc2NywxNjk5ODgxNTEwLDc1NjI5MzI4
-MiwyMTI1MTEzNTA5XX0=
+eyJoaXN0b3J5IjpbMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nz
+c4Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUx
+MCw3NTYyOTMyODIsMjEyNTExMzUwOV19
 -->
