@@ -8,7 +8,7 @@
  - 
  - 
 #### Moral Diplomacy
- - 
+ - The United States decides if the country is diplomatic
 #### Theodore Roosevelt
 - Started Big Stick Diplomacy.
 - Belief in the white anglo saxon nation of the United States.
@@ -46,7 +46,7 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzQwMzczMiwtMTk0MzQ0NDQzNSwtMz
-E0MDM2NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMjUxMTM1
-MDldfQ==
+eyJoaXN0b3J5IjpbODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC0zMT
+QwMzY3NjcsMTY5OTg4MTUxMCw3NTYyOTMyODIsMjEyNTExMzUw
+OV19
 -->
