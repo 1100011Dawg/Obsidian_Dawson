@@ -17,6 +17,7 @@
  - The United States decides if the country is diplomatic
  - Added to Dollar and Big Stick Diplomacy
  - Would help out democratic countries.
+ - Made countries fall in line with basically Dollar Diplomacy
 #### Theodore Roosevelt
 - Started Big Stick Diplomacy.
 - Belief in the white anglo saxon nation of the United States.
@@ -62,8 +63,8 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNDg2MjY4LDEyMzY1Nzk5MzIsNDYxND
-AzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4NjI1NSwxODY2OTcyNjIz
-LDg0OTc3ODM3NywtMTk0MzQ0NDQzNSwtMzE0MDM2NzY3LDE2OT
-k4ODE1MTAsNzU2MjkzMjgyLDIxMjUxMTM1MDldfQ==
+eyJoaXN0b3J5IjpbLTE2NTU2MzExMTYsMTIzNjU3OTkzMiw0Nj
+E0MDM2MzYsLTE5MjY3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2
+MjMsODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMT
+Y5OTg4MTUxMCw3NTYyOTMyODIsMjEyNTExMzUwOV19
 -->
