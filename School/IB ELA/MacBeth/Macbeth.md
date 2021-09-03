@@ -16,12 +16,13 @@
 - ¨Thou art too like the spirit of Banquo. Down! Thy crown does sear mine eyeballs.¨(1605) to apparitions of kings
 - ¨The castle of Macduff I will surprise,¨(1649)
 - ¨What’s the boy Malcolm? Was he not born of woman?¨(2159)
+- ¨I will not be afraid of death and bane¨(2229)
 
 
 
 
  - mind of scorpean line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzI4ODI3NywtMTc0NTMyOTIwNywtMT
-c1ODY5MzY1M119
+eyJoaXN0b3J5IjpbMjAxOTc1MzM2MiwxNDI3Mjg4Mjc3LC0xNz
+Q1MzI5MjA3LC0xNzU4NjkzNjUzXX0=
 -->
