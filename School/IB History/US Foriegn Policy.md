@@ -8,14 +8,14 @@
  - 
 #### Moral Diplomacy
  - 
- #### Theodore Roosevelt
+#### Theodore Roosevelt
 - Started Big Stick Diplomacy.
 - Belief in the white anglo saxon nation of the United States.
 - This was how he pursued improved economic conditions. 
 - Was president during the progressive era.
 - Expanded the power of the presidency
 - Realized that america needed the Panama canal for the navy. 
- #### William Howard Taft
+#### William Howard Taft
  - Started Dollar Diplomacy.
 #### Woodrow Wilson
  - Started Moral Diplomacy to overthrow un democratic leaders.
@@ -45,6 +45,6 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDAzNjc2NywxNjk5ODgxNTEwLDc1Nj
-I5MzI4MiwyMTI1MTEzNTA5XX0=
+eyJoaXN0b3J5IjpbLTE5NDM0NDQ0MzUsLTMxNDAzNjc2NywxNj
+k5ODgxNTEwLDc1NjI5MzI4MiwyMTI1MTEzNTA5XX0=
 -->
