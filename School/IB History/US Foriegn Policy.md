@@ -4,6 +4,7 @@
  - Usually just need the threat.
  - James Cable spelled out the nature of Gunboat Diplomacy.
  - Great White Fleet
+ - Ues Rosevelts corelary
 #### Dollar Diplomacy
  - 
  - 
@@ -46,7 +47,7 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC0zMT
-QwMzY3NjcsMTY5OTg4MTUxMCw3NTYyOTMyODIsMjEyNTExMzUw
-OV19
+eyJoaXN0b3J5IjpbMTU4NzgxOTAzNyw4NDk3NzgzNzcsLTE5ND
+M0NDQ0MzUsLTMxNDAzNjc2NywxNjk5ODgxNTEwLDc1NjI5MzI4
+MiwyMTI1MTEzNTA5XX0=
 -->
