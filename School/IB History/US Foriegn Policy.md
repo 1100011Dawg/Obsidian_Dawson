@@ -12,6 +12,7 @@
  - The lodge corollary was were latin american countries can only interact with U.S. business interest
  - Increased the interventions in latin america
  - Didn improve latin america living conditions
+ - For a while think they could boost Canadian foreign interest
 #### Moral Diplomacy
  - The United States decides if the country is diplomatic
 #### Theodore Roosevelt
@@ -54,8 +55,8 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNDAzNjM2LC0xOTI2NzkxNTM4LDE2NT
-Q4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQz
-NSwtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMj
-UxMTM1MDldfQ==
+eyJoaXN0b3J5IjpbLTE5Njk3NDQwNDEsNDYxNDAzNjM2LC0xOT
+I2NzkxNTM4LDE2NTQ4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3
+NywtMTk0MzQ0NDQzNSwtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNz
+U2MjkzMjgyLDIxMjUxMTM1MDldfQ==
 -->
