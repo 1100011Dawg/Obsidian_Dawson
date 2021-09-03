@@ -32,6 +32,7 @@
  - Second Democrat since Civil war
  - Was president during World War one
  - Help created the League of Nations
+ - Wilsonian: term for policies that emphasized moralism and internationalism.
 #### Roosevelt Corollary
  - Roosevelt's interpretation of the Monroe Doctrine
  - Based of European intervention to get ehri debts and then had the United States be a arbitrator.
@@ -58,8 +59,8 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyNDc5NTcwLDEyMzY1Nzk5MzIsNDYxND
-AzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4NjI1NSwxODY2OTcyNjIz
-LDg0OTc3ODM3NywtMTk0MzQ0NDQzNSwtMzE0MDM2NzY3LDE2OT
-k4ODE1MTAsNzU2MjkzMjgyLDIxMjUxMTM1MDldfQ==
+eyJoaXN0b3J5IjpbLTE1ODU1Mzk4MTcsMTIzNjU3OTkzMiw0Nj
+E0MDM2MzYsLTE5MjY3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2
+MjMsODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMT
+Y5OTg4MTUxMCw3NTYyOTMyODIsMjEyNTExMzUwOV19
 -->
