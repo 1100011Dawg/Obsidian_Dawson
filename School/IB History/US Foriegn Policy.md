@@ -21,7 +21,7 @@
 #### William Howard Taft
  - Started Dollar Diplomacy.
  - Used the show of military to help U.S. businesses
- - 
+ - Says that his policy is a legitimate use of capital.
 #### Woodrow Wilson
  - Started Moral Diplomacy to overthrow un democratic leaders.
 #### Roosevelt Corollary
@@ -50,7 +50,7 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nz
-c4Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUx
-MCw3NTYyOTMyODIsMjEyNTExMzUwOV19
+eyJoaXN0b3J5IjpbLTE5MjY3OTE1MzgsMTY1NDg2MjU1LDE4Nj
+Y5NzI2MjMsODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3
+NjcsMTY5OTg4MTUxMCw3NTYyOTMyODIsMjEyNTExMzUwOV19
 -->
