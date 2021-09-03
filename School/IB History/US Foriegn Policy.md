@@ -29,6 +29,7 @@
  - Was picked by Teddy Roosevelt
 #### Woodrow Wilson
  - Started Moral Diplomacy to overthrow un democratic leaders.
+ - Second Democrat since Civil war
 #### Roosevelt Corollary
  - Roosevelt's interpretation of the Monroe Doctrine
  - Based of European intervention to get ehri debts and then had the United States be a arbitrator.
@@ -55,8 +56,8 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk3NDQwNDEsNDYxNDAzNjM2LC0xOT
-I2NzkxNTM4LDE2NTQ4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3
-NywtMTk0MzQ0NDQzNSwtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNz
-U2MjkzMjgyLDIxMjUxMTM1MDldfQ==
+eyJoaXN0b3J5IjpbMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5Mj
+Y3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3
+LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUxMCw3NT
+YyOTMyODIsMjEyNTExMzUwOV19
 -->
