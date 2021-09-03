@@ -9,6 +9,7 @@
  - Asserts U.S. influence in foreign lands through investment and trade
  - Used Shows of Military might to protect business interests
  - Repeatedly implemented puppet states
+ - The lodge corollary was were latin american countries can onl
 #### Moral Diplomacy
  - The United States decides if the country is diplomatic
 #### Theodore Roosevelt
@@ -50,7 +51,8 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY3OTE1MzgsMTY1NDg2MjU1LDE4Nj
-Y5NzI2MjMsODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3
-NjcsMTY5OTg4MTUxMCw3NTYyOTMyODIsMjEyNTExMzUwOV19
+eyJoaXN0b3J5IjpbNzUyNzU0ODU5LC0xOTI2NzkxNTM4LDE2NT
+Q4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQz
+NSwtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMj
+UxMTM1MDldfQ==
 -->
