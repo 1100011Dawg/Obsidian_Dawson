@@ -31,7 +31,7 @@
  - Made sure that Puerto Rican be a Protectorate of the United States
  - Had The United States have the most power in the government
  - US appointed governor
-Jones Act(1917)
+#### Jones Act(1917)
  - Made puerto Ricans Citizens of the United States
  - give more power to the Local government
  - Puerto Ricanś governor is ceremonial in the United states
@@ -46,7 +46,7 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI1MDI0NTQsLTE5NDM0NDQ0MzUsLT
-MxNDAzNjc2NywxNjk5ODgxNTEwLDc1NjI5MzI4MiwyMTI1MTEz
-NTA5XX0=
+eyJoaXN0b3J5IjpbMTM4MzQwMzczMiwtMTk0MzQ0NDQzNSwtMz
+E0MDM2NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMjUxMTM1
+MDldfQ==
 -->
