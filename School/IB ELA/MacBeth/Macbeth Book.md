@@ -39,11 +39,11 @@ Plot:
 	- Scene 4 [[Macbeth]] learns that [[Fleance]] lives though not concerned because of his youth. [[Macduff]] did not come to the banquote and there was the ghost of [[Banquo]]
 	- Scene 5 [[Hecate]] is angry at the [[Three Witches]] for giving [[Macbeth]] prophecy without telling her
 	- Scene 6 [[Lennox is suspicious about the murder of [[Duncan]] and [[Banquo]] 
-	- Their going to chop down forest and hide act 4 scene 5 
+	- Their going to chop down forest and hide act 4 scene 5 having the prophecy of the Forest to [[Macbeth]] Castle
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzE3MTg4MSwyMTQ0OTI2Njc0LC0xND
+eyJoaXN0b3J5IjpbLTY1Nzk0MTMyMSwyMTQ0OTI2Njc0LC0xND
 U0MTkxMzQ0LDE0NDQ1MjE4MzYsLTU4NTY4MTk4MCwtMjA1MzI0
 ODY4MSwtODUzMzgxNzgzLC0xMTgwNzU0OTUwLDM1MzU2NTcxNC
 wxNTk3Nzk2MDk4LDE1NDE0MjYxMl19
