@@ -13,9 +13,9 @@
  - ¨O Scotland, Scotland!¨(187)
  - (1993) finds out his Wife and babes were slaughtered
  - ¨My wife and children’s ghosts will haunt me still.¨(2350)
- - ¨Tell thee Macduff was from his mother’s womb Untimely ripped.¨(2384) got a C-section
+ - ¨Tell thee Macduff was from his mother’s womb Untimely ripped.¨(2384) got a C-section fullfilling second half of [[Three witches]] prophecy about [[Macbeth]]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MzA1MDI1LDEyMzg5Mzg1NDgsMTM3Mz
-MzMjI2NCwxNzc4NTkxMTAyLC0zMzQ4NzEzMDJdfQ==
+eyJoaXN0b3J5IjpbLTgyNjExNDg2MSwxMjM4OTM4NTQ4LDEzNz
+MzMzIyNjQsMTc3ODU5MTEwMiwtMzM0ODcxMzAyXX0=
 -->
