@@ -10,6 +10,8 @@
  - (2055) sleepwalking
  - ¨It is an accustomed action with her to seem thus washing her hands¨(2065) from GentleWoman
  - ¨Yet who would have thought the old man to have had so much blood in him?¨(2076) while sleepwalking
+ - Dies (2267)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTA3OTkxOSwyNzkzNjAyNDJdfQ==
+eyJoaXN0b3J5IjpbLTQyNzU3OTgxLDEzMjEwNzk5MTksMjc5Mz
+YwMjQyXX0=
 -->
