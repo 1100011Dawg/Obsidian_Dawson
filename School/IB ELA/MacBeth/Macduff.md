@@ -12,8 +12,9 @@
  - ¨Not in the legions Of horrid hell can come a devil more damned In evils to top Macbeth¨(1821)
  - ¨O Scotland, Scotland!¨(187)
  - (1993) finds out his Wife and babes were slaughtered
+ - ¨My wife and children’s ghosts will haunt me still.¨(2350)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODkzODU0OCwxMzczMzMyMjY0LDE3Nz
-g1OTExMDIsLTMzNDg3MTMwMl19
+eyJoaXN0b3J5IjpbMTc0Mzk4MDA4MSwxMjM4OTM4NTQ4LDEzNz
+MzMzIyNjQsMTc3ODU5MTEwMiwtMzM0ODcxMzAyXX0=
 -->
