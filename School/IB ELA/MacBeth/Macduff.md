@@ -14,8 +14,9 @@
  - (1993) finds out his Wife and babes were slaughtered
  - ¨My wife and children’s ghosts will haunt me still.¨(2350)
  - ¨Tell thee Macduff was from his mother’s womb Untimely ripped.¨(2384) got a C-section fullfilling second half of [[Three witches]] prophecy about [[Macbeth]]
+ - Becomes King of Scottland
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjExNDg2MSwxMjM4OTM4NTQ4LDEzNz
-MzMzIyNjQsMTc3ODU5MTEwMiwtMzM0ODcxMzAyXX0=
+eyJoaXN0b3J5IjpbLTE1MjQ0OTQ5NzgsMTIzODkzODU0OCwxMz
+czMzMyMjY0LDE3Nzg1OTExMDIsLTMzNDg3MTMwMl19
 -->
