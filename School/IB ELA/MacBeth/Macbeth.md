@@ -19,13 +19,13 @@
 - ¨I will not be afraid of death and bane, Till Birnam Forest come to Dunsinane¨(2229)
 - ¨Told by an idiot, full of sound and fury, Signifying nothing.¨(2289) around here is a pretty famous line
 - ¨The Wood began to move.¨(2298) half of the prophecy is done
-- Kill Siward
+- Kill young Siward(2343)
 
 
 
 
  - mind of scorpean line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDM3NTA5OSw1MzkwMDMyMjQsMTQyNz
-I4ODI3NywtMTc0NTMyOTIwNywtMTc1ODY5MzY1M119
+eyJoaXN0b3J5IjpbMzEzNjkzNzI0LDUzOTAwMzIyNCwxNDI3Mj
+g4Mjc3LC0xNzQ1MzI5MjA3LC0xNzU4NjkzNjUzXX0=
 -->
