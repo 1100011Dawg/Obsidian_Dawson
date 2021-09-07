@@ -18,12 +18,13 @@
 - ¨What’s the boy Malcolm? Was he not born of woman?¨(2159)
 - ¨I will not be afraid of death and bane, Till Birnam Forest come to Dunsinane¨(2229)
 - ¨Told by an idiot, full of sound and fury, Signifying nothing.¨(2289) around here is a pretty famous line
+- ¨The Wood began to move.¨(2298) half of the prophecy is done
 
 
 
 
  - mind of scorpean line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkxMzI0NzksNTM5MDAzMjI0LDE0Mj
-cyODgyNzcsLTE3NDUzMjkyMDcsLTE3NTg2OTM2NTNdfQ==
+eyJoaXN0b3J5IjpbMTcyNDAyMzE0Niw1MzkwMDMyMjQsMTQyNz
+I4ODI3NywtMTc0NTMyOTIwNywtMTc1ODY5MzY1M119
 -->
