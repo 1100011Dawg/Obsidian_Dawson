@@ -11,7 +11,7 @@
  - Repeatedly implemented puppet states
  - The lodge corollary was were latin american countries can only interact with U.S. business interest
  - Increased the interventions in latin america
- - Didn improve latin america living conditions
+ - Didn´t improve latin america living conditions
  - For a while think they could boost Canadian foreign interest
 #### Moral Diplomacy
  - The United States decides if the country is diplomatic
@@ -37,6 +37,7 @@
  - Help created the League of Nations
  - Wilsonian: term for policies that emphasized moralism and internationalism.
  - Greatest military interventionist in the history of the U.S.
+ - Involved in the Mexican revolution because of US interests
 #### Roosevelt Corollary
  - Roosevelt's interpretation of the Monroe Doctrine
  - Based of European intervention to get ehri debts and then had the United States be a arbitrator.
@@ -63,8 +64,9 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU2MzExMTYsMTIzNjU3OTkzMiw0Nj
-E0MDM2MzYsLTE5MjY3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2
-MjMsODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMT
-Y5OTg4MTUxMCw3NTYyOTMyODIsMjEyNTExMzUwOV19
+eyJoaXN0b3J5IjpbLTE1NDY1MzI2NTQsLTE2NTU2MzExMTYsMT
+IzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3OTE1MzgsMTY1NDg2
+MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC
+0zMTQwMzY3NjcsMTY5OTg4MTUxMCw3NTYyOTMyODIsMjEyNTEx
+MzUwOV19
 -->
