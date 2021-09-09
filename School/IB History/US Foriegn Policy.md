@@ -69,11 +69,11 @@ Zimmerman Telegram
 #### U.S. Declaration of War
  - Wanted to maintain it´s isolationist stance
  - Started due to the Zimmerman Telegram to Mexico about allying against the United States. On British Lines.
- - 
+ - April 6 war resolution passed in congress
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzkzNTI3NywtMTM2Njg0MjYyNCwtNj
+eyJoaXN0b3J5IjpbMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNj
 YyMDk2NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2
 NTQsLTE2NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLT
 E5MjY3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4
