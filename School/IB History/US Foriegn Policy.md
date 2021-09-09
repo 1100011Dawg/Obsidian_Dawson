@@ -39,7 +39,7 @@
  - Greatest military interventionist in the history of the U.S.
  - Involved in the Mexican revolution because of US interests
  - Supported Carranza initial before he refused to cooperate
- - Due to the Mexican Revolution he wanted an ¨orderly processes¨ in Latin America such 
+ - Due to the Mexican Revolution he wanted an ¨orderly processes¨ in Latin America such as Dominican Republic, Puerto Rico and the Caribbean(because of Panama Canal)
 #### Roosevelt Corollary
  - Roosevelt's interpretation of the Monroe Doctrine
  - Based of European intervention to get ehri debts and then had the United States be a arbitrator.
@@ -66,9 +66,9 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAwMDg2NTIsLTE1NDY1MzI2NTQsLT
-E2NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3
-OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC
-0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUxMCw3NTYy
-OTMyODIsMjEyNTExMzUwOV19
+eyJoaXN0b3J5IjpbLTYzMjEyNTY1MiwtMTU0NjUzMjY1NCwtMT
+Y1NTYzMTExNiwxMjM2NTc5OTMyLDQ2MTQwMzYzNiwtMTkyNjc5
+MTUzOCwxNjU0ODYyNTUsMTg2Njk3MjYyMyw4NDk3NzgzNzcsLT
+E5NDM0NDQ0MzUsLTMxNDAzNjc2NywxNjk5ODgxNTEwLDc1NjI5
+MzI4MiwyMTI1MTEzNTA5XX0=
 -->
