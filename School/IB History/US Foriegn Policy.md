@@ -61,7 +61,7 @@ Hay Pauncefote Treaty
 #### Hay Bunau Varilla Treaty
  - A Treaty were we gain soil around the Panama Canal
  - Nov. 18, 1903
- - In exchange for financial compesation
+ - In exchange for financial compensation
 Treaty of Versailles
 Henry Cabot Lodge
 Zimmerman Telegram
@@ -69,9 +69,9 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI2NjI4NTAsLTYzMjEyNTY1MiwtMT
-U0NjUzMjY1NCwtMTY1NTYzMTExNiwxMjM2NTc5OTMyLDQ2MTQw
-MzYzNiwtMTkyNjc5MTUzOCwxNjU0ODYyNTUsMTg2Njk3MjYyMy
-w4NDk3NzgzNzcsLTE5NDM0NDQ0MzUsLTMxNDAzNjc2NywxNjk5
-ODgxNTEwLDc1NjI5MzI4MiwyMTI1MTEzNTA5XX0=
+eyJoaXN0b3J5IjpbMzk1NDYyOTIsLTYzMjEyNTY1MiwtMTU0Nj
+UzMjY1NCwtMTY1NTYzMTExNiwxMjM2NTc5OTMyLDQ2MTQwMzYz
+NiwtMTkyNjc5MTUzOCwxNjU0ODYyNTUsMTg2Njk3MjYyMyw4ND
+k3NzgzNzcsLTE5NDM0NDQ0MzUsLTMxNDAzNjc2NywxNjk5ODgx
+NTEwLDc1NjI5MzI4MiwyMTI1MTEzNTA5XX0=
 -->
