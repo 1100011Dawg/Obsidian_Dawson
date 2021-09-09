@@ -40,6 +40,7 @@
  - Involved in the Mexican revolution because of US interests
  - Supported Carranza initial before he refused to cooperate
  - Due to the Mexican Revolution he wanted an ¨orderly processes¨ in Latin America such as Dominican Republic, Puerto Rico and the Caribbean(because of Panama Canal)
+ - Wanted to remain neutral initially in World War One
 #### Roosevelt Corollary
  - Roosevelt's interpretation of the Monroe Doctrine
  - Based of European intervention to get ehri debts and then had the United States be a arbitrator.
@@ -70,10 +71,10 @@ Zimmerman Telegram
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjA5NjYyMCwzOTU0NjI5MiwtNjMyMT
-I1NjUyLC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LDEyMzY1Nzk5
-MzIsNDYxNDAzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4NjI1NSwxOD
-Y2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQzNSwtMzE0MDM2
-NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMjUxMTM1MDldfQ
-==
+eyJoaXN0b3J5IjpbLTEzNjY4NDI2MjQsLTY2MjA5NjYyMCwzOT
+U0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0xNjU1NjMx
+MTE2LDEyMzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2NzkxNTM4LD
+E2NTQ4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0
+NDQzNSwtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLD
+IxMjUxMTM1MDldfQ==
 -->
