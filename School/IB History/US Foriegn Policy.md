@@ -38,6 +38,7 @@
  - Wilsonian: term for policies that emphasized moralism and internationalism.
  - Greatest military interventionist in the history of the U.S.
  - Involved in the Mexican revolution because of US interests
+ - Supported Carranza initial before he refused to 
 #### Roosevelt Corollary
  - Roosevelt's interpretation of the Monroe Doctrine
  - Based of European intervention to get ehri debts and then had the United States be a arbitrator.
@@ -64,9 +65,9 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY1MzI2NTQsLTE2NTU2MzExMTYsMT
-IzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3OTE1MzgsMTY1NDg2
-MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC
-0zMTQwMzY3NjcsMTY5OTg4MTUxMCw3NTYyOTMyODIsMjEyNTEx
-MzUwOV19
+eyJoaXN0b3J5IjpbLTExMjQ3OTQsLTE1NDY1MzI2NTQsLTE2NT
+U2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3OTE1
+MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC0xOT
+QzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUxMCw3NTYyOTMy
+ODIsMjEyNTExMzUwOV19
 -->
