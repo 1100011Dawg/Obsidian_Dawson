@@ -68,13 +68,15 @@ Henry Cabot Lodge
 Zimmerman Telegram
 #### U.S. Declaration of War
  - Wanted to maintain it´s isolationist stance
+ - Started due to the Zimmerman Telegram to Mexico about allying against the United States. On British Lines.
+ - 
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY4NDI2MjQsLTY2MjA5NjYyMCwzOT
-U0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0xNjU1NjMx
-MTE2LDEyMzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2NzkxNTM4LD
-E2NTQ4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0
-NDQzNSwtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLD
-IxMjUxMTM1MDldfQ==
+eyJoaXN0b3J5IjpbLTk3NzkzNTI3NywtMTM2Njg0MjYyNCwtNj
+YyMDk2NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2
+NTQsLTE2NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLT
+E5MjY3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4
+Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUxMC
+w3NTYyOTMyODIsMjEyNTExMzUwOV19
 -->
