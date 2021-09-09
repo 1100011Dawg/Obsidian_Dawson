@@ -58,7 +58,10 @@
 Spooner Act
 Clayton Bulwer Treaty
 Hay Pauncefote Treaty
-Hay Bunau Varilla Treaty
+#### Hay Bunau Varilla Treaty
+ - A Treaty were we gain soil around the Panama Canal
+ - Nov. 18, 1903
+ - In exchange for financial compesation
 Treaty of Versailles
 Henry Cabot Lodge
 Zimmerman Telegram
@@ -66,9 +69,9 @@ U.S. Declaration of War
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjEyNTY1MiwtMTU0NjUzMjY1NCwtMT
-Y1NTYzMTExNiwxMjM2NTc5OTMyLDQ2MTQwMzYzNiwtMTkyNjc5
-MTUzOCwxNjU0ODYyNTUsMTg2Njk3MjYyMyw4NDk3NzgzNzcsLT
-E5NDM0NDQ0MzUsLTMxNDAzNjc2NywxNjk5ODgxNTEwLDc1NjI5
-MzI4MiwyMTI1MTEzNTA5XX0=
+eyJoaXN0b3J5IjpbLTEyMDI2NjI4NTAsLTYzMjEyNTY1MiwtMT
+U0NjUzMjY1NCwtMTY1NTYzMTExNiwxMjM2NTc5OTMyLDQ2MTQw
+MzYzNiwtMTkyNjc5MTUzOCwxNjU0ODYyNTUsMTg2Njk3MjYyMy
+w4NDk3NzgzNzcsLTE5NDM0NDQ0MzUsLTMxNDAzNjc2NywxNjk5
+ODgxNTEwLDc1NjI5MzI4MiwyMTI1MTEzNTA5XX0=
 -->
