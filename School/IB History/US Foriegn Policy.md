@@ -65,13 +65,15 @@ Hay Pauncefote Treaty
 Treaty of Versailles
 Henry Cabot Lodge
 Zimmerman Telegram
-U.S. Declaration of War
+#### U.S. Declaration of War
+ - Wanted to maintain it´s isolationist stance
 Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NDYyOTIsLTYzMjEyNTY1MiwtMTU0Nj
-UzMjY1NCwtMTY1NTYzMTExNiwxMjM2NTc5OTMyLDQ2MTQwMzYz
-NiwtMTkyNjc5MTUzOCwxNjU0ODYyNTUsMTg2Njk3MjYyMyw4ND
-k3NzgzNzcsLTE5NDM0NDQ0MzUsLTMxNDAzNjc2NywxNjk5ODgx
-NTEwLDc1NjI5MzI4MiwyMTI1MTEzNTA5XX0=
+eyJoaXN0b3J5IjpbLTY2MjA5NjYyMCwzOTU0NjI5MiwtNjMyMT
+I1NjUyLC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LDEyMzY1Nzk5
+MzIsNDYxNDAzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4NjI1NSwxOD
+Y2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQzNSwtMzE0MDM2
+NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMjUxMTM1MDldfQ
+==
 -->
