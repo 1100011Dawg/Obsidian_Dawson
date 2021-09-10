@@ -56,27 +56,27 @@
  - Made puerto Ricans Citizens of the United States
  - give more power to the Local government
  - Puerto Ricanś governor is ceremonial in the United states
-Spooner Act
-Clayton Bulwer Treaty
-Hay Pauncefote Treaty
+#### Spooner Act
+#### Clayton Bulwer Treaty
+#### Hay Pauncefote Treaty
 #### Hay Bunau Varilla Treaty
  - A Treaty were we gain soil around the Panama Canal
  - Nov. 18, 1903
  - In exchange for financial compensation
-Treaty of Versailles
-Henry Cabot Lodge
-Zimmerman Telegram
+#### Treaty of Versailles
+#### Henry Cabot Lodge
+#### Zimmerman Telegram
 #### U.S. Declaration of War
  - Wanted to maintain it´s isolationist stance
  - Started due to the Zimmerman Telegram to Mexico about allying against the United States. On British Lines.
  - April 6 war resolution passed in congress
-Espionage and Sedition Acts
+#### Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNj
-YyMDk2NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2
-NTQsLTE2NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLT
-E5MjY3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4
-Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUxMC
-w3NTYyOTMyODIsMjEyNTExMzUwOV19
+eyJoaXN0b3J5IjpbODMwOTE4NTIwLDE4NTk5NDA0MzIsLTEzNj
+Y4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5MiwtNjMyMTI1NjUy
+LC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LDEyMzY1Nzk5MzIsND
+YxNDAzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4NjI1NSwxODY2OTcy
+NjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQzNSwtMzE0MDM2NzY3LD
+E2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMjUxMTM1MDldfQ==
 -->
