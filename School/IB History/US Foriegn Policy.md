@@ -70,7 +70,9 @@
 #### Treaty of Versailles
 #### Henry Cabot Lodge
 #### Zimmerman Telegram
-
+ - A telegram from Germany that resulted in the US starting WW1
+ - Wanted to know if Mexico would be ally against the United States
+ - Was sent on English Lines
 #### U.S. Declaration of War
  - Wanted to maintain it´s isolationist stance
  - Started due to the Zimmerman Telegram to Mexico about allying against the United States. On British Lines.
@@ -84,11 +86,11 @@
  - Suppressed publication of the death and dangers of the Spanish Flu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzI1NjgzLC0xNDY4MzM5NjE1LC0xMD
-UyMTA2NTY0LC0xMDcyNDA2Mzg1LDgzMDkxODUyMCwxODU5OTQw
-NDMyLC0xMzY2ODQyNjI0LC02NjIwOTY2MjAsMzk1NDYyOTIsLT
-YzMjEyNTY1MiwtMTU0NjUzMjY1NCwtMTY1NTYzMTExNiwxMjM2
-NTc5OTMyLDQ2MTQwMzYzNiwtMTkyNjc5MTUzOCwxNjU0ODYyNT
-UsMTg2Njk3MjYyMyw4NDk3NzgzNzcsLTE5NDM0NDQ0MzUsLTMx
-NDAzNjc2N119
+eyJoaXN0b3J5IjpbLTIwNDA2NDEyMjIsLTE0NjgzMzk2MTUsLT
+EwNTIxMDY1NjQsLTEwNzI0MDYzODUsODMwOTE4NTIwLDE4NTk5
+NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5Mi
+wtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LDEy
+MzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4Nj
+I1NSwxODY2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQzNSwt
+MzE0MDM2NzY3XX0=
 -->
