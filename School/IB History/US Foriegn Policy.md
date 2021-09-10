@@ -67,6 +67,7 @@
  - Negotiated by  John M. Clayton and Sir Henry Bulwer
  - Helped resolve tensions
 #### Hay Pauncefote Treaty
+ - Freed the U.S. from previous commitment to accept international control of the Panama Canal
  - 
 #### Hay Bunau Varilla Treaty
  - A Treaty were we gain soil around the Panama Canal
@@ -91,7 +92,7 @@
  - Suppressed publication of the death and dangers of the Spanish Flu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM3NzY3NTUsLTIwNDA2NDEyMjIsLT
+eyJoaXN0b3J5IjpbLTEzNzU2MjMwNjAsLTIwNDA2NDEyMjIsLT
 E0NjgzMzk2MTUsLTEwNTIxMDY1NjQsLTEwNzI0MDYzODUsODMw
 OTE4NTIwLDE4NTk5NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5Nj
 YyMCwzOTU0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0x
