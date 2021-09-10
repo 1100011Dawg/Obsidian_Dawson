@@ -79,14 +79,15 @@
  - Increased Working Conditions and had Women and African Americans step in the labour force
 #### Espionage and Sedition Acts
  - Crime to oppose the war
- - Shenk violated the Espionage act and the Suprem
+ - Shenk violated the Espionage act and the Supreme Court ruled that Free Speech isn't absolute
+ - Suppressed publication of the death and dangers of the Spanish Flu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDEzOTkxMywtMTA1MjEwNjU2NCwtMT
-A3MjQwNjM4NSw4MzA5MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0
-MjYyNCwtNjYyMDk2NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLT
-E1NDY1MzI2NTQsLTE2NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0
-MDM2MzYsLTE5MjY3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2Mj
-MsODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5
-OTg4MTUxMF19
+eyJoaXN0b3J5IjpbLTE0NjgzMzk2MTUsLTEwNTIxMDY1NjQsLT
+EwNzI0MDYzODUsODMwOTE4NTIwLDE4NTk5NDA0MzIsLTEzNjY4
+NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5MiwtNjMyMTI1NjUyLC
+0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LDEyMzY1Nzk5MzIsNDYx
+NDAzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4NjI1NSwxODY2OTcyNj
+IzLDg0OTc3ODM3NywtMTk0MzQ0NDQzNSwtMzE0MDM2NzY3LDE2
+OTk4ODE1MTBdfQ==
 -->
