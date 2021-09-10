@@ -70,13 +70,16 @@
  - Wanted to maintain it´s isolationist stance
  - Started due to the Zimmerman Telegram to Mexico about allying against the United States. On British Lines.
  - April 6 war resolution passed in congress
+ - Issued War Bonds and had an increase on income for the war. 
+ - Established a War Industries Board
 #### Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwOTE4NTIwLDE4NTk5NDA0MzIsLTEzNj
-Y4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5MiwtNjMyMTI1NjUy
-LC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LDEyMzY1Nzk5MzIsND
-YxNDAzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4NjI1NSwxODY2OTcy
-NjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQzNSwtMzE0MDM2NzY3LD
-E2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMjUxMTM1MDldfQ==
+eyJoaXN0b3J5IjpbLTEwNzI0MDYzODUsODMwOTE4NTIwLDE4NT
+k5NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5
+MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LD
+EyMzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4
+NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQzNS
+wtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMjUx
+MTM1MDldfQ==
 -->
