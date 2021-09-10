@@ -91,13 +91,14 @@
  - Crime to oppose the war
  - Shenk violated the Espionage act and the Supreme Court ruled that Free Speech isn't absolute
  - Suppressed publication of the death and dangers of the Spanish Flu
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDQxNDA5MywtMjA0MDY0MTIyMiwtMT
-Q2ODMzOTYxNSwtMTA1MjEwNjU2NCwtMTA3MjQwNjM4NSw4MzA5
-MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2Nj
-IwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLTE2
-NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3OT
-E1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC0x
-OTQzNDQ0NDM1XX0=
+eyJoaXN0b3J5IjpbLTkyNzYxMzg2MCwtNzI0NDE0MDkzLC0yMD
+QwNjQxMjIyLC0xNDY4MzM5NjE1LC0xMDUyMTA2NTY0LC0xMDcy
+NDA2Mzg1LDgzMDkxODUyMCwxODU5OTQwNDMyLC0xMzY2ODQyNj
+I0LC02NjIwOTY2MjAsMzk1NDYyOTIsLTYzMjEyNTY1MiwtMTU0
+NjUzMjY1NCwtMTY1NTYzMTExNiwxMjM2NTc5OTMyLDQ2MTQwMz
+YzNiwtMTkyNjc5MTUzOCwxNjU0ODYyNTUsMTg2Njk3MjYyMyw4
+NDk3NzgzNzddfQ==
 -->
