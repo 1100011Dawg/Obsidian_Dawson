@@ -62,7 +62,9 @@
  - Allowed the U.S. president to buy the assets of the French company.
  - 
 #### Clayton Bulwer Treaty
- - Harminized British and Americn 
+ - Harmonized British and American interests in Central America
+ - jointly control and protect the expected Panama canal
+ - Negotiated by  John M. Clayton and Sir Henry Bulwer
 #### Hay Pauncefote Treaty
 #### Hay Bunau Varilla Treaty
  - A Treaty were we gain soil around the Panama Canal
@@ -87,11 +89,11 @@
  - Suppressed publication of the death and dangers of the Spanish Flu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODYzMzI4NywtMjA0MDY0MTIyMiwtMT
-Q2ODMzOTYxNSwtMTA1MjEwNjU2NCwtMTA3MjQwNjM4NSw4MzA5
-MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2Nj
-IwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLTE2
-NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3OT
-E1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC0x
-OTQzNDQ0NDM1XX0=
+eyJoaXN0b3J5IjpbLTIwMjg1NTk1NDIsLTIwNDA2NDEyMjIsLT
+E0NjgzMzk2MTUsLTEwNTIxMDY1NjQsLTEwNzI0MDYzODUsODMw
+OTE4NTIwLDE4NTk5NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5Nj
+YyMCwzOTU0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0x
+NjU1NjMxMTE2LDEyMzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2Nz
+kxNTM4LDE2NTQ4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3Nywt
+MTk0MzQ0NDQzNV19
 -->
