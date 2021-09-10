@@ -78,13 +78,15 @@
  - Established a War Industries Board
  - Increased Working Conditions and had Women and African Americans step in the labour force
 #### Espionage and Sedition Acts
+ - Crime to oppose the war
+ - Shenk violated the Espionage act and the Suprem
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIxMDY1NjQsLTEwNzI0MDYzODUsOD
-MwOTE4NTIwLDE4NTk5NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5
-NjYyMCwzOTU0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC
-0xNjU1NjMxMTE2LDEyMzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2
-NzkxNTM4LDE2NTQ4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3Ny
-wtMTk0MzQ0NDQzNSwtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNzU2
-MjkzMjgyXX0=
+eyJoaXN0b3J5IjpbMTczMDEzOTkxMywtMTA1MjEwNjU2NCwtMT
+A3MjQwNjM4NSw4MzA5MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0
+MjYyNCwtNjYyMDk2NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLT
+E1NDY1MzI2NTQsLTE2NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0
+MDM2MzYsLTE5MjY3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2Mj
+MsODQ5Nzc4Mzc3LC0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5
+OTg4MTUxMF19
 -->
