@@ -62,6 +62,7 @@
  - Allowed the U.S. president to buy the assets of the French company.
  - 
 #### Clayton Bulwer Treaty
+ - Harminized British and Americn 
 #### Hay Pauncefote Treaty
 #### Hay Bunau Varilla Treaty
  - A Treaty were we gain soil around the Panama Canal
@@ -86,11 +87,11 @@
  - Suppressed publication of the death and dangers of the Spanish Flu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA2NDEyMjIsLTE0NjgzMzk2MTUsLT
-EwNTIxMDY1NjQsLTEwNzI0MDYzODUsODMwOTE4NTIwLDE4NTk5
-NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5Mi
-wtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LDEy
-MzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4Nj
-I1NSwxODY2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQzNSwt
-MzE0MDM2NzY3XX0=
+eyJoaXN0b3J5IjpbLTM0ODYzMzI4NywtMjA0MDY0MTIyMiwtMT
+Q2ODMzOTYxNSwtMTA1MjEwNjU2NCwtMTA3MjQwNjM4NSw4MzA5
+MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2Nj
+IwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLTE2
+NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3OT
+E1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC0x
+OTQzNDQ0NDM1XX0=
 -->
