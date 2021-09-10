@@ -68,7 +68,8 @@
  - Helped resolve tensions
 #### Hay Pauncefote Treaty
  - Freed the U.S. from previous commitment to accept international control of the Panama Canal
- - 
+ - Granted the right to build and control the isthmian canal
+ - Nullified Clayton Bulwer Treaty
 #### Hay Bunau Varilla Treaty
  - A Treaty were we gain soil around the Panama Canal
  - Nov. 18, 1903
@@ -92,11 +93,11 @@
  - Suppressed publication of the death and dangers of the Spanish Flu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU2MjMwNjAsLTIwNDA2NDEyMjIsLT
-E0NjgzMzk2MTUsLTEwNTIxMDY1NjQsLTEwNzI0MDYzODUsODMw
-OTE4NTIwLDE4NTk5NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5Nj
-YyMCwzOTU0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0x
-NjU1NjMxMTE2LDEyMzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2Nz
-kxNTM4LDE2NTQ4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3Nywt
-MTk0MzQ0NDQzNV19
+eyJoaXN0b3J5IjpbLTcyNDQxNDA5MywtMjA0MDY0MTIyMiwtMT
+Q2ODMzOTYxNSwtMTA1MjEwNjU2NCwtMTA3MjQwNjM4NSw4MzA5
+MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2Nj
+IwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLTE2
+NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3OT
+E1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC0x
+OTQzNDQ0NDM1XX0=
 -->
