@@ -88,17 +88,18 @@
  - Established a War Industries Board
  - Increased Working Conditions and had Women and African Americans step in the labour force
 #### Espionage and Sedition Acts
- - Crime to oppose the war
+ - Crime to oppose the war publically
  - Shenk violated the Espionage act and the Supreme Court ruled that Free Speech isn't absolute
  - Suppressed publication of the death and dangers of the Spanish Flu
+ - Closed down many socialist journals
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzYxMzg2MCwtNzI0NDE0MDkzLC0yMD
-QwNjQxMjIyLC0xNDY4MzM5NjE1LC0xMDUyMTA2NTY0LC0xMDcy
-NDA2Mzg1LDgzMDkxODUyMCwxODU5OTQwNDMyLC0xMzY2ODQyNj
-I0LC02NjIwOTY2MjAsMzk1NDYyOTIsLTYzMjEyNTY1MiwtMTU0
-NjUzMjY1NCwtMTY1NTYzMTExNiwxMjM2NTc5OTMyLDQ2MTQwMz
-YzNiwtMTkyNjc5MTUzOCwxNjU0ODYyNTUsMTg2Njk3MjYyMyw4
-NDk3NzgzNzddfQ==
+eyJoaXN0b3J5IjpbLTE4OTIwNzYyOTIsLTcyNDQxNDA5MywtMj
+A0MDY0MTIyMiwtMTQ2ODMzOTYxNSwtMTA1MjEwNjU2NCwtMTA3
+MjQwNjM4NSw4MzA5MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0Mj
+YyNCwtNjYyMDk2NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1
+NDY1MzI2NTQsLTE2NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MD
+M2MzYsLTE5MjY3OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMs
+ODQ5Nzc4Mzc3XX0=
 -->
