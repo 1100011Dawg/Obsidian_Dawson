@@ -57,6 +57,8 @@
  - give more power to the Local government
  - Puerto Ricanś governor is ceremonial in the United states
 #### Spooner Act
+ - 1902
+ - John Spooner of Wisconsin introduced an amendment to a bill for a canal in Nicaragu
 #### Clayton Bulwer Treaty
 #### Hay Pauncefote Treaty
 #### Hay Bunau Varilla Treaty
@@ -72,14 +74,15 @@
  - April 6 war resolution passed in congress
  - Issued War Bonds and had an increase on income for the war. 
  - Established a War Industries Board
+ - Increased Working Conditions and had Women and African Americans step in the labour force
 #### Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI0MDYzODUsODMwOTE4NTIwLDE4NT
-k5NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5
-MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LD
-EyMzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2NzkxNTM4LDE2NTQ4
-NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3NywtMTk0MzQ0NDQzNS
-wtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNzU2MjkzMjgyLDIxMjUx
-MTM1MDldfQ==
+eyJoaXN0b3J5IjpbMTg5MjkxMDA5MCwtMTA3MjQwNjM4NSw4Mz
+A5MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2
+NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLT
+E2NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3
+OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC
+0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUxMCw3NTYy
+OTMyODJdfQ==
 -->
