@@ -58,7 +58,9 @@
  - Puerto Ricanś governor is ceremonial in the United states
 #### Spooner Act
  - 1902
- - John Spooner of Wisconsin introduced an amendment to a bill for a canal in Nicaragu
+ - John Spooner of Wisconsin introduced an amendment to a bill for a canal in Nicaragua
+ - Allowed the U.S. president to buy the assets of the French company.
+ - 
 #### Clayton Bulwer Treaty
 #### Hay Pauncefote Treaty
 #### Hay Bunau Varilla Treaty
@@ -78,11 +80,11 @@
 #### Espionage and Sedition Acts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjkxMDA5MCwtMTA3MjQwNjM4NSw4Mz
-A5MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2
-NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLT
-E2NTU2MzExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3
-OTE1MzgsMTY1NDg2MjU1LDE4NjY5NzI2MjMsODQ5Nzc4Mzc3LC
-0xOTQzNDQ0NDM1LC0zMTQwMzY3NjcsMTY5OTg4MTUxMCw3NTYy
-OTMyODJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTIxMDY1NjQsLTEwNzI0MDYzODUsOD
+MwOTE4NTIwLDE4NTk5NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5
+NjYyMCwzOTU0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC
+0xNjU1NjMxMTE2LDEyMzY1Nzk5MzIsNDYxNDAzNjM2LC0xOTI2
+NzkxNTM4LDE2NTQ4NjI1NSwxODY2OTcyNjIzLDg0OTc3ODM3Ny
+wtMTk0MzQ0NDQzNSwtMzE0MDM2NzY3LDE2OTk4ODE1MTAsNzU2
+MjkzMjgyXX0=
 -->
