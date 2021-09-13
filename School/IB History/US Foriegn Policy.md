@@ -80,8 +80,8 @@
  - Important provision being ¨Germany [to] accept the responsibility of Germany and her allies for causing all the loss and damage¨
  - Woodrow Wilson wanted to help Germany so there will be no more Great Wars also wanted an Association of Nations
  - Japan gets all of Germany oversea colonies
- - 
 #### Henry Cabot Lodge
+ - 
 #### Zimmerman Telegram
  - A telegram from Germany that resulted in the US starting WW1
  - Wanted to know if Mexico would be ally against the United States
@@ -101,11 +101,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE5MzEwNTksNzYyNTc5ODI4LC0zOD
-AwNzc2NCwtMTUwNjMyMTM2LC0xODkyMDc2MjkyLC03MjQ0MTQw
-OTMsLTIwNDA2NDEyMjIsLTE0NjgzMzk2MTUsLTEwNTIxMDY1Nj
-QsLTEwNzI0MDYzODUsODMwOTE4NTIwLDE4NTk5NDA0MzIsLTEz
-NjY4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5MiwtNjMyMTI1Nj
-UyLC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LDEyMzY1Nzk5MzIs
-NDYxNDAzNjM2XX0=
+eyJoaXN0b3J5IjpbMTc1ODE1NzgwOSwtMTQwMTkzMTA1OSw3Nj
+I1Nzk4MjgsLTM4MDA3NzY0LC0xNTA2MzIxMzYsLTE4OTIwNzYy
+OTIsLTcyNDQxNDA5MywtMjA0MDY0MTIyMiwtMTQ2ODMzOTYxNS
+wtMTA1MjEwNjU2NCwtMTA3MjQwNjM4NSw4MzA5MTg1MjAsMTg1
+OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2NjIwLDM5NTQ2Mj
+kyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLTE2NTU2MzExMTYs
+MTIzNjU3OTkzMl19
 -->
