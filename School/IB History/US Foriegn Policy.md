@@ -75,6 +75,8 @@
  - Nov. 18, 1903
  - In exchange for financial compensation
 #### Treaty of Versailles
+ - Was the treaty the ended World War One
+ - signed 28 June 1919
 #### Henry Cabot Lodge
 #### Zimmerman Telegram
  - A telegram from Germany that resulted in the US starting WW1
@@ -95,11 +97,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDYzMjEzNiwtMTg5MjA3NjI5MiwtNz
-I0NDE0MDkzLC0yMDQwNjQxMjIyLC0xNDY4MzM5NjE1LC0xMDUy
-MTA2NTY0LC0xMDcyNDA2Mzg1LDgzMDkxODUyMCwxODU5OTQwND
-MyLC0xMzY2ODQyNjI0LC02NjIwOTY2MjAsMzk1NDYyOTIsLTYz
-MjEyNTY1MiwtMTU0NjUzMjY1NCwtMTY1NTYzMTExNiwxMjM2NT
-c5OTMyLDQ2MTQwMzYzNiwtMTkyNjc5MTUzOCwxNjU0ODYyNTUs
-MTg2Njk3MjYyM119
+eyJoaXN0b3J5IjpbLTM4MDA3NzY0LC0xNTA2MzIxMzYsLTE4OT
+IwNzYyOTIsLTcyNDQxNDA5MywtMjA0MDY0MTIyMiwtMTQ2ODMz
+OTYxNSwtMTA1MjEwNjU2NCwtMTA3MjQwNjM4NSw4MzA5MTg1Mj
+AsMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2NjIwLDM5
+NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLTE2NTU2Mz
+ExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3OTE1Mzgs
+MTY1NDg2MjU1XX0=
 -->
