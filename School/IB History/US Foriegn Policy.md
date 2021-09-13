@@ -77,6 +77,7 @@
 #### Treaty of Versailles
  - Was the treaty the ended World War One
  - signed 28 June 1919
+ - Important provision being ¨Germany [to] accept the responsibility of Germany and her allies for causing all the loss and damage¨
 #### Henry Cabot Lodge
 #### Zimmerman Telegram
  - A telegram from Germany that resulted in the US starting WW1
@@ -97,11 +98,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDA3NzY0LC0xNTA2MzIxMzYsLTE4OT
-IwNzYyOTIsLTcyNDQxNDA5MywtMjA0MDY0MTIyMiwtMTQ2ODMz
-OTYxNSwtMTA1MjEwNjU2NCwtMTA3MjQwNjM4NSw4MzA5MTg1Mj
-AsMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2NjIwLDM5
-NTQ2MjkyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLTE2NTU2Mz
-ExMTYsMTIzNjU3OTkzMiw0NjE0MDM2MzYsLTE5MjY3OTE1Mzgs
-MTY1NDg2MjU1XX0=
+eyJoaXN0b3J5IjpbNzYyNTc5ODI4LC0zODAwNzc2NCwtMTUwNj
+MyMTM2LC0xODkyMDc2MjkyLC03MjQ0MTQwOTMsLTIwNDA2NDEy
+MjIsLTE0NjgzMzk2MTUsLTEwNTIxMDY1NjQsLTEwNzI0MDYzOD
+UsODMwOTE4NTIwLDE4NTk5NDA0MzIsLTEzNjY4NDI2MjQsLTY2
+MjA5NjYyMCwzOTU0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNj
+U0LC0xNjU1NjMxMTE2LDEyMzY1Nzk5MzIsNDYxNDAzNjM2LC0x
+OTI2NzkxNTM4XX0=
 -->
