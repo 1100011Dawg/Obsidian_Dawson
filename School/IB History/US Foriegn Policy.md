@@ -80,6 +80,7 @@
  - Important provision being ¨Germany [to] accept the responsibility of Germany and her allies for causing all the loss and damage¨
  - Woodrow Wilson wanted to help Germany so there will be no more Great Wars also wanted an Association of Nations(14 points)
  - Japan gets all of Germany oversea colonies
+ - U.S. Congress did not sign
 #### Henry Cabot Lodge
  - Opposed joining the League of Nations
  - believed that the League threatened the U.S. foreign policy of isolationism
@@ -104,11 +105,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Njc2MzQxNiwxNDA5OTk3ODQsLTE0MD
-E5MzEwNTksNzYyNTc5ODI4LC0zODAwNzc2NCwtMTUwNjMyMTM2
-LC0xODkyMDc2MjkyLC03MjQ0MTQwOTMsLTIwNDA2NDEyMjIsLT
-E0NjgzMzk2MTUsLTEwNTIxMDY1NjQsLTEwNzI0MDYzODUsODMw
-OTE4NTIwLDE4NTk5NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5Nj
-YyMCwzOTU0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0x
-NjU1NjMxMTE2XX0=
+eyJoaXN0b3J5IjpbLTk2NDA1MzMxMCwxODQ2NzYzNDE2LDE0MD
+k5OTc4NCwtMTQwMTkzMTA1OSw3NjI1Nzk4MjgsLTM4MDA3NzY0
+LC0xNTA2MzIxMzYsLTE4OTIwNzYyOTIsLTcyNDQxNDA5MywtMj
+A0MDY0MTIyMiwtMTQ2ODMzOTYxNSwtMTA1MjEwNjU2NCwtMTA3
+MjQwNjM4NSw4MzA5MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0Mj
+YyNCwtNjYyMDk2NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1
+NDY1MzI2NTRdfQ==
 -->
