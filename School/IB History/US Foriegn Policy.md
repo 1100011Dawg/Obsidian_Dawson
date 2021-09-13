@@ -78,7 +78,7 @@
  - Was the treaty the ended World War One
  - signed 28 June 1919
  - Important provision being ¨Germany [to] accept the responsibility of Germany and her allies for causing all the loss and damage¨
- - Woodrow Wilson wanted to help Germany so there will be no more Great Wars also wanted an Association of Nations
+ - Woodrow Wilson wanted to help Germany so there will be no more Great Wars also wanted an Association of Nations(14 points)
  - Japan gets all of Germany oversea colonies
 #### Henry Cabot Lodge
  - 
@@ -101,11 +101,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODE1NzgwOSwtMTQwMTkzMTA1OSw3Nj
-I1Nzk4MjgsLTM4MDA3NzY0LC0xNTA2MzIxMzYsLTE4OTIwNzYy
-OTIsLTcyNDQxNDA5MywtMjA0MDY0MTIyMiwtMTQ2ODMzOTYxNS
-wtMTA1MjEwNjU2NCwtMTA3MjQwNjM4NSw4MzA5MTg1MjAsMTg1
-OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2NjIwLDM5NTQ2Mj
-kyLC02MzIxMjU2NTIsLTE1NDY1MzI2NTQsLTE2NTU2MzExMTYs
-MTIzNjU3OTkzMl19
+eyJoaXN0b3J5IjpbMTQwOTk5Nzg0LC0xNDAxOTMxMDU5LDc2Mj
+U3OTgyOCwtMzgwMDc3NjQsLTE1MDYzMjEzNiwtMTg5MjA3NjI5
+MiwtNzI0NDE0MDkzLC0yMDQwNjQxMjIyLC0xNDY4MzM5NjE1LC
+0xMDUyMTA2NTY0LC0xMDcyNDA2Mzg1LDgzMDkxODUyMCwxODU5
+OTQwNDMyLC0xMzY2ODQyNjI0LC02NjIwOTY2MjAsMzk1NDYyOT
+IsLTYzMjEyNTY1MiwtMTU0NjUzMjY1NCwtMTY1NTYzMTExNiwx
+MjM2NTc5OTMyXX0=
 -->
