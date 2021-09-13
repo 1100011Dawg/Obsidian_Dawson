@@ -79,6 +79,7 @@
  - signed 28 June 1919
  - Important provision being ¨Germany [to] accept the responsibility of Germany and her allies for causing all the loss and damage¨
  - Woodrow Wilson wanted to help Germany so there will be no more Great Wars also wanted an Association of Nations
+ - Japan gets all of Germany oversea colonies
 #### Henry Cabot Lodge
 #### Zimmerman Telegram
  - A telegram from Germany that resulted in the US starting WW1
@@ -99,11 +100,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzk3MDY5MCw3NjI1Nzk4MjgsLTM4MD
-A3NzY0LC0xNTA2MzIxMzYsLTE4OTIwNzYyOTIsLTcyNDQxNDA5
-MywtMjA0MDY0MTIyMiwtMTQ2ODMzOTYxNSwtMTA1MjEwNjU2NC
-wtMTA3MjQwNjM4NSw4MzA5MTg1MjAsMTg1OTk0MDQzMiwtMTM2
-Njg0MjYyNCwtNjYyMDk2NjIwLDM5NTQ2MjkyLC02MzIxMjU2NT
-IsLTE1NDY1MzI2NTQsLTE2NTU2MzExMTYsMTIzNjU3OTkzMiw0
-NjE0MDM2MzZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjQ0MTI1MTQsNzYyNTc5ODI4LC0zOD
+AwNzc2NCwtMTUwNjMyMTM2LC0xODkyMDc2MjkyLC03MjQ0MTQw
+OTMsLTIwNDA2NDEyMjIsLTE0NjgzMzk2MTUsLTEwNTIxMDY1Nj
+QsLTEwNzI0MDYzODUsODMwOTE4NTIwLDE4NTk5NDA0MzIsLTEz
+NjY4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5MiwtNjMyMTI1Nj
+UyLC0xNTQ2NTMyNjU0LC0xNjU1NjMxMTE2LDEyMzY1Nzk5MzIs
+NDYxNDAzNjM2XX0=
 -->
