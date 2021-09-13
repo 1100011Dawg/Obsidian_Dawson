@@ -84,7 +84,7 @@
  - Opposed joining the League of Nations
  - believed that the League threatened the U.S. foreign policy of isolationism
  - Lived in 1850-1924
- - Thought the Treaty of Ver
+ - Thought the Treaty of Versailles would entangle the U.S. with foreign affairs
 #### Zimmerman Telegram
  - A telegram from Germany that resulted in the US starting WW1
  - Wanted to know if Mexico would be ally against the United States
@@ -104,7 +104,7 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzI2MTIxOSwxNDA5OTk3ODQsLTE0MD
+eyJoaXN0b3J5IjpbMTg0Njc2MzQxNiwxNDA5OTk3ODQsLTE0MD
 E5MzEwNTksNzYyNTc5ODI4LC0zODAwNzc2NCwtMTUwNjMyMTM2
 LC0xODkyMDc2MjkyLC03MjQ0MTQwOTMsLTIwNDA2NDEyMjIsLT
 E0NjgzMzk2MTUsLTEwNTIxMDY1NjQsLTEwNzI0MDYzODUsODMw
