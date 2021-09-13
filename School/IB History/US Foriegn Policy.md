@@ -81,6 +81,7 @@
  - Woodrow Wilson wanted to help Germany so there will be no more Great Wars also wanted an Association of Nations(14 points)
  - Japan gets all of Germany oversea colonies
 #### Henry Cabot Lodge
+ - Opposed joining the League of Nations
  - 
 #### Zimmerman Telegram
  - A telegram from Germany that resulted in the US starting WW1
@@ -101,11 +102,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTk5Nzg0LC0xNDAxOTMxMDU5LDc2Mj
-U3OTgyOCwtMzgwMDc3NjQsLTE1MDYzMjEzNiwtMTg5MjA3NjI5
-MiwtNzI0NDE0MDkzLC0yMDQwNjQxMjIyLC0xNDY4MzM5NjE1LC
-0xMDUyMTA2NTY0LC0xMDcyNDA2Mzg1LDgzMDkxODUyMCwxODU5
-OTQwNDMyLC0xMzY2ODQyNjI0LC02NjIwOTY2MjAsMzk1NDYyOT
-IsLTYzMjEyNTY1MiwtMTU0NjUzMjY1NCwtMTY1NTYzMTExNiwx
-MjM2NTc5OTMyXX0=
+eyJoaXN0b3J5IjpbLTE2NDE5NTEyNzQsMTQwOTk5Nzg0LC0xND
+AxOTMxMDU5LDc2MjU3OTgyOCwtMzgwMDc3NjQsLTE1MDYzMjEz
+NiwtMTg5MjA3NjI5MiwtNzI0NDE0MDkzLC0yMDQwNjQxMjIyLC
+0xNDY4MzM5NjE1LC0xMDUyMTA2NTY0LC0xMDcyNDA2Mzg1LDgz
+MDkxODUyMCwxODU5OTQwNDMyLC0xMzY2ODQyNjI0LC02NjIwOT
+Y2MjAsMzk1NDYyOTIsLTYzMjEyNTY1MiwtMTU0NjUzMjY1NCwt
+MTY1NTYzMTExNl19
 -->
