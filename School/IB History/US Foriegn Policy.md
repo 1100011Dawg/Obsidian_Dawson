@@ -82,7 +82,9 @@
  - Japan gets all of Germany oversea colonies
 #### Henry Cabot Lodge
  - Opposed joining the League of Nations
- - 
+ - believed that the League threatened the U.S. foreign policy of isolationism
+ - Lived in 1850-1924
+ - Thought the Treaty of Ver
 #### Zimmerman Telegram
  - A telegram from Germany that resulted in the US starting WW1
  - Wanted to know if Mexico would be ally against the United States
@@ -102,11 +104,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE5NTEyNzQsMTQwOTk5Nzg0LC0xND
-AxOTMxMDU5LDc2MjU3OTgyOCwtMzgwMDc3NjQsLTE1MDYzMjEz
-NiwtMTg5MjA3NjI5MiwtNzI0NDE0MDkzLC0yMDQwNjQxMjIyLC
-0xNDY4MzM5NjE1LC0xMDUyMTA2NTY0LC0xMDcyNDA2Mzg1LDgz
-MDkxODUyMCwxODU5OTQwNDMyLC0xMzY2ODQyNjI0LC02NjIwOT
-Y2MjAsMzk1NDYyOTIsLTYzMjEyNTY1MiwtMTU0NjUzMjY1NCwt
-MTY1NTYzMTExNl19
+eyJoaXN0b3J5IjpbMTYyMzI2MTIxOSwxNDA5OTk3ODQsLTE0MD
+E5MzEwNTksNzYyNTc5ODI4LC0zODAwNzc2NCwtMTUwNjMyMTM2
+LC0xODkyMDc2MjkyLC03MjQ0MTQwOTMsLTIwNDA2NDEyMjIsLT
+E0NjgzMzk2MTUsLTEwNTIxMDY1NjQsLTEwNzI0MDYzODUsODMw
+OTE4NTIwLDE4NTk5NDA0MzIsLTEzNjY4NDI2MjQsLTY2MjA5Nj
+YyMCwzOTU0NjI5MiwtNjMyMTI1NjUyLC0xNTQ2NTMyNjU0LC0x
+NjU1NjMxMTE2XX0=
 -->
