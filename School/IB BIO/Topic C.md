@@ -16,11 +16,11 @@
 		 - Needed for cell turgor
 		 - Needed for photosynthesis
 		 - (Xerophytes vs hydrophytes)
-		 - For animals to lay eggs, and disolved oxygen
+		 - For animals to lay eggs, and dissolved oxygen
 	 - day length
 	 - aspect
 	 - PH
-		 - afects avalibity of mineral nutriests
+		 - affects availability of mineral nutrients
 		 - decomposition of nater
 	 - parent material
 	 - salinity
@@ -43,10 +43,10 @@
  - usually a bell curve
 #### Symbiotic Relationships
  - Mutualism: Both benefits
-	 - ex: Zooxanthellae and reef building corr
+	 - ex: Zooxanthellae and reef building corral species, Coral provieds protection and compunds for photosynthesis, the algea provides oxyg
  - Commensalism: One Benefits and one is Unaffected
  - Parasitism: One benefits and one is harmed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTQ0ODI5NCwxODYyMDI2MTA5LDE0MT
+eyJoaXN0b3J5IjpbMTIyMDMzMjc2MiwxODYyMDI2MTA5LDE0MT
 MzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0NjYxMl19
 -->
