@@ -41,7 +41,8 @@
  - plots the range of biotic or abiotic factors that is tolerated by a species
  - Shows Optimal, zone of stress, and zone of intolerance
  - usually a bell curve
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjAyNjEwOSwxNDEzMzYwMjg4LDEwOT
-A1MTI1MjQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTA0MjQxMzgsMTg2MjAyNjEwOSwxND
+EzMzYwMjg4LDEwOTA1MTI1MjQsLTIwODg3NDY2MTJdfQ==
 -->
