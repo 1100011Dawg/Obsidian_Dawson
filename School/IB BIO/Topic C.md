@@ -46,7 +46,10 @@
 	 - ex: Zooxanthellae and reef building corral species, Coral provides protection and compounds for photosynthesis, the algae provides oxygen and energy(glucose)
  - Commensalism: One Benefits and one is Unaffected
  - Parasitism: One benefits and one is harmed.
+ - Preditor and Prey
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAwMzA3MTQsMTg2MjAyNjEwOSwxND
-EzMzYwMjg4LDEwOTA1MTI1MjQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNCwxOD
+YyMDI2MTA5LDE0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0
+NjYxMl19
 -->
