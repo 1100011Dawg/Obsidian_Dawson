@@ -38,8 +38,10 @@
  - Plants have pH salinity, animals have breeding sites and food supply
  - 
 #### Shelford law of tolerance
- - plots the range of biotic or abiotic factos that is tolerated by a species
+ - plots the range of biotic or abiotic factors that is tolerated by a species
+ - Shows Optimal, zone of stress, and zone of intolerance
+ - usually a bell curve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMzkyNDU2LDE0MTMzNjAyODgsMTA5MD
-UxMjUyNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTg2MjAyNjEwOSwxNDEzMzYwMjg4LDEwOT
+A1MTI1MjQsLTIwODg3NDY2MTJdfQ==
 -->
