@@ -5,6 +5,8 @@
 	 - wind
 	 - fire
 	 - light 
+		 - Plants for photosynthesis
+		 - visability
 	 - temperature
 		 - Metabolic pathways are controlled by enzymes, white have optimal temperatures which they won denature
 		 - Increases the rate of evaporation
@@ -12,12 +14,15 @@
 		 - relative humidity
 		 - Needed for cell turgor
 		 - Needed for photosynthesis
-		 - 
+		 - (Xerophytes vs hydrophytes)
 	 - day length
 	 - aspect
 	 - PH
+		 - afects avalibity of mineral nutriests
+		 - decomposition of nater
 	 - parent material
 	 - salinity
+		 - 
 	 - wave action
  - Biotic
 	 - Humans
@@ -28,6 +33,6 @@
  - Plants have pH salinity, animals have breeding sites and food supply
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMDg1OTk0LDE0MTMzNjAyODgsMTA5MD
+eyJoaXN0b3J5IjpbLTIzNjA0OTAxLDE0MTMzNjAyODgsMTA5MD
 UxMjUyNCwtMjA4ODc0NjYxMl19
 -->
