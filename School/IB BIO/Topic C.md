@@ -43,10 +43,10 @@
  - usually a bell curve
 #### Symbiotic Relationships
  - Mutualism: Both benefits
-	 - ex: Zooxanthellae and reef building corral species, Coral provieds protection and compunds for photosynthesis, the algea provides oxyg
+	 - ex: Zooxanthellae and reef building corral species, Coral provides protection and compounds for photosynthesis, the algae provides oxygen and energy(glucose)
  - Commensalism: One Benefits and one is Unaffected
  - Parasitism: One benefits and one is harmed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDMzMjc2MiwxODYyMDI2MTA5LDE0MT
-MzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE2MjAwMzA3MTQsMTg2MjAyNjEwOSwxND
+EzMzYwMjg4LDEwOTA1MTI1MjQsLTIwODg3NDY2MTJdfQ==
 -->
