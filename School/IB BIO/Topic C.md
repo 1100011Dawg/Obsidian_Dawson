@@ -16,7 +16,7 @@
 		 - Needed for cell turgor
 		 - Needed for photosynthesis
 		 - (Xerophytes vs hydrophytes)
-		 - For animals to lay eggs
+		 - For animals to lay eggs, and disolved oxygen
 	 - day length
 	 - aspect
 	 - PH
@@ -27,6 +27,8 @@
 		 - May make osmosis harder
 		 - Halophytes are adapted
 	 - wave action
+	 - Breeding Sites
+		 - Need to provide protection
  - Biotic
 	 - Humans
 	 - competitors
@@ -35,7 +37,9 @@
  - Adapted for survival in their unique conditions
  - Plants have pH salinity, animals have breeding sites and food supply
  - 
+#### Shelford law of tolerance
+ - plots the range of biotic or abiotic factos that is tolerated by a species
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MDA1NzUyLDE0MTMzNjAyODgsMTA5MD
+eyJoaXN0b3J5IjpbMzkyMzkyNDU2LDE0MTMzNjAyODgsMTA5MD
 UxMjUyNCwtMjA4ODc0NjYxMl19
 -->
