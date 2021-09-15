@@ -1,7 +1,7 @@
 > Community Structure is an emergent property of an ecosystem
 ####  Factors affecting the distribution of plant and animal species
- - labiotic
-	 - atomosphere gases
+ - abiotic
+	 - atmospheric gases
 	 - wind
 	 - fire
 	 - light 
@@ -13,8 +13,15 @@
 	 - parent material
 	 - salinity
 	 - wave action
- - B
+ - Biotic
+	 - Humans
+	 - competitors
+	 - predators
+	 - parasites
+ - Adapted for survival in their unique conditions
+ - Plants have pH salinity, animals have breeding sites and food supply
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQxNjUyNzQsMTA5MDUxMjUyNCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTQxMzM2MDI4OCwxMDkwNTEyNTI0LC0yMD
+g4NzQ2NjEyXX0=
 -->
