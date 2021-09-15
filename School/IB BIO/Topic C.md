@@ -5,8 +5,14 @@
 	 - wind
 	 - fire
 	 - light 
-	 - temp
-	 - relative humidy
+	 - temperature
+		 - Metabolic pathways are controlled by enzymes, white have optimal temperatures which they won denature
+		 - Increases the rate of evaporation
+	 - water
+		 - relative humidity
+		 - Needed for cell turgor
+		 - Needed for photosynthesis
+		 - 
 	 - day length
 	 - aspect
 	 - PH
@@ -22,6 +28,6 @@
  - Plants have pH salinity, animals have breeding sites and food supply
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzM2MDI4OCwxMDkwNTEyNTI0LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMjgxMDg1OTk0LDE0MTMzNjAyODgsMTA5MD
+UxMjUyNCwtMjA4ODc0NjYxMl19
 -->
