@@ -5,7 +5,7 @@ Ecology: The study of relationships between living organisms and between organis
 		 - Habitat: The environment in which a species normally lives.
 - Ecosystem:  A community and its abiotic environment
 **Feeding Methods**
-	- [[Autotrophy]]: Organisms which produce their won food from organic molecules(make own Carbon substances)
+	- Autotrophy: Organisms which produce their won food from organic molecules(make own Carbon substances)
 		- Producers:
 			- Photoautotrophy: Photosynthesis
 			- Chemoautotrophy: Chemothesis
