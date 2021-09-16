@@ -47,15 +47,17 @@
 		 - The species is polyps
 			 - They are mostly stomach
 			 - Sit upon a hard skeleton that is calcium carbonate
-			 - PRovides Carbon Dioxide Phosphorus and Nitrogen
+			 - Provides Carbon Dioxide Phosphorus and Nitrogen
+			 - Tentacles have Nematocysts that stings their prey
+			 - Coenesarc Connects 
 		 - Zooxanthellae
-			 - produces Oxygen Sugars Fats and up to 95% of energy
+			 - Provides Oxygen Sugars Fats and up to 95% of energy
  - Commensalism: One Benefits and one is Unaffected
  - Parasitism: One benefits and one is harmed.
  - Predator and Prey
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzAxMjA1NCwyMDMxNDQ5OTE2LC0xNj
+eyJoaXN0b3J5IjpbMTI0NTU4Njg5MywyMDMxNDQ5OTE2LC0xNj
 IwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEy
 NTI0LC0yMDg4NzQ2NjEyXX0=
 -->
