@@ -49,15 +49,16 @@
 			 - Sit upon a hard skeleton that is calcium carbonate
 			 - Provides Carbon Dioxide Phosphorus and Nitrogen
 			 - Tentacles have Nematocysts that stings their prey
-			 - Coenesarc Connects 
+			 - Coenosarc Connects Stomachs between polyps
 		 - Zooxanthellae
 			 - Provides Oxygen Sugars Fats and up to 95% of energy
  - Commensalism: One Benefits and one is Unaffected
  - Parasitism: One benefits and one is harmed.
  - Predator and Prey
- - 
+ #### Niche
+  - A specialised ha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTU4Njg5MywyMDMxNDQ5OTE2LC0xNj
+eyJoaXN0b3J5IjpbMTM4NTQ1NzE0MywyMDMxNDQ5OTE2LC0xNj
 IwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEy
 NTI0LC0yMDg4NzQ2NjEyXX0=
 -->
