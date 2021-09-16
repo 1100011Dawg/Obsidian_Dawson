@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/IB Business/Unit 1.1(21-8-13).md",
+            "file": "Media.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB Business/Unit 1.1(21-8-13).md",
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB Business/Unit 1.1(21-8-13).md",
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IB Business/Unit 1.1(21-8-13).md"
+                "file": "Media.md"
               }
             }
           },
@@ -145,6 +145,8 @@
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
+    "Media.md",
+    "Personal/Improvements.md",
     "School/IB Business/Unit 1.1(21-8-13).md",
     "School/IB BIO/Topic 4.md",
     "School/IB BIO/Advice.md",
@@ -152,8 +154,6 @@
     "Tane of Cawdor.md",
     "School/IB ELA/MacBeth/Duncan.md",
     "School/IB ELA/MacBeth/Lady Macbeth.md",
-    "School/IB ELA/MacBeth/Malcolm.md",
-    "School/IB ELA/MacBeth/DonalBain.md",
-    "School/IB ELA/MacBeth/Macbeth.md"
+    "School/IB ELA/MacBeth/Malcolm.md"
   ]
 }
