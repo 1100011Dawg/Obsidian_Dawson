@@ -57,8 +57,9 @@
  - Predator and Prey
  #### Niche
   - A specialised habitat of an organism
+  - Only one species or populaiton can occupy the same niche for an extended period of time
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjI2MDU0OSwyMDMxNDQ5OTE2LC0xNj
+eyJoaXN0b3J5IjpbLTM5MzQ2MDg5MSwyMDMxNDQ5OTE2LC0xNj
 IwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEy
 NTI0LC0yMDg4NzQ2NjEyXX0=
 -->
