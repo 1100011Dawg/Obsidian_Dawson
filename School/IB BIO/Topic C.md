@@ -56,9 +56,9 @@
  - Parasitism: One benefits and one is harmed.
  - Predator and Prey
  #### Niche
-  - A specialised ha
+  - A specialised habitat of an organism
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTQ1NzE0MywyMDMxNDQ5OTE2LC0xNj
+eyJoaXN0b3J5IjpbLTg5NjI2MDU0OSwyMDMxNDQ5OTE2LC0xNj
 IwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEy
 NTI0LC0yMDg4NzQ2NjEyXX0=
 -->
