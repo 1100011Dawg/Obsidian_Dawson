@@ -46,13 +46,16 @@
 	 - ex: Zooxanthellae and reef building corral species, Coral provides protection and compounds for photosynthesis, the algae provides oxygen and energy(glucose)
 		 - The species is polyps
 			 - They are mostly stomach
-			 - 
+			 - Sit upon a hard skeleton that is calcium carbonate
+			 - PRovides Carbon Dioxide Phosphorus and Nitrogen
+		 - Zooxanthellae
+			 - produces Oxygen Sugars Fats and up to 95% of energy
  - Commensalism: One Benefits and one is Unaffected
  - Parasitism: One benefits and one is harmed.
  - Predator and Prey
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjQ1MzE2OCwyMDMxNDQ5OTE2LC0xNj
+eyJoaXN0b3J5IjpbMTQ3NzAxMjA1NCwyMDMxNDQ5OTE2LC0xNj
 IwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEy
 NTI0LC0yMDg4NzQ2NjEyXX0=
 -->
