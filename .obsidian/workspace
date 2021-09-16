@@ -7,8 +7,11 @@
         "id": "088ae8e640cb6763",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "School/IB BIO/Topic 4/Autotrophy.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "autor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,11 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/IB BIO/Topic 4/Autotrophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "auto",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/IB BIO/Topic 4/Autotrophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/IB BIO/Topic 4/Autotrophy.md"
+              }
             }
           },
           {
@@ -137,6 +145,8 @@
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
+    "School/IB BIO/Topic 4/Autotrophy.md",
+    "School/IB BIO/Topic 4/Topic 4.md",
     "Untitled.md",
     "Personal/Improvements.md",
     "Media.md",
@@ -144,8 +154,6 @@
     "School/IB BIO/Topic 4.md",
     "School/IB BIO/Advice.md",
     "School/IB ELA/MacBeth/Macbeth Book.md",
-    "Tane of Cawdor.md",
-    "School/IB ELA/MacBeth/Duncan.md",
-    "School/IB ELA/MacBeth/Lady Macbeth.md"
+    "Tane of Cawdor.md"
   ]
 }
