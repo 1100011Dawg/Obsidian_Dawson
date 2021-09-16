@@ -1,4 +1,4 @@
-- [ ] Wynd:9
+- [ ] Wynd:10
 - [ ] The Sandman:16
 - [ ] GlimWarden:13
 - [ ] OnePunch:149
