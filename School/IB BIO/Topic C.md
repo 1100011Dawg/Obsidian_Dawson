@@ -44,12 +44,15 @@
 #### Symbiotic Relationships
  - Mutualism: Both benefits
 	 - ex: Zooxanthellae and reef building corral species, Coral provides protection and compounds for photosynthesis, the algae provides oxygen and energy(glucose)
+		 - The species is polyps
+			 - They are mostly stomach
+			 - 
  - Commensalism: One Benefits and one is Unaffected
  - Parasitism: One benefits and one is harmed.
- - Preditor and Prey
+ - Predator and Prey
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNCwxOD
-YyMDI2MTA5LDE0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbLTY3NjQ1MzE2OCwyMDMxNDQ5OTE2LC0xNj
+IwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEy
+NTI0LC0yMDg4NzQ2NjEyXX0=
 -->
