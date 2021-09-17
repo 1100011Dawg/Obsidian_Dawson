@@ -75,6 +75,7 @@
  - A Treaty were we gain soil around the Panama Canal
  - Nov. 18, 1903
  - In exchange for financial compensation
+ - **Spooner** act allowed Teddy Roosevelt to build a canal
 #### Treaty of Versailles
  - Was the treaty the ended World War One
  - signed 28 June 1919
@@ -106,11 +107,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjAyNDk1NiwtOTY0MDUzMzEwLDE4ND
-Y3NjM0MTYsMTQwOTk5Nzg0LC0xNDAxOTMxMDU5LDc2MjU3OTgy
-OCwtMzgwMDc3NjQsLTE1MDYzMjEzNiwtMTg5MjA3NjI5MiwtNz
-I0NDE0MDkzLC0yMDQwNjQxMjIyLC0xNDY4MzM5NjE1LC0xMDUy
-MTA2NTY0LC0xMDcyNDA2Mzg1LDgzMDkxODUyMCwxODU5OTQwND
-MyLC0xMzY2ODQyNjI0LC02NjIwOTY2MjAsMzk1NDYyOTIsLTYz
-MjEyNTY1Ml19
+eyJoaXN0b3J5IjpbLTIwNzkwNzM3LC05NjQwNTMzMTAsMTg0Nj
+c2MzQxNiwxNDA5OTk3ODQsLTE0MDE5MzEwNTksNzYyNTc5ODI4
+LC0zODAwNzc2NCwtMTUwNjMyMTM2LC0xODkyMDc2MjkyLC03Mj
+Q0MTQwOTMsLTIwNDA2NDEyMjIsLTE0NjgzMzk2MTUsLTEwNTIx
+MDY1NjQsLTEwNzI0MDYzODUsODMwOTE4NTIwLDE4NTk5NDA0Mz
+IsLTEzNjY4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5MiwtNjMy
+MTI1NjUyXX0=
 -->
