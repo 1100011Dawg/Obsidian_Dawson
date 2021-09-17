@@ -62,6 +62,7 @@
  - Allowed the U.S. president to buy the assets of the French company.
  - 
 #### Clayton Bulwer Treaty
+ - Neither country build the canal
  - Harmonized British and American interests in Central America
  - jointly control and protect the expected Panama canal
  - Negotiated by  John M. Clayton and Sir Henry Bulwer
@@ -105,11 +106,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDA1MzMxMCwxODQ2NzYzNDE2LDE0MD
-k5OTc4NCwtMTQwMTkzMTA1OSw3NjI1Nzk4MjgsLTM4MDA3NzY0
-LC0xNTA2MzIxMzYsLTE4OTIwNzYyOTIsLTcyNDQxNDA5MywtMj
-A0MDY0MTIyMiwtMTQ2ODMzOTYxNSwtMTA1MjEwNjU2NCwtMTA3
-MjQwNjM4NSw4MzA5MTg1MjAsMTg1OTk0MDQzMiwtMTM2Njg0Mj
-YyNCwtNjYyMDk2NjIwLDM5NTQ2MjkyLC02MzIxMjU2NTIsLTE1
-NDY1MzI2NTRdfQ==
+eyJoaXN0b3J5IjpbLTM3NjAyNDk1NiwtOTY0MDUzMzEwLDE4ND
+Y3NjM0MTYsMTQwOTk5Nzg0LC0xNDAxOTMxMDU5LDc2MjU3OTgy
+OCwtMzgwMDc3NjQsLTE1MDYzMjEzNiwtMTg5MjA3NjI5MiwtNz
+I0NDE0MDkzLC0yMDQwNjQxMjIyLC0xNDY4MzM5NjE1LC0xMDUy
+MTA2NTY0LC0xMDcyNDA2Mzg1LDgzMDkxODUyMCwxODU5OTQwND
+MyLC0xMzY2ODQyNjI0LC02NjIwOTY2MjAsMzk1NDYyOTIsLTYz
+MjEyNTY1Ml19
 -->
