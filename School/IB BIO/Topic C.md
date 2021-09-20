@@ -58,13 +58,13 @@
 	 - One Organism eats the other organism and thus kills the prey.
  #### Niche
   - A specialised habitat of an organism
-  - Only one species or populaiton can occupy the same niche for an extended period of time
+  - Only one species or population can occupy the same niche for an extended period of time
  #### Type of _____
   - Predation a consumer kills and eats another organism
   - Herborvy: Consumer eats plant matter
-  - Paratism: symbiotic relationship were the parasit be
+  - Parasitism: symbiotic relationship were the parasite benefit to the host detriment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzU2NTI3NCwtMTQ4MTAzMTQ1LC0zOT
+eyJoaXN0b3J5IjpbLTY0MzIyODQ3MSwtMTQ4MTAzMTQ1LC0zOT
 M0NjA4OTEsMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNCwxODYyMDI2
 MTA5LDE0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0NjYxMl
 19
