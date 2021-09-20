@@ -61,14 +61,15 @@
   - Only one species or population can occupy the same niche for an extended period of time
   - intraspecific: competition within a species for a resource
   - interspecific: competition between species for a resource
-  - Fundemental niches is the full range o
+  - Fundamental niches is the full range of environmental conditions where a species could potentially live
+  - Realized niche: is the specific set of conditions under which it actually does survive.
  #### Type of _____
   - Predation a consumer kills and eats another organism
   - Herborvy: Consumer eats plant matter
   - Parasitism: symbiotic relationship were the parasite benefit to the host detriment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTQzNzg5NSwtMTQ4MTAzMTQ1LC0zOT
-M0NjA4OTEsMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNCwxODYyMDI2
-MTA5LDE0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0NjYxMl
-19
+eyJoaXN0b3J5IjpbMzI1MzE3MTkxLC0xNDgxMDMxNDUsLTM5Mz
+Q2MDg5MSwyMDMxNDQ5OTE2LC0xNjIwMDMwNzE0LDE4NjIwMjYx
+MDksMTQxMzM2MDI4OCwxMDkwNTEyNTI0LC0yMDg4NzQ2NjEyXX
+0=
 -->
