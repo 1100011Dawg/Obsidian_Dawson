@@ -59,15 +59,16 @@
  #### Niche
   - A specialised habitat of an organism
   - Only one species or population can occupy the same niche for an extended period of time
-  - intraspefific: competition within a species
-  - interspefific: competition between species
+  - intraspecific: competition within a species for a resource
+  - interspecific: competition between species for a resource
+  - Fundemental niches is the full range o
  #### Type of _____
   - Predation a consumer kills and eats another organism
   - Herborvy: Consumer eats plant matter
   - Parasitism: symbiotic relationship were the parasite benefit to the host detriment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA3OTQ4NDMsLTE0ODEwMzE0NSwtMz
-kzNDYwODkxLDIwMzE0NDk5MTYsLTE2MjAwMzA3MTQsMTg2MjAy
-NjEwOSwxNDEzMzYwMjg4LDEwOTA1MTI1MjQsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbMTY3NTQzNzg5NSwtMTQ4MTAzMTQ1LC0zOT
+M0NjA4OTEsMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNCwxODYyMDI2
+MTA5LDE0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0NjYxMl
+19
 -->
