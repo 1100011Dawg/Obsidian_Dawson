@@ -68,13 +68,15 @@
   - Niche Partitioning, a spatial, morphological or temporal partitioning of a similar resource.
  #### Type of _____
   - Predation a consumer kills and eats another organism
+	  - Top down influnce on lower trophic levels
   - Herborvy: Consumer eats plant matter
   - Parasitism: symbiotic relationship were the parasite benefit to the host detriment
-- 
+- #### Keystone Species:
+-  - Is a species which has a disproportionate effect on the structure of an ecological community
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTc4MzUzMCw0MTk1MzYyMzksLTE4Nz
-Y0MDk2ODAsLTIwOTcyMzY1OTUsMzI1MzE3MTkxLC0xNDgxMDMx
-NDUsLTM5MzQ2MDg5MSwyMDMxNDQ5OTE2LC0xNjIwMDMwNzE0LD
-E4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEyNTI0LC0yMDg4
-NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3NjQ2NjQwMjAsNDE5NTM2MjM5LC0xOD
+c2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5MSwtMTQ4MTAz
+MTQ1LC0zOTM0NjA4OTEsMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNC
+wxODYyMDI2MTA5LDE0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4
+ODc0NjYxMl19
 -->
