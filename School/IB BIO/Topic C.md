@@ -63,13 +63,14 @@
   - interspecific: competition between species for a resource
   - Fundamental niches is the full range of environmental conditions where a species could potentially live
   - Realized niche: is the specific set of conditions under which it actually does survive.
+  - Competitive exclusion principle:
  #### Type of _____
   - Predation a consumer kills and eats another organism
   - Herborvy: Consumer eats plant matter
   - Parasitism: symbiotic relationship were the parasite benefit to the host detriment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MzE3MTkxLC0xNDgxMDMxNDUsLTM5Mz
-Q2MDg5MSwyMDMxNDQ5OTE2LC0xNjIwMDMwNzE0LDE4NjIwMjYx
-MDksMTQxMzM2MDI4OCwxMDkwNTEyNTI0LC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbLTIwOTcyMzY1OTUsMzI1MzE3MTkxLC0xND
+gxMDMxNDUsLTM5MzQ2MDg5MSwyMDMxNDQ5OTE2LC0xNjIwMDMw
+NzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEyNTI0LC
+0yMDg4NzQ2NjEyXX0=
 -->
