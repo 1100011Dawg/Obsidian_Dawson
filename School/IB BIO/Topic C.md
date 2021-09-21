@@ -70,9 +70,11 @@
   - Predation a consumer kills and eats another organism
   - Herborvy: Consumer eats plant matter
   - Parasitism: symbiotic relationship were the parasite benefit to the host detriment
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5NTM2MjM5LC0xODc2NDA5NjgwLC0yMD
-k3MjM2NTk1LDMyNTMxNzE5MSwtMTQ4MTAzMTQ1LC0zOTM0NjA4
-OTEsMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNCwxODYyMDI2MTA5LD
-E0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTAxMTc4MzUzMCw0MTk1MzYyMzksLTE4Nz
+Y0MDk2ODAsLTIwOTcyMzY1OTUsMzI1MzE3MTkxLC0xNDgxMDMx
+NDUsLTM5MzQ2MDg5MSwyMDMxNDQ5OTE2LC0xNjIwMDMwNzE0LD
+E4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEyNTI0LC0yMDg4
+NzQ2NjEyXX0=
 -->
