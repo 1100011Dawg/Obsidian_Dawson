@@ -65,13 +65,14 @@
   - Realized niche: is the specific set of conditions under which it actually does survive.
   - Competitive exclusion principle: No two species can occupy the same niche for extended periods of time.
 	  - ex: Paramecium grew higher when they were in their own area
+  - Niche Partitioning, a spatial, morphological or temporal partitioning of a similar resource.
  #### Type of _____
   - Predation a consumer kills and eats another organism
   - Herborvy: Consumer eats plant matter
   - Parasitism: symbiotic relationship were the parasite benefit to the host detriment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY0MDk2ODAsLTIwOTcyMzY1OTUsMz
-I1MzE3MTkxLC0xNDgxMDMxNDUsLTM5MzQ2MDg5MSwyMDMxNDQ5
-OTE2LC0xNjIwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OC
-wxMDkwNTEyNTI0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNDE5NTM2MjM5LC0xODc2NDA5NjgwLC0yMD
+k3MjM2NTk1LDMyNTMxNzE5MSwtMTQ4MTAzMTQ1LC0zOTM0NjA4
+OTEsMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNCwxODYyMDI2MTA5LD
+E0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0NjYxMl19
 -->
