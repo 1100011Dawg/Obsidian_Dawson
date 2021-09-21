@@ -73,10 +73,14 @@
   - Parasitism: symbiotic relationship were the parasite benefit to the host detriment
 - #### Keystone Species:
 -  - Is a species which has a disproportionate effect on the structure of an ecological community
+- Keystone modifier species: determine the prevalence and activities of many other species by dramatically altering the environment
+	- ex: Beaver
+- Keystone host species: Provide habitat for a variety of other species
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAyNzEwNTUsNDE5NTM2MjM5LC0xOD
-c2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5MSwtMTQ4MTAz
-MTQ1LC0zOTM0NjA4OTEsMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNC
-wxODYyMDI2MTA5LDE0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4
-ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NT
+M2MjM5LC0xODc2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5
+MSwtMTQ4MTAzMTQ1LC0zOTM0NjA4OTEsMjAzMTQ0OTkxNiwtMT
+YyMDAzMDcxNCwxODYyMDI2MTA5LDE0MTMzNjAyODgsMTA5MDUx
+MjUyNCwtMjA4ODc0NjYxMl19
 -->
