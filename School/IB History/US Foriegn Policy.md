@@ -11,7 +11,7 @@
  - Repeatedly implemented puppet states
  - The lodge corollary was were latin american countries can only interact with U.S. business interest
  - Increased the interventions in latin america
- - Didn´t improve latin america living conditions
+ - Didn´t improve Latin america living conditions
  - For a while think they could boost Canadian foreign interest
 #### Moral Diplomacy
  - The United States decides if the country is diplomatic
