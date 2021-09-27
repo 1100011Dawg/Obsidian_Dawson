@@ -2,7 +2,7 @@
   "spellcheck": true,
   "foldHeading": true,
   "foldIndent": true,
-  "vimMode": false,
+  "vimMode": true,
   "promptDelete": false,
   "spellcheckDictionary": [
     "apparate",
