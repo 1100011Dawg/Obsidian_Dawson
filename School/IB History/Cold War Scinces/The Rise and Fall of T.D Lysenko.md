@@ -98,11 +98,7 @@ leading role in the creation of the department of vernalization”
 
 
 
-“However, treatment of tens of thousands of tons of seed  
-on each collective or state farm was a burdensome and risky  
-procedure, requiring special sheds and great expenditure of  
-work forces.”  
-(Medvedev and Lerner, p. 16)
+
 
 “According to experimental data, in the absence  
 of drought in late summer, vernalization lowered the yield.  
