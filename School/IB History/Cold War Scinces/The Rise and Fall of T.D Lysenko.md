@@ -83,10 +83,7 @@ were recognized even by Lamarckian scientists in 1929-1932.”
 
 
 
-“One  
-could cite many such examples of Prezent’s “class vigilance.”  
-Indeed, two to three years later, it was these tactics that Prezent brought into the movement headed by Lysenko”  
-(Medvedev and Lerner, p. 11)
+
 
 
 
