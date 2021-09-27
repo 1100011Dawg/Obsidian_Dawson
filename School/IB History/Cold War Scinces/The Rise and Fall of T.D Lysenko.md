@@ -399,17 +399,9 @@ M. M. Zavadovsky, and Konstantinov, who were charged
 with an inimical attitude toward Lysenko’s work”  
 (Medvedev and Lerner, p. 53)
 d
-“the beginning of 1939 the Lysenko-edited journal Yaro-  
-vizatsiya published Prezent’s article “On pseudoscientific  
-theories in genetics,” in which he attempted to draw a far¬  
-fetched, slanderous parallel between the work of Vavilov and  
-the absurd ideas of the reactionary and anti-Marxist philoso¬  
-pher, Diihring:”  
-(Medvedev and Lerner, p. 54)
 
-“But who does not know that the litera¬  
-ture denies the scientific significance of Marxist-Leninist material¬  
-istic dialectics and the materialistic theory of development?23”  
+
+
 (Medvedev and Lerner, p. 56)
 
 “the party organization considers essential for  
