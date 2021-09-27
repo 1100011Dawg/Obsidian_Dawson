@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/IB History/US Foriegn Policy.md",
+            "file": "School/IB History/Cold War Scinces/Temp.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB History/US Foriegn Policy.md",
+                "file": "School/IB History/Cold War Scinces/Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB History/US Foriegn Policy.md",
+                "file": "School/IB History/Cold War Scinces/Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IB History/US Foriegn Policy.md"
+                "file": "School/IB History/Cold War Scinces/Temp.md"
               }
             }
           },
@@ -140,13 +140,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "088ae8e640cb6763",
   "lastOpenFiles": [
-    "School/IB History/US Foriegn Policy.md",
     "School/IB History/Cold War Scinces/Temp.md",
+    "School/IB History/US Foriegn Policy.md",
     "School/IB History/IA.md",
     "School/IB BIO/Topic 4/Topic 4.md",
     "School/IB BIO/Topic 4/Autotrophy.md",
