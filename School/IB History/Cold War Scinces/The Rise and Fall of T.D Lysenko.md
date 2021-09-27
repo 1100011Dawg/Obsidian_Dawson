@@ -1,4 +1,14 @@
+
+---
+tags: app
+aliases:
+  - "Obsidian markdown"
+  - "Obsidian notes"
+---
+```
 The author is involved with the events of Lysenkoism and is contrary to the movement. He is also an avid supporter of communism.
+
+
 
 
 Annoations:# Annotations  
