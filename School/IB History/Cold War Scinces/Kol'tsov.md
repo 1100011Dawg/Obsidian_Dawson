@@ -2,6 +2,8 @@
 - Was campaigned against by the newspaper Sotszemledelie[^1]
 	- Article by Denin: “Academicians Kol’tsov and Serebrovsky,  and the various “knights of the gene,” jealously guarding the special and monopolistic role of the genes. Ye”  [^2]
 - Pravda article compared him to "fascist thug Lenz"[^4]
+- Was capaining to be president of the AS.[^5]
+- 
 
 
 

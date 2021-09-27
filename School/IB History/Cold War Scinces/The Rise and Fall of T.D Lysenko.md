@@ -481,11 +481,7 @@ of hereditary patholog”
 (Medvedev and Lerner, p. 78)
 
 
-“was published just before the elections to the  
-AS to fill a vacancy in genetics, and the candidates for that  
-vacancy were Lysenko (then a member of the LAAAS),  
-Kol’tsov and Berg (corresponding members of the AS)”  
-(Medvedev and Lerner, p. 80)
+
 
 “Kol’tsov’s significant contribution to the development of  
 cytology and genetics makes it necessary to evaluate more  
