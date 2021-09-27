@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "111d8f61dcd4bf81",
+        "id": "a9a5091d6414c778",
         "type": "split",
         "children": [
           {
@@ -17,25 +17,20 @@
                 "mode": "source"
               }
             },
-            "group": "ab42f60891e616b3"
+            "group": "f49ec5303a0b1212"
           },
           {
-            "id": "95d10bc063188d90",
+            "id": "908ef4d5734f7d67",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outgoing-link",
               "state": {
                 "file": "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
               }
             },
-            "group": "ab42f60891e616b3"
+            "group": "f49ec5303a0b1212"
           }
         ],
         "direction": "horizontal"
@@ -180,7 +175,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95d10bc063188d90",
+  "active": "908ef4d5734f7d67",
   "lastOpenFiles": [
     "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
     "School/IB History/Cold War Scinces/Maksimov.md",
