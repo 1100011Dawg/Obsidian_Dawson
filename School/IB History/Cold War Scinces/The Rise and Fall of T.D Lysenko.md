@@ -70,10 +70,7 @@ Soviet science, were temporarily declared to be bourgeois,
 idealistic, and anti-Marxist.”  
 (Medvedev and Lerner, p. 7)
 
-“Prezent  
-and Lysenko enlivened the genetics debate in 1935 only after  
-their “creative partnership” was established.”  
-(Medvedev and Lerner, p. 9)
+
 
 “They went much  
 farther than had their Lamarckist predecessors in accusations  
