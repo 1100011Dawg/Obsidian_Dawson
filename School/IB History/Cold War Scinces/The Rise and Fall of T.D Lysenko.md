@@ -5,7 +5,7 @@ tags:
 aliases:
   - "Medvedev and Lerner"
 ---
-The author is involved with the events of Lysenkoism and is contrary to the movement. He is also an avid supporter of communism. His perspective is that of a historian, active participate and witness to the events.
+The author is involved with the events of Lysenkoism and is contrary to the movement. He is also an avid supporter of communism. His perspective is that of a historian, active participate and witness to the events.[^1]
 
 
 
@@ -13,7 +13,7 @@ The author is involved with the events of Lysenkoism and is contrary to the move
 Annoations:# Annotations  
 (9/18/2021, 6:01:35 PM)
 
-“author’s three points of view: as  
+[^1]: “author’s three points of view: as  
 historian; as a witness to the events; and as an active participant  
 in the last stages of Lysenkoism, which he helped to topple.”  
 (Medvedev and Lerner, p. 9)
