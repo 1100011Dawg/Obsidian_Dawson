@@ -358,12 +358,6 @@ nihilated.1”
 
 
 
-
-“Academicians Kol’tsov and Serebrovsky,  
-and the various “knights of the gene,” jealously guarding the spe¬  
-cial and monopolistic role of the genes. Ye”  
-(Medvedev and Lerner, p. 49)
-
 “.. I repeat for clarity: Darwinists are for  
 and not against genetics; Darwinists are not against genetics, but  
 they are against the fascist distortion of genetics and fascist utiliza¬  
