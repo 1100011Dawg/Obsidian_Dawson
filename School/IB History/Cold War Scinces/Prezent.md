@@ -15,5 +15,4 @@
  
  [^6]:(Medvedev and Lerner, p. 56)
  
- [^7]:“the party organization considers essential for  the purposes of reconstruction of the institute the dismissal  of Vavilov as director, since, as the ideologist of formal genet¬  ics in the U.S.S.R., by remaining at his post he aids the activization and consolidation of anti-Darwinians throughout  the Soviet Union, thereby interfering with the rapid rebuild¬  ing of the experimental and plant-breeding network of the  Union along Darwinist lines.””  
-(Medvedev and Lerner, p. 56)
+ [^7]:“the party organization considers essential for  the purposes of reconstruction of the institute the dismissal  of Vavilov as director, since, as the ideologist of formal genet¬  ics in the U.S.S.R., by remaining at his post he aids the activization and consolidation of anti-Darwinians throughout  the Soviet Union, thereby interfering with the rapid rebuild¬  ing of the experimental and plant-breeding network of the  Union along Darwinist lines.””  (Medvedev and Lerner, p. 56)
