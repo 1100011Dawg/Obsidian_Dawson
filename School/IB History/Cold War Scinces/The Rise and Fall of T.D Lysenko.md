@@ -103,7 +103,7 @@ important discovery.”
 
 
 
-“There, in 1934, Maksimov “confessed” his “errors” in the  
+“There, in 1933, Maksimov “confessed” his “errors” in the  
 evaluation of Lysenko’s discovery”  
 (Medvedev and Lerner, p. 14)
 
