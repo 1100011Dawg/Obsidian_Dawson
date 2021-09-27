@@ -89,15 +89,10 @@ of scientific-political demagoguery”
 
 “One  
 could cite many such examples of Prezent’s “class vigilance.”  
-Indeed, two to three years later, it was these tactics that Pre¬  
-zent brought into the movement headed by Lysenko”  
+Indeed, two to three years later, it was these tactics that Prezent brought into the movement headed by Lysenko”  
 (Medvedev and Lerner, p. 11)
 
-“Lysenko acquired a really broad reputation, however, with  
-his “discovery” of so-called vernalization (yarovization), an  
-agronomic practice whereby winter crops are obtained from  
-summer planting”  
-(Medvedev and Lerner, p. 12)
+
 
 “The paper by Lysenko and Dol¬  
 gushin on the nature of winter crops went largely unnoticed.  
