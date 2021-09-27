@@ -103,9 +103,7 @@ important discovery.”
 
 
 
-“There, in 1933, Maksimov “confessed” his “errors” in the  
-evaluation of Lysenko’s discovery”  
-(Medvedev and Lerner, p. 14)
+
 
 “his father had sown seeds of the winter variety  
 Ukrainka, which wintered under the snow, and had obtained  
