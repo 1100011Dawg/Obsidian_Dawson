@@ -485,13 +485,7 @@ of hereditary patholog”
 
 
 
-“e possibility of breeding human races according to  
-Mendelian laws.9 Yet he conceals the fact that Kol’tsov said  
-this in a science-fiction reference, as a theoretical possibility  
-that Martians might use if they conquered the earth, and  
-proved to be creatures of a higher order than man, who  
-viewed earthmen as domestic animals”  
-(Medvedev and Lerner, p. 82)
+
 
 “It may be appropriate to give some examples of the  
 methods whereby Vil’yams’ supporters attempted, in 1935—  

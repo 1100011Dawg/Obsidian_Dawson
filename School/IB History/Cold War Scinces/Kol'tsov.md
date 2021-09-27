@@ -3,7 +3,8 @@
 	- Article by Denin: “Academicians Kol’tsov and Serebrovsky,  and the various “knights of the gene,” jealously guarding the special and monopolistic role of the genes. Ye”  [^2]
 - Pravda article compared him to "fascist thug Lenz"[^4]
 - Was capaining to be president of the AS.[^5]
-- Was said to be a eugenicist by Prazant
+- Was said to be a eugenicist by Prezent
+	- Actually a part of a science fiction though experemnt of alien races breeding us.[]
 
 
 
@@ -19,4 +20,4 @@ Footnotes:
 
 [^5]:“was published just before the elections to the  AS to fill a vacancy in genetics, and the candidates for that  vacancy were Lysenko (then a member of the LAAAS),  Kol’tsov and Berg (corresponding members of the AS)”  (Medvedev and Lerner, p. 80)
 
-[^6]
+[^6]:“Kol’tsov’s significant contribution to the development of  cytology and genetics makes it necessary to evaluate more  fairly his early eugenical works published in the Rnssky  Evgenichesky Zhurnal in 1922-1923, which became known  to the wider public in 1937, thanks to Prezent.”  (Medvedev and Lerner, p. 81)
