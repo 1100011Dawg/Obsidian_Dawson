@@ -8,6 +8,7 @@ aliases:
 
 #### August 1948 session
  - Was an important event[^1] where hundreds of scientists were either dismissed on slanderous accusations of Morgainsm, Weismannism, imperialism, Mendelism, and more.[^2] This was because they disagreed with the ideas of Lysenko, Prezent, and Glushchenko.[^3]
+#### 
 
 
 Footnotes:
