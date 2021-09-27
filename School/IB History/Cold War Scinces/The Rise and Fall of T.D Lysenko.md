@@ -630,16 +630,7 @@ glory”
 
 
 
-“Immediately after the session, hundreds of scientists, the  
-best and most qualified representatives of Soviet biology, were  
-either dismissed or demoted on the basis of fabricated,  
-slanderous, and perverted accusations of idealism, reactionary  
-views, Morganism, Weismannism, complicity with imperialism  
-and the bourgeoisie, Mendelism, anti-Michurinism, groveling  
-before the West, sabotage, metaphysics, mechanism, racism,  
-cosmopolitanism, formalism, unproductiveness, anti-Marxism,  
-anti-Darwinism, alienation from practice, and the like”  
-(Medvedev and Lerner, p. 103)
+
 
 “they  
 did not always, and in everything, agree with the ideas and  
