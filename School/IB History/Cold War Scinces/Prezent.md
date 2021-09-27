@@ -1,4 +1,4 @@
- He was known for political demogogory[^1] that he applied to the Lysenkoism movement.[^2] With Lysenko he announced a genetic theory that went against the prevalent Chromosome theory at the time.[^3] Heavily criticized Vavilov.[^4] One slanderous quote from the Lysenko-editd journal Yarovizatsiya 
+ He was known for political demogogory[^1] that he applied to the Lysenkoism movement.[^2] With Lysenko he announced a genetic theory that went against the prevalent Chromosome theory at the time.[^3] Heavily criticized Vavilov.[^4] One slanderous article from the Lysenko-editd journal Yarovizatsiya titled ""
  
  
  Footnotes:

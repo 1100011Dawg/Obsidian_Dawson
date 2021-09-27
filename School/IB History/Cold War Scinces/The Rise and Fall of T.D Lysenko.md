@@ -398,7 +398,7 @@ in this article were such scientists as the academicians Vavilov,
 M. M. Zavadovsky, and Konstantinov, who were charged  
 with an inimical attitude toward Lysenko’s work”  
 (Medvedev and Lerner, p. 53)
-
+d
 “the beginning of 1939 the Lysenko-edited journal Yaro-  
 vizatsiya published Prezent’s article “On pseudoscientific  
 theories in genetics,” in which he attempted to draw a far¬  
