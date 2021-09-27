@@ -147,11 +147,7 @@ of solving the problem”
 
 (Medvedev and Lerner, p. 19) The procumation was unrealistic and served to help the attack against vevlo
 
-“In 1935-1936, however, Lysenko and Prezent announced  
-a new concept of heredity in opposition to the generally  
-accepted chromosome theory which they denounced as reac¬  
-tionary, idealist, metaphysical, and barren”  
-(Medvedev and Lerner, p. 20)
+
 
 “The opposite side in the polemic was represented in 1936  
 by the majority of leaders of the genetical, cytological, and  
