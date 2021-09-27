@@ -22,12 +22,6 @@ were written in 1961-1962 and augmented in 1963-1964; the
 third was written in 1966-1967”  
 (Medvedev and Lerner, p. 15)
 
-“Criticism of its  
-positions was actually banned in the press and was mercilessly  
-eradicated by all means of press control. By 1966 Lysenkoism,  
-as such, had already disappeared from Soviet science, not hav¬  
-ing survived even one year of open discussion.”  
-(Medvedev and Lerner, p. 15)
 
 “AIPB All-Union Institute of Plant Breeding  
 AS U.S.S.R. Academy of Sciences  
