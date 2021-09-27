@@ -1,4 +1,4 @@
- He was known for political demogogory[^1] that he applied to the Lysenkoism movement.[^2] With Lysenko he announced a genetic theory that went against the prevalent Chromosome theory at the time.[^3]
+ He was known for political demogogory[^1] that he applied to the Lysenkoism movement.[^2] With Lysenko he announced a genetic theory that went against the prevalent Chromosome theory at the time.[^3] Heavly critisized [^4]
  
  
  Footnotes:
@@ -7,5 +7,5 @@
  
  [^2]:“One  could cite many such examples of Prezent’s “class vigilance.”  Indeed, two to three years later, it was these tactics that Prezent brought into the movement headed by Lysenko”  (Medvedev and Lerner, p. 11)
  
- [^3]:“In 1935-1936, however, Lysenko and Prezent announced  a new concept of heredity in opposition to the generally  accepted chromosome theory which they denounced as reactionary, idealist, metaphysical, and barren”  
-(Medvedev and Lerner, p. 20)
+ [^3]:“In 1935-1936, however, Lysenko and Prezent announced  a new concept of heredity in opposition to the generally  accepted chromosome theory which they denounced as reactionary, idealist, metaphysical, and barren”  (Medvedev and Lerner, p. 20)
+ 

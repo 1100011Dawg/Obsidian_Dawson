@@ -355,10 +355,7 @@ biology of development, in the Leningrad State University, was an¬
 nihilated.1”  
 (Medvedev and Lerner, p. 47)
 
-“Immediately following the Prezent article was one by Kol’,  
-accusing Vavilov of being a reactionary, of sabotage and  
-other sins”  
-(Medvedev and Lerner, p. 48)
+
 
 “sharp campaign against Vavilov, Kol’tsov, and other  
 geneticists was also started in 1937 by the newspaper Sots-  
