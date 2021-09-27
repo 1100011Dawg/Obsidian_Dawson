@@ -95,9 +95,6 @@ ners.)”
 leading role in the creation of the department of vernalization”  
 (Medvedev and Lerner, p. 15)
 
-“Lysenko, in 1931 —1934, advanced  
-the so-called theory of phasic development of plants”  
-(Medvedev and Lerner, p. 15)
 
 “Yet the widespread use of vernaliza¬  
 tion did meet some opposition among scientists and collective  
