@@ -1,7 +1,9 @@
 
 ---
 tags:
-	- "Biology"
+ - "Biology"
+ - "History
+
 	- "History"
 aliases:
   - "Medvedev and Lerner"
