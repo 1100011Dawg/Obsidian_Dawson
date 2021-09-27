@@ -15,10 +15,7 @@ The author is involved with the events of Lysenkoism and is contrary to the move
 Annoations:# Annotations  
 (9/18/2021, 6:01:35 PM)
 
-[^1]:  “author’s three points of view: as  
-historian; as a witness to the events; and as an active participant  
-in the last stages of Lysenkoism, which he helped to topple.”  
-(Medvedev and Lerner, p. 9)
+[^1]:  “author’s three points of view: as  historian; as a witness to the events; and as an active participant  in the last stages of Lysenkoism, which he helped to topple.”  (Medvedev and Lerner, p. 9)
 
 “This book consists of three parts. The first two  
 were written in 1961-1962 and augmented in 1963-1964; the  
