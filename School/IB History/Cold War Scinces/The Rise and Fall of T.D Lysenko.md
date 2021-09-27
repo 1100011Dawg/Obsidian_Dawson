@@ -629,15 +629,6 @@ glory”
 (Medvedev and Lerner, p. 98)
 
 
-
-
-
-“they  
-did not always, and in everything, agree with the ideas and  
-hypotheses advanced by Lysenko, Prezent, Glushchenko,  
-Ol’shansky, Stoletov, and other members of that group.”  
-(Medvedev and Lerner, p. 103)
-
 “On  
 November 5, 1945, Lysenko first gave his paper, which denied  
 the existence of intraspecific competition among plants and  
