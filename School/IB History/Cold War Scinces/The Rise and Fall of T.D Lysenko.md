@@ -4,6 +4,7 @@ tags:
 	- "Biology"
 aliases:
   - "Medvedev and Lerner"
+  - 
 ---
 The author is involved with the events of Lysenkoism and is contrary to the movement. He is also an avid supporter of communism. His perspective is that of a historian, active participate and witness to the events.[^1]
 
