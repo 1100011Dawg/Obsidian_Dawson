@@ -96,10 +96,7 @@ leading role in the creation of the department of vernalization”
 (Medvedev and Lerner, p. 15)
 
 
-“Yet the widespread use of vernaliza¬  
-tion did meet some opposition among scientists and collective  
-farmers”  
-(Medvedev and Lerner, p. 15)
+
 
 “However, treatment of tens of thousands of tons of seed  
 on each collective or state farm was a burdensome and risky  
