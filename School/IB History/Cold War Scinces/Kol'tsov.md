@@ -1,4 +1,5 @@
 - Was campaigned against by the newspaper Sotszemledelie[^1]
+	- Article by Denin: ""
 
 
 Footnotes:
