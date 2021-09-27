@@ -102,15 +102,9 @@ leading role in the creation of the department of vernalization”
 
 
 
-“In fact, comrades, while vernalization created by Soviet reality  
-could in a relatively short period of some four to five years be¬  
-come a whole branch of science, could fight off all the attacks of  
-the class enemy”  
-(Medvedev and Lerner, p. 16)
 
-“This speech of Lysenko greatly pleased Stalin who, at its  
-end, exclaimed: “Bravo, comrade Lysenko, bravo!””  
-(Medvedev and Lerner, p. 17)
+
+
 
 “But it served as a base for sub¬  
 sequent criticisms of AIPB, and of Vavilov as being incapable  
