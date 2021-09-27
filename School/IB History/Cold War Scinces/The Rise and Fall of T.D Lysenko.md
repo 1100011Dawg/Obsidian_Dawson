@@ -571,11 +571,7 @@ which caused severe damage to Siberian”
 
 (Medvedev and Lerner, p. 112) Around 1948 young scientists doubted Lysenko, so he tried to consolidate his power.
 
-“Lysenko and his groups thus fell upon hard times. In the  
-spring of 1948, Zhdanov raised the question of strengthening  
-the leadership of LAAAS, which assumed Lysenko’s dismissal  
-as president.”  
-(Medvedev and Lerner, p. 113)
+
 
 “Difficulties were even  
 experienced in citing foreign authors in articles and books.”  

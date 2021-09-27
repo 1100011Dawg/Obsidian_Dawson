@@ -14,7 +14,7 @@ aliases:
 #### Lysenko President
  - Many member were arrested and so Lysenko became the president[^5]
 	 - The arrests were preceded by a campaign framing the LAAAS as "enemies of the people"
- - Spring of 1948 
+ - Spring of 1948 Zhdanov raised the question of dismissing Lysenko from LAAAS.[^6]
 
 Footnotes:
 [^1]:The famous august, 1948, session of the LAAAS  was for a long time sorrowfully designated the historical one.  It did, indeed, become an event never to be forgotten in the  history of science and mankind”  (Medvedev and Lerner, p. 103)
@@ -26,3 +26,5 @@ Footnotes:
 [^4]:“At the end of 1948, Muller, having previously been elected  a foreign member of the AS, announced his resignation from  the Academy as a protest against the persecution of Soviet  geneticists which followed the LAAAS session in August of  the same year”  (Medvedev and Lerner, p. 34)
 
 [^5]:“The letter’s prognosis of a successful Congress in 1938 was  not fulfilled, for by then Meister, Levit, and Gorbunov, all  members of the organizing committee, as well as its president,  Muralov, had been arrested. Lysenko became president of the  LAAAS.13”  (Medvedev and Lerner, p. 52)
+
+[^6]:“Lysenko and his groups thus fell upon hard times. In the  spring of 1948, Zhdanov raised the question of strengthening  the leadership of LAAAS, which assumed Lysenko’s dismissal  as president.”  (Medvedev and Lerner, p. 113)
