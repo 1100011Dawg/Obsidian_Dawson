@@ -5,3 +5,8 @@ tags:
 aliases:
  - "Lenin All-Union Academy of Agricultural Sciences"
 ---
+
+#### August 1948 session
+
+
+Footnote

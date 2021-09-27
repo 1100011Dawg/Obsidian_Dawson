@@ -628,11 +628,7 @@ practice, lived off the exploitation of Vil’yams’ unmerited
 glory”  
 (Medvedev and Lerner, p. 98)
 
-“The famous august, 1948, session of the LAAAS  
-was for a long time sorrowfully designated the historical one.  
-It did, indeed, become an event never to be forgotten in the  
-history of science and mankind”  
-(Medvedev and Lerner, p. 103)
+
 
 “Immediately after the session, hundreds of scientists, the  
 best and most qualified representatives of Soviet biology, were  
