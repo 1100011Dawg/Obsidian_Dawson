@@ -480,11 +480,6 @@ only at the stage of preliminary investigation and elucidation
 of hereditary patholog”  
 (Medvedev and Lerner, p. 78)
 
-“Kol’tsov’s work on “Hereditary  
-molecules,” published in 1935 in the journal Nauka i Zhizn\  
-anticipated many current discoveries.”  
-(Medvedev and Lerner, p. 79)
-
 “the  
 Pravda article implied “resemblances” between the scientific  
 work of Kol’tsov and that of the “fascist thug Lenz.” Berg  
