@@ -12,7 +12,7 @@ aliases:
 #### 1937 election
  - Prezent highlighted [[Kol'tsov]]'s "eugenical work" in order to hinder his chance in the AS election against Lysenko.
 #### Lysenko President
- - many member were arease
+ - Many member were arrested and so Lysenko became the president
 
 Footnotes:
 [^1]:The famous august, 1948, session of the LAAAS  was for a long time sorrowfully designated the historical one.  It did, indeed, become an event never to be forgotten in the  history of science and mankind”  (Medvedev and Lerner, p. 103)
