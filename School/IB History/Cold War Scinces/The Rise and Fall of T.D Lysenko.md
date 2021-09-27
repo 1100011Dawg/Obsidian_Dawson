@@ -84,12 +84,7 @@ were recognized even by Lamarckian scientists in 1929-1932.”
 
 
 
-“The paper by Lysenko and Dol¬  
-gushin on the nature of winter crops went largely unnoticed.  
-It was, however, subjected to serious scientific criticism with  
-regard to both its methodology" and its claim to being an  
-important discovery.”  
-(Medvedev and Lerner, p. 13)
+
 
 
 
