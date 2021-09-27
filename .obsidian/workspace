@@ -15,15 +15,41 @@
         }
       },
       {
-        "id": "d79cc241cad030ad",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "School/IB History/Cold War Scinces/LAAAS.md",
-            "mode": "source"
+        "id": "99dedd7b7c8b38f3",
+        "type": "split",
+        "children": [
+          {
+            "id": "d79cc241cad030ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/IB History/Cold War Scinces/LAAAS.md",
+                "mode": "source"
+              }
+            },
+            "group": "3d8b7d6f5d2041b4"
+          },
+          {
+            "id": "a104c8af8570e89d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/IB History/Cold War Scinces/LAAAS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "group": "3d8b7d6f5d2041b4"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -154,7 +180,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d79cc241cad030ad",
+  "active": "a104c8af8570e89d",
   "lastOpenFiles": [
     "School/IB History/Cold War Scinces/LAAAS.md",
     "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
