@@ -480,12 +480,6 @@ only at the stage of preliminary investigation and elucidation
 of hereditary patholog”  
 (Medvedev and Lerner, p. 78)
 
-“the  
-Pravda article implied “resemblances” between the scientific  
-work of Kol’tsov and that of the “fascist thug Lenz.” Berg  
-was similarly attacked on the basis of his long-forgotten book,  
-Nomogenesis, published in 1922.5”  
-(Medvedev and Lerner, p. 80)
 
 “was published just before the elections to the  
 AS to fill a vacancy in genetics, and the candidates for that  

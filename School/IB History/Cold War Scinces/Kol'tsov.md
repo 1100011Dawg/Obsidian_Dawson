@@ -1,7 +1,7 @@
 - Was a prolific geneticsist[^3]
 - Was campaigned against by the newspaper Sotszemledelie[^1]
 	- Article by Denin: “Academicians Kol’tsov and Serebrovsky,  and the various “knights of the gene,” jealously guarding the special and monopolistic role of the genes. Ye”  [^2]
-- Pravda article was
+- Pravda article compared him to "fascist thug Lenz"[^4]
 
 
 
@@ -12,3 +12,6 @@ Footnotes:
 [^2]:(Medvedev and Lerner, p. 49)
 
 [^3]:“Kol’tsov’s work on “Hereditary  molecules,” published in 1935 in the journal Nauka i Zhizn\  anticipated many current discoveries.”  (Medvedev and Lerner, p. 79)
+
+[^4]:“the  Pravda article implied “resemblances” between the scientific  work of Kol’tsov and that of the “fascist thug Lenz.” Berg  was similarly attacked on the basis of his long-forgotten book,  Nomogenesis, published in 1922.5”  (Medvedev and Lerner, p. 80)
+
