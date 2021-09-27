@@ -100,11 +100,7 @@ leading role in the creation of the department of vernalization”
 
 
 
-“According to experimental data, in the absence  
-of drought in late summer, vernalization lowered the yield.  
-Some varieties of wheat failed to respond to the treatment  
-altogether”  
-(Medvedev and Lerner, p. 16)
+
 
 “In fact, comrades, while vernalization created by Soviet reality  
 could in a relatively short period of some four to five years be¬  
