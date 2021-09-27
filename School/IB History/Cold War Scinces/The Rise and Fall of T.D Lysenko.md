@@ -81,10 +81,7 @@ were recognized even by Lamarckian scientists in 1929-1932.”
 
 (Medvedev and Lerner, p. 10) Here is one scientist who was a Darwinist that was slandered as well as his students
 
-“Prezent’s slanderous attack on Raikov was not an exception.  
-In those years, Prezent had already developed his special style  
-of scientific-political demagoguery”  
-(Medvedev and Lerner, p. 10)
+
 
 “One  
 could cite many such examples of Prezent’s “class vigilance.”  
