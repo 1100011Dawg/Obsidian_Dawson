@@ -12,8 +12,9 @@ aliases:
 #### 1937 election
  - Prezent highlighted [[Kol'tsov]]'s "eugenical work" in order to hinder his chance in the AS election against Lysenko.
 #### Lysenko President
- - Many member were arrested and so Lysenko became the president
+ - Many member were arrested and so Lysenko became the president[^5]
 	 - The arrests were preceded by a campaign framing the LAAAS as "enemies of the people"
+ - Spring of 1948 
 
 Footnotes:
 [^1]:The famous august, 1948, session of the LAAAS  was for a long time sorrowfully designated the historical one.  It did, indeed, become an event never to be forgotten in the  history of science and mankind”  (Medvedev and Lerner, p. 103)
@@ -23,3 +24,5 @@ Footnotes:
 [^3]:“they  did not always, and in everything, agree with the ideas and  hypotheses advanced by Lysenko, Prezent, Glushchenko,  Ol’shansky, Stoletov, and other members of that group.”  (Medvedev and Lerner, p. 103)
 
 [^4]:“At the end of 1948, Muller, having previously been elected  a foreign member of the AS, announced his resignation from  the Academy as a protest against the persecution of Soviet  geneticists which followed the LAAAS session in August of  the same year”  (Medvedev and Lerner, p. 34)
+
+[^5]:“The letter’s prognosis of a successful Congress in 1938 was  not fulfilled, for by then Meister, Levit, and Gorbunov, all  members of the organizing committee, as well as its president,  Muralov, had been arrested. Lysenko became president of the  LAAAS.13”  (Medvedev and Lerner, p. 52)

@@ -363,10 +363,7 @@ tion of genetics for political aims,”
 and outstanding German geneticists were forced to leave  their native land”  
 (Medvedev and Lerner, p. 50)
 
-“The letter’s prognosis of a successful Congress in 1938 was  not fulfilled, for by then Meister, Levit, and Gorbunov, all  members of the organizing committee, as well as its president,  
-Muralov, had been arrested. Lysenko became president of the  
-LAAAS.13”  
-(Medvedev and Lerner, p. 52)
+
 
 “In working on the collection the  
 institute gave the country hundreds of literary monographs and  
