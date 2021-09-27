@@ -1,11 +1,10 @@
 
 ---
-tags: app
+tags:
+	- "Biology"
 aliases:
-  - "Obsidian markdown"
-  - "Obsidian notes"
+  - "Medvedev and Lerner"
 ---
-```
 The author is involved with the events of Lysenkoism and is contrary to the movement. He is also an avid supporter of communism.
 
 
