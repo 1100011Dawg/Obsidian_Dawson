@@ -6,6 +6,3 @@ work. But shortly thereafter he became a victim of the campaign against bourgeoi
 	[^2]: “There, in 1933, Maksimov “confessed” his “errors” in the  
 evaluation of Lysenko’s discovery”  
 (Medvedev and Lerner, p. 14)
-
-
-Medvedev and Lerner
