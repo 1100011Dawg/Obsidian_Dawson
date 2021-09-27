@@ -101,7 +101,7 @@ regard to both its methodology" and its claim to being an
 important discovery.”  
 (Medvedev and Lerner, p. 13)
 
-“Maksimov also wrote a detailed critical analysis of Lysenko’s  
+“[[Maksimov]] also wrote a detailed critical analysis of Lysenko’s  
 work.9 But shortly thereafter he became a victim of the cam¬  
 paign against bourgeois scientists and, despite Vavilov’s vigo¬  
 rous protests, after a brief arrest was banished to Saratov.”  

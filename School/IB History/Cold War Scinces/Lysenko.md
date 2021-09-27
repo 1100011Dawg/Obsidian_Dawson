@@ -1,4 +1,4 @@
-One of his most important discoveries was vernalization[^`1
+One of his most important discoveries was vernalization[^1]. He 
 
 [^1]:“Lysenko acquired a really broad reputation, however, with  
 his “discovery” of so-called vernalization (yarovization), an 
