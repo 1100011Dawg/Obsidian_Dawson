@@ -1,6 +1,4 @@
- He was known for political demogogory[^1] that he applied to the Lysenkoism movement.[^2] With Lysenko he announced a genetic theory that went against the prevalent Chromosome theory at the time.[^3] Heavily criticized Vavilov.[^4] One slanderous article from the Lysenko-editd journal Yarovizatsiya titled ""On pseudoscientific  theories in genetics"[^5] with the following quote attaking Vavilov, “But who does not know that the litera¬  
-ture denies the scientific significance of Marxist-Leninist material¬  
-istic dialectics and the materialistic theory of development?23”  
+ He was known for political demogogory[^1] that he applied to the Lysenkoism movement.[^2] With Lysenko he announced a genetic theory that went against the prevalent Chromosome theory at the time.[^3] Heavily criticized Vavilov.[^4] One slanderous article from the Lysenko-editd journal Yarovizatsiya titled ""On pseudoscientific  theories in genetics"[^5] with the following quote attaking Vavilov, “But who does not know that the literature denies the scientific significance of Marxist-Leninist materialistic dialectics and the materialistic theory of development?23”[^6]
  
  
  Footnotes:
@@ -14,3 +12,5 @@ istic dialectics and the materialistic theory of development?23”
  [^4]:“Immediately following the Prezent article was one by Kol’,  accusing Vavilov of being a reactionary, of sabotage and  other sins”  (Medvedev and Lerner, p. 48)
  
  [^5]:“the beginning of 1939 the Lysenko-edited journal Yarovizatsiya published Prezent’s article “On pseudoscientific  theories in genetics,” in which he attempted to draw a farfetched, slanderous parallel between the work of Vavilov and  the absurd ideas of the reactionary and anti-Marxist philosopher, Diihring:”  (Medvedev and Lerner, p. 54)
+ 
+ [^6]:(Medvedev and Lerner, p. 56)

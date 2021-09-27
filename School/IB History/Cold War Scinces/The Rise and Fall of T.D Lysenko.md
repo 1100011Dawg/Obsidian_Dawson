@@ -402,7 +402,6 @@ d
 
 
 
-(Medvedev and Lerner, p. 56)
 
 “the party organization considers essential for  
 the purposes of reconstruction of the institute the dismissal  
