@@ -8,7 +8,7 @@ aliases:
 ---
 - Was a prolific geneticsist[^3]
 - Was campaigned against by the newspaper Sotszemledelie[^1]
-	- Article by Denin: “Academicians Kol’tsov and Serebrovsky,  and the various “knights of the gene,” jealously guarding the special and monopolistic role of the genes. Ye”  [^2]
+	- Article by Denin: “Academicians Kol’tsov and Serebrovsky,  and the various “knights of the gene,” jealously guarding the special and monopolistic role of the genes.”  [^2]
 - Pravda article compared him to "fascist thug Lenz"[^4]
 - Was capaining to be president of the AS.[^5]
 - Was said to be a eugenicist by Prezent[^6]

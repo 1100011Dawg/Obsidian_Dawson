@@ -254,12 +254,7 @@ of Vavilov, came to work in the U.S.S.R. as a socialist sym¬
 pathizer.”  
 (Medvedev and Lerner, p. 33)
 
-“At the end of 1948, Muller, having previously been elected  
-a foreign member of the AS, announced his resignation from  
-the Academy as a protest against the persecution of Soviet  
-geneticists which followed the LAAAS session in August of  
-the same year”  
-(Medvedev and Lerner, p. 34)
+
 
 “Hence it countered genetic theory with the old and repeatedly  
 disproved principle of inheritance of acquired characters al¬  
