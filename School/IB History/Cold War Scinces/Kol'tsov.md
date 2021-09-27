@@ -1,3 +1,11 @@
+---
+tags:
+ - "Biology"
+ - "History"
+ - "Lysenkoism"
+aliases:
+ - "Kol’tsov"
+---
 - Was a prolific geneticsist[^3]
 - Was campaigned against by the newspaper Sotszemledelie[^1]
 	- Article by Denin: “Academicians Kol’tsov and Serebrovsky,  and the various “knights of the gene,” jealously guarding the special and monopolistic role of the genes. Ye”  [^2]
