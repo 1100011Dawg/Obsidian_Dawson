@@ -1,4 +1,4 @@
- He was known for political demogogory[^1] that he applied to the Lysenkoism movement.[^2] With Lysenko he announced a genetic theory that went against the prevalent Chromosome theory at the time.[^3] Heavily criticized Vavilov.[^4] One slanderous article from the Lysenko-editd journal Yarovizatsiya titled ""
+ He was known for political demogogory[^1] that he applied to the Lysenkoism movement.[^2] With Lysenko he announced a genetic theory that went against the prevalent Chromosome theory at the time.[^3] Heavily criticized Vavilov.[^4] One slanderous article from the Lysenko-editd journal Yarovizatsiya titled ""On pseudoscientific  theories in genetics"[^5]
  
  
  Footnotes:
@@ -10,3 +10,5 @@
  [^3]:“In 1935-1936, however, Lysenko and Prezent announced  a new concept of heredity in opposition to the generally  accepted chromosome theory which they denounced as reactionary, idealist, metaphysical, and barren”  (Medvedev and Lerner, p. 20)
  
  [^4]:“Immediately following the Prezent article was one by Kol’,  accusing Vavilov of being a reactionary, of sabotage and  other sins”  (Medvedev and Lerner, p. 48)
+ 
+ [^5]
