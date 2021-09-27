@@ -483,12 +483,7 @@ of hereditary patholog”
 
 
 
-“Kol’tsov’s significant contribution to the development of  
-cytology and genetics makes it necessary to evaluate more  
-fairly his early eugenical works published in the Rnssky  
-Evgenichesky Zhurnal in 1922-1923, which became known  
-to the wider public in 1937, thanks to Prezent.”  
-(Medvedev and Lerner, p. 81)
+
 
 “e possibility of breeding human races according to  
 Mendelian laws.9 Yet he conceals the fact that Kol’tsov said  

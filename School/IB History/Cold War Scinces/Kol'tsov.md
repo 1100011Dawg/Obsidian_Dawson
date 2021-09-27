@@ -3,7 +3,7 @@
 	- Article by Denin: “Academicians Kol’tsov and Serebrovsky,  and the various “knights of the gene,” jealously guarding the special and monopolistic role of the genes. Ye”  [^2]
 - Pravda article compared him to "fascist thug Lenz"[^4]
 - Was capaining to be president of the AS.[^5]
-- 
+- Was said to be a eugenicist by Prazant
 
 
 
@@ -17,3 +17,6 @@ Footnotes:
 
 [^4]:“the  Pravda article implied “resemblances” between the scientific  work of Kol’tsov and that of the “fascist thug Lenz.” Berg  was similarly attacked on the basis of his long-forgotten book,  Nomogenesis, published in 1922.5”  (Medvedev and Lerner, p. 80)
 
+[^5]:“was published just before the elections to the  AS to fill a vacancy in genetics, and the candidates for that  vacancy were Lysenko (then a member of the LAAAS),  Kol’tsov and Berg (corresponding members of the AS)”  (Medvedev and Lerner, p. 80)
+
+[^6]
