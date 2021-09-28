@@ -353,10 +353,6 @@ in the Saratov prison”
 
 
 
-“Vavilov file was urgently re¬  
-called for study. But it was too late. Life was slowly ebbing  
-from a body exhausted by malnutrition”  
-(Medvedev and Lerner, p. 74)
 
 “In 1936—  
 1937 the problems of hereditarily determined diseases were  
@@ -626,6 +622,6 @@ formed a relatively small group of theoreticians.”
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3ODM3MDI1LC0xMDMxNjAxMzQwLC0yMD
-U3MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMj
+A1NzAzNzM1NV19
 -->
