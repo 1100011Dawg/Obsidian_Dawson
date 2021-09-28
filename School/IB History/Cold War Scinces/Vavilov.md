@@ -1,4 +1,5 @@
-- At AIPB the goverment made a unrelistic decree that Lysenko said he could do bu overall was impossible.[^1]
+- At AIPB the government made a unrealistic decree that Lysenko said he could do bu overall was impossible.[^1]
+- 
 
 
 
@@ -8,5 +9,5 @@ Footnotes:
 “But it served as a base for subsequent criticisms of AIPB, and of Vavilov as being incapable   of solving the problem”   (Medvedev and Lerner, p. 19)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NDkwMjA3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTY0MzM1ODU1LC0yMDg4NzQ2NjEyXX0=
 -->
