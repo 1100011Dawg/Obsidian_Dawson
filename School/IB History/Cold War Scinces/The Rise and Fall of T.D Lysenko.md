@@ -172,10 +172,6 @@ hereditary nature of the plant”
 the same in the whole living world”  
 (Medvedev and Lerner, p. 33)
 
-“Muller, an American scientist and friend  
-of Vavilov, came to work in the U.S.S.R. as a socialist sym¬  
-pathizer.”  
-(Medvedev and Lerner, p. 33)
 
 
 
@@ -655,5 +651,5 @@ formed a relatively small group of theoreticians.”
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzE2MzM4MCwtMjA1NzAzNzM1NV19
+eyJoaXN0b3J5IjpbLTk5NTk1Mzg3MSwtMjA1NzAzNzM1NV19
 -->
