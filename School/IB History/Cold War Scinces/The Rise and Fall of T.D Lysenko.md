@@ -347,12 +347,6 @@ gorical disagreements with the director”
 literacy and disruptive role”  
 (Medvedev and Lerner, p. 71)
 
-“Vavilov. He was found  
-guilty on a number of points of Article 58: Belonging to a  
-rightist conspiracy; spying for England; leadership of the  
-Labor Peasant Party; sabotage in agriculture; links with white  
-emigres; etc.”  
-(Medvedev and Lerner, p. 72)
 
 “Little is known so far of Vavilov’s last period of life, spent  
 in the Saratov prison”  
@@ -636,6 +630,6 @@ formed a relatively small group of theoreticians.”
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4OTkwNTM0LC0xMDMxNjAxMzQwLC0yMD
-U3MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbLTQzMDgxOTk1OCwtMTAzMTYwMTM0MCwtMj
+A1NzAzNzM1NV19
 -->
