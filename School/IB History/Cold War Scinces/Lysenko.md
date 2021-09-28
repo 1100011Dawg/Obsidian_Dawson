@@ -8,7 +8,7 @@
 
 - He was also heavily criticized for his scientific methods[^3]
 	- “Lysenko, in 1931 —1934, advanced the so-called theory of phasic development of plants”  [^4]
-	- 
+	- Thought potatoes came from russia because of Lenin[^10]
 
 
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)
@@ -29,5 +29,5 @@
 
 [^9]:“l: Everybody says that the potato came from America. I don’t believe this. Do you know what Lenin said? vavilov: . . . we know well that potatoes appeared in our country under Peter the First.”  (Medvedev and Lerner, p. 61)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDIwNTc4XX0=
+eyJoaXN0b3J5IjpbNzI1MDc2MTA1XX0=
 -->
