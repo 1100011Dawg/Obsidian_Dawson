@@ -341,9 +341,7 @@ gorical disagreements with the director”
 
 
 
-“After Vavilov, his closest collaborators and friends were also  
-arrested and later perished in prison”  
-(Medvedev and Lerner, p. 70)
+
 
 “Vavilov himself noted Shundenko’s il¬  
 literacy and disruptive role”  
@@ -638,6 +636,6 @@ formed a relatively small group of theoreticians.”
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzkzODI5OCwtMTAzMTYwMTM0MCwtMj
-A1NzAzNzM1NV19
+eyJoaXN0b3J5IjpbMjc4OTkwNTM0LC0xMDMxNjAxMzQwLC0yMD
+U3MDM3MzU1XX0=
 -->
