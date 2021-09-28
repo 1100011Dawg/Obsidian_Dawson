@@ -307,11 +307,7 @@ nature of plants.””
 
 
 
-“l: Everybody says that the potato came from America. I don’t  
-believe this. Do you know what Lenin said?  
-vavilov: . . . we know well that potatoes appeared in our countrv  
-under Peter the First.”  
-(Medvedev and Lerner, p. 61)
+
 
 (Medvedev and Lerner, p. 62) Come back to this dialogue
 
@@ -646,5 +642,6 @@ formed a relatively small group of theoreticians.”
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNjQzOTYzLC0yMDU3MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbLTEwMzE2MDEzNDAsLTIwNTcwMzczNTVdfQ
+==
 -->
