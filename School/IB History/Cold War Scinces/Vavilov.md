@@ -33,8 +33,7 @@ is the greatest biologist, who proved the evolution of organisms.”
 
 [^8]:“At the end of 1942, Vavilov, who had mysteriously “disappeared” from the world science scene, was elected a foreign member of the Royal Society of London.” (Medvedev and Lerner, p. 74)
 
-[
+[^9]:“Vavilov file was urgently recalled for study. But it was too late. Life was slowly ebbing from a body exhausted by malnutrition”  (Medvedev and Lerner, p. 74)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc0NTA1NTMsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTY4NDkxODM5NywtMjA4ODc0NjYxMl19
 -->
