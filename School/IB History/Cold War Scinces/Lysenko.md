@@ -1,6 +1,8 @@
 #### Lysenko Early period
  - Denied all genetic concepts, taking it even farther than their Lamarkist predecessors[^7]
  - Farther had sown seeds of winter variety in Ukrainka[^8]
+
+#### Lysenko General
 - One of his most important "discoveries" was [[vernalization]][^1]. He was connected with [[Prezent]][^2] 
 	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased [[Stalin]][^6]
 
@@ -24,6 +26,8 @@
 [^7]:“They went much  farther than had their Lamarckism predecessors in accusations  against Soviet geneticists, and denied all the basically useful  theoretical and practical concepts of classical genetics that  were recognized even by Lamarckian scientists in 1929-1932.” (Medvedev and Lerner, p. 9)
 
 [^8]:“his father had sown seeds of the winter variety Ukrainka, which wintered under the snow, and had obtained a yield of 24 centners per hectare. (In the first article on this experiment the yield was exaggerated as being over 30 centners.)” (Medvedev and Lerner, p. 14)
+
+[^9]:“l: Everybody says that the potato came from America. I don’t believe this. Do you know what Lenin said? vavilov: . . . we know well that potatoes appeared in our country under Peter the First.”  (Medvedev and Lerner, p. 61)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDY1MjEwNl19
+eyJoaXN0b3J5IjpbMTA3NDIwNTc4XX0=
 -->
