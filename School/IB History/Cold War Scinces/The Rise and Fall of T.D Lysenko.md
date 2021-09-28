@@ -40,11 +40,7 @@ state, founded by the great Lenin, should have become a world
 center of constructive work in all areas of creativity”  
 (Medvedev and Lerner, p. 4)
 
-“For the duration of the cult, Stalin was ceaselessly'called  
-the greatest scientific genius of all times and all nations. In  
-fact, of course, he was no genius, and his creative theoretical  
-legacy is rather small.”  
-(Medvedev and Lerner, p. 5)
+
 
 “In that period, making political accusations was the easiest  
 and most tempting method of vanquishing opponents who  
@@ -394,9 +390,7 @@ emphasizes, before meetings of the scientific workers, his cate¬
 gorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)
 
-“Our affairs are in a bad way, even Andreev fears Lysenko.”  
-This was justified: Lysenko had become Stalin’s favorite.34”  
-(Medvedev and Lerner, p. 67)
+
 
 “In the evening the other members of the expedition re¬  
 turned without Vavilov. He was taken so fast that his things  
