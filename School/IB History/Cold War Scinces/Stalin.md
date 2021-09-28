@@ -1,6 +1,6 @@
  - Was regularly called the greatest scientific genius despite no scientific work.[^1]
  - Lysenko became his favorite.[^2][^3]
- - For the LAAAS Lysenko gave Stalin his own list that was passed with no election.[]
+ - For the LAAAS Lysenko gave Stalin his own list that was passed with no election.[^4]
 
 
 Footnotes:
@@ -10,3 +10,5 @@ Footnotes:
 [^2]:“Our affairs are in a bad way, even Andreev fears Lysenko.”  This was justified: Lysenko had become Stalin’s favorite.34”  (Medvedev and Lerner, p. 67)
 
 [^3]:“Lysenko was able to reach Stalin with this absurd  idea and to receive sanction for the organization, to the last  detail, of the proposed rout.”  (Medvedev and Lerner, p. 114)
+
+[^4]:“But there never was any voting, since Lysenko, heading off  such an event, passed on to Stalin his own list, which had  nothing in common with the one discussed by the scientific  community”  (Medvedev and Lerner, p. 115)

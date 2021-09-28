@@ -544,11 +544,7 @@ reactionary American imperialism.”
 
 
 
-“But there never was any voting, since Lysenko, heading off  
-such an event, passed on to Stalin his own list, which had  
-nothing in common with the one discussed by the scientific  
-community”  
-(Medvedev and Lerner, p. 115)
+
 
 “No elections  
 were held for the next twelve years. Lysenko deliberately  
