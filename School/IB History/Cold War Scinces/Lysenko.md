@@ -1,5 +1,5 @@
 - One of his most important "discoveries" was [[vernalization]][^1]. He was connected with [[Prezent]][^2] 
-	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased Stalin[^6]
+	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased [[Stalin]][^6]
 
 - He was also heavily criticized for his scientific methods[^3]
 	- “Lysenko, in 1931 —1934, advanced the so-called theory of phasic development of plants”  [^4]
