@@ -59,12 +59,7 @@ idealistic, and anti-Marxist.”
 
 
 
-“They went much  
-farther than had their Lamarckist predecessors in accusations  
-against Soviet geneticists, and denied all the basically useful  
-theoretical and practical concepts of classical genetics that  
-were recognized even by Lamarckian scientists in 1929-1932.”  
-(Medvedev and Lerner, p. 9)
+
 
 (Medvedev and Lerner, p. 10) Here is one scientist who was a Darwinist that was slandered as well as his students
 
@@ -80,12 +75,7 @@ were recognized even by Lamarckian scientists in 1929-1932.”
 
 
 
-“his father had sown seeds of the winter variety  
-Ukrainka, which wintered under the snow, and had obtained  
-a yield of 24 centners per hectare. (In the first article on this  
-experiment the yield was exaggerated as being over 30 cent¬  
-ners.)”  
-(Medvedev and Lerner, p. 14)
+
 
 “The then Commissar of Agriculture, Yakovlev, played a  
 leading role in the creation of the department of vernalization”  
@@ -693,3 +683,6 @@ formed a relatively small group of theoreticians.”
 
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNTcwMzczNTVdfQ==
+-->
