@@ -542,10 +542,7 @@ exploited by Lysenko, who declared genetics to be a tool of
 reactionary American imperialism.”  
 (Medvedev and Lerner, p. 114)
 
-“Lysenko was able to reach Stalin with this absurd  
-idea and to receive sanction for the organization, to the last  
-detail, of the proposed rout.”  
-(Medvedev and Lerner, p. 114)
+
 
 “But there never was any voting, since Lysenko, heading off  
 such an event, passed on to Stalin his own list, which had  
