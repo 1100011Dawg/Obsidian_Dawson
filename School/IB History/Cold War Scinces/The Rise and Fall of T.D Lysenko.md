@@ -305,12 +305,7 @@ d
 nature of plants.””  
 (Medvedev and Lerner, p. 59)
 
-“Why do you speak of Darwin, and why do you not choose  
-examples from Marx and Engels?  
-vavilov: Darwin worked on evolution of species earlier. Engels  
-and Marx held Darwin in high regard. Darwin is not all, but he  
-is the greatest biologist, who proved the evolution of organisms.”  
-(Medvedev and Lerner, p. 60)
+
 
 “l: Everybody says that the potato came from America. I don’t  
 believe this. Do you know what Lenin said?  
@@ -651,5 +646,5 @@ formed a relatively small group of theoreticians.”
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTk1Mzg3MSwtMjA1NzAzNzM1NV19
+eyJoaXN0b3J5IjpbNzgzNjQzOTYzLC0yMDU3MDM3MzU1XX0=
 -->
