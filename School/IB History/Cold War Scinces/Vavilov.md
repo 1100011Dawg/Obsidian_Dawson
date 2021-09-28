@@ -4,6 +4,8 @@
 - In response to Lysenko about him not citing enough marx but instead Darwin he retorted[^4] That Marx held Darwin in High regard.
 - Arrested at an alarming rate[^5] and soon after his collaborators[^6]
 	- Arrested due to: spying for England; leadership of the  Labor Peasant Party; sabotage in agriculture; links with white emigres; etc.[^7]
+	- While arrested was elected to the royal society of London.[^8]
+	- Case was recalled for study but he died.[^9]
 
 
 
@@ -29,10 +31,10 @@ is the greatest biologist, who proved the evolution of organisms.”
 [^7]:“Vavilov. He was found guilty on a number of points of Article 58: Belonging to a rightist conspiracy; spying for England; leadership of the Labor Peasant Party; sabotage in agriculture; links with white emigres; etc.”  
 (Medvedev and Lerner, p. 72)
 
-[^8]:“At the end of 1942, Vavilov, who had mysteriously “disappeared” from the world science scene, was elected a foreign  
-member of the Royal Society of London.”  
-(Medvedev and Lerner, p. 74)
+[^8]:“At the end of 1942, Vavilov, who had mysteriously “disappeared” from the world science scene, was elected a foreign member of the Royal Society of London.” (Medvedev and Lerner, p. 74)
 
+[
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk0Nzc2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwOTc0NTA1NTMsLTIwODg3NDY2MTJdfQ
+==
 -->
