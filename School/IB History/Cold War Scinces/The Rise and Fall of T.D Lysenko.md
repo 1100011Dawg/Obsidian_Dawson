@@ -546,11 +546,7 @@ reactionary American imperialism.”
 
 
 
-“No elections  
-were held for the next twelve years. Lysenko deliberately  
-kept the vacancies open: he awaited an increase in the ranks  
-of his supporters.”  
-(Medvedev and Lerner, p. 116)
+
 
 “But even this decree was not implemented. There were no  
 elections until 1956, when Lysenko left the post of president,  

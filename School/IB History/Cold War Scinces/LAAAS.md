@@ -15,7 +15,7 @@ aliases:
  - Many member were arrested and so Lysenko became the president[^5]
 	 - The arrests were preceded by a campaign framing the LAAAS as "enemies of the people"
  - Spring of 1948 Zhdanov raised the question of dismissing Lysenko from LAAAS.[^6]
- - No election were held in twelve years 
+ - No election were held in twelve years, keeping the vaccancies awating more support[^7]
 
 Footnotes:
 [^1]:The famous august, 1948, session of the LAAAS  was for a long time sorrowfully designated the historical one.  It did, indeed, become an event never to be forgotten in the  history of science and mankind”  (Medvedev and Lerner, p. 103)
@@ -29,3 +29,5 @@ Footnotes:
 [^5]:“The letter’s prognosis of a successful Congress in 1938 was  not fulfilled, for by then Meister, Levit, and Gorbunov, all  members of the organizing committee, as well as its president,  Muralov, had been arrested. Lysenko became president of the  LAAAS.13”  (Medvedev and Lerner, p. 52)
 
 [^6]:“Lysenko and his groups thus fell upon hard times. In the  spring of 1948, Zhdanov raised the question of strengthening  the leadership of LAAAS, which assumed Lysenko’s dismissal  as president.”  (Medvedev and Lerner, p. 113)
+
+[^7]:“No elections  were held for the next twelve years. Lysenko deliberately  kept the vacancies open: he awaited an increase in the ranks  of his supporters.”  (Medvedev and Lerner, p. 116)
