@@ -3,6 +3,7 @@
 - Muller came to the U.S.S.R as a socialist sympathizers and friend[^3]
 - In response to Lysenko about him not citing enough marx but instead Darwin he retorted[^4] That Marx held Darwin in High regard.
 - Arrested at an alarming rate[^5] and soon after his collaborators[^6]
+	- Arrested due to: spying for England; leadership of the  Labor Peasant Party; sabotage in agriculture; links with white emigres; etc.[^7]
 
 
 
@@ -24,6 +25,9 @@ is the greatest biologist, who proved the evolution of organisms.”
 [^5]:“In the evening the other members of the expedition returned without Vavilov. He was taken so fast that his things  were left in one of the cars.”  (Medvedev and Lerner, p. 70)
 
 [^6]:“After Vavilov, his closest collaborators and friends were also arrested and later perished in prison”  (Medvedev and Lerner, p. 70)
+
+[^7]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODE0MTI2NCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3MjU1Mzk4MDUsLTIwODg3NDY2MTJdfQ
+==
 -->
