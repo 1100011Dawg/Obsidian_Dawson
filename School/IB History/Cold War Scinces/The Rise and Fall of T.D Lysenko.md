@@ -83,7 +83,6 @@ leading role in the creation of the department of vernalization”
 
 (Medvedev and Lerner, p. 19) The procumation was unrealistic and served to help the attack against vevlo
 
-
 “The opposite side in the polemic was represented in 1936  
 by the majority of leaders of the genetical, cytological, and  
 breeding institutes of our country.1 Vavilov, at that time the  
@@ -667,6 +666,5 @@ formed a relatively small group of theoreticians.”
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg2ODAzNDYsLTIwNTcwMzczNTVdfQ
-==
+eyJoaXN0b3J5IjpbNTIwOTU3MDc2LC0yMDU3MDM3MzU1XX0=
 -->
