@@ -2,6 +2,7 @@
 - Went contrary to Lysenko but viewed his phasic development of plants and summer planting of potatoes.[^2]
 - Muller came to the U.S.S.R as a socialist sympathizers and friend[^3]
 - In response to Lysenko about him not citing enough marx but instead Darwin he retorted[^4] That Marx held Darwin in High regard.
+- Arrested at an alarming rate[^5]
 
 
 
@@ -20,6 +21,7 @@ and Marx held Darwin in high regard. Darwin is not all, but he
 is the greatest biologist, who proved the evolution of organisms.”  
 (Medvedev and Lerner, p. 60)
 
+[^5]:“In the evening the other members of the expedition returned without Vavilov. He was taken so fast that his things  were left in one of the cars.”  (Medvedev and Lerner, p. 70)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDQ2ODk2MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTc1MTQ0Mzk4NywtMjA4ODc0NjYxMl19
 -->
