@@ -26,8 +26,13 @@ is the greatest biologist, who proved the evolution of organisms.”
 
 [^6]:“After Vavilov, his closest collaborators and friends were also arrested and later perished in prison”  (Medvedev and Lerner, p. 70)
 
-[^7]:
+[^7]:“Vavilov. He was found guilty on a number of points of Article 58: Belonging to a rightist conspiracy; spying for England; leadership of the Labor Peasant Party; sabotage in agriculture; links with white emigres; etc.”  
+(Medvedev and Lerner, p. 72)
+
+[^8]:“At the end of 1942, Vavilov, who had mysteriously “disappeared” from the world science scene, was elected a foreign  
+member of the Royal Society of London.”  
+(Medvedev and Lerner, p. 74)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU1Mzk4MDUsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTE1Mjk0Nzc2LC0yMDg4NzQ2NjEyXX0=
 -->
