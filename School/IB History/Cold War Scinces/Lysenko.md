@@ -1,4 +1,6 @@
-#### Lysenko E
+#### Lysenko Early period
+ - Denied all genetic concepts, taking it even farther than their Lamarkist predecessors[
+
 - One of his most important "discoveries" was [[vernalization]][^1]. He was connected with [[Prezent]][^2] 
 	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased [[Stalin]][^6]
 
@@ -18,6 +20,11 @@
 [^5]:(Medvedev and Lerner, p. 16)
 
 [^6]:“This speech of Lysenko greatly pleased Stalin who, at its  end, exclaimed: “Bravo, comrade Lysenko, bravo!””  (Medvedev and Lerner, p. 17)
+
+[^7]:“They went much  farther than had their Lamarckist predecessors in accusations  against Soviet geneticists, and denied all the basically useful  
+theoretical and practical concepts of classical genetics that  
+were recognized even by Lamarckian scientists in 1929-1932.”  
+(Medvedev and Lerner, p. 9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDkxNDI0MV19
+eyJoaXN0b3J5IjpbNzk2MTEwMjkyXX0=
 -->
