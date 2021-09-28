@@ -340,10 +340,6 @@ gorical disagreements with the director”
 
 
 
-“In the evening the other members of the expedition re¬  
-turned without Vavilov. He was taken so fast that his things  
-were left in one of the cars.”  
-(Medvedev and Lerner, p. 70)
 
 “After Vavilov, his closest collaborators and friends were also  
 arrested and later perished in prison”  
@@ -642,6 +638,6 @@ formed a relatively small group of theoreticians.”
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE2MDEzNDAsLTIwNTcwMzczNTVdfQ
-==
+eyJoaXN0b3J5IjpbMTE5NzkzODI5OCwtMTAzMTYwMTM0MCwtMj
+A1NzAzNzM1NV19
 -->
