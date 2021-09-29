@@ -1,3 +1,5 @@
+#### General
+ - Formed a small group[^10]
 #### Effects:
  - Dismissed professors against Michurinism.[^1]
 	 - Such as Shmal’gauzen, Zavadovsky, Yudintsev, Alikhanyan, Zelikman, Berman, and Shapiro
@@ -5,7 +7,7 @@
  - Destroyed books about genetics in TAA library[^3]
  - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
  - When the mechanism of geneaction had been discoved[] Lysenkoists said:
-	 > “The assertion that there are in an organism some minute particles, genes, responsible for the transmission of hereditary traits is pure fantasy  without any basis in science.””[&9]
+	 > “The assertion that there are in an organism some minute particles, genes, responsible for the transmission of hereditary traits is pure fantasy  without any basis in science.””[^9]
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -30,3 +32,5 @@ Footnotes:
 [^8]:“And here is what the pillars of Lysenkoism asserted in 1961-1963, when the mechanism of gene action on the molecular level had already been discovered, and biology had emerged at the forefront of the natural sciences:”  (Medvedev and Lerner, p. 146)
 
 [^9]:(Medvedev and Lerner, p. 146)
+
+[^10]:“In general, in talking of the inauspicious contributions of  Lysenko’s followers, to be fair, it must be pointed out that they  formed a relatively small group of theoreticians.”  (Medvedev and Lerner, p. 150)
