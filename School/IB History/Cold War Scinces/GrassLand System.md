@@ -8,6 +8,7 @@
  - Only 2-3 years of clover with other plants
  - Promised: 100 to 160 centners per  hectare yields of wheat[^5]
  - Followed by Lyashchenko[^6]
+ - Exaggerated the role of soil structure in retention of mosture and 
 
 
 [^1]:“It may be appropriate to give some examples of the  methods whereby Vil’yams’ supporters attempted, in 1935—  1937, to force nationwide acceptance of the grassland system,  although it was never subjected to experimental tests before  or after its adoption”  (Medvedev and Lerner, p. 87)
