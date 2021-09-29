@@ -13,7 +13,7 @@
 	- “Lysenko, in 1931 —1934, advanced the so-called theory of phasic development of plants”  [^4]
 	- Thought potatoes came from russia because of Lenin[^10]
 
-
+Footnotes:
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)
 
 [^2]:“Prezent  and Lysenko enlivened the genetics debate in 1935 only after  their “creative partnership” was established.”  (Medvedev and Lerner, p. 9)
@@ -36,10 +36,7 @@
 
 [^11]:“Prezent and Lysenko unfortunately did not follow such a  path of productive polemic. They rejected the gene theory  on a priori, abstract considerations, ignoring the factual material of genetics. They attempted to abolish genetics on the  grounds that it was an allegedly formalistic, bourgeois, and  metaphysical science, and to inaugurate their own new genetics.” (Medvedev and Lerner, p. 22)
 
-[^12]:“In this manner Lysenko formulated his basic genetical  
-idea (the presence of some property of heredity distributed  
-throughout the cell)”  
-(Medvedev and Lerner, p. 28)
+[^12]:“In this manner Lysenko formulated his basic genetical  idea (the presence of some property of heredity distributed  throughout the cell)” (Medvedev and Lerner, p. 28)
 
 
 <!--stackedit_data:
