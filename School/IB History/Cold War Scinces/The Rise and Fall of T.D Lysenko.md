@@ -62,15 +62,6 @@ nihilated.1”
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
 
-
-
-“How  
-was he able to hypnotize the planning organs into accepting  
-on faith his fantastic promises of 100 to 160 centners per  
-hectare yields of wheat merely from decomposition of roots  
-of perennial cereals?”  
-(Medvedev and Lerner, p. 91)
-
 “Several months later the issue of sabotage in agricul¬  
 tural chemistry was dredged up again by another Vil’yams  
 follower, Lyashchenko”  
