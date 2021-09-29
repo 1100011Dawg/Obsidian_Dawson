@@ -16,7 +16,7 @@
  - Undirected nature of mutation contradicted Lysenko[^13]
  - The rate of mutation was used contra genetics[^14]
  - Lysenko thought there was a period during a organism life where it assimilates changes from the environment[^16][^17]
- - Thought new 
+ - Thought new useful traits could only result of environmental influence[^18]
 
 Footnotes:
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)

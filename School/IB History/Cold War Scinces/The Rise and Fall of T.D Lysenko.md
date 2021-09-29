@@ -53,21 +53,6 @@ biology of development, in the Leningrad State University, was an¬
 nihilated.1”  
 (Medvedev and Lerner, p. 47)
 
-
-
-
-“.. I repeat for clarity: Darwinists are for  
-and not against genetics; Darwinists are not against genetics, but  
-they are against the fascist distortion of genetics and fascist utiliza¬  
-tion of genetics for political aims,”  
-(Medvedev and Lerner, p. 50)
-
-“In  reality, fascism was afraid of the real scientific genetics: in  Hitler’s Germany a number of genetics institutes were closed,  
-and outstanding German geneticists were forced to leave  their native land”  
-(Medvedev and Lerner, p. 50)
-
-
-
 “In working on the collection the  
 institute gave the country hundreds of literary monographs and  
 systematic botanical descriptions instead of new varieties for wide¬  
