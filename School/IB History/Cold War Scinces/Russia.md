@@ -14,6 +14,13 @@ Footnotes:
 
 [^3]:“By 1937 the best varieties of cereal crops had been produced  by the standard genetical methods of mass selection and  development of pure lines. At that time over 60 per cent of  the land under cereal crops in our country was planted to  those varieties”  (Medvedev and Lerner, p. 42)
 
-[^4]:“inbreeding of cross-fertilizers—rejected and later prohibited by Lysenkoites—led to a revolution in the production of corn, and increased yields through use of hybrids by 20 to 30 per cent.” (Medvedev and Lerner, p. 42)
+[^4]:“inbreeding of cross-fertilizers—rejected and later prohibited by Lysenkoites—led to a revolution in the production of corn, and increased yields through use of hybrids by 20 to 30 per cent.” (Medvedev and Lerner, p. 42) Might be refering to this instead:"ybrid corn in the  
+U.S.S.R. were based on its success in the United States where  
+its use had increased yields by 20 to 30 per cent on millions  
+of acres”  
+(Medvedev and Lerner, p. 64)
+
+
+
 
 [^5]:“Mutations, in particular those induced by X-ray, were widely studied and used. At the same time the struggle was begun against lethal and harmful mutations and hereditary diseases, which could be revealed and anticipated only by genetical methods. This enumeration could be continued at length.” (Medvedev and Lerner, p. 43)
