@@ -5,6 +5,7 @@
  - Inbreeding of cross fertilizers lead to improvements of 20-30% rejected by Lysenko[^4]
 	 - Met resistance by  Lysenko, Prezent, Ol’shansky, and others[^6]
  - Used Mutations by X-ray?[^5]
+ - Lysenko caused damage in Siberia
 
 
 Footnotes:

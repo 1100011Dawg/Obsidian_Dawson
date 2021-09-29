@@ -61,11 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“These measures included the  
-planting of winter varieties on unplowed stubble in Siberia,  
-which caused severe damage to Siberian”  
-(Medvedev and Lerner, p. 111)
-
 (Medvedev and Lerner, p. 112) Around 1948 young scientists doubted Lysenko, so he tried to consolidate his power.
 
 
