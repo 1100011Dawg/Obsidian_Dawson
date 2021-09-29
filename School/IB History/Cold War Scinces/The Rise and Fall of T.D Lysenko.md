@@ -63,11 +63,6 @@ nihilated.1”
 
 
 
-“Vil’yams, on the other hand, proposed not to develop the  
-fertilizer industry; to expand clover planting to two to three  
-years running, and only in mixtures with timothy and other  
-cereal grasses”  
-(Medvedev and Lerner, p. 90)
 
 “How  
 was he able to hypnotize the planning organs into accepting  
