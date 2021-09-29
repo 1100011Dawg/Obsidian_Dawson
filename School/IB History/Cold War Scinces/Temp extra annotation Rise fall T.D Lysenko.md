@@ -17,7 +17,7 @@ birth to a new social system and was the beginning of the creation of a socialis
 
 “Creation of a system of productive Soviet plant breeding 'would have been impossible 'without this work. In his address to the 1936 session of the LAAAS, Vavilov described vividly and convincingly the theoretical and practical significance of this trend in the field of Soviet selection and plant breeding founded by him” (Medvedev and Lerner, p. 41)
 
-“Lysenko and his group at that period showed only two sensational achievements: vernalization and summer planting of potatoes” (Medvedev and Lerner, p. 43)
+“[[Lysenko]] and his group at that period showed only two sensational achievements: vernalization and summer planting of potatoes” (Medvedev and Lerner, p. 43)
 
 “.. I repeat for clarity: Darwinists are for and not against genetics; Darwinists are not against genetics, but they are against the fascist distortion of genetics and fascist utilization of genetics for political aims,”  (Medvedev and Lerner, p. 50)
 
@@ -35,12 +35,12 @@ nature of plants.””
 
 Neat example not relevant:
 “On reading the article, which he, himself, had originally  
-asked for, Lysenko became enraged and categorically refused  to print it in his journal”  
+asked for, [[Lysenko]] became enraged and categorically refused  to print it in his journal”  
 (Medvedev and Lerner, p. 105)
 
 "“His assignment apparently had been to  watch Zhukovsky’s school.” (Medvedev and Lerner, p. 129)"
 
-“Lysenko exclaims  with exaltation: “Aha! You came to relearn?”” (Medvedev and Lerner, p. 132)
+“[[Lysenko]] exclaims  with exaltation: “Aha! You came to relearn?”” (Medvedev and Lerner, p. 132)
 
 “This unique volume was also translated into languages of friendly socialist states, some of which, unfortunately, adopted the Soviet “experience” of persecution of genetics”  (Medvedev and Lerner, p. 141)
 
