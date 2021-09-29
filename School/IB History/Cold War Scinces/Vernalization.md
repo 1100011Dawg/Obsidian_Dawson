@@ -6,7 +6,7 @@
   - Most prolonged experiment was winter wheat Kooperatorka[^5]
 	  - “But the pot with these plants sown on March 3 was left not in a warm hothouse but in a cool one where the temperature from March 3 to the end of April was frequently no higher than 10-15° C. Only beginning with May was the temperature higher and, most importantly, never below 15° C. Since the Lutescens 329 variety was more of a winter type than Kooperatorka, both its plants lived until late fall and perished without heading” [^6] 
 	  - Did not have replication[^7]
-	  - Lysenko resoned if he can alter one wheat into another than there are no genes[]
+	  - Lysenko resoned if he can alter one wheat into another than there are no genes[^8]
 
 [^1]:“Yet the widespread use of vernalization did meet some opposition among scientists and collective  farmers”  (Medvedev and Lerner, p. 15)
 
@@ -21,6 +21,8 @@
 [^6]:(Medvedev and Lerner, p. 24)
 
 [^7]:“An experiment without replicatioti is not a scientific experiment. The single seed could have been a hybrid, a mutant, or a contaminant.” (Medvedev and Lerner, p. 25)
+
+[^8]:“Lysenko considered that, if he could alter a winter into a spring form and then reverse the process, there are no immutable genes for winter habit, and all depends on the environment: hence there are no genes of any kind. But this  analysis lacks logic” (Medvedev and Lerner, p. 25)
 
 
 

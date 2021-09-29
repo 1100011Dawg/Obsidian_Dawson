@@ -38,13 +38,6 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 10) Here is one scientist who was a Darwinist that was slandered as well as his students
 
-
-
-“In this manner Lysenko formulated his basic genetical  
-idea (the presence of some property of heredity distributed  
-throughout the cell)”  
-(Medvedev and Lerner, p. 28)
-
 “Promoters of such shaky and insecure trends usually seek  
 support from any popular names, and frequently cite as  
 authorities deceased and (obligatorily) native scientists.”  
