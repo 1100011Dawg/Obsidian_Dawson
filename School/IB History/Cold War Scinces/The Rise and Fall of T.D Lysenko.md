@@ -38,12 +38,7 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 10) Here is one scientist who was a Darwinist that was slandered as well as his students
 
-“Lysenko considered that, if he could alter a winter into a  
-spring form and then reverse the process, there are no im¬  
-mutable genes for winter habit, and all depends on the envi¬  
-ronment: hence there are no genes of any kind. But this  
-analysis lacks logic”  
-(Medvedev and Lerner, p. 25)
+
 
 “In this manner Lysenko formulated his basic genetical  
 idea (the presence of some property of heredity distributed  
