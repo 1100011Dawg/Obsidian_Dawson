@@ -24,6 +24,7 @@
 
 #### Late years
  - Young scientists doubted him in 1948 so he tried to consolidate power[^22]
+	 - Around 1948 there were difficulties citing foriegn authors due to them being re
 
 
 Footnotes:
