@@ -61,12 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“It may be appropriate to give some examples of the  
-methods whereby Vil’yams’ supporters attempted, in 1935—  
-1937, to force nationwide acceptance of the grassland system,  
-although it was never subjected to experimental tests before  
-or after its adoption”  
-(Medvedev and Lerner, p. 87)
 
 “In 1937 the grassland system reached the level of a state prob¬  
 lem, and the first draft of a law to adopt it throughout the  
