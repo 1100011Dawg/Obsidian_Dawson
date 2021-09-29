@@ -21,7 +21,8 @@
  - Thought new useful traits could only result of environmental influence[^18]
  - Put Marxism above Science:
 	 > “Marxism is the only science. Darwinism is only a part; the real theory of knowledge of the world was given by Marx, Engels, and Lenin. And when I hear discussion about Darwinism without mention of Marxism, it may seem, on the one side, that all is  right, but on the other, it’s a horse of a different color”  [^19]
- - 
+ - Says genetics supports eugenics and Weismannism-Morganism with it's Bourgeois reactionary science.
+	 - 
 
 #### Late years
  - Young scientists doubted him in 1948 so he tried to consolidate power[^22]
