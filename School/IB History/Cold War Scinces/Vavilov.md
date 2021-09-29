@@ -1,4 +1,7 @@
+#### Time at AIPB
 - At AIPB the government made a unrealistic decree that Lysenko said he could do bu overall was impossible.[^1][^10]
+
+
 - Went contrary to Lysenko but viewed his phasic development of plants and summer planting of potatoes.[^2]
 - Muller came to the U.S.S.R as a socialist sympathizers and friend[^3]
 - In response to Lysenko about him not citing enough marx but instead Darwin he retorted[^4] That Marx held Darwin in High regard.
