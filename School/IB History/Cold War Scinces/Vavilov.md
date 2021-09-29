@@ -1,6 +1,6 @@
 #### Time at AIPB
 - At AIPB the government made a unrealistic decree that Lysenko said he could do bu overall was impossible.[^1][^10]
-- 
+- Brought in 150,000 plant varieties from the world[^11]
 
 #### General
 - Went contrary to Lysenko but viewed his phasic development of plants and summer planting of potatoes.[^2]
