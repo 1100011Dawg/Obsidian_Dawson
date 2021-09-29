@@ -6,7 +6,7 @@ tags:
 ---
 - Was regularly called the greatest scientific genius despite no scientific work.[^1]
  - [[Lysenko]] became his favorite.[^2][^3]
- - For the LAAAS [[Lysenko]] gave Stalin his own list that was passed with no election.[^4]
+ - For the [[LAAAS]] [[Lysenko]] gave Stalin his own list that was passed with no election.[^4]
  - He was not a scientist.[^5]
  > “biology by the theory of neo-Lamarckism, which is supplanting neo-Darwinism.”37”[^6]  
 
