@@ -82,6 +82,8 @@ fessors Alikhanyan, Zelikman, Berman, and Shapiro”
 stocks of Drosophila”  
 (Medvedev and Lerner, p. 125)
 
+"The TAA library destroyed all genetics textbooks, the books of Shmal’gauzen, and much other literature."(Medvedev and Lerner, p. 125)
+
 “Thus, the Minister  
 of Agriculture, Benediktov, issued an order (No. 1530, Octo¬  
 ber 6, 1948) decreeing cessation of all genetic research in  
