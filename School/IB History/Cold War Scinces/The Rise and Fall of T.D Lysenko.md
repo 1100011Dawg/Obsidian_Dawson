@@ -58,12 +58,6 @@ nihilated.1”
 (Medvedev and Lerner, p. 62) Come back to this dialogue
 
 
-
-“and his low level of culture lead to a  
-peculiar introduction of ideas that are close to outmoded scientific  
-views (Lamarckism),”  
-(Medvedev and Lerner, p. 66)
-
 “On his visits to AIPB in Leningrad, the president deliberately  
 emphasizes, before meetings of the scientific workers, his cate¬  
 gorical disagreements with the director”  

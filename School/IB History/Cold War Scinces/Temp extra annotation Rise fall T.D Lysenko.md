@@ -25,6 +25,8 @@ birth to a new social system and was the beginning of the creation of a socialis
 nature of plants.””  
 (Medvedev and Lerner, p. 59)
 
+“and his low level of culture lead to a peculiar introduction of ideas that are close to outmoded scientific views (Lamarckism),”  (Medvedev and Lerner, p. 66)
+
 
 
 
