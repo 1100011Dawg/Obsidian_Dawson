@@ -17,15 +17,6 @@ birth to a new social system and was the beginning of the creation of a socialis
 
 “Lysenko and his group at that period showed only two sensational achievements: vernalization and summer planting of potatoes” (Medvedev and Lerner, p. 43)
 
+“.. I repeat for clarity: Darwinists are for and not against genetics; Darwinists are not against genetics, but they are against the fascist distortion of genetics and fascist utilization of genetics for political aims,”  (Medvedev and Lerner, p. 50)
 
-
-
-“.. I repeat for clarity: Darwinists are for  
-and not against genetics; Darwinists are not against genetics, but  
-they are against the fascist distortion of genetics and fascist utiliza¬  
-tion of genetics for political aims,”  
-(Medvedev and Lerner, p. 50)
-
-“In  reality, fascism was afraid of the real scientific genetics: in  Hitler’s Germany a number of genetics institutes were closed,  
-and outstanding German geneticists were forced to leave  their native land”  
-(Medvedev and Lerner, p. 50)
+“In  reality, fascism was afraid of the real scientific enetics: in  Hitler’s Germany a number of genetics istitutes were closed,  and outstanding German geneticists were orced to leave  their native land”  (Medvedev and Lerner, p. 50)
