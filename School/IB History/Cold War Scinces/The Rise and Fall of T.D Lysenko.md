@@ -79,12 +79,7 @@ declared reactionary, and remained underground until 1955.”
 veloped in the United States”  
 (Medvedev and Lerner, p. 133)
 
-“And they began by declaring reactionary  
-and idealistic Einstein’s relativity theory (“reactionary Ein-  
-steinism”), Bohr’s complementary principle, Pauling’s theory  
-of resonance, and a number of other concepts that were land¬  
-marks in science.”  
-(Medvedev and Lerner, p. 133)
+“And they began by declaring reactionary and idealistic Einstein’s relativity theory (“reactionary Einsteinism”), Bohr’s complementary principle, Pauling’s theory of resonance, and a number of other concepts that were landmarks in science.”  (Medvedev and Lerner, p. 133)
 
 “biology by the theory of neo-Lamarckism, which is sup¬  
 planting neo-Darwinism.”37”  
