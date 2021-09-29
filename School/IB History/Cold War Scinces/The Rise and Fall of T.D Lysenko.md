@@ -65,15 +65,6 @@ disproved principle of inheritance of acquired characters al¬
 ready formulated by Lamarc”  
 (Medvedev and Lerner, p. 35)
 
-“Russia was an agrarian country with an exceptionally backward agriculture.” (Medvedev and Lerner, p. 38)
-
-“This was true despite the fact that many local ancient  
-Russian and Ukrainian varieties of winter and hard wheats,  
-flax, and other crops had acquired world fame, and covered  
-millions of hectares in Canada, the United States, and else¬  
-where.”  
-(Medvedev and Lerner, p. 38)
-
 “Their members investigated the agriculture  
 and plant resources of 65 countries and brought to the Soviet  
 Union over 150,000 plant varieties, forms and species—all of  
