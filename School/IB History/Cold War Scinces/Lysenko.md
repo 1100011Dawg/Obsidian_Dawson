@@ -23,7 +23,7 @@
 	 > “Marxism is the only science. Darwinism is only a part; the real theory of knowledge of the world was given by Marx, Engels, and Lenin. And when I hear discussion about Darwinism without mention of Marxism, it may seem, on the one side, that all is  right, but on the other, it’s a horse of a different color”  [^19]
 
 #### Late years
- - Young sicn
+ - Young scientists doubted him in 1948 so he tried to consolidate power[^22]
 
 
 Footnotes:
@@ -67,6 +67,8 @@ Footnotes:
 [^20]:“On  November 5, 1945, Lysenko first gave his paper, which denied  the existence of intraspecific competition among plants and  animals in nature”  (Medvedev and Lerner, p. 105)
 
 [^21]:(Medvedev and Lerner, p. 107)
+
+[^22]:(Medvedev and Lerner, p. 112) Around 1948 young scientists doubted Lysenko, so he tried to consolidate his power.
 
 
 
