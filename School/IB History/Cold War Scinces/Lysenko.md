@@ -32,7 +32,7 @@
  - Young scientists followed Botanichesky Zhurnal[^29]
 	 - Became a popular journal[^30]
 	 - Lysenkoist managed to disband the journal and reconstitute it with Lysenkoists[^31]
- - 1955 over three hundred sicentist signed a petition for Lysenko removal from presedent of the LAAAS
+ - 1955 over three hundred sicentist signed a petition for Lysenko removal from presedent of the LAAAS[^32]
 
 
 Footnotes:
@@ -97,6 +97,7 @@ Footnotes:
 
 [^31]:“Lysenko and  his supporters once more succeeded in evoking administrative reprisals against their opponents. The editorial board of the Botanichesky Zhurnal was disbanded at the end of 1958 and reconstituted largely from Lysenko’s followers”  (Medvedev and Lerner, p. 138)
 
+[^32]:“The pseudoscientific work of Lepeshinskaya was de¬  bunked in short order. By the end of 1955 more than three  hundred scientists had signed a petition requesting Lysenko’s  removal from the post of LAAAS president and the dismissal  of Oparin as secretary of the Biological Section of the AS”  (Medvedev and Lerner, p. 137)
 
 
 
