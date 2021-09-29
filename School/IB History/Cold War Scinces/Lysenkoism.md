@@ -6,7 +6,7 @@
  - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
- - 
+ - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary
 
 Footnotes:
 
