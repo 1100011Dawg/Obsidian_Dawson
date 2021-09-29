@@ -61,11 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“Vavilov, whose fate has already been recounted, was a  
-student of Pryanishnikov’s, and they were very fond of each  
-other”  
-(Medvedev and Lerner, p. 95)
-
 “Vil’yams’ hypothesis greatly exag¬  
 gerated the role of soil structure in the retention of moisture  
 and similarly exaggerated the role of perennial grasses in the  

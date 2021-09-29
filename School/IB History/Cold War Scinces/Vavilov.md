@@ -7,6 +7,7 @@
 - Went contrary to Lysenko but viewed his phasic development of plants and summer planting of potatoes favorbly.[^2] 
 - Muller came to the U.S.S.R as a socialist sympathizers and friend[^3]
 - In response to Lysenko about him not citing enough marx but instead Darwin he retorted[^4] That Marx held Darwin in High regard.
+- Was student of Pryanishnikov[^13]
 - Arrested at an alarming rate[^5] and soon after his collaborators[^6]
 	- Arrested due to: spying for England; leadership of the  Labor Peasant Party; sabotage in agriculture; links with white emigres; etc.[^7]
 	- While arrested was elected to the royal society of London.[^8]
@@ -38,6 +39,8 @@ Footnotes:
 [^11]:“Their members investigated the agriculture and plant resources of 65 countries and brought to the Soviet Union over 150,000 plant varieties, forms and species—all of the plant-breeding wealth created by mankind in its centuries-  old history. Thus the collection of the world’s domesticated plants was established.” (Medvedev and Lerner, p. 40)
 
 [^12]:“In working on the collection the  institute gave the country hundreds of literary monographs and  systematic botanical descriptions instead of new varieties for widespread production.” (Medvedev and Lerner, p. 53)
+
+[^13]:“Vavilov, whose fate has already been recounted, was a  student of Pryanishnikov’s, and they were very fond of each  other” (Medvedev and Lerner, p. 95)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY4NDkxODM5NywtMjA4ODc0NjYxMl19
 -->
