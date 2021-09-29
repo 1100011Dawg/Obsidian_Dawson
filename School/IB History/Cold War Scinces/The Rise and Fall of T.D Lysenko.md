@@ -69,16 +69,9 @@ tunately, adopted the Soviet “experience” of persecution of
 genetics”  
 (Medvedev and Lerner, p. 141)
 
-“And here is what the pillars of Lysenkoism asserted in 1961-  
-1963, when the mechanism of gene action on the molecular  
-level had already been discovered, and biology had emerged  
-at the forefront of the natural sciences:”  
-(Medvedev and Lerner, p. 146)
 
-“The assertion that  
-there are in an organism some minute particles, genes, responsi¬  
-ble for the transmission of hereditary traits is pure fantasy  
-without any basis in science.””  
+
+
 (Medvedev and Lerner, p. 146)
 
 (Medvedev and Lerner, p. 147) Come back for false criticism of genetics

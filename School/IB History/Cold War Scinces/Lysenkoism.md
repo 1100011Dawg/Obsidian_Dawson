@@ -4,7 +4,8 @@
  - Destroed stock of Drosophila[^2]
  - Destroyed books about genetics in TAA library[^3]
  - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
- - 
+ - When the mechanism of geneaction had been discoved[] Lysenkoists said:
+	 > “The assertion that there are in an organism some minute particles, genes, responsible for the transmission of hereditary traits is pure fantasy  without any basis in science.””  
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -25,3 +26,7 @@ Footnotes:
 [^6]:“And they began by declaring reactionary and idealistic Einstein’s relativity theory (“reactionary Einsteinism”), Bohr’s complementary principle, Pauling’s theory of resonance, and a number of other concepts that were landmarks in science.”  (Medvedev and Lerner, p. 133)
 
 [^7]:“discredited merely on the grounds that they had been developed in the United States”  (Medvedev and Lerner, p. 133)
+
+[^8]:“And here is what the pillars of Lysenkoism asserted in 1961-1963, when the mechanism of gene action on the molecular level had already been discovered, and biology had emerged  
+at the forefront of the natural sciences:”  
+(Medvedev and Lerner, p. 146)
