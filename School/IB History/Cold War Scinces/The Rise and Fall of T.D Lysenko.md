@@ -38,12 +38,6 @@ TAA Timiryazev Agricultural Academy”
 
 
 
-“It was exactly in this connection that certain leading scien¬  
-tific schools, whose work later rightfully became the pride of  
-Soviet science, were temporarily declared to be bourgeois,  
-idealistic, and anti-Marxist.”  
-(Medvedev and Lerner, p. 7)
-
 
 
 
