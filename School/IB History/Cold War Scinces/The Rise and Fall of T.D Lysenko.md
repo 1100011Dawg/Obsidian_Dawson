@@ -42,14 +42,6 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
 
-
-
-“inbreeding of cross-fertilizers—rejected and  
-later prohibited by Lysenkoites—led to a revolution in the pro¬  
-duction of corn, and increased yields through use of hybrids  
-by 20 to 30 per cent.”  
-(Medvedev and Lerner, p. 42)
-
 “Mutations, in particular those induced  
 by X-ray, were widely studied and used. At the same time  
 the struggle was begun against lethal and harmful mutations  
