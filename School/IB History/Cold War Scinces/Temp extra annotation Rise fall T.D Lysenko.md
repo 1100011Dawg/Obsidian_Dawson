@@ -10,3 +10,5 @@ birth to a new social system and was the beginning of the creation of a socialis
 “The” (Medvedev and Lerner, p. 21)
 
 “reactions of glycolysis, oxidation, and phosphorylation are all the same in the whole living world” (Medvedev and Lerner, p. 33)
+
+“Hence it countered genetic theory with the old and repeatedly disproved principle of inheritance of acquired characters already formulated by Lamarcl” (Medvedev and Lerner, p. 35)

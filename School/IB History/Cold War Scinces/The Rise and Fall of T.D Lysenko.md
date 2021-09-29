@@ -42,18 +42,8 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
 
-“Hence it countered genetic theory with the old and repeatedly  
-disproved principle of inheritance of acquired characters al¬  
-ready formulated by Lamarc”  
-(Medvedev and Lerner, p. 35)
 
-“Creation of a system of pro¬  
-ductive Soviet plant breeding 'would have been impossible  
-'without this work. In his address to the 1936 session of the  
-LAAAS, Vavilov described vividly and convincingly the  
-theoretical and practical significance of this trend in the field  
-of Soviet selection and plant breeding founded by him”  
-(Medvedev and Lerner, p. 41)
+
 
 “By 1937 the best varieties of cereal crops had been produced  
 by the standard genetical methods of mass selection and  
