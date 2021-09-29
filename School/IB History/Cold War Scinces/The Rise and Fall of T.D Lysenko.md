@@ -65,13 +65,6 @@ nihilated.1”
 
 “Lysenko exclaims  with exaltation: “Aha! You came to relearn?”” (Medvedev and Lerner, p. 132)
 
-
-“discredited merely on the grounds that they had been de¬  
-veloped in the United States”  
-(Medvedev and Lerner, p. 133)
-
-“And they began by declaring reactionary and idealistic Einstein’s relativity theory (“reactionary Einsteinism”), Bohr’s complementary principle, Pauling’s theory of resonance, and a number of other concepts that were landmarks in science.”  (Medvedev and Lerner, p. 133)
-
 “biology by the theory of neo-Lamarckism, which is sup¬  
 planting neo-Darwinism.”37”  
 (Medvedev and Lerner, p. 136)
