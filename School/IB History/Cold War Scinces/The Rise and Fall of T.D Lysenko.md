@@ -61,11 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“On  
-November 5, 1945, Lysenko first gave his paper, which denied  
-the existence of intraspecific competition among plants and  
-animals in nature”  
-(Medvedev and Lerner, p. 105)
 
 “On reading the article, which he, himself, had originally  
 asked for, Lysenko became enraged and categorically refused  

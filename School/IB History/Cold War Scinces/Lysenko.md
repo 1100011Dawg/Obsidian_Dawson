@@ -12,6 +12,7 @@
 - He was also heavily criticized for his scientific methods[^3]
 	- “Lysenko, in 1931 —1934, advanced the so-called theory of phasic development of plants”  [^4]
 	- Thought potatoes came from russia because of Lenin[^10]
+	- Was against intra
 #### Contra genetics:
  - Undirected nature of mutation contradicted Lysenko[^13]
  - The rate of mutation was used contra genetics[^14]

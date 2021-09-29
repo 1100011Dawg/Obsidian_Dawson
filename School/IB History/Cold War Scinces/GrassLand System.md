@@ -9,7 +9,7 @@
  - Promised: 100 to 160 centners per  hectare yields of wheat[^5]
  - Followed by Lyashchenko[^6]
  - Exaggerated the role of soil structure in retention of moisture and exaggerated roe of perennial grasses in soil texture[^7]
- - Gave positions unfairly
+ - got positions unfairly to supporters[^10]
  - Tulaikov was against it[^8] 
 	 - “The immediate cause of the annihilation of Tulaikov’s school was an article by Stoletov, “Against foreign  theories in agronomy,” published in the central press on  April ii, 1937.”  [^9]
 
@@ -31,3 +31,5 @@
 [^8]:“Although Tulaikov perished in the fight against Vil’yams’  system, Vil’yams apparently cannot be personally accused of  his death”  (Medvedev and Lerner, p. 97)
 
 [^9]:(Medvedev and Lerner, p. 97)
+
+[^10]:“his pupils and followers took full advantage  of the overblown cult of Vil’yams to secure for themselves  dominant positions in many responsible posts. These men  (Bushinsky, Chizhevsky, Dmitriev, Demidov, Avaev, and  others), having contributed nothing either to science or to  practice, lived off the exploitation of Vil’yams’ unmerited  glory”  (Medvedev and Lerner, p. 98)
