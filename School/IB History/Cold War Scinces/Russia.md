@@ -1,3 +1,9 @@
+---
+tags:
+ - "Biology"
+ - "History"
+ - "Lysenkoism"
+---
 #### Agriculture
  - Had backward agriculture[^1]
  - But had good winter varieties of wheat and flax[^2]

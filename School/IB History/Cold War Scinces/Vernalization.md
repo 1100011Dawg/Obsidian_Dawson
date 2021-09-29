@@ -1,4 +1,10 @@
- - Was met in opposition for widespread use[^1]
+---
+tags:
+ - "Biology"
+ - "History"
+ - "Lysenkoism"
+---
+- Was met in opposition for widespread use[^1]
 	 - Due to it being burdensome and risky with special sheds[^2]
 	 - Data suggested negative to no effect[^3]
  #### Lysenko experiments

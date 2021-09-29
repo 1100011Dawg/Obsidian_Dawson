@@ -2,6 +2,7 @@
 tags:
  - "Biology"
  - "History"
+ - "Lysenkoism"
 aliases:
  - "Lysenkoists"
 ---

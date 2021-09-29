@@ -1,3 +1,10 @@
+---
+tags:
+ - "Biology"
+ - "History"
+ - "Lysenkoism"
+ - "People"
+---
 #### Time at AIPB
 - At AIPB the government made a unrealistic decree that Lysenko said he could do bu overall was impossible.[^1][^10]
 - Brought in 150,000 plant varieties from the world[^11]
