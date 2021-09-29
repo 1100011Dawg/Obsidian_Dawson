@@ -3,7 +3,7 @@
  - Farther had sown seeds of winter variety in Ukrainka[^8]
 
 #### Lysenko General
-- One of his most important "discoveries" was [[vernalization]][^1]. He was connected with [[Prezent]][^2] 
+- One of his most important "discoveries" was [[Vernalization]][^1]. He was connected with [[Prezent]][^2] 
 	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased [[Stalin]][^6]
 
 - He was also heavily criticized for his scientific methods[^3]
