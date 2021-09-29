@@ -60,18 +60,6 @@ with an inimical attitude toward Lysenko’s work”
 (Medvedev and Lerner, p. 53)
 d
 
-
-
-
-
-“But you proceed from immutability of genes and of the  
-nature of plants.””  
-(Medvedev and Lerner, p. 59)
-
-
-
-
-
 (Medvedev and Lerner, p. 62) Come back to this dialogue
 
 “Marxism is the only science. Darwinism is only a part; the  

@@ -1,7 +1,7 @@
 #### Time at AIPB
 - At AIPB the government made a unrealistic decree that Lysenko said he could do bu overall was impossible.[^1][^10]
 - Brought in 150,000 plant varieties from the world[^11]
-- The AIPB was said to do great work
+- The AIPB was said to do great work[^12]
 
 #### General
 - Went contrary to Lysenko but viewed his phasic development of plants and summer planting of potatoes favorbly.[^2] 
@@ -36,6 +36,8 @@ Footnotes:
 [^10]:(Medvedev and Lerner, p. 19) The procumation was unrealistic and served to help the attack against Vavilov
 
 [^11]:“Their members investigated the agriculture and plant resources of 65 countries and brought to the Soviet Union over 150,000 plant varieties, forms and species—all of the plant-breeding wealth created by mankind in its centuries-  old history. Thus the collection of the world’s domesticated plants was established.” (Medvedev and Lerner, p. 40)
+
+[^12]:“In working on the collection the  institute gave the country hundreds of literary monographs and  systematic botanical descriptions instead of new varieties for widespread production.” (Medvedev and Lerner, p. 53)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY4NDkxODM5NywtMjA4ODc0NjYxMl19
 -->
