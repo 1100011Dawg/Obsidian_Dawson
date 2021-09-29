@@ -63,12 +63,6 @@ nihilated.1”
 
 “This was the situation exploited by Lysenko, who declared genetics to be a tool of reactionary American imperialism.”  (Medvedev and Lerner, p. 114)
 
-“Lysenko exclaims  with exaltation: “Aha! You came to relearn?”” (Medvedev and Lerner, p. 132)
-
-“biology by the theory of neo-Lamarckism, which is sup¬  
-planting neo-Darwinism.”37”  
-(Medvedev and Lerner, p. 136)
-
 “Immoderate  
 praise and complete suppression of criticism were typical for  
 only four years”  
