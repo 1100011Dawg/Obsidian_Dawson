@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/IB History/Cold War Scinces/GrassLand System.md",
+            "file": "School/IB History/Cold War Scinces/Vavilov.md",
             "mode": "source"
           }
         }
@@ -87,13 +87,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB History/Cold War Scinces/GrassLand System.md",
+                "file": "School/IB History/Cold War Scinces/Vavilov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "auto",
-                "backlinkCollapsed": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB History/Cold War Scinces/GrassLand System.md",
+                "file": "School/IB History/Cold War Scinces/Vavilov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IB History/Cold War Scinces/GrassLand System.md"
+                "file": "School/IB History/Cold War Scinces/Vavilov.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "495e3745369417dd",
   "lastOpenFiles": [
-    "School/IB History/Cold War Scinces/GrassLand System.md",
+    "School/IB History/Cold War Scinces/Vavilov.md",
+    "School/IB History/Cold War Scinces/Lysenko.md",
     "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
+    "School/IB History/Cold War Scinces/LAAAS.md",
+    "School/IB History/Cold War Scinces/GrassLand System.md",
     "School/IB History/Cold War Scinces/Untitled.md",
     "School/IB History/Cold War Scinces/Temp extra annotation Rise fall T.D Lysenko.md",
     "School/IB History/Cold War Scinces/Russia.md",
-    "School/IB History/Cold War Scinces/Lysenko.md",
-    "School/IB History/Cold War Scinces/Vavilov.md",
     "School/IB History/Cold War Scinces/Vernalization.md",
-    "School/IB History/Cold War Scinces/LAAAS.md",
     "School/IB History/Cold War Scinces/vernalization.md"
   ]
 }
