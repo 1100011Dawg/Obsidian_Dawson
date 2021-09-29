@@ -61,11 +61,7 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“Vil’yams and Pryanishnikov schools. The latter  
-insisted on the development of mineral fertilizers, one-year  
-planting of clover without cereal grass admixture (thus im¬  
-proving the nitrogen balance of the soil)”  
-(Medvedev and Lerner, p. 89)
+
 
 “Vil’yams, on the other hand, proposed not to develop the  
 fertilizer industry; to expand clover planting to two to three  
