@@ -53,21 +53,9 @@ biology of development, in the Leningrad State University, was an¬
 nihilated.1”  
 (Medvedev and Lerner, p. 47)
 
-“Among the accomplices of the enemies of the people named  
-in this article were such scientists as the academicians Vavilov,  
-M. M. Zavadovsky, and Konstantinov, who were charged  
-with an inimical attitude toward Lysenko’s work”  
-(Medvedev and Lerner, p. 53)
-d
+“Among the accomplices of the enemies of the people named in this article were such scientists as the academicians Vavilov, M. M. Zavadovsky, and Konstantinov, who were charged with an inimical attitude toward Lysenko’s work”  (Medvedev and Lerner, p. 53)
 
 (Medvedev and Lerner, p. 62) Come back to this dialogue
-
-“Marxism is the only science. Darwinism is only a part; the  
-real theory of knowledge of the world was given by Marx, Engels,  
-and Lenin. And when I hear discussion about Darwinism without  
-mention of Marxism, it may seem, on the one side, that all is  
-right, but on the other, it’s a horse of a different color”  
-(Medvedev and Lerner, p. 63)
 
 “The proposals for introduction of hybrid corn in the  
 U.S.S.R. were based on its success in the United States where  
