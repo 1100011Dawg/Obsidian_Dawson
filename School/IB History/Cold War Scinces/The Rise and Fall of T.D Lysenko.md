@@ -61,12 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-
-“In 1937 the grassland system reached the level of a state prob¬  
-lem, and the first draft of a law to adopt it throughout the  
-country was prepared”  
-(Medvedev and Lerner, p. 89)
-
 “Vil’yams and Pryanishnikov schools. The latter  
 insisted on the development of mineral fertilizers, one-year  
 planting of clover without cereal grass admixture (thus im¬  
