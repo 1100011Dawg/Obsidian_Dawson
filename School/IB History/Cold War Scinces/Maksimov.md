@@ -1,3 +1,10 @@
+---
+tags:
+ - "Biology"
+ - "History"
+aliases:
+ - "Lysenkoists"
+---
 He was critical against Lysenko but was soon banished to Saratov.[^1] He had to confess his errors in evaluating Lysenko's discovery[^2] Was supported by Vavilov.
 
 [^1]:“Makimov also wrote a detailed critical analysis of Lysenko’s  

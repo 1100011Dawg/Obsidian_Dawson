@@ -1,3 +1,10 @@
+---
+tags:
+ - "Biology"
+ - "History"
+aliases:
+ - "Lysenkoists"
+---
 #### General
  - Formed a small group[^10]
  - Were "close to the ground" on research[^11]

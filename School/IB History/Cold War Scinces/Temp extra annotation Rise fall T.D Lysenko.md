@@ -1,3 +1,5 @@
+Not yet useful annotations: 
+
 “The great October Socialist Revolution gave  
 birth to a new social system and was the beginning of the creation of a socialist state of workers and peasants. This new state, founded by the great Lenin, should have become a world center of constructive work in all areas of creativity” (Medvedev and Lerner, p. 4)
 
