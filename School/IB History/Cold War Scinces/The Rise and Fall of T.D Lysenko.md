@@ -42,11 +42,7 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
 
-“third, because the indetermin¬  
-ate, undirected nature of mutation was contradictory to  
-Lysenko’s principles of environmentally induced hereditary  
-changes in a particular direction.”  
-(Medvedev and Lerner, p. 29)
+
 
 “Nevertheless, the thesis that each individual gene mutates  
 only once in tens of thousands of years was used by the oppo¬  
