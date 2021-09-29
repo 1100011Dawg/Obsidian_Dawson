@@ -65,12 +65,7 @@ nihilated.1”
 
 
 
-“The pseudoscientific work of Lepeshinskaya was de¬  
-bunked in short order. By the end of 1955 more than three  
-hundred scientists had signed a petition requesting Lysenko’s  
-removal from the post of LAAAS president and the dismissal  
-of Oparin as secretary of the Biological Section of the AS”  
-(Medvedev and Lerner, p. 137)
+
 
 
 

@@ -32,6 +32,7 @@
  - Young scientists followed Botanichesky Zhurnal[^29]
 	 - Became a popular journal[^30]
 	 - Lysenkoist managed to disband the journal and reconstitute it with Lysenkoists[^31]
+ - 1955 over three hundred sicentist signed a petition for Lysenko removal from presedent of the LAAAS
 
 
 Footnotes:
