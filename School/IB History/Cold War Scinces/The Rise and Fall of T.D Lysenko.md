@@ -61,22 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“The immediate cause of the annihilation of Tulai-  
-kov’s school was an article by Stoletov, “Against foreign  
-theories in agronomy,” published in the central press on  
-April ii, 1937.”  
-(Medvedev and Lerner, p. 97)
-
-“his pupils and followers took full advantage  
-of the overblown cult of Vil’yams to secure for themselves  
-dominant positions in many responsible posts. These men  
-(Bushinsky, Chizhevsky, Dmitriev, Demidov, Avaev, and  
-others), having contributed nothing either to science or to  
-practice, lived off the exploitation of Vil’yams’ unmerited  
-glory”  
-(Medvedev and Lerner, p. 98)
-
-
 “On  
 November 5, 1945, Lysenko first gave his paper, which denied  
 the existence of intraspecific competition among plants and  

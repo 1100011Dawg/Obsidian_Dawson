@@ -9,7 +9,9 @@
  - Promised: 100 to 160 centners per  hectare yields of wheat[^5]
  - Followed by Lyashchenko[^6]
  - Exaggerated the role of soil structure in retention of moisture and exaggerated roe of perennial grasses in soil texture[^7]
+ - Gave positions unfairly
  - Tulaikov was against it[^8] 
+	 - “The immediate cause of the annihilation of Tulaikov’s school was an article by Stoletov, “Against foreign  theories in agronomy,” published in the central press on  April ii, 1937.”  [^9]
 
 
 [^1]:“It may be appropriate to give some examples of the  methods whereby Vil’yams’ supporters attempted, in 1935—  1937, to force nationwide acceptance of the grassland system,  although it was never subjected to experimental tests before  or after its adoption”  (Medvedev and Lerner, p. 87)
@@ -27,3 +29,5 @@
 [^7]:“Vil’yams’ hypothesis greatly exaggerated the role of soil structure in the retention of moisture and similarly exaggerated the role of perennial grasses in the development of soil texture.” (Medvedev and Lerner, p. 96)
 
 [^8]:“Although Tulaikov perished in the fight against Vil’yams’  system, Vil’yams apparently cannot be personally accused of  his death”  (Medvedev and Lerner, p. 97)
+
+[^9]:(Medvedev and Lerner, p. 97)
