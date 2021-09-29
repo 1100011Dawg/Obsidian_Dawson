@@ -65,22 +65,6 @@ nihilated.1”
 
 
 
-
-
-
-
-
-“Stalin’s participation in this affair was based on Lysenko’s  
-misinforming him about the real situation in biology”  
-(Medvedev and Lerner, p. 118)
-
-“Bourgeois genetics has become the fashionable “science” abroad,  
-propagandizing “eugenics” and race politics. Weismannism-Mor¬  
-ganism serves today in the arsenal of contemporary imperialism as  
-a means for providing a “scientific base” for its reactionary poli¬  
-tics.16”  
-(Medvedev and Lerner, p. 119)
-
 “decreed the  
 abolition of a number of laboratories pronounced hotbeds of re¬  
 actionary Morganism (the laboratories of cytogenetics, botan¬  
