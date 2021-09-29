@@ -22,6 +22,9 @@
  - Put Marxism above Science:
 	 > “Marxism is the only science. Darwinism is only a part; the real theory of knowledge of the world was given by Marx, Engels, and Lenin. And when I hear discussion about Darwinism without mention of Marxism, it may seem, on the one side, that all is  right, but on the other, it’s a horse of a different color”  [^19]
 
+#### Late years
+ - Young sicn
+
 
 Footnotes:
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)

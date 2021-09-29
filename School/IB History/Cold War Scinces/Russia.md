@@ -5,7 +5,7 @@
  - Inbreeding of cross fertilizers lead to improvements of 20-30% rejected by Lysenko[^4]
 	 - Met resistance by  Lysenko, Prezent, Ol’shansky, and others[^6]
  - Used Mutations by X-ray?[^5]
- - Lysenko caused damage in Siberia
+ - Lysenko caused damage in Siberia[^7]?
 
 
 Footnotes:
@@ -21,3 +21,5 @@ Footnotes:
 [^5]:“Mutations, in particular those induced by X-ray, were widely studied and used. At the same time the struggle was begun against lethal and harmful mutations and hereditary diseases, which could be revealed and anticipated only by genetical methods. This enumeration could be continued at length.” (Medvedev and Lerner, p. 43)
 
 [^6]:“But this progressive practice met the  sharp resistance of Lysenko, Prezent, Ol’shansky, and others,”  (Medvedev and Lerner, p. 64)
+
+[^7]:“These measures included the  planting of winter varieties on unplowed stubble in Siberia,  which caused severe damage to Siberian”  (Medvedev and Lerner, p. 111)
