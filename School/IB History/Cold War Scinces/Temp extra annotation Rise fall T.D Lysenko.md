@@ -12,3 +12,5 @@ birth to a new social system and was the beginning of the creation of a socialis
 “reactions of glycolysis, oxidation, and phosphorylation are all the same in the whole living world” (Medvedev and Lerner, p. 33)
 
 “Hence it countered genetic theory with the old and repeatedly disproved principle of inheritance of acquired characters already formulated by Lamarcl” (Medvedev and Lerner, p. 35)
+
+“Creation of a system of productive Soviet plant breeding 'would have been impossible 'without this work. In his address to the 1936 session of the LAAAS, Vavilov described vividly and convincingly the theoretical and practical significance of this trend in the field of Soviet selection and plant breeding founded by him” (Medvedev and Lerner, p. 41)

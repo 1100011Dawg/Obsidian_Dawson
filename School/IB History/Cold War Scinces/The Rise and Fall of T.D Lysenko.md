@@ -44,14 +44,6 @@ TAA Timiryazev Agricultural Academy”
 
 
 
-
-“By 1937 the best varieties of cereal crops had been produced  
-by the standard genetical methods of mass selection and  
-development of pure lines. At that time over 60 per cent of  
-the land under cereal crops in our country was planted to  
-those varietie”  
-(Medvedev and Lerner, p. 42)
-
 “inbreeding of cross-fertilizers—rejected and  
 later prohibited by Lysenkoites—led to a revolution in the pro¬  
 duction of corn, and increased yields through use of hybrids  
