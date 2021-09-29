@@ -40,3 +40,4 @@ asked for, Lysenko became enraged and categorically refused  to print it in his 
 
 “Lysenko exclaims  with exaltation: “Aha! You came to relearn?”” (Medvedev and Lerner, p. 132)
 
+

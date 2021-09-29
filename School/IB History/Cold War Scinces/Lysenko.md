@@ -4,6 +4,7 @@
  - helped with starting [[Vernalization]] by Yakovlev[^10]
 
 #### Lysenko General
+- Heavy praise and heavy suppression only lasted 4 years[]
 - Was hailed with sculture[^26] and song[^27]
 - One of his most important "discoveries" was [[Vernalization]][^1]. He was connected with [[Prezent]][^2] 
 	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased [[Stalin]][^6]
@@ -84,6 +85,7 @@ Footnotes:
 
 [^27]:“Merrily play on, accordion,  With my girl friend let me sing  Of the eternal glory of Academician Lysenko.  He walks the Michurin path  With firm tread;  He protects us from being duped  by Mendelist-Morganists.”  (Medvedev and Lerner, p. 132)
 
+[^28]:“Immoderate  praise and complete suppression of criticism were typical for  only four years”  (Medvedev and Lerner, p. 136)
 
 
 
