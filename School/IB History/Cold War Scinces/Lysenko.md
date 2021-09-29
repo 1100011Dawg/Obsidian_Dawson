@@ -31,6 +31,7 @@
 	 - Around 1948 there were difficulties citing foriegn authors due to them being "reactionary'[^23]
  - Young scientists followed Botanichesky Zhurnal[^29]
 	 - Became a popular journal[^30]
+	 - Lysenkoist managed to disband the journal and reconstitute it with Lysenkoists[^31]
 
 
 Footnotes:
@@ -92,6 +93,8 @@ Footnotes:
 [^29]:“The sympathies of  scientists and of youth were with the Botanichesky Zhurnal.”  (Medvedev and Lerner, p. 137)
 
 [^30]:“The  Botanichesky Zhurnal rapidly became the most popular biological periodical, and its every issue was awaited with impatience.”  (Medvedev and Lerner, p. 137)
+
+[^31]:“Lysenko and  his supporters once more succeeded in evoking administrative reprisals against their opponents. The editorial board of the Botanichesky Zhurnal was disbanded at the end of 1958 and reconstituted largely from Lysenko’s followers”  (Medvedev and Lerner, p. 138)
 
 
 

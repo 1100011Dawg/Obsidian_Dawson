@@ -72,12 +72,7 @@ removal from the post of LAAAS president and the dismissal
 of Oparin as secretary of the Biological Section of the AS”  
 (Medvedev and Lerner, p. 137)
 
-“Lysenko and  
-his supporters once more succeeded in evoking administrative  
-reprisals against their opponents. The editorial board of the  
-Botanichesky Zhurnal was disbanded at the end of 1958 and  
-reconstituted largely from Lysenko’s followers”  
-(Medvedev and Lerner, p. 138)
+
 
 “This unique volume was also translated into  
 languages of friendly socialist states, some of which, unfor¬  
