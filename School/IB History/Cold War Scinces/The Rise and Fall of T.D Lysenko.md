@@ -42,10 +42,7 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
 
-“in¬  
-compatible with the dialectical materialism that asserts that  
-everything in nature changes and develops”  
-(Medvedev and Lerner, p. 31)
+
 
 “Lysenko, with his Kooperatorka experiments, has  
 shown that, if one approaches a plant skillfully, knowing life and  

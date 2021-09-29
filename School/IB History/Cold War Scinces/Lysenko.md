@@ -6,7 +6,7 @@
 #### Lysenko General
 - One of his most important "discoveries" was [[Vernalization]][^1]. He was connected with [[Prezent]][^2] 
 	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased [[Stalin]][^6]
-- Tried to abolish genetics on the basis that it was a bourgeois science and non dialectic materialism[^11]
+- Tried to abolish genetics on the basis that it was a bourgeois science and non dialectic materialism[^11][^15]
 - Based on his Vernalization experiments he formulated the idea of presence of some property of heredity distributed throughout the cell)[^12]
 
 - He was also heavily criticized for his scientific methods[^3]
@@ -14,7 +14,7 @@
 	- Thought potatoes came from russia because of Lenin[^10]
 #### Contra genetics:
  - Undirected nature of mutation contradicted Lysenko[^13]
- - The rate of mutation was used contra gentics[^]
+ - The rate of mutation was used contra genetics[^14]
 
 Footnotes:
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)
@@ -44,6 +44,8 @@ Footnotes:
 [^13]:“third, because the indeterminate, undirected nature of mutation was contradictory to Lysenko’s principles of environmentally induced hereditary changes in a particular direction.” (Medvedev and Lerner, p. 29)
 
 [^14]:“Nevertheless, the thesis that each individual gene mutates only once in tens of thousands of years was used by the opponents of genetics as a bugbear” (Medvedev and Lerner, p. 31)
+
+[^15]:“incompatible with the dialectical materialism that asserts that everything in nature changes and develops”  (Medvedev and Lerner, p. 31)
 
 
 
