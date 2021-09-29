@@ -14,3 +14,5 @@ birth to a new social system and was the beginning of the creation of a socialis
 “Hence it countered genetic theory with the old and repeatedly disproved principle of inheritance of acquired characters already formulated by Lamarcl” (Medvedev and Lerner, p. 35)
 
 “Creation of a system of productive Soviet plant breeding 'would have been impossible 'without this work. In his address to the 1936 session of the LAAAS, Vavilov described vividly and convincingly the theoretical and practical significance of this trend in the field of Soviet selection and plant breeding founded by him” (Medvedev and Lerner, p. 41)
+
+“Lysenko and his group at that period showed only two sensational achievements: vernalization and summer planting of potatoes” (Medvedev and Lerner, p. 43)

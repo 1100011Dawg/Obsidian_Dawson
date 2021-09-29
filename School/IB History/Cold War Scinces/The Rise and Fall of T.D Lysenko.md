@@ -42,14 +42,6 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
 
-“they considered that useful traits of plants are  
-not hereditarily transmitted but arise anew in every genera¬  
-tion under the influence of the environment, new characteris¬  
-tics, according to their hypothesis, could be produced by  
-environmental influences and not from imported genetical  
-material”  
-(Medvedev and Lerner, p. 44)
-
 “the scientific discussion on genetics was  
 transformed into a debate against the “enemies of the people”  
 in the pages of the journal Yarovizatsya, the founder and  
