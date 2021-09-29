@@ -65,17 +65,6 @@ disproved principle of inheritance of acquired characters al¬
 ready formulated by Lamarc”  
 (Medvedev and Lerner, p. 35)
 
-
-“Lysenko  
-clearly pointed out that “in a general way, it is clear to all  
-that external conditions play a colossal role in the endless  
-process of formation of vegetable organisms. But, as far as  
-I know, nobody yet has been able to prove experimentally  
-what conditions in what developmental periods of plants are  
-required to change the nature of subsequent generations in the  
-desired directions.”15”  
-(Medvedev and Lerner, p. 36)
-
 “Russia was an agrarian country with an exceptionally back¬  
 ward agriculture.”  
 (Medvedev and Lerner, p. 38)
