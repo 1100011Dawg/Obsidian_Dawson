@@ -17,6 +17,9 @@
  - The rate of mutation was used contra genetics[^14]
  - Lysenko thought there was a period during a organism life where it assimilates changes from the environment[^16][^17]
  - Thought new useful traits could only result of environmental influence[^18]
+ - Put Marxism above Science:
+	 > “Marxism is the only science. Darwinism is only a part; the real theory of knowledge of the world was given by Marx, Engels, and Lenin. And when I hear discussion about Darwinism without mention of Marxism, it may seem, on the one side, that all is  right, but on the other, it’s a horse of a different color”  
+
 
 Footnotes:
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)
@@ -53,6 +56,8 @@ Footnotes:
 [^17]:“Lysenko clearly pointed out that “in a general way, it is clear to all that external conditions play a colossal role in the endless process of formation of vegetable organisms. But, as far as I know, nobody yet has been able to prove experimentally what conditions in what developmental periods of plants are required to change the nature of subsequent generations in the desired directions.”15”  (Medvedev and Lerner, p. 36)
 
 [^18]:“they considered that useful traits of plants are not hereditarily transmitted but arise anew in every generation under the influence of the environment, new characteristics, according to their hypothesis, could be produced by environmental influences and not from imported genetical material” (Medvedev and Lerner, p. 44)
+
+[^19]:(Medvedev and Lerner, p. 63)
 
 
 
