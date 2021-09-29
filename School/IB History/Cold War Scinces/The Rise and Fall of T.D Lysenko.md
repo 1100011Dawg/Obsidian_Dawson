@@ -61,12 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-
-“Several months later the issue of sabotage in agricul¬  
-tural chemistry was dredged up again by another Vil’yams  
-follower, Lyashchenko”  
-(Medvedev and Lerner, p. 92)
-
 “Vavilov, whose fate has already been recounted, was a  
 student of Pryanishnikov’s, and they were very fond of each  
 other”  
