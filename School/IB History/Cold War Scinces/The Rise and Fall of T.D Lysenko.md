@@ -42,24 +42,6 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
 
-
-
-“Lysenko, with his Kooperatorka experiments, has  
-shown that, if one approaches a plant skillfully, knowing life and  
-not merely the external traits of a plant, if one chooses methods  
-of influence not as the geneticists do, “the stronger, the better,””  
-(Medvedev and Lerner, p. 31)
-
-“but selects methods consonant with the given stage of development  
-of the organism, then in a brief period it is possible to alter the  
-hereditary nature of the plant”  
-(Medvedev and Lerner, p. 32)
-
-
-
-
-
-
 “Hence it countered genetic theory with the old and repeatedly  
 disproved principle of inheritance of acquired characters al¬  
 ready formulated by Lamarc”  
