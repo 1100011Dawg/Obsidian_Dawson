@@ -11,7 +11,7 @@ aliases:
 > APA:Medvedev, Z. A., & Lerner, T. I. M. (n.d.). _The rise and fall of T.D. Lysenko_.
 
 #### Author
- The author is involved with the events of Lysenkoism and is contrary to the movement. He is also an avid supporter of communism. His perspective is that of a historian, active participate and witness to the events.[^1]
+ The author is involved with the events of [[Lysenkoism]] and is contrary to the movement. He is also an avid supporter of communism. His perspective is that of a historian, active participate and witness to the events.[^1]
 
 
 
@@ -19,7 +19,7 @@ aliases:
 Annoations:
 (9/18/2021, 6:01:35 PM)
 
-[^1]:  “author’s three points of view: as  historian; as a witness to the events; and as an active participant  in the last stages of Lysenkoism, which he helped to topple.”  (Medvedev and Lerner, p. 9)
+[^1]:  “author’s three points of view: as  historian; as a witness to the events; and as an active participant  in the last stages of [[Lysenkoism]], which he helped to topple.”  (Medvedev and Lerner, p. 9)
 
 Yet to be sorted/ Useful
 “This book consists of three parts. The first two  
@@ -55,7 +55,7 @@ biology of development, in the Leningrad State University, was an¬
 nihilated.1”  
 (Medvedev and Lerner, p. 47)
 
-“Among the accomplices of the enemies of the people named in this article were such scientists as the academicians Vavilov, M. M. Zavadovsky, and Konstantinov, who were charged with an inimical attitude toward [[Lysenko]]’s work”  (Medvedev and Lerner, p. 53)
+“Among the accomplices of the enemies of the people named in this article were such scientists as the academicians [[Vavilov]], M. M. Zavadovsky, and Konstantinov, who were charged with an inimical attitude toward [[Lysenko]]’s work”  (Medvedev and Lerner, p. 53)
 
 (Medvedev and Lerner, p. 62) Come back to this dialogue
 

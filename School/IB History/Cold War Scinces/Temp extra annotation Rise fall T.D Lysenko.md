@@ -15,7 +15,7 @@ birth to a new social system and was the beginning of the creation of a socialis
 
 “Hence it countered genetic theory with the old and repeatedly disproved principle of inheritance of acquired characters already formulated by Lamarcl” (Medvedev and Lerner, p. 35)
 
-“Creation of a system of productive Soviet plant breeding 'would have been impossible 'without this work. In his address to the 1936 session of the [[LAAAS]], Vavilov described vividly and convincingly the theoretical and practical significance of this trend in the field of Soviet selection and plant breeding founded by him” (Medvedev and Lerner, p. 41)
+“Creation of a system of productive Soviet plant breeding 'would have been impossible 'without this work. In his address to the 1936 session of the [[LAAAS]], [[Vavilov]] described vividly and convincingly the theoretical and practical significance of this trend in the field of Soviet selection and plant breeding founded by him” (Medvedev and Lerner, p. 41)
 
 “[[Lysenko]] and his group at that period showed only two sensational achievements: vernalization and summer planting of potatoes” (Medvedev and Lerner, p. 43)
 
@@ -29,7 +29,7 @@ nature of plants.””
 
 “and his low level of culture lead to a peculiar introduction of ideas that are close to outmoded scientific views (Lamarckism),”  (Medvedev and Lerner, p. 66)
 
-“Vavilov himself noted Shundenko’s illiteracy and disruptive role” (Medvedev and Lerner, p. 71)
+“[[Vavilov]] himself noted Shundenko’s illiteracy and disruptive role” (Medvedev and Lerner, p. 71)
 
 “Little is known so far of Vavilov’s last period of life, spent in the Saratov prison”  (Medvedev and Lerner, p. 73)
 

@@ -18,7 +18,7 @@ aliases:
 
 Footnotes:
 
-[^1]:“sharp campaign against Vavilov, Kol’tsov, and other  geneticists was also started in 1937 by the newspaper Sotszemledelie”  (Medvedev and Lerner, p. 48)
+[^1]:“sharp campaign against [[Vavilov]], Kol’tsov, and other  geneticists was also started in 1937 by the newspaper Sotszemledelie”  (Medvedev and Lerner, p. 48)
 
 [^2]:(Medvedev and Lerner, p. 49)
 
