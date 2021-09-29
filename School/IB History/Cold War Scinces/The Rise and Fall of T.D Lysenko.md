@@ -61,10 +61,7 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“This was the situation  
-exploited by Lysenko, who declared genetics to be a tool of  
-reactionary American imperialism.”  
-(Medvedev and Lerner, p. 114)
+“This was the situation exploited by Lysenko, who declared genetics to be a tool of reactionary American imperialism.”  (Medvedev and Lerner, p. 114)
 
 
 
