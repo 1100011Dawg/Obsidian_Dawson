@@ -42,13 +42,7 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
 
-“Mutations, in particular those induced  
-by X-ray, were widely studied and used. At the same time  
-the struggle was begun against lethal and harmful mutations  
-and hereditary diseases, which could be revealed and antici¬  
-pated only by genetical methods. This enumeration could be  
-continued at length.”  
-(Medvedev and Lerner, p. 43)
+
 
 “Lysenko and his group at that period  
 showed only two sensational achievements: vernalization and  

@@ -3,6 +3,7 @@
  - But had good winter varieties of wheat and flax[^2]
  - Best crops were made by standard genetical methods(over 60% of crops)[^3]
  - Inbreeding of cross fertilizers lead to improvements of 20-30% rejected by Lysenko[^4]
+ - Used Mutations by X-ray?[^5]
 
 
 Footnotes:
@@ -13,4 +14,6 @@ Footnotes:
 
 [^3]:“By 1937 the best varieties of cereal crops had been produced  by the standard genetical methods of mass selection and  development of pure lines. At that time over 60 per cent of  the land under cereal crops in our country was planted to  those varieties”  (Medvedev and Lerner, p. 42)
 
-[^4]
+[^4]:“inbreeding of cross-fertilizers—rejected and later prohibited by Lysenkoites—led to a revolution in the production of corn, and increased yields through use of hybrids by 20 to 30 per cent.” (Medvedev and Lerner, p. 42)
+
+[^5]
