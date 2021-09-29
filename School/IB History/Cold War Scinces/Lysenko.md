@@ -15,7 +15,7 @@
 #### Contra genetics:
  - Undirected nature of mutation contradicted Lysenko[^13]
  - The rate of mutation was used contra genetics[^14]
- - Lysenko thought there was a period during a organism life where it assimilates changes from the environment[^16]
+ - Lysenko thought there was a period during a organism life where it assimilates changes from the environment[^16][^17]
 
 Footnotes:
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)
@@ -49,6 +49,7 @@ Footnotes:
 [^15]:“incompatible with the dialectical materialism that asserts that everything in nature changes and develops”  (Medvedev and Lerner, p. 31)
 
 [^16]:“Lysenko made the abstract assumption that there  are some periods in the life history of a plant in which environment, by being “assimilated” into the plant, changes its heredity. At other times, he alleged, the heredity is conservative and unchangeable.” (Medvedev and Lerner, p. 36)
+[^17]:“Lysenko clearly pointed out that “in a general way, it is clear to all that external conditions play a colossal role in the endless process of formation of vegetable organisms. But, as far as I know, nobody yet has been able to prove experimentally what conditions in what developmental periods of plants are required to change the nature of subsequent generations in the desired directions.”15”  (Medvedev and Lerner, p. 36)
 
 
 
