@@ -77,6 +77,8 @@ Footnotes:
 
 [^24]:“Bourgeois genetics has become the fashionable “science” abroad,  propagandizing “eugenics” and race politics. Weismannism-Morganism serves today in the arsenal of contemporary imperialism as a means for providing a “scientific base” for its reactionary politics.16” (Medvedev and Lerner, p. 119)
 
+[^25]:“decreed the  abolition of a number of laboratories pronounced hotbeds of reactionary Morganism (the laboratories of cytogenetics, botanical cytology, phenogenesis, and others)” (Medvedev and Lerner, p. 123)
+
 
 
 

@@ -65,11 +65,6 @@ nihilated.1”
 
 
 
-“decreed the  
-abolition of a number of laboratories pronounced hotbeds of re¬  
-actionary Morganism (the laboratories of cytogenetics, botan¬  
-ical cytology, phenogenesis, and others)”  
-(Medvedev and Lerner, p. 123)
 
 “Within two days alone (August 23-24, 1948), Kaftanov  
 issued a series of detailed orders published in pamphlet form  
