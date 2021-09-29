@@ -57,12 +57,6 @@ nihilated.1”
 
 (Medvedev and Lerner, p. 62) Come back to this dialogue
 
-“The proposals for introduction of hybrid corn in the  
-U.S.S.R. were based on its success in the United States where  
-its use had increased yields by 20 to 30 per cent on millions  
-of acres”  
-(Medvedev and Lerner, p. 64)
-
 “But this progressive practice met the  
 sharp resistance of Lysenko, Prezent, Ol’shansky, and others,”  
 (Medvedev and Lerner, p. 64)
