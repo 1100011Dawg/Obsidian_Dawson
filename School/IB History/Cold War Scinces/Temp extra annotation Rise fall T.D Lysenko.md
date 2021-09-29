@@ -4,5 +4,5 @@ birth to a new social system and was the beginning of the creation of a socialis
 “In that period, making political accusations was the easiest and most tempting method of vanquishing opponents who could not be subdued by the force of scientific argumentation. There were some who took that road, which often led not only to a rout but also to actual physical elimination of scientific opponents. Unfounded political” (Medvedev and Lerner, p. 6)
 
 
-“It was exactly in this connection that certain leading scientific schools, whose work later rightfully became the pride of Soviet science, were temporarily declared to be bourgeois,  idealistic, and anti-Marxist.”  
+“It was exactly in this connection that certain leading scientific schools, whose work later rightfully became the pride of Soviet science, were temporarily declared to be bourgeois, idealistic, and anti-Marxist.”  
 (Medvedev and Lerner, p. 7)

@@ -33,34 +33,7 @@ R.S.F.S.R. Russian Soviet Federated Socialist Republic
 TAA Timiryazev Agricultural Academy”  
 (Medvedev and Lerner, p. 22)
 
-
-
-
-
-
-
-
-
-
 (Medvedev and Lerner, p. 10) Here is one scientist who was a Darwinist that was slandered as well as his students
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-“The then Commissar of Agriculture, Yakovlev, played a  
-leading role in the creation of the department of vernalization”  
-(Medvedev and Lerner, p. 15)
 
 (Medvedev and Lerner, p. 19) The procumation was unrealistic and served to help the attack against vevlo
 
