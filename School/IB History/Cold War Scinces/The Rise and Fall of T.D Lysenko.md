@@ -63,17 +63,6 @@ nihilated.1”
 
 “This was the situation exploited by Lysenko, who declared genetics to be a tool of reactionary American imperialism.”  (Medvedev and Lerner, p. 114)
 
-“This unique volume was also translated into  
-languages of friendly socialist states, some of which, unfor¬  
-tunately, adopted the Soviet “experience” of persecution of  
-genetics”  
-(Medvedev and Lerner, p. 141)
-
-
-
-
-(Medvedev and Lerner, p. 146)
-
 (Medvedev and Lerner, p. 147) Come back for false criticism of genetics
 
 “With the aid of this doc¬  
