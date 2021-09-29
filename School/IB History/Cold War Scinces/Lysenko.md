@@ -71,9 +71,7 @@ Footnotes:
 
 [^22]:(Medvedev and Lerner, p. 112) Around 1948 young scientists doubted Lysenko, so he tried to consolidate his power.
 
-[^23]:“Difficulties were even  
-experienced in citing foreign authors in articles and books.”  
-(Medvedev and Lerner, p. 114)
+[^23]:“Difficulties were even  experienced in citing foreign authors in articles and books.”  (Medvedev and Lerner, p. 114)
 
 
 
