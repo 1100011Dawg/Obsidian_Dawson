@@ -1,5 +1,8 @@
 ####Effects:
- - Dismissed professors against Michurinism.
+ - Dismissed professors against Michurinism.[^1]
+	 - Such as Shmal’gauzen, Zavadovsky, Yudintsev, Alikhanyan, Zelikman, Berman, and Shapiro
+ - Destroed stock of Drosophila
+ - Destroyed books about genetic
 
 Footnotes:
 
