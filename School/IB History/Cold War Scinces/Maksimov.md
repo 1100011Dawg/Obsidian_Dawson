@@ -2,8 +2,8 @@
 tags:
  - "Biology"
  - "History"
-aliases:
- - "Lysenkoists"
+ - "Lysenkoism"
+ - "People"
 ---
 He was critical against Lysenko but was soon banished to Saratov.[^1] He had to confess his errors in evaluating Lysenko's discovery[^2] Was supported by Vavilov.
 
