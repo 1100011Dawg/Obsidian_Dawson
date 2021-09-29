@@ -53,12 +53,6 @@ biology of development, in the Leningrad State University, was an¬
 nihilated.1”  
 (Medvedev and Lerner, p. 47)
 
-“In working on the collection the  
-institute gave the country hundreds of literary monographs and  
-systematic botanical descriptions instead of new varieties for wide¬  
-spread production.”  
-(Medvedev and Lerner, p. 53)
-
 “Among the accomplices of the enemies of the people named  
 in this article were such scientists as the academicians Vavilov,  
 M. M. Zavadovsky, and Konstantinov, who were charged  
