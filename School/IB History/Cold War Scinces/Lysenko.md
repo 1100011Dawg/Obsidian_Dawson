@@ -12,7 +12,7 @@
 - He was also heavily criticized for his scientific methods[^3]
 	- “Lysenko, in 1931 —1934, advanced the so-called theory of phasic development of plants”  [^4]
 	- Thought potatoes came from russia because of Lenin[^10]
-	- Was against intra
+	- Was against intraspefifc competition[^20]
 #### Contra genetics:
  - Undirected nature of mutation contradicted Lysenko[^13]
  - The rate of mutation was used contra genetics[^14]
@@ -59,6 +59,9 @@ Footnotes:
 [^18]:“they considered that useful traits of plants are not hereditarily transmitted but arise anew in every generation under the influence of the environment, new characteristics, according to their hypothesis, could be produced by environmental influences and not from imported genetical material” (Medvedev and Lerner, p. 44)
 
 [^19]:(Medvedev and Lerner, p. 63)
+
+[^20]:“On  November 5, 1945, Lysenko first gave his paper, which denied  the existence of intraspecific competition among plants and  animals in nature”  (Medvedev and Lerner, p. 105)
+
 
 
 

@@ -61,12 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-
-“On reading the article, which he, himself, had originally  
-asked for, Lysenko became enraged and categorically refused  
-to print it in his journa”  
-(Medvedev and Lerner, p. 105)
-
 “How to explain why bourgeois biology values so highly the “theory”  
 of intraspecific competition? Because it must justify the fact that,  
 in the capitalist society, the great majority of people, in a period  
