@@ -1,6 +1,8 @@
  - Was met in opposition for widespread use[^1]
 	 - Due to it being burdensome and risky with special sheds[^2]
 	 - Data suggested negative to no effect[^3]
+ #### Lysenko experiments
+  - 
 
 
 [^1]:“Yet the widespread use of vernalization did meet some opposition among scientists and collective  farmers”  (Medvedev and Lerner, p. 15)
