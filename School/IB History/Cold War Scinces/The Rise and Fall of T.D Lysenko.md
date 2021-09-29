@@ -65,14 +65,6 @@ disproved principle of inheritance of acquired characters al¬
 ready formulated by Lamarc”  
 (Medvedev and Lerner, p. 35)
 
-“Their members investigated the agriculture  
-and plant resources of 65 countries and brought to the Soviet  
-Union over 150,000 plant varieties, forms and species—all of  
-the plant-breeding wealth created by mankind in its centuries-  
-old history. Thus the collection of the world’s domesticated  
-plants was established.”  
-(Medvedev and Lerner, p. 40)
-
 “Creation of a system of pro¬  
 ductive Soviet plant breeding 'would have been impossible  
 'without this work. In his address to the 1936 session of the  

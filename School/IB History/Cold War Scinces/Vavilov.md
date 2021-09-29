@@ -1,7 +1,8 @@
 #### Time at AIPB
 - At AIPB the government made a unrealistic decree that Lysenko said he could do bu overall was impossible.[^1][^10]
+- 
 
-
+#### General
 - Went contrary to Lysenko but viewed his phasic development of plants and summer planting of potatoes.[^2]
 - Muller came to the U.S.S.R as a socialist sympathizers and friend[^3]
 - In response to Lysenko about him not citing enough marx but instead Darwin he retorted[^4] That Marx held Darwin in High regard.
@@ -32,6 +33,8 @@ Footnotes:
 [^9]:“Vavilov file was urgently recalled for study. But it was too late. Life was slowly ebbing from a body exhausted by malnutrition”  (Medvedev and Lerner, p. 74)
 
 [^10]:(Medvedev and Lerner, p. 19) The procumation was unrealistic and served to help the attack against Vavilov
+
+[^11]:“Their members investigated the agriculture and plant resources of 65 countries and brought to the Soviet Union over 150,000 plant varieties, forms and species—all of the plant-breeding wealth created by mankind in its centuries-  old history. Thus the collection of the world’s domesticated plants was established.” (Medvedev and Lerner, p. 40)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY4NDkxODM5NywtMjA4ODc0NjYxMl19
 -->
