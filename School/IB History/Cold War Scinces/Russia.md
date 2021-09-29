@@ -1,6 +1,7 @@
 #### Agriculture
  - Had backward agriculture[^1]
  - But had good winter varieties of wheat and flax[^2]
+ - Best crops were made by standard genetical methods(over 60% of crops)[^3]
 
 
 Footnotes:
