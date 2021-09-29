@@ -6,7 +6,7 @@
 #### Lysenko General
 - One of his most important "discoveries" was [[Vernalization]][^1]. He was connected with [[Prezent]][^2] 
 	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased [[Stalin]][^6]
-- Tried to abolish genetics on the basis that it was a borguose scintist and non dialectict materalism
+- Tried to abolish genetics on the basis that it was a bourgeois science and non dialectic materalism[^11]
 
 - He was also heavily criticized for his scientific methods[^3]
 	- “Lysenko, in 1931 —1934, advanced the so-called theory of phasic development of plants”  [^4]
@@ -32,6 +32,8 @@
 [^9]:“l: Everybody says that the potato came from America. I don’t believe this. Do you know what Lenin said? vavilov: . . . we know well that potatoes appeared in our country under Peter the First.”  (Medvedev and Lerner, p. 61)
 
 [^10]:“The then Commissar of Agriculture, Yakovlev, played a leading role in the creation of the department of vernalization” (Medvedev and Lerner, p. 15)
+
+[^11]:“Prezent and Lysenko unfortunately did not follow such a  path of productive polemic. They rejected the gene theory  on a priori, abstract considerations, ignoring the factual material of genetics. They attempted to abolish genetics on the  grounds that it was an allegedly formalistic, bourgeois, and  metaphysical science, and to inaugurate their own new genetics.” (Medvedev and Lerner, p. 22)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzI1MDc2MTA1XX0=
 -->
