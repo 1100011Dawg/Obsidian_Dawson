@@ -65,14 +65,7 @@ nihilated.1”
 
 
 
-“Merrily play on, accordion,  
-With my girl friend let me sing  
-Of the eternal glory of Academician Lysenko.  
-He walks the Michurin path  
-With firm tread;  
-He protects us from being duped  
-by Mendelist-Morganists.”  
-(Medvedev and Lerner, p. 132)
+
 
 “Lysenko exclaims  
 with exaltation: “Aha! You came to relearn?””  

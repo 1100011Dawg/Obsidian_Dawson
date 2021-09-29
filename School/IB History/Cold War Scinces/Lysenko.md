@@ -4,6 +4,7 @@
  - helped with starting [[Vernalization]] by Yakovlev[^10]
 
 #### Lysenko General
+- Was hailed with 
 - One of his most important "discoveries" was [[Vernalization]][^1]. He was connected with [[Prezent]][^2] 
 	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased [[Stalin]][^6]
 - Tried to abolish genetics on the basis that it was a bourgeois science and non dialectic materialism[^11][^15]
@@ -78,6 +79,11 @@ Footnotes:
 [^24]:“Bourgeois genetics has become the fashionable “science” abroad,  propagandizing “eugenics” and race politics. Weismannism-Morganism serves today in the arsenal of contemporary imperialism as a means for providing a “scientific base” for its reactionary politics.16” (Medvedev and Lerner, p. 119)
 
 [^25]:“decreed the  abolition of a number of laboratories pronounced hotbeds of reactionary Morganism (the laboratories of cytogenetics, botanical cytology, phenogenesis, and others)” (Medvedev and Lerner, p. 123)
+
+[^26]:“Art stores sold busts and bas-reliefs of Lysenko” (Medvedev and Lerner, p. 131)
+
+[^27]:“Merrily play on, accordion,  With my girl friend let me sing  Of the eternal glory of Academician Lysenko.  He walks the Michurin path  With firm tread;  He protects us from being duped  by Mendelist-Morganists.”  (Medvedev and Lerner, p. 132)
+
 
 
 
