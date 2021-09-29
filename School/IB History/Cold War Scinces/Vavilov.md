@@ -28,7 +28,7 @@ Footnotes:
 
 [^9]:“Vavilov file was urgently recalled for study. But it was too late. Life was slowly ebbing from a body exhausted by malnutrition”  (Medvedev and Lerner, p. 74)
 
-[^10]:(Medvedev and Lerner, p. 19) The procumation was unrealistic and served to help the attack against vevlo
+[^10]:(Medvedev and Lerner, p. 19) The procumation was unrealistic and served to help the attack against Vavilov
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY4NDkxODM5NywtMjA4ODc0NjYxMl19
 -->
