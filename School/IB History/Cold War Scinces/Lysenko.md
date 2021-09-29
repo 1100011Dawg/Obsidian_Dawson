@@ -21,6 +21,7 @@
  - Thought new useful traits could only result of environmental influence[^18]
  - Put Marxism above Science:
 	 > “Marxism is the only science. Darwinism is only a part; the real theory of knowledge of the world was given by Marx, Engels, and Lenin. And when I hear discussion about Darwinism without mention of Marxism, it may seem, on the one side, that all is  right, but on the other, it’s a horse of a different color”  [^19]
+ - 
 
 #### Late years
  - Young scientists doubted him in 1948 so he tried to consolidate power[^22]
@@ -72,6 +73,8 @@ Footnotes:
 [^22]:(Medvedev and Lerner, p. 112) Around 1948 young scientists doubted Lysenko, so he tried to consolidate his power.
 
 [^23]:“Difficulties were even  experienced in citing foreign authors in articles and books.”  (Medvedev and Lerner, p. 114)
+
+[^24]:“Bourgeois genetics has become the fashionable “science” abroad,  propagandizing “eugenics” and race politics. Weismannism-Morganism serves today in the arsenal of contemporary imperialism as a means for providing a “scientific base” for its reactionary politics.16” (Medvedev and Lerner, p. 119)
 
 
 
