@@ -61,12 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-
-“Although Tulaikov perished in the fight against Vil’yams’  
-system, Vil’yams apparently cannot be personally accused of  
-his death”  
-(Medvedev and Lerner, p. 97)
-
 “The immediate cause of the annihilation of Tulai-  
 kov’s school was an article by Stoletov, “Against foreign  
 theories in agronomy,” published in the central press on  
