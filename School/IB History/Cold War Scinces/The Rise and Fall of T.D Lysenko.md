@@ -64,13 +64,6 @@ nihilated.1”
 “This was the situation exploited by Lysenko, who declared genetics to be a tool of reactionary American imperialism.”  (Medvedev and Lerner, p. 114)
 
 
-“His assignment apparently had been to  
-watch Zhukovsky’s school.”  
-(Medvedev and Lerner, p. 129)
-
-“Art stores sold busts  
-and bas-reliefs of Lysenko”  
-(Medvedev and Lerner, p. 131)
 
 “Merrily play on, accordion,  
 With my girl friend let me sing  

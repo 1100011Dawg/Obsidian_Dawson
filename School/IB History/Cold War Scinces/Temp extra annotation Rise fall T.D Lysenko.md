@@ -36,5 +36,7 @@ Neat example not relevant:
 asked for, Lysenko became enraged and categorically refused  to print it in his journal”  
 (Medvedev and Lerner, p. 105)
 
+"“His assignment apparently had been to  watch Zhukovsky’s school.” (Medvedev and Lerner, p. 129)"
+
 
 

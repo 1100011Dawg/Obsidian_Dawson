@@ -13,5 +13,4 @@ Footnotes:
 
 [^3]:"The TAA library destroyed all genetics textbooks, the books of Shmal’gauzen, and much other literature."(Medvedev and Lerner, p. 125)
 
-[^4]:“Thus, the Minister  of Agriculture, Benediktov, issued an order (No. 1530, October 6, 1948) decreeing cessation of all genetic research in  animal husbandry;”  
-(Medvedev and Lerner, p. 126)
+[^4]:“Thus, the Minister  of Agriculture, Benediktov, issued an order (No. 1530, October 6, 1948) decreeing cessation of all genetic research in  animal husbandry;” (Medvedev and Lerner, p. 126)
