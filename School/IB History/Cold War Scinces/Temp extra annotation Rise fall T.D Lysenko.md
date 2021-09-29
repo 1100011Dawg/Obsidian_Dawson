@@ -6,3 +6,5 @@ birth to a new social system and was the beginning of the creation of a socialis
 
 “It was exactly in this connection that certain leading scientific schools, whose work later rightfully became the pride of Soviet science, were temporarily declared to be bourgeois, idealistic, and anti-Marxist.”  
 (Medvedev and Lerner, p. 7)
+
+“The” (Medvedev and Lerner, p. 21)

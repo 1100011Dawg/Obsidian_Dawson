@@ -35,11 +35,7 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 10) Here is one scientist who was a Darwinist that was slandered as well as his students
 
-(Medvedev and Lerner, p. 19) The procumation was unrealistic and served to help the attack against vevlo
 
-
-
-“The” (Medvedev and Lerner, p. 21)
 
 “Prezent and Lysenko unfortunately did not follow such a  
 path of productive polemic. They rejected the gene theory  
