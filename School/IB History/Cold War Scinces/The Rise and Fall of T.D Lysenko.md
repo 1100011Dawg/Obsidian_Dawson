@@ -58,10 +58,8 @@ nihilated.1”
 (Medvedev and Lerner, p. 62) Come back to this dialogue
 
 
-“On his visits to AIPB in Leningrad, the president deliberately  
-emphasizes, before meetings of the scientific workers, his cate¬  
-gorical disagreements with the director”  
-(Medvedev and Lerner, p. 66)
+**“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
+(Medvedev and Lerner, p. 66)** 
 
 
 
