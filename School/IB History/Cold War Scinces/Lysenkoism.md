@@ -5,6 +5,7 @@
  - Destroyed books about genetics in TAA library[^3]
  - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
 #### Secondary Effects
+ - Cybernetics remained underground until 1955[^5]
  - 
 
 Footnotes:
@@ -16,3 +17,5 @@ Footnotes:
 [^3]:"The TAA library destroyed all genetics textbooks, the books of Shmal’gauzen, and much other literature."(Medvedev and Lerner, p. 125)
 
 [^4]:“Thus, the Minister  of Agriculture, Benediktov, issued an order (No. 1530, October 6, 1948) decreeing cessation of all genetic research in  animal husbandry;” (Medvedev and Lerner, p. 126)
+
+[^5]:“Cybernetics was likewise  declared reactionary, and remained underground until 1955.”  (Medvedev and Lerner, p. 133)

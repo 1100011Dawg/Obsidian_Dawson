@@ -63,17 +63,8 @@ nihilated.1”
 
 “This was the situation exploited by Lysenko, who declared genetics to be a tool of reactionary American imperialism.”  (Medvedev and Lerner, p. 114)
 
+“Lysenko exclaims  with exaltation: “Aha! You came to relearn?”” (Medvedev and Lerner, p. 132)
 
-
-
-
-“Lysenko exclaims  
-with exaltation: “Aha! You came to relearn?””  
-(Medvedev and Lerner, p. 132)
-
-“Cybernetics was likewise  
-declared reactionary, and remained underground until 1955.”  
-(Medvedev and Lerner, p. 133)
 
 “discredited merely on the grounds that they had been de¬  
 veloped in the United States”  
