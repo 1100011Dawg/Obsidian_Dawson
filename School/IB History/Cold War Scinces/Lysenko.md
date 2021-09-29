@@ -14,6 +14,7 @@
 	- Thought potatoes came from russia because of Lenin[^10]
 #### Contra genetics:
  - Undirected nature of mutation contradicted Lysenko[^13]
+ - The rate of mutation was used contra gentics[^]
 
 Footnotes:
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)
@@ -40,7 +41,10 @@ Footnotes:
 
 [^12]:“In this manner Lysenko formulated his basic genetical  idea (the presence of some property of heredity distributed  throughout the cell)” (Medvedev and Lerner, p. 28)
 
-[^13]
+[^13]:“third, because the indeterminate, undirected nature of mutation was contradictory to Lysenko’s principles of environmentally induced hereditary changes in a particular direction.” (Medvedev and Lerner, p. 29)
+
+[^14]:“Nevertheless, the thesis that each individual gene mutates only once in tens of thousands of years was used by the opponents of genetics as a bugbear” (Medvedev and Lerner, p. 31)
+
 
 
 <!--stackedit_data:

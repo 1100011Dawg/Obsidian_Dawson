@@ -42,13 +42,6 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
 
-
-
-“Nevertheless, the thesis that each individual gene mutates  
-only once in tens of thousands of years was used by the oppo¬  
-nents of genetics as a bugbear”  
-(Medvedev and Lerner, p. 31)
-
 “in¬  
 compatible with the dialectical materialism that asserts that  
 everything in nature changes and develops”  
