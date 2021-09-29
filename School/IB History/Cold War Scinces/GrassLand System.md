@@ -1,3 +1,9 @@
+---
+tags:
+ - "Biology"
+ - "History"
+ - "Lysenkoism"
+---
 #### Pryanishnikov
  -Insisted on mineral fertilizers and one year period of clover to improve admixture [^3]
  

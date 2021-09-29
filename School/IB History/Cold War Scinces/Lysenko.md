@@ -1,3 +1,10 @@
+---
+tags:
+ - "Biology"
+ - "History"
+ - "Lysenkoism"
+ - "People"
+---
 #### Lysenko Early period
  - Denied all genetic concepts, taking it even farther than their Lamarkist predecessors[^7]
  - Farther had sown seeds of winter variety in Ukrainka[^8]

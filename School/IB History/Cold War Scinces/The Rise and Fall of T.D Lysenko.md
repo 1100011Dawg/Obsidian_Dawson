@@ -3,7 +3,7 @@
 tags:
  - "Biology"
  - "History"
-  - "Lysenkoism"
+ - "Lysenkoism"
 aliases:
  - "Medvedev and Lerner"
  - "Lysenko book"
