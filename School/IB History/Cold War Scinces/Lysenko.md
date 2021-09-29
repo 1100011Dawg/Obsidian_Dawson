@@ -47,7 +47,7 @@ Footnotes:
 
 [^2]:“Prezent  and Lysenko enlivened the genetics debate in 1935 only after  their “creative partnership” was established.”  (Medvedev and Lerner, p. 9)
 
-[^3]:“Criticism of its  positions was actually banned in the press and was mercilessly  eradicated by all means of press control. By 1966 Lysenkoism,  as such, had already disappeared from Soviet science, not having survived even one year of open discussion.”  (Medvedev and Lerner, p. 15)
+[^3]:“Criticism of its  positions was actually banned in the press and was mercilessly  eradicated by all means of press control. By 1966 [[Lysenkoism]],  as such, had already disappeared from Soviet science, not having survived even one year of open discussion.”  (Medvedev and Lerner, p. 15)
 
 [^4]:(Medvedev and Lerner, p. 15)
 
