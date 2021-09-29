@@ -38,12 +38,6 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 10) Here is one scientist who was a Darwinist that was slandered as well as his students
 
-“In later years Lysenko reported other analogous experi¬  
-ments. The question of reversible transformation of winter  
-and spring forms will be examined later in greater detail. Here,  
-it is the initial “historical” experiment from which the repudia¬  
-tion of classical genetics started that is of interest.)”  
-(Medvedev and Lerner, p. 23)
 
 “Our most prolonged experiments at this time are those transform¬  
 ing the winter wheat Kooperatorka into a spring form”  
