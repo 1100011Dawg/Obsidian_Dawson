@@ -61,10 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“Difficulties were even  
-experienced in citing foreign authors in articles and books.”  
-(Medvedev and Lerner, p. 114)
-
 “This was the situation  
 exploited by Lysenko, who declared genetics to be a tool of  
 reactionary American imperialism.”  
@@ -76,10 +72,6 @@ reactionary American imperialism.”
 
 
 
-“But even this decree was not implemented. There were no  
-elections until 1956, when Lysenko left the post of president,  
-and then they were conducted by open balloting”  
-(Medvedev and Lerner, p. 116)
 
 “Stalin’s participation in this affair was based on Lysenko’s  
 misinforming him about the real situation in biology”  

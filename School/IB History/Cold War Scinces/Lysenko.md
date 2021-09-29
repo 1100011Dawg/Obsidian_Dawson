@@ -24,7 +24,7 @@
 
 #### Late years
  - Young scientists doubted him in 1948 so he tried to consolidate power[^22]
-	 - Around 1948 there were difficulties citing foriegn authors due to them being re
+	 - Around 1948 there were difficulties citing foriegn authors due to them being "reactionary'[^23]
 
 
 Footnotes:
@@ -70,6 +70,10 @@ Footnotes:
 [^21]:(Medvedev and Lerner, p. 107)
 
 [^22]:(Medvedev and Lerner, p. 112) Around 1948 young scientists doubted Lysenko, so he tried to consolidate his power.
+
+[^23]:“Difficulties were even  
+experienced in citing foreign authors in articles and books.”  
+(Medvedev and Lerner, p. 114)
 
 
 
