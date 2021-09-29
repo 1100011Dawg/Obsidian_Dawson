@@ -1,6 +1,7 @@
 #### Lysenko Early period
  - Denied all genetic concepts, taking it even farther than their Lamarkist predecessors[^7]
  - Farther had sown seeds of winter variety in Ukrainka[^8]
+ - helped with starting [[Vernalization]] by Yakovlev[^10]
 
 #### Lysenko General
 - One of his most important "discoveries" was [[Vernalization]][^1]. He was connected with [[Prezent]][^2] 
@@ -28,6 +29,8 @@
 [^8]:“his father had sown seeds of the winter variety Ukrainka, which wintered under the snow, and had obtained a yield of 24 centners per hectare. (In the first article on this experiment the yield was exaggerated as being over 30 centners.)” (Medvedev and Lerner, p. 14)
 
 [^9]:“l: Everybody says that the potato came from America. I don’t believe this. Do you know what Lenin said? vavilov: . . . we know well that potatoes appeared in our country under Peter the First.”  (Medvedev and Lerner, p. 61)
+
+[^10]:“The then Commissar of Agriculture, Yakovlev, played a leading role in the creation of the department of vernalization” (Medvedev and Lerner, p. 15)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzI1MDc2MTA1XX0=
 -->
