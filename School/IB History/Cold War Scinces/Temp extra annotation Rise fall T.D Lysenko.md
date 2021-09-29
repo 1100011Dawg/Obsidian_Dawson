@@ -40,4 +40,11 @@ asked for, Lysenko became enraged and categorically refused  to print it in his 
 
 “Lysenko exclaims  with exaltation: “Aha! You came to relearn?”” (Medvedev and Lerner, p. 132)
 
+“This unique volume was also translated into languages of friendly socialist states, some of which, unfortunately, adopted the Soviet “experience” of persecution of genetics”  (Medvedev and Lerner, p. 141)
+
+
+
+
+
+
 

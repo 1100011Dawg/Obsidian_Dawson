@@ -65,15 +65,7 @@ nihilated.1”
 
 (Medvedev and Lerner, p. 147) Come back for false criticism of genetics
 
-“With the aid of this doc¬  
-trine, attempts are made to justify the exploitation of workers,  
-colonialism, and racial discrimination”  
-(Medvedev and Lerner, p. 148)
-
-“In general, in talking of the inauspicious contributions of  
-Lysenko’s followers, to be fair, it must be pointed out that they  
-formed a relatively small group of theoreticians.”  
-(Medvedev and Lerner, p. 150)
+“With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
 “After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 <!--stackedit_data:
