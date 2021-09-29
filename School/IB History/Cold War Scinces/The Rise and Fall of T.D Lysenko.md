@@ -38,15 +38,6 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 10) Here is one scientist who was a Darwinist that was slandered as well as his students
 
-
-
-
-
-“An experiment  
-without replicatioti is not a scientific experiment. The single  
-seed could have been a hybrid, a mutant, or a contaminant.”  
-(Medvedev and Lerner, p. 25)
-
 “Lysenko considered that, if he could alter a winter into a  
 spring form and then reverse the process, there are no im¬  
 mutable genes for winter habit, and all depends on the envi¬  

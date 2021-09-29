@@ -5,7 +5,7 @@
   - Involved reversible transitions in spring and winter forms of wheat[^4]
   - Most prolonged experiment was winter wheat Kooperatorka[^5]
 	  - “But the pot with these plants sown on March 3 was left not in a warm hothouse but in a cool one where the temperature from March 3 to the end of April was frequently no higher than 10-15° C. Only beginning with May was the temperature higher and, most importantly, never below 15° C. Since the Lutescens 329 variety was more of a winter type than Kooperatorka, both its plants lived until late fall and perished without heading” [^6] 
-	  - Did not have replication
+	  - Did not have replication[^7]
 
 [^1]:“Yet the widespread use of vernalization did meet some opposition among scientists and collective  farmers”  (Medvedev and Lerner, p. 15)
 
@@ -18,5 +18,8 @@
 [^5]:“Our most prolonged experiments at this time are those transforming the winter wheat Kooperatorka into a spring form” (Medvedev and Lerner, p. 23)
 
 [^6]:(Medvedev and Lerner, p. 24)
+
+[^7]:“An experiment without replicatioti is not a scientific experiment. The single seed could have been a hybrid, a mutant, or a contaminant.” (Medvedev and Lerner, p. 25)
+
 
 
