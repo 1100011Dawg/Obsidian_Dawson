@@ -42,13 +42,6 @@ TAA Timiryazev Agricultural Academy”
 
 (Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
 
-
-
-“Lysenko and his group at that period  
-showed only two sensational achievements: vernalization and  
-summer planting of potatoes”  
-(Medvedev and Lerner, p. 43)
-
 “they considered that useful traits of plants are  
 not hereditarily transmitted but arise anew in every genera¬  
 tion under the influence of the environment, new characteris¬  

@@ -16,4 +16,4 @@ Footnotes:
 
 [^4]:“inbreeding of cross-fertilizers—rejected and later prohibited by Lysenkoites—led to a revolution in the production of corn, and increased yields through use of hybrids by 20 to 30 per cent.” (Medvedev and Lerner, p. 42)
 
-[^5]
+[^5]:“Mutations, in particular those induced by X-ray, were widely studied and used. At the same time the struggle was begun against lethal and harmful mutations and hereditary diseases, which could be revealed and anticipated only by genetical methods. This enumeration could be continued at length.” (Medvedev and Lerner, p. 43)

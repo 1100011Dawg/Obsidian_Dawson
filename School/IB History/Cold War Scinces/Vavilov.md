@@ -3,7 +3,7 @@
 - Brought in 150,000 plant varieties from the world[^11]
 
 #### General
-- Went contrary to Lysenko but viewed his phasic development of plants and summer planting of potatoes.[^2]
+- Went contrary to Lysenko but viewed his phasic development of plants and summer planting of potatoes favorbly.[^2] 
 - Muller came to the U.S.S.R as a socialist sympathizers and friend[^3]
 - In response to Lysenko about him not citing enough marx but instead Darwin he retorted[^4] That Marx held Darwin in High regard.
 - Arrested at an alarming rate[^5] and soon after his collaborators[^6]
