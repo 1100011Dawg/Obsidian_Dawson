@@ -29,7 +29,8 @@
 #### Late years
  - Young scientists doubted him in 1948 so he tried to consolidate power[^22]
 	 - Around 1948 there were difficulties citing foriegn authors due to them being "reactionary'[^23]
- - Young scientists followed Botanichesky Zhurnal[]
+ - Young scientists followed Botanichesky Zhurnal[^29]
+	 - Became a popular journal[^30]
 
 
 Footnotes:
@@ -88,7 +89,9 @@ Footnotes:
 
 [^28]:“Immoderate  praise and complete suppression of criticism were typical for  only four years”  (Medvedev and Lerner, p. 136)
 
-[]
+[^29]:“The sympathies of  scientists and of youth were with the Botanichesky Zhurnal.”  (Medvedev and Lerner, p. 137)
+
+[^30]:“The  Botanichesky Zhurnal rapidly became the most popular biological periodical, and its every issue was awaited with impatience.”  (Medvedev and Lerner, p. 137)
 
 
 

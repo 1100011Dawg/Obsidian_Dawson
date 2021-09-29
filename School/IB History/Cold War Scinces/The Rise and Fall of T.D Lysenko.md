@@ -63,11 +63,7 @@ nihilated.1”
 
 “This was the situation exploited by Lysenko, who declared genetics to be a tool of reactionary American imperialism.”  (Medvedev and Lerner, p. 114)
 
-“The  
-Botanichesky Zhurnal rapidly became the most popular bio¬  
-logical periodical, and its every issue was awaited with impa¬  
-tience.”  
-(Medvedev and Lerner, p. 137)
+
 
 “The pseudoscientific work of Lepeshinskaya was de¬  
 bunked in short order. By the end of 1955 more than three  
