@@ -59,36 +59,7 @@ nihilated.1”
 
 
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
-(Medvedev and Lerner, p. 66)** 
-
-
-
-
-
-
-“Vavilov himself noted Shundenko’s il¬  
-literacy and disruptive role”  
-(Medvedev and Lerner, p. 71)
-
-“Little is known so far of Vavilov’s last period of life, spent  
-in the Saratov prison”  
-(Medvedev and Lerner, p. 73)
-
-
-
-
-“In 1936—  
-1937 the problems of hereditarily determined diseases were  
-only at the stage of preliminary investigation and elucidation  
-of hereditary patholog”  
-(Medvedev and Lerner, p. 78)
-
-
-
-
-
-
-
+(Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
 “It may be appropriate to give some examples of the  
 methods whereby Vil’yams’ supporters attempted, in 1935—  

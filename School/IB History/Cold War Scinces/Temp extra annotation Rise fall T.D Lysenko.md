@@ -27,6 +27,11 @@ nature of plants.””
 
 “and his low level of culture lead to a peculiar introduction of ideas that are close to outmoded scientific views (Lamarckism),”  (Medvedev and Lerner, p. 66)
 
+“Vavilov himself noted Shundenko’s illiteracy and disruptive role” (Medvedev and Lerner, p. 71)
+
+“Little is known so far of Vavilov’s last period of life, spent in the Saratov prison”  (Medvedev and Lerner, p. 73)
+
+
 
 
 
