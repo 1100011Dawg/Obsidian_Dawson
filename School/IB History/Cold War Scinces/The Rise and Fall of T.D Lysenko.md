@@ -64,19 +64,6 @@ nihilated.1”
 “This was the situation exploited by Lysenko, who declared genetics to be a tool of reactionary American imperialism.”  (Medvedev and Lerner, p. 114)
 
 
-
-
-
-
-
-
-
-“Thus, the Minister  
-of Agriculture, Benediktov, issued an order (No. 1530, Octo¬  
-ber 6, 1948) decreeing cessation of all genetic research in  
-animal husbandry;”  
-(Medvedev and Lerner, p. 126)
-
 “His assignment apparently had been to  
 watch Zhukovsky’s school.”  
 (Medvedev and Lerner, p. 129)

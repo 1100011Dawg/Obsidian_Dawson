@@ -3,6 +3,7 @@
 	 - Such as Shmal’gauzen, Zavadovsky, Yudintsev, Alikhanyan, Zelikman, Berman, and Shapiro
  - Destroed stock of Drosophila[^2]
  - Destroyed books about genetics in TAA library[^3]
+ - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
 
 Footnotes:
 
@@ -11,3 +12,6 @@ Footnotes:
 [^2]:“For instance, there was an order to destroy all  stocks of Drosophila”  (Medvedev and Lerner, p. 125)
 
 [^3]:"The TAA library destroyed all genetics textbooks, the books of Shmal’gauzen, and much other literature."(Medvedev and Lerner, p. 125)
+
+[^4]:“Thus, the Minister  of Agriculture, Benediktov, issued an order (No. 1530, October 6, 1948) decreeing cessation of all genetic research in  animal husbandry;”  
+(Medvedev and Lerner, p. 126)
