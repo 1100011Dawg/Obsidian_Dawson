@@ -31,7 +31,10 @@ nature of plants.””
 
 “Little is known so far of Vavilov’s last period of life, spent in the Saratov prison”  (Medvedev and Lerner, p. 73)
 
-
+Neat example not relevant:
+“On reading the article, which he, himself, had originally  
+asked for, Lysenko became enraged and categorically refused  to print it in his journal”  
+(Medvedev and Lerner, p. 105)
 
 
 

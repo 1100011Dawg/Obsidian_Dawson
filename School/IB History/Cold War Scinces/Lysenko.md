@@ -62,6 +62,8 @@ Footnotes:
 
 [^20]:“On  November 5, 1945, Lysenko first gave his paper, which denied  the existence of intraspecific competition among plants and  animals in nature”  (Medvedev and Lerner, p. 105)
 
+[^21]:“How to explain why bourgeois biology values so highly the “theory”  of intraspecific competition? Because it must justify the fact that,  in the capitalist society, the great majority of people, in a period  of overproduction of material goods, lives poorly” (Medvedev and Lerner, p. 107)
+
 
 
 

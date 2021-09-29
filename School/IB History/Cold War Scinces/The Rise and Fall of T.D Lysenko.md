@@ -61,12 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“How to explain why bourgeois biology values so highly the “theory”  
-of intraspecific competition? Because it must justify the fact that,  
-in the capitalist society, the great majority of people, in a period  
-of overproduction of material goods, lives poorly”  
-(Medvedev and Lerner, p. 107)
-
 “These measures included the  
 planting of winter varieties on unplowed stubble in Siberia,  
 which caused severe damage to Siberian”  
