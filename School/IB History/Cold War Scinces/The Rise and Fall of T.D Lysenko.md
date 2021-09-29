@@ -55,9 +55,7 @@ of the organism, then in a brief period it is possible to alter the
 hereditary nature of the plant”  
 (Medvedev and Lerner, p. 32)
 
-“reactions of glycolysis, oxidation, and phosphorylation are all  
-the same in the whole living world”  
-(Medvedev and Lerner, p. 33)
+
 
 
 
@@ -67,12 +65,6 @@ disproved principle of inheritance of acquired characters al¬
 ready formulated by Lamarc”  
 (Medvedev and Lerner, p. 35)
 
-“Lysenko made the abstract assumption that there  
-are some periods in the life history of a plant in which en¬  
-vironment, by being “assimilated” into the plant, changes its  
-heredity. At other times, he alleged, the heredity is conserva¬  
-tive and unchangeable.”  
-(Medvedev and Lerner, p. 36)
 
 “Lysenko  
 clearly pointed out that “in a general way, it is clear to all  

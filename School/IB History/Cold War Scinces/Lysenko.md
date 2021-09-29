@@ -15,6 +15,7 @@
 #### Contra genetics:
  - Undirected nature of mutation contradicted Lysenko[^13]
  - The rate of mutation was used contra genetics[^14]
+ - Lysenko thought there was a perioud during a organism life where it assimilates changes from the enviroment[]
 
 Footnotes:
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)

@@ -8,3 +8,5 @@ birth to a new social system and was the beginning of the creation of a socialis
 (Medvedev and Lerner, p. 7)
 
 “The” (Medvedev and Lerner, p. 21)
+
+“reactions of glycolysis, oxidation, and phosphorylation are all the same in the whole living world” (Medvedev and Lerner, p. 33)
