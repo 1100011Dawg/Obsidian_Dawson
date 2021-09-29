@@ -40,15 +40,7 @@ TAA Timiryazev Agricultural Academy”
 
 
 
-“But the pot with these plants  
-sown on March 3 was left not in a warm hothouse but in a cool  
-one where the temperature from March 3 to the end of April was  
-frequently no higher than 10-15° C. Only beginning with May was  
-the temperature higher and, most importantly, never below 15° C.  
-Since the Lutescens 329 variety was more of a winter type than  
-Kooperatorka, both its plants lived until late fall and perished with¬  
-out heading”  
-(Medvedev and Lerner, p. 24)
+
 
 “An experiment  
 without replicatioti is not a scientific experiment. The single  
