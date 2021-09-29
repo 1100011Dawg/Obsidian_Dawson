@@ -22,12 +22,13 @@ Footnotes:
 
 [^6]:“After Vavilov, his closest collaborators and friends were also arrested and later perished in prison”  (Medvedev and Lerner, p. 70)
 
-[^7]:“Vavilov. He was found guilty on a number of points of Article 58: Belonging to a rightist conspiracy; spying for England; leadership of the Labor Peasant Party; sabotage in agriculture; links with white emigres; etc.”  
-(Medvedev and Lerner, p. 72)
+[^7]:“Vavilov. He was found guilty on a number of points of Article 58: Belonging to a rightist conspiracy; spying for England; leadership of the Labor Peasant Party; sabotage in agriculture; links with white emigres; etc.” (Medvedev and Lerner, p. 72)
 
 [^8]:“At the end of 1942, Vavilov, who had mysteriously “disappeared” from the world science scene, was elected a foreign member of the Royal Society of London.” (Medvedev and Lerner, p. 74)
 
 [^9]:“Vavilov file was urgently recalled for study. But it was too late. Life was slowly ebbing from a body exhausted by malnutrition”  (Medvedev and Lerner, p. 74)
+
+[^10]:(Medvedev and Lerner, p. 19) The procumation was unrealistic and served to help the attack against vevlo
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY4NDkxODM5NywtMjA4ODc0NjYxMl19
 -->
