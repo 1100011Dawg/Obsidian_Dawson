@@ -15,11 +15,12 @@ aliases:
 
 
 
-Annoations:# Annotations  
+Annoations:
 (9/18/2021, 6:01:35 PM)
 
 [^1]:  “author’s three points of view: as  historian; as a witness to the events; and as an active participant  in the last stages of Lysenkoism, which he helped to topple.”  (Medvedev and Lerner, p. 9)
 
+Yet to be sorted/ Useful
 “This book consists of three parts. The first two  
 were written in 1961-1962 and augmented in 1963-1964; the  
 third was written in 1966-1967”  
@@ -67,7 +68,7 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-“After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
+
 <!--stackedit_data:
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMj
