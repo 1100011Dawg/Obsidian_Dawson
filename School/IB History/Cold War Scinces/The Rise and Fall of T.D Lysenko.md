@@ -61,11 +61,6 @@ nihilated.1”
 **“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
 (Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
 
-“Vil’yams’ hypothesis greatly exag¬  
-gerated the role of soil structure in the retention of moisture  
-and similarly exaggerated the role of perennial grasses in the  
-development of soil texture.”  
-(Medvedev and Lerner, p. 96)
 
 “Although Tulaikov perished in the fight against Vil’yams’  
 system, Vil’yams apparently cannot be personally accused of  
