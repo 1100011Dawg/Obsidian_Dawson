@@ -1,9 +1,11 @@
-####Effects:
+#### Effects:
  - Dismissed professors against Michurinism.[^1]
 	 - Such as Shmal’gauzen, Zavadovsky, Yudintsev, Alikhanyan, Zelikman, Berman, and Shapiro
  - Destroed stock of Drosophila[^2]
  - Destroyed books about genetics in TAA library[^3]
  - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
+#### Secondary Effects
+ - 
 
 Footnotes:
 
