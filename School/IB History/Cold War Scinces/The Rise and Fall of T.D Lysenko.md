@@ -39,9 +39,6 @@ TAA Timiryazev Agricultural Academy”
 (Medvedev and Lerner, p. 10) Here is one scientist who was a Darwinist that was slandered as well as his students
 
 
-“Our most prolonged experiments at this time are those transform¬  
-ing the winter wheat Kooperatorka into a spring form”  
-(Medvedev and Lerner, p. 23)
 
 “But the pot with these plants  
 sown on March 3 was left not in a warm hothouse but in a cool  
