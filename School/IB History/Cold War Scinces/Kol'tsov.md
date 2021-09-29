@@ -26,7 +26,7 @@ Footnotes:
 
 [^4]:“the  Pravda article implied “resemblances” between the scientific  work of Kol’tsov and that of the “fascist thug Lenz.” Berg  was similarly attacked on the basis of his long-forgotten book,  Nomogenesis, published in 1922.5”  (Medvedev and Lerner, p. 80)
 
-[^5]:“was published just before the elections to the  AS to fill a vacancy in genetics, and the candidates for that  vacancy were Lysenko (then a member of the LAAAS),  Kol’tsov and Berg (corresponding members of the AS)”  (Medvedev and Lerner, p. 80)
+[^5]:“was published just before the elections to the  AS to fill a vacancy in genetics, and the candidates for that  vacancy were [[Lysenko]] (then a member of the LAAAS),  Kol’tsov and Berg (corresponding members of the AS)”  (Medvedev and Lerner, p. 80)
 
 [^6]:“Kol’tsov’s significant contribution to the development of  cytology and genetics makes it necessary to evaluate more  fairly his early eugenical works published in the Rnssky  Evgenichesky Zhurnal in 1922-1923, which became known  to the wider public in 1937, thanks to Prezent.”  (Medvedev and Lerner, p. 81)
 

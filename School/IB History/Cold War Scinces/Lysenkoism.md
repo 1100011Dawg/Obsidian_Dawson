@@ -42,6 +42,6 @@ Footnotes:
 
 [^9]:(Medvedev and Lerner, p. 146)
 
-[^10]:“In general, in talking of the inauspicious contributions of  Lysenko’s followers, to be fair, it must be pointed out that they  formed a relatively small group of theoreticians.”  (Medvedev and Lerner, p. 150)
+[^10]:“In general, in talking of the inauspicious contributions of  [[Lysenko]]’s followers, to be fair, it must be pointed out that they  formed a relatively small group of theoreticians.”  (Medvedev and Lerner, p. 150)
 
-[^11]:“After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
+[^11]:“After all, it is said, [[Lysenko]] and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
