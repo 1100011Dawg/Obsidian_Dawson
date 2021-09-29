@@ -57,9 +57,7 @@ nihilated.1”
 
 (Medvedev and Lerner, p. 62) Come back to this dialogue
 
-“But this progressive practice met the  
-sharp resistance of Lysenko, Prezent, Ol’shansky, and others,”  
-(Medvedev and Lerner, p. 64)
+
 
 “and his low level of culture lead to a  
 peculiar introduction of ideas that are close to outmoded scientific  
