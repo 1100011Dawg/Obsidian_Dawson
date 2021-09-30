@@ -4,41 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f10262957452c047",
-        "type": "split",
-        "children": [
-          {
-            "id": "495e3745369417dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/IB History/Cold War Scinces/Lysenko.md",
-                "mode": "source"
-              }
-            },
-            "group": "10a0335940e5937e"
-          },
-          {
-            "id": "dd9ce9ea0da647bf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "School/IB History/Cold War Scinces/Lysenko.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            },
-            "group": "10a0335940e5937e"
-          }
-        ],
-        "direction": "horizontal"
+        "id": "495e3745369417dd",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -103,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB History/Cold War Scinces/Lysenko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB History/Cold War Scinces/Lysenko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/IB History/Cold War Scinces/Lysenko.md"
-              }
+              "state": {}
             }
           },
           {
