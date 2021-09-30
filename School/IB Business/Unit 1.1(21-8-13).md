@@ -11,19 +11,18 @@
 -Consumer goods:
 	- 	*Consumer durable goods:last a long time repeated use
 	- 	*Consumer non-durable goods: Short life time, use immediate
-	- Capital goods: Goods purchased by other businesses
-	- Services: Intangible products
+- Capital goods: Goods purchased by other businesses
+- Services: Intangible products
 
  > 	*Marketplace : *:A place where buyers and sellers meet 
 
-#### 
-**Customers vs Consumers
-- **
-	-Customer:Buys but doesn'tn always use the product
-	- Consumer-Uses the product
+#### Customers vs Consumers
+- Customer:Buys but doesn'tn always use the product
+- Consumer-Uses the product
 
-#### **Business Functions**:
-	- Human resources
+
+#### Business Functions:
+- Human resources
 	- They deal with the employment, firing and compensation.
 - Finance and accounts
 	- They make sure the appropriate funds are available to make the product/service, and keep records and forecasts.
