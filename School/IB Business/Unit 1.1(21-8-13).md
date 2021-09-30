@@ -35,20 +35,18 @@
 > Larger Business are able to hire specialized labourers for the Business Functions while smaller ones need to generalize more
 
 #### finance and accounts
-	- Marketing
-	- Operations
-**Sectors of Business Activity
-**
-	- Primary Sector: Extraction of natural resources
-	- Secondary sector: Construction and manufacturing
-		-* Manufacturing: turning unprocessed natural resources into goods
-	- Tertiary sector: Personal and business services
-	- Quaternary Sector: knowledge part of the economy
-		-* ex: I.T., R&D
+- Marketing
+- Operations
+#### Sectors of Business Activity
+- Primary Sector: Extraction of natural resources
+- Secondary sector: Construction and manufacturing
+	- Manufacturing: turning unprocessed natural resources into goods
+- Tertiary sector: Personal and business services
+- Quaternary Sector: knowledge part of the economy
+		- ex: I.T., R&D
 
-#### **Chain of Production
-**
-	- product may pass through sectors of industry this is called chain of production, each stage *adds value*
+#### Chain of Production
+- product may pass through sectors of industry this is called chain of production, each stage *adds value*
 
 #### IPO: Initial public offering.
 
