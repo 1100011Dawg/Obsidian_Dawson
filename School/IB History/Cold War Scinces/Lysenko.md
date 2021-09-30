@@ -59,7 +59,7 @@ Footnotes:
 
 [^8]:“his father had sown seeds of the winter variety Ukrainka, which wintered under the snow, and had obtained a yield of 24 centners per hectare. (In the first article on this experiment the yield was exaggerated as being over 30 centners.)” (Medvedev and Lerner, p. 14)
 
-[^9]:“l: Everybody says that the potato came from America. I don’t believe this. Do you know what Lenin said? [[[[Vavilov]]]]: . . . we know well that potatoes appeared in our country under Peter the First.”  (Medvedev and Lerner, p. 61)
+[^9]:“l: Everybody says that the potato came from America. I don’t believe this. Do you know what Lenin said? [[[[Vavilov]]: . . . we know well that potatoes appeared in our country under Peter the First.”  (Medvedev and Lerner, p. 61)
 
 [^10]:“The then Commissar of Agriculture, Yakovlev, played a leading role in the creation of the department of vernalization” (Medvedev and Lerner, p. 15)
 

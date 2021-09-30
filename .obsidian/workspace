@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/IB History/Cold War Scinces/Vavilov.md",
+                "file": "School/IB History/Cold War Scinces/Lysenko.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB History/Cold War Scinces/Vavilov.md",
+                "file": "School/IB History/Cold War Scinces/Lysenko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Vavilov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB History/Cold War Scinces/Vavilov.md",
+                "file": "School/IB History/Cold War Scinces/Lysenko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB History/Cold War Scinces/Vavilov.md",
+                "file": "School/IB History/Cold War Scinces/Lysenko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IB History/Cold War Scinces/Vavilov.md"
+                "file": "School/IB History/Cold War Scinces/Lysenko.md"
               }
             }
           },
@@ -169,8 +170,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd9ce9ea0da647bf",
+  "active": "495e3745369417dd",
   "lastOpenFiles": [
+    "School/IB History/Cold War Scinces/Lysenko.md",
     "School/IB History/Cold War Scinces/Vavilov.md",
     "School/IB History/Cold War Scinces/Temp extra annotation Rise fall T.D Lysenko.md",
     "School/IB History/Cold War Scinces/Vernalization.md",
@@ -178,7 +180,6 @@
     "School/IB History/Cold War Scinces/Russia.md",
     "School/IB History/Cold War Scinces/Prezent.md",
     "School/IB History/Cold War Scinces/Maksimov.md",
-    "School/IB History/Cold War Scinces/Lysenko.md",
     "School/IB History/Cold War Scinces/Genetics (fill in later with other research).md",
     "School/IB History/Cold War Scinces/GrassLand System.md"
   ]
