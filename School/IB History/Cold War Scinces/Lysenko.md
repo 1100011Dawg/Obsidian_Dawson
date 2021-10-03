@@ -13,7 +13,7 @@ tags:
 #### Lysenko General
 - Heavy praise and heavy suppression only lasted 4 years[^28]
 - Was hailed with sculture[^26] and song[^27]
-- One of his most important "discoveries" was [[ernalization]][^1]. He was connected with [[Prezent]][^2] 
+- One of his most important "discoveries" was [[vernalization]][^1]. He was connected with [[Prezent]][^2] 
 	- “In fact, comrades, while vernalization created by Soviet reality  could in a relatively short period of some four to five years be¬  come a whole branch of science, could fight off all the attacks of  the class enemy”[^5] This greatly pleased [[Stalin]][^6]
 - Tried to abolish genetics on the basis that it was a bourgeois science and non dialectic materialism[^11][^15]
 - Based on his Vernalization experiments he formulated the idea of presence of some property of heredity distributed throughout the cell)[^12]
@@ -43,6 +43,11 @@ tags:
 
 
 Footnotes:
+- He was also heavily criticized for his scientific methods[^3]
+	- “Lysenko, in 1931 —1934, advanced the so-called theory of phasic development of plants”  [^4]
+	- 
+
+
 [^1]:“Lysenko acquired a really broad reputation, however, with  his “discovery” of so-called vernalization (yarovization), an agronomic practice whereby winter crops are obtained rfm  summer planting”  (Medvedev and Lerner, p. 12)
 
 [^2]:“[[Prezent]]  and Lysenko enlivened the genetics debate in 1935 only after  their “creative partnership” was established.”  (Medvedev and Lerner, p. 9)
@@ -109,5 +114,6 @@ Footnotes:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDU0NDE1NCw3MjUwNzYxMDVdfQ==
+eyJoaXN0b3J5IjpbNDIwNjcyNjM0LC0yNDQ1NDQxNTQsNzI1MD
+c2MTA1XX0=
 -->
