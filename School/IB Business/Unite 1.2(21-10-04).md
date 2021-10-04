@@ -27,10 +27,11 @@
 			- Traded Privately(friends family)
 	- More pubblic documents
 		- Memorandum of association
-			- Specifies the external activities of the comp
+			- Specifies the external activities of the company
 		- Articles of association
 			- specifies how the company will be regulated internally
+- For-Profit social enterprises
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwOTI4OTc1LC0xNDM4NDI5NDEzLC0yMD
+eyJoaXN0b3J5IjpbNjIyNjI4NjYxLC0xNDM4NDI5NDEzLC0yMD
 k0OTg1OTY1XX0=
 -->
