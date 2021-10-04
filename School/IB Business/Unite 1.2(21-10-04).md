@@ -1,4 +1,6 @@
-> $Profit = total revenues - tot
+> $Profit = totalrevenues - totalcosts$
+ - Sole Trader:
+	 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzU1MDE2Nl19
+eyJoaXN0b3J5IjpbODYwMDYyMDY4XX0=
 -->
