@@ -20,11 +20,17 @@
 		- Shareholders have limited liability
 	- Increases the stability
 	- Much for fianances
+	- Types of companies
 		- Publical limited Company
 			- Traded Publically
 		- Private Limited Company
 			- Traded Privately(friends family)
+	- More pubblic documents
+		- Memorandum of association
+			- Specifies the external activities of the comp
+		- Articles of association
+			- specifies how the company will be regulated internally
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwODM3MDQ0LC0xNDM4NDI5NDEzLC0yMD
+eyJoaXN0b3J5IjpbNzkwOTI4OTc1LC0xNDM4NDI5NDEzLC0yMD
 k0OTg1OTY1XX0=
 -->
