@@ -14,8 +14,10 @@
 	 - Have more accountability than a sole trader
 	 - Higher likelihood of continuity than sole trader
 - Companies/Corporations:
-	- 
+	- Multiple owners each owning shares
+		- Shareholders recieve dividens
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4OTEyOTY2LC0xNDM4NDI5NDEzLC0yMD
+eyJoaXN0b3J5IjpbMjYzOTY3MTk2LC0xNDM4NDI5NDEzLC0yMD
 k0OTg1OTY1XX0=
 -->
