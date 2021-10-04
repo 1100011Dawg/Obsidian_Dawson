@@ -15,9 +15,12 @@
 	 - Higher likelihood of continuity than sole trader
 - Companies/Corporations:
 	- Multiple owners each owning shares
+		- Price can go up for a share
 		- Shareholders recieve dividens
-		- 
+		- Shareholders have limited liability
+	- Increases the stability
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzOTY3MTk2LC0xNDM4NDI5NDEzLC0yMD
-k0OTg1OTY1XX0=
+eyJoaXN0b3J5IjpbMTUyMzM4MDkyNiwtMTQzODQyOTQxMywtMj
+A5NDk4NTk2NV19
 -->
