@@ -9,8 +9,10 @@
 		 - Limited Finance
  - Partnerships:
 	 - Desionsion and ownment is by both people
-	 - No leg
+	 - No legals distinction, have to pay all liability
+	 - More Finance than a sole trader
+	 - Have more accountability than a sole trader
+	 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgzNTM1NzgsLTIwOTQ5ODU5NjVdfQ
-==
+eyJoaXN0b3J5IjpbLTM2MTIzNjUzLC0yMDk0OTg1OTY1XX0=
 -->
