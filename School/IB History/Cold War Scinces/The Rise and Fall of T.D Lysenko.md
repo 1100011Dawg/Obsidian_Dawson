@@ -721,9 +721,38 @@ Lysenko’s followers, to be fair, it must be pointed out that they
 formed a relatively small group of theoreticians.”  
 (Medvedev and Lerner, p. 150)
 
-“After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
+“After all, it is said, Lysenko and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)support from any popular names, and frequently cite as authorities deceased and (obligatorily) native scientists.” (Medvedev and Lerner, p. 29)
+
+(Medvedev and Lerner, p. 29) Instance of Lyndon saying there work derives from someone who isn’t a genetisict and one who still supported the gene theory
+
+“the scientific discussion on genetics was  
+transformed into a debate against the “enemies of the people”  
+in the pages of the journal Yarovizatsya, the founder and  
+chief editor of which was [[Lysenko]]”  
+(Medvedev and Lerner, p. 46)
+
+“the Darwinian bases of the  
+biology of development, in the Leningrad State University, was an¬  
+nihilated.1”  
+(Medvedev and Lerner, p. 47)
+
+“Among the accomplices of the enemies of the people named in this article were such scientists as the academicians [[Vavilov]], M. M. Zavadovsky, and Konstantinov, who were charged with an inimical attitude toward [[Lysenko]]’s work”  (Medvedev and Lerner, p. 53)
+
+(Medvedev and Lerner, p. 62) Come back to this dialogue
+
+
+**“On his visits to AIPB in Leningrad, the president deliberately emphasizes, before meetings of the scientific workers, his categorical disagreements with the director”  
+(Medvedev and Lerner, p. 66)** Go Back to this 6 reasons
+
+“This was the situation exploited by [[Lysenko]], who declared genetics to be a tool of reactionary American imperialism.”  (Medvedev and Lerner, p. 114)
+
+(Medvedev and Lerner, p. 147) Come back for false criticism of genetics
+
+“With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
+
+
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMD
-MxNjAxMzQwLC0yMDU3MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbLTIxMjk1NTA5NDEsLTk3Mzc1MjcwMiwxNz
+Q3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3MDM3MzU1XX0=
 -->
