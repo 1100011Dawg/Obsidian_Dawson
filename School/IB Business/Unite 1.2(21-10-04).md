@@ -12,7 +12,8 @@
 	 - No legals distinction, have to pay all liability
 	 - More Finance than a sole trader
 	 - Have more accountability than a sole trader
-	 - 
+	 - Higher likelihood of continuity than sole trader
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTIzNjUzLC0yMDk0OTg1OTY1XX0=
+eyJoaXN0b3J5IjpbLTE0Mzg0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ
+==
 -->
