@@ -19,8 +19,12 @@
 		- Shareholders recieve dividens
 		- Shareholders have limited liability
 	- Increases the stability
-	- 
+	- Much for fianances
+		- Publical limited Company
+			- Traded Publically
+		- Private Limited Company
+			- Traded Privately(friends family)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzM4MDkyNiwtMTQzODQyOTQxMywtMj
-A5NDk4NTk2NV19
+eyJoaXN0b3J5IjpbMjgwODM3MDQ0LC0xNDM4NDI5NDEzLC0yMD
+k0OTg1OTY1XX0=
 -->
