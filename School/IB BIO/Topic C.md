@@ -78,12 +78,15 @@
 - Keystone host species: Provide habitat for a variety of other species
 #### Gersmehl diagram
  - Shows the diffrence between nutrient flow and storage
- - 
+ - Sinks are:
+	 - Biomass
+	 - Litter(dead matter)
+	 - Soil
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyMTkyNTgwLDQwMzA4NDY0LC0xNTkwMj
-cxMDU1LDQxOTUzNjIzOSwtMTg3NjQwOTY4MCwtMjA5NzIzNjU5
-NSwzMjUzMTcxOTEsLTE0ODEwMzE0NSwtMzkzNDYwODkxLDIwMz
-E0NDk5MTYsLTE2MjAwMzA3MTQsMTg2MjAyNjEwOSwxNDEzMzYw
-Mjg4LDEwOTA1MTI1MjQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjAzMDU1ODkwOCw0MDMwODQ2NCwtMTU5MD
+I3MTA1NSw0MTk1MzYyMzksLTE4NzY0MDk2ODAsLTIwOTcyMzY1
+OTUsMzI1MzE3MTkxLC0xNDgxMDMxNDUsLTM5MzQ2MDg5MSwyMD
+MxNDQ5OTE2LC0xNjIwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2
+MDI4OCwxMDkwNTEyNTI0LC0yMDg4NzQ2NjEyXX0=
 -->
