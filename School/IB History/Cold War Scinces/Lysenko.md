@@ -23,6 +23,7 @@ tags:
 	- Thought potatoes came from [[Russia]] because of Lenin[^10]
 	- Was against intraspefifc competition[^20]
 		>“How to explain why bourgeois biology values so highly the “theory”  of intraspecific competition? Because it must justify the fact that,  in the capitalist society, the great majority of people, in a period  of overproduction of material goods, lives poorly” [^21]
+- 30+7 million famine deaths???[^33]
 #### Contra genetics:
  - Undirected nature of mutation contradicted Lysenko[^13]
  - The rate of mutation was used contra genetics[^14]
@@ -111,9 +112,11 @@ Footnotes:
 
 [^32]:“The pseudoscientific work of Lepeshinskaya was de¬  bunked in short order. By the end of 1955 more than three  hundred scientists had signed a petition requesting Lysenko’s  removal from the post of [[LAAAS]] president and the dismissal  of Oparin as secretary of the Biological Section of the AS”  (Medvedev and Lerner, p. 137)
 
+[^33]:https://www.theatlantic.com/science/archive/2017/12/trofim-lysenko-soviet-union-russia/548786/
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNjcyNjM0LC0yNDQ1NDQxNTQsNzI1MD
-c2MTA1XX0=
+eyJoaXN0b3J5IjpbNzU0NDg5MCw0MjA2NzI2MzQsLTI0NDU0ND
+E1NCw3MjUwNzYxMDVdfQ==
 -->
