@@ -76,11 +76,14 @@
 - Keystone modifier species: determine the prevalence and activities of many other species by dramatically altering the environment
 	- ex: Beaver
 - Keystone host species: Provide habitat for a variety of other species
-- 
+#### Gersmehl diagram
+ - Shows the diffrence between nutrient flow and storage
+ - 
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NT
-M2MjM5LC0xODc2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5
-MSwtMTQ4MTAzMTQ1LC0zOTM0NjA4OTEsMjAzMTQ0OTkxNiwtMT
-YyMDAzMDcxNCwxODYyMDI2MTA5LDE0MTMzNjAyODgsMTA5MDUx
-MjUyNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzMyMTkyNTgwLDQwMzA4NDY0LC0xNTkwMj
+cxMDU1LDQxOTUzNjIzOSwtMTg3NjQwOTY4MCwtMjA5NzIzNjU5
+NSwzMjUzMTcxOTEsLTE0ODEwMzE0NSwtMzkzNDYwODkxLDIwMz
+E0NDk5MTYsLTE2MjAwMzA3MTQsMTg2MjAyNjEwOSwxNDEzMzYw
+Mjg4LDEwOTA1MTI1MjQsLTIwODg3NDY2MTJdfQ==
 -->
