@@ -38,8 +38,10 @@
 		- A workerś cooperative:
 			- Owned and operated by the workers, lower pay for the managers
 		- A producer cooperative
-			- 
+			- group of producers collaberate at a certain stage of production. Usualy to maximize the utilization of expensive equipment
+		- A consumer cooperative
+			- Provides a service to consumers who are part of the buisness.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDcyNjcxOSw2MjI2Mjg2NjEsLTE0Mz
-g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
+eyJoaXN0b3J5IjpbNDQ2MTQwNjc2LDYyMjYyODY2MSwtMTQzOD
+QyOTQxMywtMjA5NDk4NTk2NV19
 -->
