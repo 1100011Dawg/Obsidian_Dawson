@@ -47,7 +47,9 @@ Footnotes:
 
 [^11]:“After all, it is said, [[Lysenko]] and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
 
-[12]:
+[^12]:“Lysenko for  many years proposed to mix superphosphate with lime before applying it to the soil. This procedure is absurd because it transforms superphosphate into an insoluble form, tricalcium phosphate”  (Medvedev and Lerner, p. 172)
+
+[^13]: “We were shown how well the organic-mineral mixtures work. Very well, but it would be good to see a neighboring plot where other methods of fertilizing were used for comparison” (Medvedev and Lerner, p. 174)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5NzA5MTE3XX0=
+eyJoaXN0b3J5IjpbMTg1Njc4NDE3OV19
 -->
