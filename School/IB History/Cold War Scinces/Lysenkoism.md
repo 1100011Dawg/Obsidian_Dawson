@@ -29,8 +29,8 @@ aliases:
  - Promoted ¨Soda Baths¨[^22]
  - Suggested plow depth of 1 meter instead of around 20cm.[^23]
 	 - Yielded no crops???[^24]
- - Greben(the leader of zootechnical wing of Lysenkoism) acquired ¨dead souls¨[
-	 - 
+ - Greben(the leader of zootechnical wing of Lysenkoism) acquired ¨dead souls¨[^25]
+	 - One such was Ivanov which he repainted as a Lysenkoist[^26]
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -86,7 +86,11 @@ baths.””  (Medvedev and Lerner, p. 183)
 [^23]:“Bushinsky. He suggested that land should be plowed not to a depth of 20 centimeters, as is usually done, but of a meter” (Medvedev and Lerner, p. 183)
 
 [^24]:“This treatment yielded no  crops;”  (Medvedev and Lerner, p. 183)
+
+[^25]:“Greben’, the leader of the zootechnical wing of Lysenkoism. He used the technique of Gogol’s hero Chichikov in acquiring “dead souls.” One such dead soul was the great Soviet animal husbandman, M. F. Ivanov” (Medvedev and Lerner, p. 191)
+
+[^26]:“Ivanov was thus repainted into a Lysenkoite”  (Medvedev and Lerner, p. 191)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzc2NzkzOSwtMjY5Mjg3Mjc1LDMzOT
-g1MTI5OV19
+eyJoaXN0b3J5IjpbMjAyODIyMzYxLC0yNjkyODcyNzUsMzM5OD
+UxMjk5XX0=
 -->
