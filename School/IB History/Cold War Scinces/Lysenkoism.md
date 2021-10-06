@@ -26,8 +26,9 @@ aliases:
 	 - America soon had 100% hybrid corn[^19]
 	 - Around 30-50 billion is the loss of corn from this 20 year campaign.[^20]
  - Order 41 forced all institutions to follow Lepeshinskaya[^21]
- - Promoted ¨Soda Baths¨[
+ - Promoted ¨Soda Baths¨[^22]
  - Suggested plow depth of 1 meter instead of around 20cm.[^23]
+	 - Yielded no crops???[^24]
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -80,7 +81,10 @@ Footnotes:
 [^22]:“This discovery was the famous “soda  
 baths.””  (Medvedev and Lerner, p. 183)
 
+[^23]:“Bushinsky. He suggested that land should be plowed not to a depth of 20 centimeters, as is usually done, but of a meter” (Medvedev and Lerner, p. 183)
+
+[^24]:“This treatment yielded no  crops;”  (Medvedev and Lerner, p. 183)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTQxNjk3MSwtMjY5Mjg3Mjc1LDMzOT
+eyJoaXN0b3J5IjpbMTMwMTE2NTQ3MCwtMjY5Mjg3Mjc1LDMzOT
 g1MTI5OV19
 -->
