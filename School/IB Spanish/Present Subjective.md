@@ -6,6 +6,9 @@
 | Present         | Past                              |
 |-----------------|-----------------------------------|
 | Present Perfect | Pluscunam perfecto del subjuntivo |
+
+#### Ex:
+ - Es importante que (Subjective)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIyOTgyNTddfQ==
+eyJoaXN0b3J5IjpbNzIzNTAyODY0XX0=
 -->
