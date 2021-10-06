@@ -88,8 +88,10 @@
  - Energy Flows through a ecosystem
 	 - $NP(Net production)=GP(Gross Production)-R(Resperation)$
 	 - Organic matter becomes Biomass
+	 - unit of energy $kJ*m^(⁻2)*y(^⁻1)$
+	 - Autotroph store energy strat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjM5MDkwMCwtNDU1MzgzMzU0LDE1MT
+eyJoaXN0b3J5IjpbMTE2Mzk0NzY0OCwtNDU1MzgzMzU0LDE1MT
 IzOTk1NDMsNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NTM2MjM5
 LC0xODc2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5MSwtMT
 Q4MTAzMTQ1LC0zOTM0NjA4OTEsMjAzMTQ0OTkxNiwtMTYyMDAz
