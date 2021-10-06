@@ -33,6 +33,7 @@ tags:
 	 > “Marxism is the only science. Darwinism is only a part; the real theory of knowledge of the world was given by Marx, Engels, and Lenin. And when I hear discussion about Darwinism without mention of Marxism, it may seem, on the one side, that all is  right, but on the other, it’s a horse of a different color”  [^19]
  - Says genetics supports eugenics and Weismannism-Morganism with it's Bourgeois reactionary science.[^24]
 	 - Shut down labrotories of cytogenetics, botanical cytology, phenogenesis[^25]
+	 - He ¨invented¨ manure-earth compost[^34] but instead of 
 
 #### Late years
  - Young scientists doubted him in 1948 so he tried to consolidate power[^22]
@@ -116,9 +117,11 @@ Footnotes:
 
 [^34]: “Lysenko with a smoke screen until he invented the so-called manure-earth composts. These composts had actually been known for a long time”  (Medvedev and Lerner, p. 175)
 
+[^35]:“But the earth component comprises only 15 to 20  per cent, and is added to improve the physical properties of the compost and as an absorbent. Lysenko, however, proposed the use of 80 to 90 per cent of earth in the compost for use in the field. According to Lysenko” (Medvedev and Lerner, p. 175)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ3MDI0ODcsNzU0NDg5MCw0MjA2Nz
-I2MzQsLTI0NDU0NDE1NCw3MjUwNzYxMDVdfQ==
+eyJoaXN0b3J5IjpbMTQwNTU5NjExNCw3NTQ0ODkwLDQyMDY3Mj
+YzNCwtMjQ0NTQ0MTU0LDcyNTA3NjEwNV19
 -->
