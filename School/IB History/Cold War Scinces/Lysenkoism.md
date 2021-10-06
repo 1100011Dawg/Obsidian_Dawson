@@ -35,6 +35,7 @@ aliases:
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
  - Science discredited from the Untied States[^7]
+ - Still millions of Students learn this[^27]
 
 Footnotes:
 
@@ -90,7 +91,9 @@ baths.””  (Medvedev and Lerner, p. 183)
 [^25]:“Greben’, the leader of the zootechnical wing of Lysenkoism. He used the technique of Gogol’s hero Chichikov in acquiring “dead souls.” One such dead soul was the great Soviet animal husbandman, M. F. Ivanov” (Medvedev and Lerner, p. 191)
 
 [^26]:“Ivanov was thus repainted into a Lysenkoite”  (Medvedev and Lerner, p. 191)
+
+[^27]:“In  secondary schools, millions of children still learned, from the stereotyped text on Darwinism by Veselov, that Morganist genetics is unproductive and reactionary, that it was begotten of the bourgeoisie, that acquired characters are inherited, and so forth.” (Medvedev and Lerner, p. 193)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODIyMzYxLC0yNjkyODcyNzUsMzM5OD
+eyJoaXN0b3J5IjpbNzM2OTYwNDMwLC0yNjkyODcyNzUsMzM5OD
 UxMjk5XX0=
 -->
