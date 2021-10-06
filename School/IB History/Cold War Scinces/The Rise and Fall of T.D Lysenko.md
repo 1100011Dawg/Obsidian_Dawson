@@ -750,13 +750,6 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-“The branched  
-wheat would not branch under ordinary growing conditions,  
-its spikes were smaller than those of standard varieties, and its  
-yield half as large. The miraculous wheat was susceptible to  
-every disease, and its grain contained half the protein found  
-in standard varieties.”  
-(Medvedev and Lerner, p. 177)
 
 “hormonal stimulation of superovula¬  
 tion in sheep and other species had been developed by the  
@@ -833,7 +826,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIxMjg3NywtMjEyOTU1MDk0MSwtOT
-czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
-MzczNTVdfQ==
+eyJoaXN0b3J5IjpbLTE5NzA3Mjk5LC0yMTI5NTUwOTQxLC05Nz
+M3NTI3MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAz
+NzM1NV19
 -->
