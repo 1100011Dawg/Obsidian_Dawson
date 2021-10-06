@@ -750,10 +750,6 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-“U.S.S.R. Minister of Higher Education, Stole-  
-tov, issued a special order41 which obliged all institutions of  
-higher learning to believe Lepeshinskaya’s teaching”  
-(Medvedev and Lerner, p. 182)
 
 “This discovery was the famous “soda  
 baths.””  
@@ -803,7 +799,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDgwMTg5NiwtMjEyOTU1MDk0MSwtOT
+eyJoaXN0b3J5IjpbLTgxODYzMzcyNywtMjEyOTU1MDk0MSwtOT
 czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
 MzczNTVdfQ==
 -->
