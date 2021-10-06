@@ -750,11 +750,7 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-“It is Lysenko’s  
-conviction that a hybrid zygote develops traits not in accord¬  
-ance with the Morganist laws of segregation and dominance  
-and recessiveness, but in the way most profitable to itself.”  
-(Medvedev and Lerner, p. 189)
+
 
 “As it happened, the calves in this case were intermediate in  
 size (30 to 31 kilograms). The explanation was very simple:  
@@ -785,7 +781,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI5OTAzNTgsLTIxMjk1NTA5NDEsLT
-k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
-MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbNjE0NDMwMjExLC0yMTI5NTUwOTQxLC05Nz
+M3NTI3MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAz
+NzM1NV19
 -->
