@@ -750,7 +750,7 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-(Medvedev and Lerner, p. 178) Was successfully used by the English
+
 
 “Lysenko and Iris associates have long boasted of their struggle  
 for many years against adoption in the U.S.S.R. of hybrid  
@@ -820,7 +820,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODUwMjQ1MiwtMjEyOTU1MDk0MSwtOT
+eyJoaXN0b3J5IjpbLTU4MzM1MDAzMSwtMjEyOTU1MDk0MSwtOT
 czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
 MzczNTVdfQ==
 -->
