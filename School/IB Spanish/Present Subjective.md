@@ -9,6 +9,7 @@
 
 
  > Conjugations sometimes z to c
+ > Use uno sometimes instead of el
 #### Ex:
  - Es importante que (Subjective)
  - Es necesario que (Subjective)
@@ -23,9 +24,12 @@
 | es | eis  |
 | e  | en   |
  - er/ir:
-	 - 
- - ir
+- 
+| a  | amos |
+|----|------|
+| as | ais  |
+| a  | an   |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc5NjEzOTcsLTEzMzMyMzE0NjBdfQ
-==
+eyJoaXN0b3J5IjpbLTMyNzg5OTUwOCwtMTMzMzIzMTQ2MF19
 -->
