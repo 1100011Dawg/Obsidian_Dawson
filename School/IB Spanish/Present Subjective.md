@@ -14,12 +14,12 @@
  - Es necesario que (Subjective)
 
 #### Present Subjectivo
+- 
  - ar:
 	 - 
  - er:
 	 - 
  - ir
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDczODMwMDcsLTEzMzMyMzE0NjBdfQ
-==
+eyJoaXN0b3J5IjpbNzc3Nzk0MzEwLC0xMzMzMjMxNDYwXX0=
 -->
