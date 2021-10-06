@@ -25,7 +25,9 @@ aliases:
  - Went against Hybrid corn from inbred lines[^18]
 	 - America soon had 100% hybrid corn[^19]
 	 - Around 30-50 billion is the loss of corn from this 20 year campaign.[^20]
-	 - Order 41 forced all institutions to follow Lepeshinskaya[^21]
+ - Order 41 forced all institutions to follow Lepeshinskaya[^21]
+ - Promoted ¨Soda Baths¨[
+ - Suggested plow depth of 1 meter instead of around 20cm.[^23]
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -73,8 +75,12 @@ Footnotes:
 
 [^20]:“Thirty to fifty  billion kilograms of corn is the minimum loss sustained bv our country from the twenty-year anti-inbreeding campaign.” (Medvedev and Lerner, p. 181)
 
-[^21]
+[^21]:“U.S.S.R. Minister of Higher Education, Stoletov, issued a special order41 which obliged all institutions of higher learning to believe Lepeshinskaya’s teaching” (Medvedev and Lerner, p. 182)
+
+[^22]:“This discovery was the famous “soda  
+baths.””  (Medvedev and Lerner, p. 183)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTk2Mzc5LC0yNjkyODcyNzUsMzM5OD
-UxMjk5XX0=
+eyJoaXN0b3J5IjpbMTg2OTQxNjk3MSwtMjY5Mjg3Mjc1LDMzOT
+g1MTI5OV19
 -->
