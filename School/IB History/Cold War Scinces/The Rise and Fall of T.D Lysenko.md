@@ -751,14 +751,6 @@ nihilated.1”
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
 
-“This discovery was the famous “soda  
-baths.””  
-(Medvedev and Lerner, p. 183)
-
-“Bushinsky.  
-He suggested that land should be plowed not to a depth of  
-20 centimeters, as is usually done, but of a meter”  
-(Medvedev and Lerner, p. 183)
 
 “This treatment yielded no  
 crops;”  
@@ -799,7 +791,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODYzMzcyNywtMjEyOTU1MDk0MSwtOT
-czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
-MzczNTVdfQ==
+eyJoaXN0b3J5IjpbODQ5MzA1OTM4LC0yMTI5NTUwOTQxLC05Nz
+M3NTI3MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAz
+NzM1NV19
 -->
