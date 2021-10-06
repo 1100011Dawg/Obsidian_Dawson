@@ -38,10 +38,12 @@
 		- A workerś cooperative:
 			- Owned and operated by the workers, lower pay for the managers
 		- A producer cooperative
-			- group of producers collaberate at a certain stage of production. Usualy to maximize the utilization of expensive equipment
+			- group of producers collaborate at a certain stage of production. Usually to maximize the utilization of expensive equipment
 		- A consumer cooperative
-			- Provides a service to consumers who are part of the buisness.
+			- Provides a service to consumers who are part of the business.
+	- Micro-Financiers:
+		- Provide a small amount of fianance who otherwise won´t be able to access it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MTQwNjc2LDYyMjYyODY2MSwtMTQzOD
-QyOTQxMywtMjA5NDk4NTk2NV19
+eyJoaXN0b3J5IjpbMTgwODc5MzgwMyw2MjI2Mjg2NjEsLTE0Mz
+g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
 -->
