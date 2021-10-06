@@ -751,7 +751,7 @@ nihilated.1”
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
 
-(Medvedev and Lerner, p. 174) They do science with fertilization very poorly here
+
 
 “Lysenko with a smoke screen until he invented the so-  
 called manure-earth composts.  
@@ -853,7 +853,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjcwMjcwNSwtMjEyOTU1MDk0MSwtOT
+eyJoaXN0b3J5IjpbMTkzNjIwMDI4MSwtMjEyOTU1MDk0MSwtOT
 czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
 MzczNTVdfQ==
 -->
