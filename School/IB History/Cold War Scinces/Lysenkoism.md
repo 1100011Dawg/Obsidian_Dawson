@@ -29,7 +29,8 @@ aliases:
  - Promoted ¨Soda Baths¨[^22]
  - Suggested plow depth of 1 meter instead of around 20cm.[^23]
 	 - Yielded no crops???[^24]
- - 
+ - Greben(the leader of zootechnical wing of Lysenkoism) acquired ¨dead souls¨[
+	 - 
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -86,6 +87,6 @@ baths.””  (Medvedev and Lerner, p. 183)
 
 [^24]:“This treatment yielded no  crops;”  (Medvedev and Lerner, p. 183)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgyNzI1OTcsLTI2OTI4NzI3NSwzMz
-k4NTEyOTldfQ==
+eyJoaXN0b3J5IjpbMTAwMzc2NzkzOSwtMjY5Mjg3Mjc1LDMzOT
+g1MTI5OV19
 -->
