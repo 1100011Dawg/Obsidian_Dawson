@@ -17,6 +17,7 @@ aliases:
  - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
  - When the mechanism of geneaction had been discoved[] Lysenkoists said:
 	 > “The assertion that there are in an organism some minute particles, genes, responsible for the transmission of hereditary traits is pure fantasy  without any basis in science.””[^9]
+ - Lysenko promoted to mix superphosphate with lime before applying it to the soil, witch is absorbed because it transforms superphosphate to insolbe tricalcium.[^]
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -45,3 +46,8 @@ Footnotes:
 [^10]:“In general, in talking of the inauspicious contributions of  [[Lysenko]]’s followers, to be fair, it must be pointed out that they  formed a relatively small group of theoreticians.”  (Medvedev and Lerner, p. 150)
 
 [^11]:“After all, it is said, [[Lysenko]] and his followers are in close touch with the practical application of research to problems of agriculture; they settle disputes in the field, and not with useless fruit flies. This is a widespread point of view and, unless it is analyzed, final judgment is not possible.” (Medvedev and Lerner, p. 151)
+
+[12]:
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDk5NzA5MTE3XX0=
+-->
