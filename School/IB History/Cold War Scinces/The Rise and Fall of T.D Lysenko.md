@@ -755,9 +755,6 @@ nihilated.1”
 
 
 
-“Ivanov was thus repainted into a  
-Lysenkoite”  
-(Medvedev and Lerner, p. 191)
 
 “In  
 secondary schools, millions of children still learned, from the  
@@ -769,7 +766,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE1NjEzMTUsLTIxMjk1NTA5NDEsLT
+eyJoaXN0b3J5IjpbLTEyNDM3NjAyNDEsLTIxMjk1NTA5NDEsLT
 k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
 MDM3MzU1XX0=
 -->
