@@ -31,7 +31,11 @@
 		- Articles of association
 			- specifies how the company will be regulated internally
 - For-Profit social enterprises
+	- Cooperatives
+		- Ran by all the members
+		- Financial cooperative:
+			- A financial instituion that is ethic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNjI4NjYxLC0xNDM4NDI5NDEzLC0yMD
-k0OTg1OTY1XX0=
+eyJoaXN0b3J5IjpbLTExNTQ4MzE0MjQsNjIyNjI4NjYxLC0xND
+M4NDI5NDEzLC0yMDk0OTg1OTY1XX0=
 -->
