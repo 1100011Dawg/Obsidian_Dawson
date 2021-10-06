@@ -14,12 +14,18 @@
  - Es necesario que (Subjective)
 
 #### Present Subjectivo
-- 
+1. Yo stem from present tense
+2. Oppisite ending
  - ar:
-	 - 
- - er:
+ - 
+| e  | emos |
+|----|------|
+| es | eis  |
+| e  | en   |
+ - er/ir:
 	 - 
  - ir
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3Nzk0MzEwLC0xMzMzMjMxNDYwXX0=
+eyJoaXN0b3J5IjpbLTIwMDc5NjEzOTcsLTEzMzMyMzE0NjBdfQ
+==
 -->
