@@ -750,14 +750,6 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-
-“Lysenko for  
-many years proposed to mix superphosphate with lime before  
-applying it to the soil. This procedure is absurd because it  
-transforms superphosphate into an insoluble form, tricalcium  
-phosphate”  
-(Medvedev and Lerner, p. 172)
-
 “We were shown how well the organic-mineral mixtures work.  
 Very well, but it would be good to see a neighboring plot where  
 other methods of fertilizing were used for comparison”  
@@ -865,6 +857,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk1NTA5NDEsLTk3Mzc1MjcwMiwxNz
-Q3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbNjc1MDExMDk1LC0yMTI5NTUwOTQxLC05Nz
+M3NTI3MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAz
+NzM1NV19
 -->
