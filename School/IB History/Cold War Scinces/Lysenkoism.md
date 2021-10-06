@@ -23,8 +23,8 @@ aliases:
 	 - Had half the protein was susceptible to disease and didn't branch under normal growing conditions[^15]
  - Went against the hormonal stimulation of superovulation in sheep[^16] and the english manged to use this successfully[^17].
  - Went against Hybrid corn from inbred lines[^18]
-	 - America soon had 100% hybrid corn[¹9}
-	 - Around 30-50 billion is the loss of corn from this 20 year campaign.
+	 - America soon had 100% hybrid corn[^19]
+	 - Around 30-50 billion is the loss of corn from this 20 year campaign.[^20]
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -65,6 +65,12 @@ Footnotes:
 [^16]:“hormonal stimulation of superovulation in sheep and other species had been developed by the Morganist M. M. Zavadovsky” (Medvedev and Lerner, p. 178)
 
 [^17]:(Medvedev and Lerner, p. 178) Was successfully used by the English
+
+[^18]:“Lysenko and Iris associates have long boasted of their struggle for many years against adoption in the U.S.S.R. of hybrid corn derived from crosses between inbred lines”  (Medvedev and Lerner, p. 179)
+
+[^19]:
+
+[^20]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTc5NDc3NSwzMzk4NTEyOTldfQ==
+eyJoaXN0b3J5IjpbLTEwMTg0ODg2MTksMzM5ODUxMjk5XX0=
 -->
