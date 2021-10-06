@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Media.md",
+            "file": "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media.md",
+                "file": "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media.md",
+                "file": "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media.md"
+                "file": "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md"
               }
             }
           },
@@ -145,6 +145,7 @@
   },
   "active": "495e3745369417dd",
   "lastOpenFiles": [
+    "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
     "Media.md",
     "School/IB Business/Unit 1.1(21-8-13).md",
     "School/IB BIO/Topic 4/Topic 4.md",
@@ -153,7 +154,6 @@
     "School/IB History/Cold War Scinces/Temp extra annotation Rise fall T.D Lysenko.md",
     "School/IB History/Cold War Scinces/Vernalization.md",
     "School/IB History/Cold War Scinces/Stalin.md",
-    "School/IB History/Cold War Scinces/Russia.md",
-    "School/IB History/Cold War Scinces/Prezent.md"
+    "School/IB History/Cold War Scinces/Russia.md"
   ]
 }
