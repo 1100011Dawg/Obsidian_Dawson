@@ -750,12 +750,6 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-
-“hormonal stimulation of superovula¬  
-tion in sheep and other species had been developed by the  
-Morganist M. M. Zavadovsky”  
-(Medvedev and Lerner, p. 178)
-
 (Medvedev and Lerner, p. 178) Was successfully used by the English
 
 “Lysenko and Iris associates have long boasted of their struggle  
@@ -826,7 +820,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA3Mjk5LC0yMTI5NTUwOTQxLC05Nz
-M3NTI3MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAz
-NzM1NV19
+eyJoaXN0b3J5IjpbMTQ3ODUwMjQ1MiwtMjEyOTU1MDk0MSwtOT
+czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
+MzczNTVdfQ==
 -->
