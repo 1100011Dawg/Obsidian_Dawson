@@ -34,7 +34,8 @@ tags:
  - Says genetics supports eugenics and Weismannism-Morganism with it's Bourgeois reactionary science.[^24]
 	 - Shut down labrotories of cytogenetics, botanical cytology, phenogenesis[^25]
  - He ¨invented¨ manure-earth compost[^34] but instead of the regular 20-30% he advocated 80-90% [^35] of earth
- - Lysenko thought that a hybrid zygote develop traits in the way that is most profitable to itself[]
+ - Lysenko thought that a hybrid zygote develop traits in the way that is most profitable to itself[^36]
+	 - Example is where hybrid claves choose to develop Jersey cow traits[^37]
 
 
 #### Late years
@@ -121,12 +122,18 @@ Footnotes:
 
 [^35]:“But the earth component comprises only 15 to 20  per cent, and is added to improve the physical properties of the compost and as an absorbent. Lysenko, however, proposed the use of 80 to 90 per cent of earth in the compost for use in the field. According to Lysenko” (Medvedev and Lerner, p. 175)
 
-[^36]:“It is Lysenko’s conviction that a hybrid zygote develops traits not in accorance with the Morganist laws of segregation and dominance  and recessiveness, but in the way most profitable to itself.”  
-(Medvedev and Lerner, p. 189)
+[^36]:“It is Lysenko’s conviction that a hybrid zygote develops traits not in accorance with the Morganist laws of segregation and dominance and recessiveness, but in the way most profitable to itself.”  (Medvedev and Lerner, p. 189)
+
+[^37]:“As it happened, the calves in this case were intermediate in size (30 to 31 kilograms). The explanation was very simple:  
+20 of the kilograms (typical for Jerseys) were due to the  
+calves’ “choosing” to develop in the Jersey direction, and the  
+remainder were not the result of heredity but of the abundant  
+feeding of the mothers.”  
+(Medvedev and Lerner, p. 190)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mzk2NTg1Miw3NTQ0ODkwLDQyMDY3Mj
-YzNCwtMjQ0NTQ0MTU0LDcyNTA3NjEwNV19
+eyJoaXN0b3J5IjpbLTIwMzk0NzA5NTYsNzU0NDg5MCw0MjA2Nz
+I2MzQsLTI0NDU0NDE1NCw3MjUwNzYxMDVdfQ==
 -->
