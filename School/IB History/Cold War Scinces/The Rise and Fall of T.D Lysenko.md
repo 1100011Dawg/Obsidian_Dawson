@@ -752,10 +752,7 @@ nihilated.1”
 
 
 
-“Lysenko and Iris associates have long boasted of their struggle  
-for many years against adoption in the U.S.S.R. of hybrid  
-corn derived from crosses between inbred lines”  
-(Medvedev and Lerner, p. 179)
+
 
 “Three  
 or four years later, 100 per cent of the corn grown in the  
@@ -820,7 +817,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzM1MDAzMSwtMjEyOTU1MDk0MSwtOT
-czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
-MzczNTVdfQ==
+eyJoaXN0b3J5IjpbLTEzOTA5NzMyNTAsLTIxMjk1NTA5NDEsLT
+k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
+MDM3MzU1XX0=
 -->
