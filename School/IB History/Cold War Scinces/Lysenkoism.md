@@ -15,9 +15,10 @@ aliases:
  - Destroed stock of Drosophila[^2]
  - Destroyed books about genetics in TAA library[^3]
  - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
- - When the mechanism of geneaction had been discoved[] Lysenkoists said:
+ - When the mechanism of gene action had been discovered[] Lysenkoists said:
 	 > “The assertion that there are in an organism some minute particles, genes, responsible for the transmission of hereditary traits is pure fantasy  without any basis in science.””[^9]
- - Lysenko promoted to mix superphosphate with lime before applying it to the soil, witch is absorbed because it transforms superphosphate to insolbe tricalcium.[^]
+ - Lysenko promoted to mix superphosphate with lime before applying it to the soil, witch is absorbed because it transforms superphosphate to insolbe tricalcium.[^12]
+ - Many of their experiments lacked a control[^13]
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -49,7 +50,7 @@ Footnotes:
 
 [^12]:“Lysenko for  many years proposed to mix superphosphate with lime before applying it to the soil. This procedure is absurd because it transforms superphosphate into an insoluble form, tricalcium phosphate”  (Medvedev and Lerner, p. 172)
 
-[^13]: “We were shown how well the organic-mineral mixtures work. Very well, but it would be good to see a neighboring plot where other methods of fertilizing were used for comparison” (Medvedev and Lerner, p. 174)
+[^13]: “We were shown how well the organic-mineral mixtures work. Very well, but it would be good to see a neighboring plot where other methods of fertilizing were used for comparison” (Medvedev and Lerner, p. 174 (Medvedev and Lerner, p. 174) They do science with fertilization very poorly here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Njc4NDE3OV19
+eyJoaXN0b3J5IjpbLTIwNTcxMTU5NzFdfQ==
 -->
