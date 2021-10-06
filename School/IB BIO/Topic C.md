@@ -82,9 +82,11 @@
 	 - Biomass
 	 - Litter(dead matter)
 	 - Soil
-	 - 
+#### Biomass
+ > Biomass: total dry mass of organic matter in organisms or ecosystems
+ - See how produ tive a ecosystem is
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTAwMTg3NiwxNTEyMzk5NTQzLDQwMz
+eyJoaXN0b3J5IjpbLTQ1NTM4MzM1NCwxNTEyMzk5NTQzLDQwMz
 A4NDY0LC0xNTkwMjcxMDU1LDQxOTUzNjIzOSwtMTg3NjQwOTY4
 MCwtMjA5NzIzNjU5NSwzMjUzMTcxOTEsLTE0ODEwMzE0NSwtMz
 kzNDYwODkxLDIwMzE0NDk5MTYsLTE2MjAwMzA3MTQsMTg2MjAy
