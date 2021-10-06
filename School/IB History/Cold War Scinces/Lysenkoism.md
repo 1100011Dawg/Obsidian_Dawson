@@ -21,6 +21,7 @@ aliases:
  - Many of their experiments lacked a control[^13]
  - Who could not remember branched wheat[^14]
 	 - Had half the protein was susceptible to disease and didn't branch under normal growing conditions[^15]
+ - Went aginst the hormonal stiumaltion of superovulation in sheep and the english 
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -58,5 +59,5 @@ Footnotes:
 
 [^15]:“The branched wheat would not branch under ordinary growing conditions, its spikes were smaller than those of standard varieties, and its yield half as large. The miraculous wheat was susceptible to every disease, and its grain contained half the protein found in standard varieties.” (Medvedev and Lerner, p. 177)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzgwNjg2Ml19
+eyJoaXN0b3J5IjpbNjQzMDAxODhdfQ==
 -->
