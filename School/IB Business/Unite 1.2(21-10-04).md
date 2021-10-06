@@ -34,8 +34,12 @@
 	- Cooperatives
 		- Ran by all the members
 		- Financial cooperative:
-			- A financial instituion that is ethic
+			- A financial institution that is ethical. (Lower interest loans)
+		- A workerś cooperative:
+			- Owned and operated by the workers, lower pay for the managers
+		- A producer cooperative
+			- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ4MzE0MjQsNjIyNjI4NjYxLC0xND
-M4NDI5NDEzLC0yMDk0OTg1OTY1XX0=
+eyJoaXN0b3J5IjpbMTg1NDcyNjcxOSw2MjI2Mjg2NjEsLTE0Mz
+g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
 -->
