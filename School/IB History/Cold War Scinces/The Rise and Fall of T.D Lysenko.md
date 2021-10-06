@@ -754,10 +754,7 @@ nihilated.1”
 
 
 
-“Three  
-or four years later, 100 per cent of the corn grown in the  
-United States was of hybrid origin.”  
-(Medvedev and Lerner, p. 180)
+
 
 “Thirty to fifty  
 billion kilograms of corn is the minimum loss sustained bv  
@@ -817,7 +814,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA5NzMyNTAsLTIxMjk1NTA5NDEsLT
-k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
-MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbLTc3MjMwODQxNSwtMjEyOTU1MDk0MSwtOT
+czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
+MzczNTVdfQ==
 -->
