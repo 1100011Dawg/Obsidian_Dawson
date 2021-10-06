@@ -22,7 +22,9 @@ aliases:
  - Who could not remember branched wheat[^14]
 	 - Had half the protein was susceptible to disease and didn't branch under normal growing conditions[^15]
  - Went against the hormonal stimulation of superovulation in sheep[^16] and the english manged to use this successfully[^17].
- - Went against 
+ - Went against Hybrid corn from inbred lines[^18]
+	 - America soon had 100% hybrid corn[¹9}
+	 - Around 30-50 billion is the loss of corn from this 20 year campaign.
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -64,5 +66,5 @@ Footnotes:
 
 [^17]:(Medvedev and Lerner, p. 178) Was successfully used by the English
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxOTMyMDIsMzM5ODUxMjk5XX0=
+eyJoaXN0b3J5IjpbMTU4NTc5NDc3NSwzMzk4NTEyOTldfQ==
 -->
