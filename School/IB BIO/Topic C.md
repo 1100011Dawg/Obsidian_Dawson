@@ -90,12 +90,12 @@
 	 - Organic matter becomes Biomass
 	 - unit of energy $kJ*m^{⁻2}*y^{⁻1}$
 	 - Autotroph store energy as Starch
-	 - Food Conversion Ratio $FCR=\frac{mass\ of\ the\ food\ eaten(g)}{}
+	 - Food Conversion Ratio $FCR=\frac{mass\ of\ the\ food\ eaten(g)}{increase\ in\ desired\ output(g)}per\ time\ period$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODk2ODI5NCwtNTE5MTUwOTUyLC00NT
-UzODMzNTQsMTUxMjM5OTU0Myw0MDMwODQ2NCwtMTU5MDI3MTA1
-NSw0MTk1MzYyMzksLTE4NzY0MDk2ODAsLTIwOTcyMzY1OTUsMz
-I1MzE3MTkxLC0xNDgxMDMxNDUsLTM5MzQ2MDg5MSwyMDMxNDQ5
-OTE2LC0xNjIwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OC
-wxMDkwNTEyNTI0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNjM1NDM3Mjk5LC01MTkxNTA5NTIsLTQ1NT
+M4MzM1NCwxNTEyMzk5NTQzLDQwMzA4NDY0LC0xNTkwMjcxMDU1
+LDQxOTUzNjIzOSwtMTg3NjQwOTY4MCwtMjA5NzIzNjU5NSwzMj
+UzMTcxOTEsLTE0ODEwMzE0NSwtMzkzNDYwODkxLDIwMzE0NDk5
+MTYsLTE2MjAwMzA3MTQsMTg2MjAyNjEwOSwxNDEzMzYwMjg4LD
+EwOTA1MTI1MjQsLTIwODg3NDY2MTJdfQ==
 -->
