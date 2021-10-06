@@ -750,7 +750,6 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-
 “Who does not remember the preliminary advertising of  
 branched wheat”  
 (Medvedev and Lerner, p. 176)
@@ -838,7 +837,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMxNjQxMTUsLTIxMjk1NTA5NDEsLT
-k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
-MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbLTYzOTI4MDMyMSwtMjEyOTU1MDk0MSwtOT
+czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
+MzczNTVdfQ==
 -->
