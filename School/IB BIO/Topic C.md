@@ -88,13 +88,14 @@
  - Energy Flows through a ecosystem
 	 - $NP(Net production)=GP(Gross Production)-R(Resperation)$
 	 - Organic matter becomes Biomass
-	 - unit of energy $kJ*m^(⁻2)*y(^⁻1)$
-	 - Autotroph store energy scratch
+	 - unit of energy $kJ*m^{⁻2}*y^{⁻1}$
+	 - Autotroph store energy as Starch
+	 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTA1MzAyLC00NTUzODMzNTQsMTUxMj
-M5OTU0Myw0MDMwODQ2NCwtMTU5MDI3MTA1NSw0MTk1MzYyMzks
-LTE4NzY0MDk2ODAsLTIwOTcyMzY1OTUsMzI1MzE3MTkxLC0xND
-gxMDMxNDUsLTM5MzQ2MDg5MSwyMDMxNDQ5OTE2LC0xNjIwMDMw
-NzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEyNTI0LC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTUxOTE1MDk1MiwtNDU1MzgzMzU0LDE1MT
+IzOTk1NDMsNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NTM2MjM5
+LC0xODc2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5MSwtMT
+Q4MTAzMTQ1LC0zOTM0NjA4OTEsMjAzMTQ0OTkxNiwtMTYyMDAz
+MDcxNCwxODYyMDI2MTA5LDE0MTMzNjAyODgsMTA5MDUxMjUyNC
+wtMjA4ODc0NjYxMl19
 -->
