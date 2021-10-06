@@ -68,10 +68,9 @@ Footnotes:
 
 [^18]:“Lysenko and Iris associates have long boasted of their struggle for many years against adoption in the U.S.S.R. of hybrid corn derived from crosses between inbred lines”  (Medvedev and Lerner, p. 179)
 
-[^19]:“Three  or four years later, 100 per cent of the corn grown in the  United States was of hybrid origin.”  
-(Medvedev and Lerner, p. 180)
+[^19]:“Three  or four years later, 100 per cent of the corn grown in the United States was of hybrid origin.” (Medvedev and Lerner, p. 180)
 
-[^20]:
+[^20]:“Thirty to fifty  billion kilograms of corn is the minimum loss sustained bv our country from the twenty-year anti-inbreeding campaign.” (Medvedev and Lerner, p. 181)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzM5ODI2NiwzMzk4NTEyOTldfQ==
+eyJoaXN0b3J5IjpbLTI2OTI4NzI3NSwzMzk4NTEyOTldfQ==
 -->
