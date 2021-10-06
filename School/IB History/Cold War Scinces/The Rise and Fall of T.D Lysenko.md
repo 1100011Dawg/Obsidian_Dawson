@@ -751,6 +751,118 @@ nihilated.1”
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
 
+“Lysenko for  
+many years proposed to mix superphosphate with lime before  
+applying it to the soil. This procedure is absurd because it  
+transforms superphosphate into an insoluble form, tricalcium  
+phosphate”  
+(Medvedev and Lerner, p. 172)
+
+“We were shown how well the organic-mineral mixtures work.  
+Very well, but it would be good to see a neighboring plot where  
+other methods of fertilizing were used for comparison”  
+(Medvedev and Lerner, p. 174)
+
+(Medvedev and Lerner, p. 174) They do science with fertilization very poorly here
+
+“Lysenko with a smoke screen until he invented the so-  
+called manure-earth composts.  
+These composts had actually been known for a long time”  
+(Medvedev and Lerner, p. 175)
+
+“But the earth component comprises only 15 to 20  
+per cent, and is added to improve the physical properties of  
+the compost and as an absorbent. Lysenko, however, proposed  
+the use of 80 to 90 per cent of earth in the compost for use in  
+the field.  
+According to Lysenk”  
+(Medvedev and Lerner, p. 175)
+
+“Who does not remember the preliminary advertising of  
+branched wheat”  
+(Medvedev and Lerner, p. 176)
+
+“The branched  
+wheat would not branch under ordinary growing conditions,  
+its spikes were smaller than those of standard varieties, and its  
+yield half as large. The miraculous wheat was susceptible to  
+every disease, and its grain contained half the protein found  
+in standard varieties.”  
+(Medvedev and Lerner, p. 177)
+
+“hormonal stimulation of superovula¬  
+tion in sheep and other species had been developed by the  
+Morganist M. M. Zavadovsky”  
+(Medvedev and Lerner, p. 178)
+
+(Medvedev and Lerner, p. 178) Was successfully used by the English
+
+“Lysenko and Iris associates have long boasted of their struggle  
+for many years against adoption in the U.S.S.R. of hybrid  
+corn derived from crosses between inbred lines”  
+(Medvedev and Lerner, p. 179)
+
+“Three  
+or four years later, 100 per cent of the corn grown in the  
+United States was of hybrid origin.”  
+(Medvedev and Lerner, p. 180)
+
+“Thirty to fifty  
+billion kilograms of corn is the minimum loss sustained bv  
+our country from the twenty-year anti-inbreeding campaign.”  
+(Medvedev and Lerner, p. 181)
+
+“U.S.S.R. Minister of Higher Education, Stole-  
+tov, issued a special order41 which obliged all institutions of  
+higher learning to believe Lepeshinskaya’s teaching”  
+(Medvedev and Lerner, p. 182)
+
+“This discovery was the famous “soda  
+baths.””  
+(Medvedev and Lerner, p. 183)
+
+“Bushinsky.  
+He suggested that land should be plowed not to a depth of  
+20 centimeters, as is usually done, but of a meter”  
+(Medvedev and Lerner, p. 183)
+
+“This treatment yielded no  
+crops;”  
+(Medvedev and Lerner, p. 183)
+
+“It is Lysenko’s  
+conviction that a hybrid zygote develops traits not in accord¬  
+ance with the Morganist laws of segregation and dominance  
+and recessiveness, but in the way most profitable to itself.”  
+(Medvedev and Lerner, p. 189)
+
+“As it happened, the calves in this case were intermediate in  
+size (30 to 31 kilograms). The explanation was very simple:  
+20 of the kilograms (typical for Jerseys) were due to the  
+calves’ “choosing” to develop in the Jersey direction, and the  
+remainder were not the result of heredity but of the abundant  
+feeding of the mothers.”  
+(Medvedev and Lerner, p. 190)
+
+“Greben’, the leader  
+of the zootechnical wing of Lysenkoism. He used the tech¬  
+nique of Gogol’s hero Chichikov in acquiring “dead souls.”  
+One such dead soul was the great Soviet animal husbandman,  
+M. F. Ivanov”  
+(Medvedev and Lerner, p. 191)
+
+“Ivanov was thus repainted into a  
+Lysenkoite”  
+(Medvedev and Lerner, p. 191)
+
+“In  
+secondary schools, millions of children still learned, from the  
+stereotyped text on Darwinism by Veselov, that Morganist  
+genetics is unproductive and reactionary, that it was begotten  
+of the bourgeoisie, that acquired characters are inherited, and  
+so forth.”  
+(Medvedev and Lerner, p. 193)
+
 <!--stackedit_data:
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIxMjk1NTA5NDEsLTk3Mzc1MjcwMiwxNz
