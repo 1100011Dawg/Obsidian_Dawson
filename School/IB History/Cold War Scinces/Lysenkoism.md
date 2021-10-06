@@ -21,7 +21,7 @@ aliases:
  - Many of their experiments lacked a control[^13]
  - Who could not remember branched wheat[^14]
 	 - Had half the protein was susceptible to disease and didn't branch under normal growing conditions[^15]
- - Went aginst the hormonal stiumaltion of superovulation in sheep and the english 
+ - Went against the hormonal stimulation of superovulation in sheep[^16] and the english manged to use this successfully.
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -58,6 +58,8 @@ Footnotes:
 [^14]:“Who does not remember the preliminary advertising of branched wheat” (Medvedev and Lerner, p. 176)
 
 [^15]:“The branched wheat would not branch under ordinary growing conditions, its spikes were smaller than those of standard varieties, and its yield half as large. The miraculous wheat was susceptible to every disease, and its grain contained half the protein found in standard varieties.” (Medvedev and Lerner, p. 177)
+
+[^16]:“hormonal stimulation of superovulation in sheep and other species had been developed by the Morganist M. M. Zavadovsky” (Medvedev and Lerner, p. 178)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMDAxODhdfQ==
+eyJoaXN0b3J5IjpbMzM5ODUxMjk5XX0=
 -->
