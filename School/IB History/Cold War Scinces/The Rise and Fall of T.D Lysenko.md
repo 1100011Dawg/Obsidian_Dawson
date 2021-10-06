@@ -751,8 +751,7 @@ nihilated.1”
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
 <!--stackedit_data:
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NjI5MDczLC0yMTI5NTUwOTQxLC05Nz
-M3NTI3MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAz
-NzM1NV19
+eyJoaXN0b3J5IjpbLTUyNDA0MjQ0MSwtMjEyOTU1MDk0MSwtOT
+czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
+MzczNTVdfQ==
 -->
