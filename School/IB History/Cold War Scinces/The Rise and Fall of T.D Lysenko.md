@@ -752,13 +752,6 @@ nihilated.1”
 
 
 
-“As it happened, the calves in this case were intermediate in  
-size (30 to 31 kilograms). The explanation was very simple:  
-20 of the kilograms (typical for Jerseys) were due to the  
-calves’ “choosing” to develop in the Jersey direction, and the  
-remainder were not the result of heredity but of the abundant  
-feeding of the mothers.”  
-(Medvedev and Lerner, p. 190)
 
 “Greben’, the leader  
 of the zootechnical wing of Lysenkoism. He used the tech¬  
@@ -781,7 +774,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NDMwMjExLC0yMTI5NTUwOTQxLC05Nz
-M3NTI3MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAz
-NzM1NV19
+eyJoaXN0b3J5IjpbLTE3NzQ0NTg5MDUsLTIxMjk1NTA5NDEsLT
+k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
+MDM3MzU1XX0=
 -->
