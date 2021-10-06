@@ -25,6 +25,7 @@ aliases:
  - Went against Hybrid corn from inbred lines[^18]
 	 - America soon had 100% hybrid corn[^19]
 	 - Around 30-50 billion is the loss of corn from this 20 year campaign.[^20]
+	 - Order 41 forced all institutions to follow Lepeshinskaya[^21]
 #### Secondary Effects
  - Cybernetics remained underground until 1955[^5]
  - Declared Einstein relativity theory, Bohr complementary principle and Pauling theory of resonance were declared reactionary[^6]
@@ -71,6 +72,9 @@ Footnotes:
 [^19]:“Three  or four years later, 100 per cent of the corn grown in the United States was of hybrid origin.” (Medvedev and Lerner, p. 180)
 
 [^20]:“Thirty to fifty  billion kilograms of corn is the minimum loss sustained bv our country from the twenty-year anti-inbreeding campaign.” (Medvedev and Lerner, p. 181)
+
+[^21]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTI4NzI3NSwzMzk4NTEyOTldfQ==
+eyJoaXN0b3J5IjpbLTQwOTk2Mzc5LC0yNjkyODcyNzUsMzM5OD
+UxMjk5XX0=
 -->
