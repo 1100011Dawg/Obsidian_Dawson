@@ -751,21 +751,6 @@ nihilated.1”
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
 
-
-
-“Lysenko with a smoke screen until he invented the so-  
-called manure-earth composts.  
-These composts had actually been known for a long time”  
-(Medvedev and Lerner, p. 175)
-
-“But the earth component comprises only 15 to 20  
-per cent, and is added to improve the physical properties of  
-the compost and as an absorbent. Lysenko, however, proposed  
-the use of 80 to 90 per cent of earth in the compost for use in  
-the field.  
-According to Lysenk”  
-(Medvedev and Lerner, p. 175)
-
 “Who does not remember the preliminary advertising of  
 branched wheat”  
 (Medvedev and Lerner, p. 176)
@@ -853,7 +838,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjIwMDI4MSwtMjEyOTU1MDk0MSwtOT
-czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
-MzczNTVdfQ==
+eyJoaXN0b3J5IjpbLTE5NjMxNjQxMTUsLTIxMjk1NTA5NDEsLT
+k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
+MDM3MzU1XX0=
 -->
