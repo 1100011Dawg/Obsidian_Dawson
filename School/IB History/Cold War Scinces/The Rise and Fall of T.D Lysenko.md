@@ -750,10 +750,6 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-“Who does not remember the preliminary advertising of  
-branched wheat”  
-(Medvedev and Lerner, p. 176)
-
 “The branched  
 wheat would not branch under ordinary growing conditions,  
 its spikes were smaller than those of standard varieties, and its  
@@ -837,7 +833,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTI4MDMyMSwtMjEyOTU1MDk0MSwtOT
+eyJoaXN0b3J5IjpbLTEyNTIxMjg3NywtMjEyOTU1MDk0MSwtOT
 czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
 MzczNTVdfQ==
 -->
