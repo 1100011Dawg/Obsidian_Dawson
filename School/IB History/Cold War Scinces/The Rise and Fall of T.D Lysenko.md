@@ -753,12 +753,7 @@ nihilated.1”
 
 
 
-“Greben’, the leader  
-of the zootechnical wing of Lysenkoism. He used the tech¬  
-nique of Gogol’s hero Chichikov in acquiring “dead souls.”  
-One such dead soul was the great Soviet animal husbandman,  
-M. F. Ivanov”  
-(Medvedev and Lerner, p. 191)
+
 
 “Ivanov was thus repainted into a  
 Lysenkoite”  
@@ -774,7 +769,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ0NTg5MDUsLTIxMjk1NTA5NDEsLT
+eyJoaXN0b3J5IjpbLTEwOTE1NjEzMTUsLTIxMjk1NTA5NDEsLT
 k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
 MDM3MzU1XX0=
 -->
