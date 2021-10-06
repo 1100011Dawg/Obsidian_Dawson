@@ -68,9 +68,10 @@ Footnotes:
 
 [^18]:“Lysenko and Iris associates have long boasted of their struggle for many years against adoption in the U.S.S.R. of hybrid corn derived from crosses between inbred lines”  (Medvedev and Lerner, p. 179)
 
-[^19]:
+[^19]:“Three  or four years later, 100 per cent of the corn grown in the  United States was of hybrid origin.”  
+(Medvedev and Lerner, p. 180)
 
 [^20]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg0ODg2MTksMzM5ODUxMjk5XX0=
+eyJoaXN0b3J5IjpbMTk2NzM5ODI2NiwzMzk4NTEyOTldfQ==
 -->
