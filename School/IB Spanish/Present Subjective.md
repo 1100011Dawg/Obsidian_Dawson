@@ -9,6 +9,7 @@
 
 #### Ex:
  - Es importante que (Subjective)
+ - Es necesario que (Subjective)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNTAyODY0XX0=
+eyJoaXN0b3J5IjpbLTEzMzMyMzE0NjBdfQ==
 -->
