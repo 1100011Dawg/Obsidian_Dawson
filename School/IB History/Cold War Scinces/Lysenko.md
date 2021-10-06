@@ -114,9 +114,11 @@ Footnotes:
 
 [^33]:https://www.theatlantic.com/science/archive/2017/12/trofim-lysenko-soviet-union-russia/548786/
 
+[^34]: “Lysenko with a smoke screen until he invented the so-called manure-earth composts. These composts had actually been known for a long time”  (Medvedev and Lerner, p. 175)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NDg5MCw0MjA2NzI2MzQsLTI0NDU0ND
-E1NCw3MjUwNzYxMDVdfQ==
+eyJoaXN0b3J5IjpbLTEwNTQ3MDI0ODcsNzU0NDg5MCw0MjA2Nz
+I2MzQsLTI0NDU0NDE1NCw3MjUwNzYxMDVdfQ==
 -->
