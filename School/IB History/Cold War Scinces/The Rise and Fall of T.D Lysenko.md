@@ -750,23 +750,9 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-
-
-
-
-
-
-“In  
-secondary schools, millions of children still learned, from the  
-stereotyped text on Darwinism by Veselov, that Morganist  
-genetics is unproductive and reactionary, that it was begotten  
-of the bourgeoisie, that acquired characters are inherited, and  
-so forth.”  
-(Medvedev and Lerner, p. 193)
-
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM3NjAyNDEsLTIxMjk1NTA5NDEsLT
-k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
-MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbODQ4NjI5MDczLC0yMTI5NTUwOTQxLC05Nz
+M3NTI3MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAz
+NzM1NV19
 -->
