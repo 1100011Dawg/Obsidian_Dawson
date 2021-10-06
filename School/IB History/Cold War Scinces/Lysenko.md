@@ -124,16 +124,11 @@ Footnotes:
 
 [^36]:“It is Lysenko’s conviction that a hybrid zygote develops traits not in accorance with the Morganist laws of segregation and dominance and recessiveness, but in the way most profitable to itself.”  (Medvedev and Lerner, p. 189)
 
-[^37]:“As it happened, the calves in this case were intermediate in size (30 to 31 kilograms). The explanation was very simple:  
-20 of the kilograms (typical for Jerseys) were due to the  
-calves’ “choosing” to develop in the Jersey direction, and the  
-remainder were not the result of heredity but of the abundant  
-feeding of the mothers.”  
-(Medvedev and Lerner, p. 190)
+[^37]:“As it happened, the calves in this case were intermediate in size (30 to 31 kilograms). The explanation was very simple: 20 of the kilograms (typical for Jerseys) were due to the calves’ “choosing” to develop in the Jersey direction, and the remainder were not the result of heredity but of the abundant feeding of the mothers.” (Medvedev and Lerner, p. 190)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk0NzA5NTYsNzU0NDg5MCw0MjA2Nz
-I2MzQsLTI0NDU0NDE1NCw3MjUwNzYxMDVdfQ==
+eyJoaXN0b3J5IjpbMTM3NjE4MDg0LDc1NDQ4OTAsNDIwNjcyNj
+M0LC0yNDQ1NDQxNTQsNzI1MDc2MTA1XX0=
 -->
