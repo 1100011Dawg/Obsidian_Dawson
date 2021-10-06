@@ -84,12 +84,14 @@
 	 - Soil
 #### Biomass
  > Biomass: total dry mass of organic matter in organisms or ecosystems
- - See how produ tive a ecosystem is
+ - See how productive an ecosystem is
+ - Energy Flows through a ecosystem
+	 - $NP(net produc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTM4MzM1NCwxNTEyMzk5NTQzLDQwMz
-A4NDY0LC0xNTkwMjcxMDU1LDQxOTUzNjIzOSwtMTg3NjQwOTY4
-MCwtMjA5NzIzNjU5NSwzMjUzMTcxOTEsLTE0ODEwMzE0NSwtMz
-kzNDYwODkxLDIwMzE0NDk5MTYsLTE2MjAwMzA3MTQsMTg2MjAy
-NjEwOSwxNDEzMzYwMjg4LDEwOTA1MTI1MjQsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbMTAzODk0Mjg4NiwtNDU1MzgzMzU0LDE1MT
+IzOTk1NDMsNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NTM2MjM5
+LC0xODc2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5MSwtMT
+Q4MTAzMTQ1LC0zOTM0NjA4OTEsMjAzMTQ0OTkxNiwtMTYyMDAz
+MDcxNCwxODYyMDI2MTA5LDE0MTMzNjAyODgsMTA5MDUxMjUyNC
+wtMjA4ODc0NjYxMl19
 -->
