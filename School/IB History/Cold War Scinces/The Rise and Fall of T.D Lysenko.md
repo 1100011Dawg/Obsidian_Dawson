@@ -750,12 +750,6 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-
-
-“This treatment yielded no  
-crops;”  
-(Medvedev and Lerner, p. 183)
-
 “It is Lysenko’s  
 conviction that a hybrid zygote develops traits not in accord¬  
 ance with the Morganist laws of segregation and dominance  
@@ -791,7 +785,7 @@ so forth.”
 
 <!--stackedit_data:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MzA1OTM4LC0yMTI5NTUwOTQxLC05Nz
-M3NTI3MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAz
-NzM1NV19
+eyJoaXN0b3J5IjpbLTEzMzI5OTAzNTgsLTIxMjk1NTA5NDEsLT
+k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
+MDM3MzU1XX0=
 -->
