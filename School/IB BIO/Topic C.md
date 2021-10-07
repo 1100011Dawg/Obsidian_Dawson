@@ -95,13 +95,14 @@
  - Climate Graph: a diagram which shows the relative combination of temperature.
  - Ecological Succession
 	 - Primary succession
-		 - Emergence of an entierly new ecosystem
+		 - Emergence of an entirely new ecosystem
 	 - Secondary Succession
+		 - Replacement of one ecosystem by another following environmental change
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Nzg1NTAyNiw2MzU0MzcyOTksLTUxOT
-E1MDk1MiwtNDU1MzgzMzU0LDE1MTIzOTk1NDMsNDAzMDg0NjQs
-LTE1OTAyNzEwNTUsNDE5NTM2MjM5LC0xODc2NDA5NjgwLC0yMD
-k3MjM2NTk1LDMyNTMxNzE5MSwtMTQ4MTAzMTQ1LC0zOTM0NjA4
-OTEsMjAzMTQ0OTkxNiwtMTYyMDAzMDcxNCwxODYyMDI2MTA5LD
-E0MTMzNjAyODgsMTA5MDUxMjUyNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbOTc2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MT
+UwOTUyLC00NTUzODMzNTQsMTUxMjM5OTU0Myw0MDMwODQ2NCwt
+MTU5MDI3MTA1NSw0MTk1MzYyMzksLTE4NzY0MDk2ODAsLTIwOT
+cyMzY1OTUsMzI1MzE3MTkxLC0xNDgxMDMxNDUsLTM5MzQ2MDg5
+MSwyMDMxNDQ5OTE2LC0xNjIwMDMwNzE0LDE4NjIwMjYxMDksMT
+QxMzM2MDI4OCwxMDkwNTEyNTI0LC0yMDg4NzQ2NjEyXX0=
 -->
