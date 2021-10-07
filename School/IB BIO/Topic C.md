@@ -94,9 +94,11 @@
 #### Climate
  - Climate Graph: a diagram which shows the relative combination of temperature.
  - Ecological Succession
-	 - 
+	 - Primary succession
+		 - Emergence of an entierly new ecosystem
+	 - Secondary Succession
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDQ5MjkzNSw2MzU0MzcyOTksLTUxOT
+eyJoaXN0b3J5IjpbMTA0Nzg1NTAyNiw2MzU0MzcyOTksLTUxOT
 E1MDk1MiwtNDU1MzgzMzU0LDE1MTIzOTk1NDMsNDAzMDg0NjQs
 LTE1OTAyNzEwNTUsNDE5NTM2MjM5LC0xODc2NDA5NjgwLC0yMD
 k3MjM2NTk1LDMyNTMxNzE5MSwtMTQ4MTAzMTQ1LC0zOTM0NjA4
