@@ -97,14 +97,18 @@
 	 - The predictable and orderly changes in composition of an ecosystem over time
 	 - Primary succession
 		 - Emergence of an entirely new ecosystem
+		 1. Pioneer Species
+		 2. Intermediate species
+		 3. Climax community
 	 - Secondary Succession
 		 - Replacement of one ecosystem by another following environmental change
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDgwMzIwNSw5NzY3Njc4MzMsNjM1ND
-M3Mjk5LC01MTkxNTA5NTIsLTQ1NTM4MzM1NCwxNTEyMzk5NTQz
-LDQwMzA4NDY0LC0xNTkwMjcxMDU1LDQxOTUzNjIzOSwtMTg3Nj
-QwOTY4MCwtMjA5NzIzNjU5NSwzMjUzMTcxOTEsLTE0ODEwMzE0
-NSwtMzkzNDYwODkxLDIwMzE0NDk5MTYsLTE2MjAwMzA3MTQsMT
-g2MjAyNjEwOSwxNDEzMzYwMjg4LDEwOTA1MTI1MjQsLTIwODg3
-NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE0MzM2NjgxMzksOTc2NzY3ODMzLDYzNT
+QzNzI5OSwtNTE5MTUwOTUyLC00NTUzODMzNTQsMTUxMjM5OTU0
+Myw0MDMwODQ2NCwtMTU5MDI3MTA1NSw0MTk1MzYyMzksLTE4Nz
+Y0MDk2ODAsLTIwOTcyMzY1OTUsMzI1MzE3MTkxLC0xNDgxMDMx
+NDUsLTM5MzQ2MDg5MSwyMDMxNDQ5OTE2LC0xNjIwMDMwNzE0LD
+E4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkwNTEyNTI0LC0yMDg4
+NzQ2NjEyXX0=
 -->
