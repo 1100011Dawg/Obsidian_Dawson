@@ -95,6 +95,8 @@
  - Climate Graph: a diagram which shows the relative combination of temperature.
  - Ecological Succession
 	 - The predictable and orderly changes in composition of an ecosystem over time
+	 - Changes the abiotic environment
+	 - Produces Microclimates
 	 - Primary succession
 		 - From Bare Rock
 		 - Gross production increases
@@ -107,11 +109,11 @@
 		 - Replacement of one ecosystem by another following environmental change
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NzU3NDMxLC0xNDMzNjY4MTM5LDk3Nj
-c2NzgzMyw2MzU0MzcyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0
-LDE1MTIzOTk1NDMsNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NT
-M2MjM5LC0xODc2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5
-MSwtMTQ4MTAzMTQ1LC0zOTM0NjA4OTEsMjAzMTQ0OTkxNiwtMT
-YyMDAzMDcxNCwxODYyMDI2MTA5LDE0MTMzNjAyODgsMTA5MDUx
-MjUyNF19
+eyJoaXN0b3J5IjpbLTExMzE2OTE1MDAsLTE0MzM2NjgxMzksOT
+c2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MTUwOTUyLC00NTUzODMz
+NTQsMTUxMjM5OTU0Myw0MDMwODQ2NCwtMTU5MDI3MTA1NSw0MT
+k1MzYyMzksLTE4NzY0MDk2ODAsLTIwOTcyMzY1OTUsMzI1MzE3
+MTkxLC0xNDgxMDMxNDUsLTM5MzQ2MDg5MSwyMDMxNDQ5OTE2LC
+0xNjIwMDMwNzE0LDE4NjIwMjYxMDksMTQxMzM2MDI4OCwxMDkw
+NTEyNTI0XX0=
 -->
