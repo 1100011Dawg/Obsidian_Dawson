@@ -12,7 +12,8 @@
 | _s | _´is  |
 | _  | _n    |
 
-> Written with [StackEdit](https://stackedit.io/).
+Ex:
+ - era probable que cocvendiera
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMDk2MDQyXX0=
+eyJoaXN0b3J5IjpbNTkwMzAzXX0=
 -->
