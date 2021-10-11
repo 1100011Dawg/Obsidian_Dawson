@@ -108,10 +108,13 @@
 	 - Secondary Succession
 		 - Replacement of one ecosystem by another following environmental change
 
-
+Alien species
+ - arrives in a non-native habitat
+ - Often not adapted and is outside its niche
+ - Can become invasive
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ2Mjk1MjAsLTExMzE2OTE1MDAsLT
+eyJoaXN0b3J5IjpbLTE5MzM2NDE3MzEsLTExMzE2OTE1MDAsLT
 E0MzM2NjgxMzksOTc2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MTUw
 OTUyLC00NTUzODMzNTQsMTUxMjM5OTU0Myw0MDMwODQ2NCwtMT
 U5MDI3MTA1NSw0MTk1MzYyMzksLTE4NzY0MDk2ODAsLTIwOTcy
