@@ -10,10 +10,10 @@ Do is implied with the ? instead of hacer
 
 se puede: can one, for passive voice
 
-
+se for a passive reflexive(no target)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA3NzQ3NzksMjU5MjQyNDI3LDE5ND
-UwNjE4MDgsODY3ODE1MTQ3LC0xOTI3NjA5NjI5LC0xNjY2MzIy
-OTAyXX0=
+eyJoaXN0b3J5IjpbLTg4MzQ5Nzg2MywtMTUyMDc3NDc3OSwyNT
+kyNDI0MjcsMTk0NTA2MTgwOCw4Njc4MTUxNDcsLTE5Mjc2MDk2
+MjksLTE2NjYzMjI5MDJdfQ==
 -->
