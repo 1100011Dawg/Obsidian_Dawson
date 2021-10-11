@@ -13,8 +13,8 @@
 | _  | _n    |
 
 Ex:
- - 
  - era probable que cocaína vendiera en sudamérica
+ - era probable que pueblo comiera un malo dieta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4NTc1MDA2XX0=
+eyJoaXN0b3J5IjpbNDUyMzgwODZdfQ==
 -->
