@@ -56,13 +56,16 @@
 			- or for strength(less durable during recession)
 - Non profit social enterprises
 	- $Surplus = totalrevenues-totalcosts$
-	- NGO(non govermental orginization)
+	- NGO(non governmental organization)
 		- Charities
-			- provide as much relief as possible for thoose in need
+			- Provide as much relief as possible for those in need
+				- Foster a philanthropic spirit in the community
+					- Discusion of the 
 			- Profits are not generated
 				- Donations are important
-				- 
+			- Unclear ownership and control
+			- Don pay taxes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMTg1OTA1LDYyMjYyODY2MSwtMTQzOD
-QyOTQxMywtMjA5NDk4NTk2NV19
+eyJoaXN0b3J5IjpbMTA4ODUzMzUwNiw2MjI2Mjg2NjEsLTE0Mz
+g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
 -->
