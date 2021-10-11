@@ -55,8 +55,9 @@
 		- May be insufficient capital for growth.
 			- or for strength(less durable during recession)
 - Non profit social enterprises
-	- $Surplus = 
+	- $Surplus = totalrevenues-totalcosts$
+	- NGO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTY1MjQ3Niw2MjI2Mjg2NjEsLTE0Mz
-g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
+eyJoaXN0b3J5IjpbNTgxMTIxMTUsNjIyNjI4NjYxLC0xNDM4ND
+I5NDEzLC0yMDk0OTg1OTY1XX0=
 -->
