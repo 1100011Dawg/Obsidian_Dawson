@@ -18,7 +18,10 @@ Ex:
  - it is probable that cocaine would be sold
 	 - era probable que cocaína se vendiera
  - sería malo(conditional), si uno no durmiera suficiente(subjective)
- - Sería mejor, se uno durmiera ocho horas
+ - Sería mejor, si uno durmiera ocho horas
+
+ - One
+	 - : hellow
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjczNDkzNF19
+eyJoaXN0b3J5IjpbLTE3NzAyNTg3XX0=
 -->
