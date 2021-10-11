@@ -42,10 +42,13 @@
 		- A consumer cooperative
 			- Provides a service to consumers who are part of the business.
 	- Micro-Financiers:
-		- Provide a small amount of finance who otherwise won´t be able to access it. Usualy has stipulations.
+		- Provide a small amount of finance who otherwise won´t be able to access it. Usually has stipulations.
 	- Public-Private partnerships(PPP)
-		- The Public sector 
+		- The Public sector provides finance
+		- Private provides the expertise
+		- Profit is important but not the priority
+		- Collaboration between buisness and
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMzcwNTMxLDYyMjYyODY2MSwtMTQzOD
-QyOTQxMywtMjA5NDk4NTk2NV19
+eyJoaXN0b3J5IjpbLTEwNzc0NDYwODYsNjIyNjI4NjYxLC0xND
+M4NDI5NDEzLC0yMDk0OTg1OTY1XX0=
 -->
