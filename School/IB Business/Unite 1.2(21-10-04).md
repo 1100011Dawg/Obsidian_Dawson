@@ -65,8 +65,9 @@
 			- Profits are not generated
 				- Donations are important
 			- Unclear ownership and control
+				- intense lobbying can lead to undesirable goods
 			- Don´t pay taxes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjU3MjQ2Nyw2MjI2Mjg2NjEsLTE0Mz
-g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
+eyJoaXN0b3J5IjpbNjAzMTAxNzU1LDYyMjYyODY2MSwtMTQzOD
+QyOTQxMywtMjA5NDk4NTk2NV19
 -->
