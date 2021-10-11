@@ -14,10 +14,10 @@
 
 Ex:
  - It is probable that people would eat an unhealthy diet
-	 - era probable que pueblo comieran un malo dieta 
+	 - era probable que pueblo comiera un malo dieta 
  - it is probable that cocaine would be sold
-	 - era probable que cocaína  --- vendiera en sudamérica
+	 - era probable que cocaína se vendiera en sudamérica
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjE0MzM4NF19
+eyJoaXN0b3J5IjpbLTEyNjUxNDMzNTddfQ==
 -->
