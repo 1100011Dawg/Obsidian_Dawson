@@ -44,8 +44,8 @@
 	- Micro-Financiers:
 		- Provide a small amount of finance who otherwise won´t be able to access it. Usualy has stipulations.
 	- Public-Private partnerships(PPP)
-		- 
+		- The Public sector 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjU5MDgzNyw2MjI2Mjg2NjEsLTE0Mz
-g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
+eyJoaXN0b3J5IjpbNTkwMzcwNTMxLDYyMjYyODY2MSwtMTQzOD
+QyOTQxMywtMjA5NDk4NTk2NV19
 -->
