@@ -19,9 +19,9 @@ Ex:
 	 - era probable que cocaína se vendiera
  - sería malo(conditional), si uno no durmiera suficiente(subjective)
  - Sería mejor, si uno durmiera ocho horas
+ - 
 
- - One
-	 - : hellow
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzAyNTg3XX0=
+eyJoaXN0b3J5IjpbLTIxMjQ0OTU1MjNdfQ==
 -->
