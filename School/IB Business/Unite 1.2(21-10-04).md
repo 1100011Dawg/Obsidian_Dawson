@@ -49,8 +49,12 @@
 		- Profit is important but not the priority
 		- Collaboration between business and the local community
 		- Greater democracy
-		- 
+			- Strong communal identity
+			- Decision is complex and time consuming
+		- Favourable legal status
+		- May be insufficient capital for growth.
+			- or for strangth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM2NDQ3NTYsNjIyNjI4NjYxLC0xND
-M4NDI5NDEzLC0yMDk0OTg1OTY1XX0=
+eyJoaXN0b3J5IjpbMTY1MDA1MjMwMiw2MjI2Mjg2NjEsLTE0Mz
+g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
 -->
