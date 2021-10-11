@@ -16,8 +16,8 @@ Ex:
  - It is probable that people would eat an unhealthy diet
 	 - era probable que pueblo comiera un malo dieta 
  - it is probable that cocaine would be sold
-	 - era probable que cocaína se vendiera en sudamérica
+	 - era probable que cocaína se vendiera
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUxNDMzNTddfQ==
+eyJoaXN0b3J5IjpbLTEwMjg5MjAwODZdfQ==
 -->
