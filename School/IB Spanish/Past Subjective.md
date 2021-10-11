@@ -17,7 +17,7 @@ Ex:
 	 - era probable que pueblo comiera un malo dieta 
  - it is probable that cocaine would be sold
 	 - era probable que cocaína se vendiera
- - 
+ - sería malo, si 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTAyNTIzOV19
+eyJoaXN0b3J5IjpbLTE2MDk0NTQ2NDZdfQ==
 -->
