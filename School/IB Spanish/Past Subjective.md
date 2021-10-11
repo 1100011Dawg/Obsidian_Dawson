@@ -1,5 +1,5 @@
  #### Imperfecto del subjuntivo
- - Use right steams(tuv
+ - Use right steams(tuv)
  - Indicative part is past
  - AR:ara
  - IR/ER: iera
@@ -14,5 +14,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU3OTQzMV19
+eyJoaXN0b3J5IjpbNTYzMDk2MDQyXX0=
 -->
