@@ -64,10 +64,13 @@
 			- Can be more innovative
 			- Profits are not generated
 				- Donations are important
+					- Funding can be irregular
 			- Unclear ownership and control
 				- intense lobbying can lead to undesirable goods
 			- Don´t pay taxes
+			- Sometimes the employees are too passionate and take undesirable actions
+			- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMTAxNzU1LDYyMjYyODY2MSwtMTQzOD
-QyOTQxMywtMjA5NDk4NTk2NV19
+eyJoaXN0b3J5IjpbLTIwMzMwMjUyMTUsNjIyNjI4NjYxLC0xND
+M4NDI5NDEzLC0yMDk0OTg1OTY1XX0=
 -->
