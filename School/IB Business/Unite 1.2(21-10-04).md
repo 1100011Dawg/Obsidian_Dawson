@@ -53,8 +53,10 @@
 			- Decision is complex and time consuming
 		- Favourable legal status
 		- May be insufficient capital for growth.
-			- or for strangth
+			- or for strength(less durable during recession)
+- Non profit social enterprises
+	- $Surplus = 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDA1MjMwMiw2MjI2Mjg2NjEsLTE0Mz
+eyJoaXN0b3J5IjpbMTUyMTY1MjQ3Niw2MjI2Mjg2NjEsLTE0Mz
 g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
 -->
