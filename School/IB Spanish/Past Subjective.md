@@ -19,9 +19,9 @@ Ex:
 	 - era probable que cocaína se vendiera
  - sería malo(conditional), si uno no durmiera suficiente(subjective)
  - Sería mejor, si uno durmiera ocho horas
- - Los niños pobres en Colombia jugarían deportes si ellos tuvieran fuerza
+ - Los niños pobres en Colombia jugarían deportes si ellos tuvieran ~~fuerza~~ acceso
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjY3ODU2NCwtMTk5NTMzMDgyOV19
+eyJoaXN0b3J5IjpbMTU5Mjg1NTcyMCwtMTk5NTMzMDgyOV19
 -->
