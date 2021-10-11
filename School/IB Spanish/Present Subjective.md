@@ -2,7 +2,7 @@
  - A person's opinion about something
  - A potential
  - Not specific time
- - 
+ - Indicative part is present/ future
 | Present         | Past                              |
 |-----------------|-----------------------------------|
 | Present Perfect | Pluscunam perfecto del subjuntivo |
@@ -31,5 +31,6 @@
 | a  | an   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzg5OTUwOCwtMTMzMzIzMTQ2MF19
+eyJoaXN0b3J5IjpbMTU3Njc3MTUxNCwtMzI3ODk5NTA4LC0xMz
+MzMjMxNDYwXX0=
 -->
