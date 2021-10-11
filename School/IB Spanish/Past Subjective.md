@@ -13,8 +13,10 @@
 | _  | _n    |
 
 Ex:
- - era probable que cocaína vendiera en sudamérica
- - era probable que pueblo comiera un malo dieta 
+ - it is probable that cocaine would be sold
+	 - era probable que cocaína vendieran en sudamérica
+ - 
+ - era probable que pueblo comieran un malo dieta 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMzgwODZdfQ==
+eyJoaXN0b3J5IjpbMjEzNDc4Nzk3MV19
 -->
