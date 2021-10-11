@@ -13,7 +13,8 @@
 | _  | _n    |
 
 Ex:
- - era probable que cocvendiera
+ - 
+ - era probable que cocaína vendiera en sudamérica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMzAzXX0=
+eyJoaXN0b3J5IjpbNDE4NTc1MDA2XX0=
 -->
