@@ -17,7 +17,7 @@ Ex:
 	 - era probable que pueblo comiera un malo dieta 
  - it is probable that cocaine would be sold
 	 - era probable que cocaína se vendiera
- - sería malo, si 
+ - sería malo(conditional), si uno no durmiera suficiente(subjective)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk0NTQ2NDZdfQ==
+eyJoaXN0b3J5IjpbMTU5NzAwNDIxOV19
 -->
