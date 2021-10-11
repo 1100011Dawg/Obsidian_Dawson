@@ -60,12 +60,13 @@
 		- Charities
 			- Provide as much relief as possible for those in need
 				- Foster a philanthropic spirit in the community
-					- Discusion of the 
+					- Discussion of the allocation of resources
+			- Can be more innovative
 			- Profits are not generated
 				- Donations are important
 			- Unclear ownership and control
-			- Don pay taxes
+			- Don´t pay taxes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODUzMzUwNiw2MjI2Mjg2NjEsLTE0Mz
+eyJoaXN0b3J5IjpbMTg5MjU3MjQ2Nyw2MjI2Mjg2NjEsLTE0Mz
 g0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
 -->
