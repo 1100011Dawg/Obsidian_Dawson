@@ -112,12 +112,13 @@ Alien species
  - arrives in a non-native habitat
  - Often not adapted and is outside its niche
  - Can become invasive
-	 - Ex
+	 - Leads to
+	 - Ex:
 		 - Zebra mussels were released from ballast water and now dominate waterways
-		 - Cane toad was tried to controal the cane beetle
+		 - Cane toad was tried to control the cane beetle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTY5ODQ2MCwtMTkzMzY0MTczMSwtMT
+eyJoaXN0b3J5IjpbLTc1ODc0NDkzMCwtMTkzMzY0MTczMSwtMT
 EzMTY5MTUwMCwtMTQzMzY2ODEzOSw5NzY3Njc4MzMsNjM1NDM3
 Mjk5LC01MTkxNTA5NTIsLTQ1NTM4MzM1NCwxNTEyMzk5NTQzLD
 QwMzA4NDY0LC0xNTkwMjcxMDU1LDQxOTUzNjIzOSwtMTg3NjQw
