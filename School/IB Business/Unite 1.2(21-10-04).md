@@ -47,8 +47,10 @@
 		- The Public sector provides finance
 		- Private provides the expertise
 		- Profit is important but not the priority
-		- Collaboration between buisness and
+		- Collaboration between business and the local community
+		- Greater democracy
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc0NDYwODYsNjIyNjI4NjYxLC0xND
+eyJoaXN0b3J5IjpbLTIwNzM2NDQ3NTYsNjIyNjI4NjYxLC0xND
 M4NDI5NDEzLC0yMDk0OTg1OTY1XX0=
 -->
