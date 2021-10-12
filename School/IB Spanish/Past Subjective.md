@@ -14,6 +14,10 @@
 
 > estar and tener is very similar in past subjective ex:estuvieran
 
+Ex sentence structure
+: Cond, si past subjective
+: Si past suj, conditional
+
 Ex:
  - It is probable that people would eat an unhealthy diet
 	 - era probable que pueblo comiera un malo dieta 
@@ -25,6 +29,6 @@ Ex:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTY2OTU4NSwxNTkyODU1NzIwLC0xOT
-k1MzMwODI5XX0=
+eyJoaXN0b3J5IjpbLTE2NDg4Nzk3NTgsMTU5Mjg1NTcyMCwtMT
+k5NTMzMDgyOV19
 -->
