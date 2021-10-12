@@ -108,7 +108,7 @@
 	 - Secondary Succession
 		 - Replacement of one ecosystem by another following environmental change
 
-Alien species
+#### Alien species
  - arrives in a non-native habitat
  - Often not adapted and is outside its niche
  - Can become invasive
@@ -118,16 +118,18 @@ Alien species
 		 - Zebra mussels were released from ballast water and now dominate waterways
 		 - Cane toad was tried to control the cane beetle
 			 - Control pests on sugar cane
-Biological Control:
+#### Biological Control:
  - Use or introduction of a species to control an other
  - EX:
 	 - Releasing RHDV(virus) to control rabbit populations
+#### Biomagnification
+ - where chemical substances become more concentrated at higher trophic levels.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY3MDcxMjMsLTEzNzA1NjgzODIsMz
-Y4MzgyMDUxLC0xOTMzNjQxNzMxLC0xMTMxNjkxNTAwLC0xNDMz
-NjY4MTM5LDk3Njc2NzgzMyw2MzU0MzcyOTksLTUxOTE1MDk1Mi
-wtNDU1MzgzMzU0LDE1MTIzOTk1NDMsNDAzMDg0NjQsLTE1OTAy
-NzEwNTUsNDE5NTM2MjM5LC0xODc2NDA5NjgwLC0yMDk3MjM2NT
-k1LDMyNTMxNzE5MSwtMTQ4MTAzMTQ1LC0zOTM0NjA4OTEsMjAz
-MTQ0OTkxNl19
+eyJoaXN0b3J5IjpbODY1NDkzNDExLC0xMjU2NzA3MTIzLC0xMz
+cwNTY4MzgyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5
+MTUwMCwtMTQzMzY2ODEzOSw5NzY3Njc4MzMsNjM1NDM3Mjk5LC
+01MTkxNTA5NTIsLTQ1NTM4MzM1NCwxNTEyMzk5NTQzLDQwMzA4
+NDY0LC0xNTkwMjcxMDU1LDQxOTUzNjIzOSwtMTg3NjQwOTY4MC
+wtMjA5NzIzNjU5NSwzMjUzMTcxOTEsLTE0ODEwMzE0NSwtMzkz
+NDYwODkxXX0=
 -->
