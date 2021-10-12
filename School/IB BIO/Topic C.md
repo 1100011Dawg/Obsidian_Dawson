@@ -125,11 +125,11 @@
 #### Biomagnification
  - where chemical substances become more concentrated at higher trophic levels.
  - EX:
-	 - DDT a synthetic pesticide to control malaria to control the malria vector
+	 - DDT a synthetic pesticide to control malaria to control the malaria vector
 #### Bioaccumulation
  - where the increase in the substance is within one trophic level
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEzNTQxOTksLTEyNTY3MDcxMjMsLT
+eyJoaXN0b3J5IjpbLTEyMDIwOTM5NzYsLTEyNTY3MDcxMjMsLT
 EzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNjQxNzMxLC0xMTMx
 NjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2NzgzMyw2MzU0MzcyOT
 ksLTUxOTE1MDk1MiwtNDU1MzgzMzU0LDE1MTIzOTk1NDMsNDAz
