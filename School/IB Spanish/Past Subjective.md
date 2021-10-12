@@ -12,6 +12,8 @@
 | _s | _´is  |
 | _  | _n    |
 
+> estar and tener is very similar in past subjective ex:estuvieran
+
 Ex:
  - It is probable that people would eat an unhealthy diet
 	 - era probable que pueblo comiera un malo dieta 
@@ -23,5 +25,6 @@ Ex:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Mjg1NTcyMCwtMTk5NTMzMDgyOV19
+eyJoaXN0b3J5IjpbLTY5OTY2OTU4NSwxNTkyODU1NzIwLC0xOT
+k1MzMwODI5XX0=
 -->
