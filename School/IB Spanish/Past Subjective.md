@@ -14,6 +14,7 @@
 
 > estar and tener is very similar in past subjective ex:estuvieran
 
+> if have jie eleiminate i ex:redujieran to redujeran
 
 Ex sentence structure
 : Cond, si past subjective
@@ -30,6 +31,6 @@ Ex:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyOTA1MDAsLTE2NDg4Nzk3NTgsMTU5Mj
-g1NTcyMCwtMTk5NTMzMDgyOV19
+eyJoaXN0b3J5IjpbNjEwMTQwMjUwLC0xNjQ4ODc5NzU4LDE1OT
+I4NTU3MjAsLTE5OTUzMzA4MjldfQ==
 -->
