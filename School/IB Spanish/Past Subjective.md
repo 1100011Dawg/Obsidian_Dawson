@@ -14,6 +14,7 @@
 
 > estar and tener is very similar in past subjective ex:estuvieran
 
+
 Ex sentence structure
 : Cond, si past subjective
 : Si past suj, conditional
@@ -29,6 +30,6 @@ Ex:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg4Nzk3NTgsMTU5Mjg1NTcyMCwtMT
-k5NTMzMDgyOV19
+eyJoaXN0b3J5IjpbNDIyOTA1MDAsLTE2NDg4Nzk3NTgsMTU5Mj
+g1NTcyMCwtMTk5NTMzMDgyOV19
 -->
