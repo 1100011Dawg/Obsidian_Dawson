@@ -118,13 +118,14 @@ Alien species
 		 - Zebra mussels were released from ballast water and now dominate waterways
 		 - Cane toad was tried to control the cane beetle
 			 - Control pests on sugar cane
-
+Biological Control:
+ - Use or introduction of a species to control an other
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOT
-MzNjQxNzMxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2
-NzgzMyw2MzU0MzcyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0LD
-E1MTIzOTk1NDMsNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NTM2
-MjM5LC0xODc2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5MS
-wtMTQ4MTAzMTQ1LC0zOTM0NjA4OTEsMjAzMTQ0OTkxNiwtMTYy
-MDAzMDcxNF19
+eyJoaXN0b3J5IjpbMTAxMDA3NDc4NiwtMTM3MDU2ODM4MiwzNj
+gzODIwNTEsLTE5MzM2NDE3MzEsLTExMzE2OTE1MDAsLTE0MzM2
+NjgxMzksOTc2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MTUwOTUyLC
+00NTUzODMzNTQsMTUxMjM5OTU0Myw0MDMwODQ2NCwtMTU5MDI3
+MTA1NSw0MTk1MzYyMzksLTE4NzY0MDk2ODAsLTIwOTcyMzY1OT
+UsMzI1MzE3MTkxLC0xNDgxMDMxNDUsLTM5MzQ2MDg5MSwyMDMx
+NDQ5OTE2XX0=
 -->
