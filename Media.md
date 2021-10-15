@@ -3,7 +3,7 @@
 - [ ] GlimWarden:13
 - [ ] OnePunch:149
 - [ ] My her Academia:326
-- [ ] Falling Hard: 92
+- [ ] Falling Hard: 93
 - [ ] G.O.D: 13
 - [x] DUB Hellsing Ultimate: 10
 
