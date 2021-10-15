@@ -7,7 +7,6 @@
 - [ ] G.O.D: 13
 - [x] DUB Hellsing Ultimate: 10
 
--->65
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjM5MDY2MzcsLTIwNDM2Nzg2NjRdfQ==
 -->
