@@ -5,7 +5,7 @@
 - [ ] My her Academia:326
 - [ ] Falling Hard: 92
 - [ ] G.O.D: 13
-- [ ] DUB Hellsing Ultimate: 6
+- [x] DUB Hellsing Ultimate: 10
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MjI0MTc4OCwtMTc4MjcwNzE3OCwxNT
 M3MDQ0OTcxXX
