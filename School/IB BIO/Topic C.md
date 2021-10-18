@@ -132,10 +132,10 @@
 -  Broad term that describes a number of diffrent polymers
 	- Microplastic is less than 1mm
 		- 65% of all ocean debris
-	- Not 
+	- Not Biodegradable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAxMzc3NjQsLTEyMDIwOTM5NzYsLT
+eyJoaXN0b3J5IjpbLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLT
 EyNTY3MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMz
 NjQxNzMxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2Nz
 gzMyw2MzU0MzcyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0LDE1
