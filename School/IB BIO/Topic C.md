@@ -129,17 +129,17 @@
 #### Bioaccumulation
  - where the increase in the substance is within one trophic level
 #### Plastic:
--  Broad term that describes a number of diffrent polymers
+-  Broad term that describes a number of different polymers
 	- Microplastic is less than 1mm
 		- 65% of all ocean debris
 	- Not Biodegradable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLT
-EyNTY3MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMz
-NjQxNzMxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2Nz
-gzMyw2MzU0MzcyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0LDE1
-MTIzOTk1NDMsNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NTM2Mj
-M5LC0xODc2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5MSwt
-MTQ4MTAzMTQ1XX0=
+eyJoaXN0b3J5IjpbMTIzNDA3NDY2NiwtMTAxMDc0MjQyOSwtMT
+IwMjA5Mzk3NiwtMTI1NjcwNzEyMywtMTM3MDU2ODM4MiwzNjgz
+ODIwNTEsLTE5MzM2NDE3MzEsLTExMzE2OTE1MDAsLTE0MzM2Nj
+gxMzksOTc2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MTUwOTUyLC00
+NTUzODMzNTQsMTUxMjM5OTU0Myw0MDMwODQ2NCwtMTU5MDI3MT
+A1NSw0MTk1MzYyMzksLTE4NzY0MDk2ODAsLTIwOTcyMzY1OTUs
+MzI1MzE3MTkxXX0=
 -->
