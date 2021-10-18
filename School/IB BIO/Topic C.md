@@ -128,12 +128,18 @@
 	 - DDT a synthetic pesticide to control malaria to control the malaria vector
 #### Bioaccumulation
  - where the increase in the substance is within one trophic level
+#### Plastic:
+-  Broad term that describes a number of diffrent polymers
+	- Microplastic is less than 1mm
+		- 65% of all ocean debris
+	- Not 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIwOTM5NzYsLTEyNTY3MDcxMjMsLT
-EzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNjQxNzMxLC0xMTMx
-NjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2NzgzMyw2MzU0MzcyOT
-ksLTUxOTE1MDk1MiwtNDU1MzgzMzU0LDE1MTIzOTk1NDMsNDAz
-MDg0NjQsLTE1OTAyNzEwNTUsNDE5NTM2MjM5LC0xODc2NDA5Nj
-gwLC0yMDk3MjM2NTk1LDMyNTMxNzE5MSwtMTQ4MTAzMTQ1LC0z
-OTM0NjA4OTFdfQ==
+eyJoaXN0b3J5IjpbLTExNjAxMzc3NjQsLTEyMDIwOTM5NzYsLT
+EyNTY3MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMz
+NjQxNzMxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2Nz
+gzMyw2MzU0MzcyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0LDE1
+MTIzOTk1NDMsNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NTM2Mj
+M5LC0xODc2NDA5NjgwLC0yMDk3MjM2NTk1LDMyNTMxNzE5MSwt
+MTQ4MTAzMTQ1XX0=
 -->
