@@ -144,10 +144,10 @@
  - Use a (Hilsenhoff)Biotic index to compare the relative frequency of indicator species
  - $BI = \frac{\sum{n_i*a_i}}{N}$
 	 - $n_i$ is number of individual of a species
-	 -  $a_i$ tolerance rating of the species
+	 -  $a_i$ tolerance rating of the species(Bigger less tolerant)
 	 -  $N$ total number of individuals collected
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzM3ODkwOSwxMjIzMTgwODU4LDE4Nz
+eyJoaXN0b3J5IjpbLTg0ODc0NzMyOCwxMjIzMTgwODU4LDE4Nz
 gwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQy
 NDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNTY4Mz
 gyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5MTUwMCwt
