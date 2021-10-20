@@ -146,12 +146,16 @@
 	 - $n_i$ is number of individual of a species
 	 -  $a_i$ tolerance rating of the species(Bigger less tolerant)
 	 -  $N$ total number of individuals collected
+
+#### Biodiversity
+ - Richness:
+	 - Number of dif
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODc0NzMyOCwxMjIzMTgwODU4LDE4Nz
-gwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQy
-NDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNTY4Mz
-gyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5MTUwMCwt
-MTQzMzY2ODEzOSw5NzY3Njc4MzMsNjM1NDM3Mjk5LC01MTkxNT
-A5NTIsLTQ1NTM4MzM1NCwxNTEyMzk5NTQzLDQwMzA4NDY0LC0x
-NTkwMjcxMDU1XX0=
+eyJoaXN0b3J5IjpbNzYzNDU0MTA3LDEyMjMxODA4NTgsMTg3OD
+A5MzAzNywtMjg1NzY2MzYyLDEyMzQwNzQ2NjYsLTEwMTA3NDI0
+MjksLTEyMDIwOTM5NzYsLTEyNTY3MDcxMjMsLTEzNzA1NjgzOD
+IsMzY4MzgyMDUxLC0xOTMzNjQxNzMxLC0xMTMxNjkxNTAwLC0x
+NDMzNjY4MTM5LDk3Njc2NzgzMyw2MzU0MzcyOTksLTUxOTE1MD
+k1MiwtNDU1MzgzMzU0LDE1MTIzOTk1NDMsNDAzMDg0NjQsLTE1
+OTAyNzEwNTVdfQ==
 -->
