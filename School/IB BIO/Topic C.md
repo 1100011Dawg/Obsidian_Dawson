@@ -152,12 +152,16 @@
 	 - Number of different species present
  - Evenness:
 	 - If a habitat has a similar abundance for each species present.
+ - Simpsons reciprical index
+	 - $D=\frac{N(N-1)}{\sum{n(n-1)}}$
+		 - N:Total of all species
+		 - n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk3MjQ5NTYsMTIyMzE4MDg1OCwxOD
-c4MDkzMDM3LC0yODU3NjYzNjIsMTIzNDA3NDY2NiwtMTAxMDc0
-MjQyOSwtMTIwMjA5Mzk3NiwtMTI1NjcwNzEyMywtMTM3MDU2OD
-M4MiwzNjgzODIwNTEsLTE5MzM2NDE3MzEsLTExMzE2OTE1MDAs
-LTE0MzM2NjgxMzksOTc2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MT
-UwOTUyLC00NTUzODMzNTQsMTUxMjM5OTU0Myw0MDMwODQ2NCwt
-MTU5MDI3MTA1NV19
+eyJoaXN0b3J5IjpbMjEzMzc2NDA4OCwxMjIzMTgwODU4LDE4Nz
+gwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQy
+NDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNTY4Mz
+gyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5MTUwMCwt
+MTQzMzY2ODEzOSw5NzY3Njc4MzMsNjM1NDM3Mjk5LC01MTkxNT
+A5NTIsLTQ1NTM4MzM1NCwxNTEyMzk5NTQzLDQwMzA4NDY0LC0x
+NTkwMjcxMDU1XX0=
 -->
