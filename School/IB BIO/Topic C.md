@@ -141,17 +141,17 @@
  - Are species that are sensitive to environmental conditions because of their limited Tolerance(shelford Law of Tolerance)
 
 #### Kick sampling
- - Use a Biotic index to compare the relative frequency of indicator species
+ - Use a (Hilsenhoff)Biotic index to compare the relative frequency of indicator species
  - $BI = \frac{\sum{n_i*a_i}}{N}$
 	 - $n_i$ is number of individual of a species
 	 -  $a_i$ tolerance rating of the species
 	 -  $N$ total number of individuals collected
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzE4MDg1OCwxODc4MDkzMDM3LC0yOD
-U3NjYzNjIsMTIzNDA3NDY2NiwtMTAxMDc0MjQyOSwtMTIwMjA5
-Mzk3NiwtMTI1NjcwNzEyMywtMTM3MDU2ODM4MiwzNjgzODIwNT
-EsLTE5MzM2NDE3MzEsLTExMzE2OTE1MDAsLTE0MzM2NjgxMzks
-OTc2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MTUwOTUyLC00NTUzOD
-MzNTQsMTUxMjM5OTU0Myw0MDMwODQ2NCwtMTU5MDI3MTA1NSw0
-MTk1MzYyMzldfQ==
+eyJoaXN0b3J5IjpbLTcwNzM3ODkwOSwxMjIzMTgwODU4LDE4Nz
+gwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQy
+NDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNTY4Mz
+gyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5MTUwMCwt
+MTQzMzY2ODEzOSw5NzY3Njc4MzMsNjM1NDM3Mjk5LC01MTkxNT
+A5NTIsLTQ1NTM4MzM1NCwxNTEyMzk5NTQzLDQwMzA4NDY0LC0x
+NTkwMjcxMDU1XX0=
 -->
