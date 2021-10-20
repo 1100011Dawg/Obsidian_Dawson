@@ -135,7 +135,7 @@
 	- Not Biodegradable
 - Mistaken for food leading to suffication.
 
-> In situ(inside natural environment), Ex situ(outside natural environment)
+> In situ(inside natural environment), Ex situ(outside natural environment) for preservation
 
 #### Indicator species
  - Are species that are sensitive to environmental conditions because of their limited Tolerance(shelford Law of Tolerance)
@@ -147,11 +147,11 @@
 	 -  $a_i$ tolerance rating of the species
 	 -  $N$ total number of individuals collected
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODA5MzAzNywtMjg1NzY2MzYyLDEyMz
-QwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEyNTY3
-MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNjQxNz
-MxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2NzgzMyw2
-MzU0MzcyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0LDE1MTIzOT
-k1NDMsNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NTM2MjM5LC0x
-ODc2NDA5NjgwXX0=
+eyJoaXN0b3J5IjpbMTIyMzE4MDg1OCwxODc4MDkzMDM3LC0yOD
+U3NjYzNjIsMTIzNDA3NDY2NiwtMTAxMDc0MjQyOSwtMTIwMjA5
+Mzk3NiwtMTI1NjcwNzEyMywtMTM3MDU2ODM4MiwzNjgzODIwNT
+EsLTE5MzM2NDE3MzEsLTExMzE2OTE1MDAsLTE0MzM2NjgxMzks
+OTc2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MTUwOTUyLC00NTUzOD
+MzNTQsMTUxMjM5OTU0Myw0MDMwODQ2NCwtMTU5MDI3MTA1NSw0
+MTk1MzYyMzldfQ==
 -->
