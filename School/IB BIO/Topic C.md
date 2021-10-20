@@ -138,9 +138,9 @@
 > In situ(inside natural environment), Ex situ(outside natural environment)
 
 #### Indicator species
- - Are species that aree sensitive to enviromental conditions becuase of their limited Tolderance
+ - Are species that are sensitive to environmental conditions because of their limited Tolerance(shelford Law of Tolerance)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzQ4MTY3MiwtMjg1NzY2MzYyLDEyMz
+eyJoaXN0b3J5IjpbMTkxMzc5OTkxMSwtMjg1NzY2MzYyLDEyMz
 QwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEyNTY3
 MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNjQxNz
 MxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2NzgzMyw2
