@@ -152,12 +152,12 @@
 	 - Number of different species present
  - Evenness:
 	 - If a habitat has a similar abundance for each species present.
- - Simpsons reciprical index
+ - Simpsons reciprocal index
 	 - $D=\frac{N(N-1)}{\sum{n(n-1)}}$
 		 - N:Total of all species
-		 - n
+		 - n:Number of organism of a single species
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzc2NDA4OCwxMjIzMTgwODU4LDE4Nz
+eyJoaXN0b3J5IjpbLTk4OTA5MTMwNCwxMjIzMTgwODU4LDE4Nz
 gwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQy
 NDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNTY4Mz
 gyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5MTUwMCwt
