@@ -142,9 +142,10 @@
 
 #### Kick sampling
  - Use a Biotic index to campre the raltive frequence of indicator species
- - $BI = \sum{n
+ - $BI = \frac{\sum{n_i*a_i}}{N}$
+	 - n_i is numver of individual of a species a_i tolerance rating of the species N
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTcwNzY4MSwtMjg1NzY2MzYyLDEyMz
+eyJoaXN0b3J5IjpbLTQzMTcwMjc2MiwtMjg1NzY2MzYyLDEyMz
 QwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEyNTY3
 MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNjQxNz
 MxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2NzgzMyw2
