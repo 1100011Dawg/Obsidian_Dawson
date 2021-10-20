@@ -161,13 +161,16 @@
  - Anthropogenic(human caused factors)
  #### In situ conservation
   - Nature reserves are protected from humans.
-  - 
+  - Control invasive species
+  - legal protection for endangered species
+  - opportunities for research
+  - resteration of degraded areas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MDQyMzE2LC05ODkwOTEzMDQsMTIyMz
-E4MDg1OCwxODc4MDkzMDM3LC0yODU3NjYzNjIsMTIzNDA3NDY2
-NiwtMTAxMDc0MjQyOSwtMTIwMjA5Mzk3NiwtMTI1NjcwNzEyMy
-wtMTM3MDU2ODM4MiwzNjgzODIwNTEsLTE5MzM2NDE3MzEsLTEx
-MzE2OTE1MDAsLTE0MzM2NjgxMzksOTc2NzY3ODMzLDYzNTQzNz
-I5OSwtNTE5MTUwOTUyLC00NTUzODMzNTQsMTUxMjM5OTU0Myw0
-MDMwODQ2NF19
+eyJoaXN0b3J5IjpbLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwxMj
+IzMTgwODU4LDE4NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0
+NjY2LC0xMDEwNzQyNDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MT
+IzLC0xMzcwNTY4MzgyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwt
+MTEzMTY5MTUwMCwtMTQzMzY2ODEzOSw5NzY3Njc4MzMsNjM1ND
+M3Mjk5LC01MTkxNTA5NTIsLTQ1NTM4MzM1NCwxNTEyMzk5NTQz
+LDQwMzA4NDY0XX0=
 -->
