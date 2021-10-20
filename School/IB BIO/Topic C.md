@@ -158,13 +158,16 @@
 		 - n:Number of organism of a single species
 #### Extinction
  - the end of a species
- - 
+ - Anthropogenic(human caused factors)
+ #### In situ conservation
+  - Nature reserves are protected from humans.
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDUyMDUwNywtOTg5MDkxMzA0LDEyMj
-MxODA4NTgsMTg3ODA5MzAzNywtMjg1NzY2MzYyLDEyMzQwNzQ2
-NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEyNTY3MDcxMj
-MsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNjQxNzMxLC0x
-MTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2NzgzMyw2MzU0Mz
-cyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0LDE1MTIzOTk1NDMs
-NDAzMDg0NjRdfQ==
+eyJoaXN0b3J5IjpbMzY4MDQyMzE2LC05ODkwOTEzMDQsMTIyMz
+E4MDg1OCwxODc4MDkzMDM3LC0yODU3NjYzNjIsMTIzNDA3NDY2
+NiwtMTAxMDc0MjQyOSwtMTIwMjA5Mzk3NiwtMTI1NjcwNzEyMy
+wtMTM3MDU2ODM4MiwzNjgzODIwNTEsLTE5MzM2NDE3MzEsLTEx
+MzE2OTE1MDAsLTE0MzM2NjgxMzksOTc2NzY3ODMzLDYzNTQzNz
+I5OSwtNTE5MTUwOTUyLC00NTUzODMzNTQsMTUxMjM5OTU0Myw0
+MDMwODQ2NF19
 -->
