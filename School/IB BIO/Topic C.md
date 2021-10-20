@@ -135,12 +135,16 @@
 	- Not Biodegradable
 - Mistaken for food leading to suffication.
 
+> In situ(inside natural environment), Ex situ(outside natural environment)
+
+#### Indicator species
+ - Are species that aree sensitive to enviromental conditions becuase of their limited Tolderance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMD
-EwNzQyNDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcw
-NTY4MzgyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5MT
-UwMCwtMTQzMzY2ODEzOSw5NzY3Njc4MzMsNjM1NDM3Mjk5LC01
-MTkxNTA5NTIsLTQ1NTM4MzM1NCwxNTEyMzk5NTQzLDQwMzA4ND
-Y0LC0xNTkwMjcxMDU1LDQxOTUzNjIzOSwtMTg3NjQwOTY4MCwt
-MjA5NzIzNjU5NV19
+eyJoaXN0b3J5IjpbLTY4MzQ4MTY3MiwtMjg1NzY2MzYyLDEyMz
+QwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEyNTY3
+MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNjQxNz
+MxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2NzgzMyw2
+MzU0MzcyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0LDE1MTIzOT
+k1NDMsNDAzMDg0NjQsLTE1OTAyNzEwNTUsNDE5NTM2MjM5LC0x
+ODc2NDA5NjgwXX0=
 -->
