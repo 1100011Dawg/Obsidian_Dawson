@@ -156,9 +156,11 @@
 	 - $D=\frac{N(N-1)}{\sum{n(n-1)}}$
 		 - N:Total of all species
 		 - n:Number of organism of a single species
-	
+#### Extinction
+ - the end of a species
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDMxNDc5OCwtOTg5MDkxMzA0LDEyMj
+eyJoaXN0b3J5IjpbLTg3NDUyMDUwNywtOTg5MDkxMzA0LDEyMj
 MxODA4NTgsMTg3ODA5MzAzNywtMjg1NzY2MzYyLDEyMzQwNzQ2
 NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEyNTY3MDcxMj
 MsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNjQxNzMxLC0x
