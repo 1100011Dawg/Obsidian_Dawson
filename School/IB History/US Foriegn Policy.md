@@ -48,7 +48,7 @@
  - Costed our relation with Latin American countries.
  - Basically intervened on Europe's behalf
 #### Foraker Act
- - Of 1990
+ - Of 1900
  - Made sure that Puerto Rican be a Protectorate of the United States
  - Had The United States have the most power in the government
  - US appointed governor
@@ -107,11 +107,11 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkwNzM3LC05NjQwNTMzMTAsMTg0Nj
-c2MzQxNiwxNDA5OTk3ODQsLTE0MDE5MzEwNTksNzYyNTc5ODI4
-LC0zODAwNzc2NCwtMTUwNjMyMTM2LC0xODkyMDc2MjkyLC03Mj
-Q0MTQwOTMsLTIwNDA2NDEyMjIsLTE0NjgzMzk2MTUsLTEwNTIx
-MDY1NjQsLTEwNzI0MDYzODUsODMwOTE4NTIwLDE4NTk5NDA0Mz
-IsLTEzNjY4NDI2MjQsLTY2MjA5NjYyMCwzOTU0NjI5MiwtNjMy
-MTI1NjUyXX0=
+eyJoaXN0b3J5IjpbMTM1OTgwMTUyOCwtMjA3OTA3MzcsLTk2ND
+A1MzMxMCwxODQ2NzYzNDE2LDE0MDk5OTc4NCwtMTQwMTkzMTA1
+OSw3NjI1Nzk4MjgsLTM4MDA3NzY0LC0xNTA2MzIxMzYsLTE4OT
+IwNzYyOTIsLTcyNDQxNDA5MywtMjA0MDY0MTIyMiwtMTQ2ODMz
+OTYxNSwtMTA1MjEwNjU2NCwtMTA3MjQwNjM4NSw4MzA5MTg1Mj
+AsMTg1OTk0MDQzMiwtMTM2Njg0MjYyNCwtNjYyMDk2NjIwLDM5
+NTQ2MjkyXX0=
 -->
