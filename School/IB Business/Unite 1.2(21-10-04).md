@@ -69,8 +69,13 @@
 				- intense lobbying can lead to undesirable goods
 			- Don´t pay taxes
 			- Sometimes the employees are too passionate and take undesirable actions
-			- 
+
+#### Analysis tools
+ - SWOT(Strength Weackness Opprutinities Threats)
+	 - Two axias external/internal Positive/Negative
+ - ANSOFF
+	 - Market Pneetration(existing products, exisit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMwMjUyMTUsNjIyNjI4NjYxLC0xND
-M4NDI5NDEzLC0yMDk0OTg1OTY1XX0=
+eyJoaXN0b3J5IjpbODc2NzQwMzA3LC0yMDMzMDI1MjE1LDYyMj
+YyODY2MSwtMTQzODQyOTQxMywtMjA5NDk4NTk2NV19
 -->
