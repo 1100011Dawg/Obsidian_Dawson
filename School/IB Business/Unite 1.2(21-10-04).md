@@ -89,9 +89,9 @@ Mabye new section?
 
  - PEST
 	 - Political, Economic, Social, Technological
-	 - 
+ - Vision -> Objectives -> Strategies -> Tactics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDUyNjk3Niw1NTExOTA5ODcsLTIwMz
-MwMjUyMTUsNjIyNjI4NjYxLC0xNDM4NDI5NDEzLC0yMDk0OTg1
-OTY1XX0=
+eyJoaXN0b3J5IjpbNzcyNTc2ODgxLDU1MTE5MDk4NywtMjAzMz
+AyNTIxNSw2MjI2Mjg2NjEsLTE0Mzg0Mjk0MTMsLTIwOTQ5ODU5
+NjVdfQ==
 -->
