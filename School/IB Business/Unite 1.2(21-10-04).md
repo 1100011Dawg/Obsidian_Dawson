@@ -89,7 +89,9 @@ Mabye new section?
 
  - PEST
 	 - Political, Economic, Social, Technological
+	 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxMTkwOTg3LC0yMDMzMDI1MjE1LDYyMj
-YyODY2MSwtMTQzODQyOTQxMywtMjA5NDk4NTk2NV19
+eyJoaXN0b3J5IjpbLTUwNDUyNjk3Niw1NTExOTA5ODcsLTIwMz
+MwMjUyMTUsNjIyNjI4NjYxLC0xNDM4NDI5NDEzLC0yMDk0OTg1
+OTY1XX0=
 -->
