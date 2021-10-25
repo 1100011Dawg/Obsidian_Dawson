@@ -71,11 +71,14 @@
 			- Sometimes the employees are too passionate and take undesirable actions
 
 #### Analysis tools
- - SWOT(Strength Weackness Opprutinities Threats)
-	 - Two axias external/internal Positive/Negative
+ - SWOT(Strength Weakness Opportunities Threats)
+	 - Two axis external/internal Positive/Negative
  - ANSOFF
-	 - Market Pneetration(existing products, exisit
+	 - Market Penetration(existing products, existing markets)
+	 - Product development(ner products, existing markets)
+	 - Market development(New markets, existing products)
+	 - Diversification(new products, new markets)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2NzQwMzA3LC0yMDMzMDI1MjE1LDYyMj
+eyJoaXN0b3J5IjpbNTkxNzMzMDcyLC0yMDMzMDI1MjE1LDYyMj
 YyODY2MSwtMTQzODQyOTQxMywtMjA5NDk4NTk2NV19
 -->
