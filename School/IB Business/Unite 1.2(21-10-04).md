@@ -70,6 +70,9 @@
 			- Don´t pay taxes
 			- Sometimes the employees are too passionate and take undesirable actions
 
+Mabye new section?
+
+
 #### Analysis tools
  - SWOT(Strength Weakness Opportunities Threats)
 	 - Two axis external/internal Positive/Negative
@@ -79,6 +82,6 @@
 	 - Market development(New markets, existing products)
 	 - Diversification(new products, new markets)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNzMzMDcyLC0yMDMzMDI1MjE1LDYyMj
-YyODY2MSwtMTQzODQyOTQxMywtMjA5NDk4NTk2NV19
+eyJoaXN0b3J5IjpbMTgxNTMxMzcwMiwtMjAzMzAyNTIxNSw2Mj
+I2Mjg2NjEsLTE0Mzg0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
 -->
