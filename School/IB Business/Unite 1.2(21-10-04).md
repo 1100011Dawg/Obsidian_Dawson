@@ -81,7 +81,15 @@ Mabye new section?
 	 - Product development(ner products, existing markets)
 	 - Market development(New markets, existing products)
 	 - Diversification(new products, new markets)
+	 - 
+| Ansoff           | Existing Products  | New Products       |
+|------------------|--------------------|--------------------|
+| Existing Markets | Market Penetration | Product devolpment |
+| New Markets      | Market Development | Diversification    |
+
+ - PEST
+	 - Political, Economic, Social, Technological
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTMxMzcwMiwtMjAzMzAyNTIxNSw2Mj
-I2Mjg2NjEsLTE0Mzg0Mjk0MTMsLTIwOTQ5ODU5NjVdfQ==
+eyJoaXN0b3J5IjpbNTUxMTkwOTg3LC0yMDMzMDI1MjE1LDYyMj
+YyODY2MSwtMTQzODQyOTQxMywtMjA5NDk4NTk2NV19
 -->
