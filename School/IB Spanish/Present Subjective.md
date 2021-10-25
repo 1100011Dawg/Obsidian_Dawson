@@ -3,6 +3,7 @@
  - A potential
  - Not specific time
  - Indicative part is present/ future
+
 | Present         | Past                              |
 |-----------------|-----------------------------------|
 | Present Perfect | Pluscunam perfecto del subjuntivo |
@@ -31,6 +32,6 @@
 | a  | an   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Njc3MTUxNCwtMzI3ODk5NTA4LC0xMz
-MzMjMxNDYwXX0=
+eyJoaXN0b3J5IjpbNjY2MDY3Njg4LC0zMjc4OTk1MDgsLTEzMz
+MyMzE0NjBdfQ==
 -->
