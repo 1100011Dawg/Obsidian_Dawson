@@ -1,1 +1,1 @@
- - canno tthe gods of old wait to take thier claim, their blasted claim witch they ascribe to themselves with no more credibility than a message scratch on a tree, a 
+ - canno tthe gods of old wait to take thier claim, their blasted claim witch they ascribe to themselves with no more credibility than a message scratch on a tree, a heartfelt letter written anonsomly, cannot they wait for paitience is their ultimate domain but yet now they must take, take and take no trade or bargain to be had between vendors but 
