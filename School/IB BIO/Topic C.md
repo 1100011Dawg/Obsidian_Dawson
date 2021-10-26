@@ -185,10 +185,10 @@
 	 - Ideal conditions(unlimited resources)
 	 - J shaped
  - Logistical Growth(Sigmoid growth
-	 - Limited space, food, mates
+	 - Limited space, food, mates(competition)
 	 - Too much predation, disease, waste, injury
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDgyNDI4OCwtMTcwNjc4NDEzLC0xMD
+eyJoaXN0b3J5IjpbMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC0xMD
 g2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5ODY3LDE1ODkzNjM2
 MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwODU4LD
 E4NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEw
