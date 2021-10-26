@@ -190,18 +190,25 @@
  - Density dependent limiting factors: limiting factors that increase with population
  - Density independent limiting factors: limiting not based on population
  - $PopulationSize = (Natality + Immigration) -(Mortality +Emigration)$
- 
-|  Plateau phase|  |
+	 - Exponetial phase -> Transitional phase -> Plateua phase
+ - Limiting factors
+	 - Top-Down: Pressures applied by organisms at higher trophic levels
+	 - Bottom Down factors: Pressures applied by organisms at lower trophic 
+
+| Exponentail phase | |
 |--|--|
 | Transitional phase |  |
+|  Plateau phase|  |
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mjg4ODE3OCwtMjExNTUyMTg3MiwxNj
-UwMzgxMTI4LC0xNzA2Nzg0MTMsLTEwODY5MjY3MjYsMjA4NTEy
-NDcwMCwxNzMyNTk4NjcsMTU4OTM2MzYxNywtMTQwMjA2ODYyOS
-wtOTg5MDkxMzA0LDEyMjMxODA4NTgsMTg3ODA5MzAzNywtMjg1
-NzY2MzYyLDEyMzQwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOT
-M5NzYsLTEyNTY3MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUx
-LC0xOTMzNjQxNzMxXX0=
+eyJoaXN0b3J5IjpbLTExNTE2NjAzMTUsLTIxMTU1MjE4NzIsMT
+Y1MDM4MTEyOCwtMTcwNjc4NDEzLC0xMDg2OTI2NzI2LDIwODUx
+MjQ3MDAsMTczMjU5ODY3LDE1ODkzNjM2MTcsLTE0MDIwNjg2Mj
+ksLTk4OTA5MTMwNCwxMjIzMTgwODU4LDE4NzgwOTMwMzcsLTI4
+NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQyNDI5LC0xMjAyMD
+kzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNTY4MzgyLDM2ODM4MjA1
+MSwtMTkzMzY0MTczMV19
 -->
