@@ -750,9 +750,9 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
-
+Medvedev, Zhores A, and Translated I Michael Lerner. The Rise and Fall of T.D. LyseMedvedev and Lerner, The Rise and Fall of T.D. Lysenko.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5OTczNTQxLC01MjQwNDI0NDEsLTIxMj
-k1NTA5NDEsLTk3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAx
-MzQwLC0yMDU3MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbMTcyMzQzODA4Nyw5Mzk5NzM1NDEsLTUyND
+A0MjQ0MSwtMjEyOTU1MDk0MSwtOTczNzUyNzAyLDE3NDc5NjA1
+ODEsLTEwMzE2MDEzNDAsLTIwNTcwMzczNTVdfQ==
 -->
