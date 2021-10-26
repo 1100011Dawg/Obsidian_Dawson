@@ -169,16 +169,19 @@
   - **Nature Reserve**
 	  - Larger size is better
 	  - Reserves with less edge are better
+		  - Some species might benefiet from more edge
 	  - Clustered reserves are better
 	  - Habitat corridors are good
+		  - Hedgerows provide natural corridors
+	  - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjU5ODY3LDE1ODkzNjM2MTcsLTE0MD
-IwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwODU4LDE4NzgwOTMw
-MzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQyNDI5LC
-0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNTY4MzgyLDM2
-ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5MTUwMCwtMTQzMz
-Y2ODEzOSw5NzY3Njc4MzMsNjM1NDM3Mjk5LC01MTkxNTA5NTIs
-LTQ1NTM4MzM1NF19
+eyJoaXN0b3J5IjpbOTQ1NTYzNjcwLDE3MzI1OTg2NywxNTg5Mz
+YzNjE3LC0xNDAyMDY4NjI5LC05ODkwOTEzMDQsMTIyMzE4MDg1
+OCwxODc4MDkzMDM3LC0yODU3NjYzNjIsMTIzNDA3NDY2NiwtMT
+AxMDc0MjQyOSwtMTIwMjA5Mzk3NiwtMTI1NjcwNzEyMywtMTM3
+MDU2ODM4MiwzNjgzODIwNTEsLTE5MzM2NDE3MzEsLTExMzE2OT
+E1MDAsLTE0MzM2NjgxMzksOTc2NzY3ODMzLDYzNTQzNzI5OSwt
+NTE5MTUwOTUyXX0=
 -->
