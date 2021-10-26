@@ -190,12 +190,18 @@
  - Density dependent limiting factors: limiting factors that increase with population
  - Density independent limiting factors: limiting not based on population
  - $PopulationSize = (Natality + Immigration) -(Mortality +Emigration)$
+ 
+|  Plateau phase|  |
+|--|--|
+| Transitional phase |  |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTU1MjE4NzIsMTY1MDM4MTEyOCwtMT
-cwNjc4NDEzLC0xMDg2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5
-ODY3LDE1ODkzNjM2MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNC
-wxMjIzMTgwODU4LDE4NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0
-MDc0NjY2LC0xMDEwNzQyNDI5LC0xMjAyMDkzOTc2LC0xMjU2Nz
-A3MTIzLC0xMzcwNTY4MzgyLDM2ODM4MjA1MSwtMTkzMzY0MTcz
-MSwtMTEzMTY5MTUwMF19
+eyJoaXN0b3J5IjpbMTM4Mjg4ODE3OCwtMjExNTUyMTg3MiwxNj
+UwMzgxMTI4LC0xNzA2Nzg0MTMsLTEwODY5MjY3MjYsMjA4NTEy
+NDcwMCwxNzMyNTk4NjcsMTU4OTM2MzYxNywtMTQwMjA2ODYyOS
+wtOTg5MDkxMzA0LDEyMjMxODA4NTgsMTg3ODA5MzAzNywtMjg1
+NzY2MzYyLDEyMzQwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOT
+M5NzYsLTEyNTY3MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUx
+LC0xOTMzNjQxNzMxXX0=
 -->
