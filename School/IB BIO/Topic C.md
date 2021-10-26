@@ -189,13 +189,13 @@
 	 - Too much predation, disease, waste, injury
  - Density dependent limiting factors: limiting factors that increase with population
  - Density independent limiting factors: limiting not based on population
- - $Pop
+ - $PopulationSize = (Natality + Immigration) -(Mortality +Emigration)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4ODc3ODA5LDE2NTAzODExMjgsLTE3MD
-Y3ODQxMywtMTA4NjkyNjcyNiwyMDg1MTI0NzAwLDE3MzI1OTg2
-NywxNTg5MzYzNjE3LC0xNDAyMDY4NjI5LC05ODkwOTEzMDQsMT
-IyMzE4MDg1OCwxODc4MDkzMDM3LC0yODU3NjYzNjIsMTIzNDA3
-NDY2NiwtMTAxMDc0MjQyOSwtMTIwMjA5Mzk3NiwtMTI1NjcwNz
-EyMywtMTM3MDU2ODM4MiwzNjgzODIwNTEsLTE5MzM2NDE3MzEs
-LTExMzE2OTE1MDBdfQ==
+eyJoaXN0b3J5IjpbLTIxMTU1MjE4NzIsMTY1MDM4MTEyOCwtMT
+cwNjc4NDEzLC0xMDg2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5
+ODY3LDE1ODkzNjM2MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNC
+wxMjIzMTgwODU4LDE4NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0
+MDc0NjY2LC0xMDEwNzQyNDI5LC0xMjAyMDkzOTc2LC0xMjU2Nz
+A3MTIzLC0xMzcwNTY4MzgyLDM2ODM4MjA1MSwtMTkzMzY0MTcz
+MSwtMTEzMTY5MTUwMF19
 -->
