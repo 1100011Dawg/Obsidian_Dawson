@@ -159,18 +159,21 @@
 #### Extinction
  - the end of a species
  - Anthropogenic(human caused factors)
- #### In situ conservation
+
+#### In situ conservation
   - Nature reserves are protected from humans.
   - Control invasive species
   - legal protection for endangered species
   - opportunities for research
-  - resteration of degraded areas
+  - restoration of degraded areas
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwxMj
-IzMTgwODU4LDE4NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0
-NjY2LC0xMDEwNzQyNDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MT
-IzLC0xMzcwNTY4MzgyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwt
-MTEzMTY5MTUwMCwtMTQzMzY2ODEzOSw5NzY3Njc4MzMsNjM1ND
-M3Mjk5LC01MTkxNTA5NTIsLTQ1NTM4MzM1NCwxNTEyMzk5NTQz
-LDQwMzA4NDY0XX0=
+eyJoaXN0b3J5IjpbMTU4OTM2MzYxNywtMTQwMjA2ODYyOSwtOT
+g5MDkxMzA0LDEyMjMxODA4NTgsMTg3ODA5MzAzNywtMjg1NzY2
+MzYyLDEyMzQwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5Nz
+YsLTEyNTY3MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0x
+OTMzNjQxNzMxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Nj
+c2NzgzMyw2MzU0MzcyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0
+LDE1MTIzOTk1NDNdfQ==
 -->
