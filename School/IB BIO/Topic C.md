@@ -166,14 +166,19 @@
   - legal protection for endangered species
   - opportunities for research
   - restoration of degraded areas
+  - **Nature Reserve**
+	  - Larger size is better
+	  - reserves with less edge are better
+	  - clustered reserves are better
+	  - Habitat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTM2MzYxNywtMTQwMjA2ODYyOSwtOT
-g5MDkxMzA0LDEyMjMxODA4NTgsMTg3ODA5MzAzNywtMjg1NzY2
-MzYyLDEyMzQwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5Nz
-YsLTEyNTY3MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0x
-OTMzNjQxNzMxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Nj
-c2NzgzMyw2MzU0MzcyOTksLTUxOTE1MDk1MiwtNDU1MzgzMzU0
-LDE1MTIzOTk1NDNdfQ==
+eyJoaXN0b3J5IjpbMTc2NTM1MjM2OSwxNTg5MzYzNjE3LC0xND
+AyMDY4NjI5LC05ODkwOTEzMDQsMTIyMzE4MDg1OCwxODc4MDkz
+MDM3LC0yODU3NjYzNjIsMTIzNDA3NDY2NiwtMTAxMDc0MjQyOS
+wtMTIwMjA5Mzk3NiwtMTI1NjcwNzEyMywtMTM3MDU2ODM4Miwz
+NjgzODIwNTEsLTE5MzM2NDE3MzEsLTExMzE2OTE1MDAsLTE0Mz
+M2NjgxMzksOTc2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MTUwOTUy
+LC00NTUzODMzNTRdfQ==
 -->
