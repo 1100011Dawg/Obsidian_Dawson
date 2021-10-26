@@ -187,12 +187,13 @@
  - Logistical Growth(Sigmoid growth
 	 - Limited space, food, mates(competition)
 	 - Too much predation, disease, waste, injury
+ - Density dependent limiting factors: limiting factors that increase with population
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC0xMD
-g2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5ODY3LDE1ODkzNjM2
-MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwODU4LD
-E4NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEw
-NzQyNDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNT
-Y4MzgyLDM2ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5MTUw
-MCwtMTQzMzY2ODEzOV19
+eyJoaXN0b3J5IjpbLTE1OTk2MjU1ODAsMTY1MDM4MTEyOCwtMT
+cwNjc4NDEzLC0xMDg2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5
+ODY3LDE1ODkzNjM2MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNC
+wxMjIzMTgwODU4LDE4NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0
+MDc0NjY2LC0xMDEwNzQyNDI5LC0xMjAyMDkzOTc2LC0xMjU2Nz
+A3MTIzLC0xMzcwNTY4MzgyLDM2ODM4MjA1MSwtMTkzMzY0MTcz
+MSwtMTEzMTY5MTUwMF19
 -->
