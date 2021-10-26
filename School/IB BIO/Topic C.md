@@ -178,13 +178,13 @@
 #### Ex Situ
  - Will work if habitat is lost
  - works with captive breeding
- - species might be to rare in the wild
+ - species might be to rare to breed in the wild
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mjg1MDMzNSwyMDg1MTI0NzAwLDE3Mz
-I1OTg2NywxNTg5MzYzNjE3LC0xNDAyMDY4NjI5LC05ODkwOTEz
-MDQsMTIyMzE4MDg1OCwxODc4MDkzMDM3LC0yODU3NjYzNjIsMT
-IzNDA3NDY2NiwtMTAxMDc0MjQyOSwtMTIwMjA5Mzk3NiwtMTI1
-NjcwNzEyMywtMTM3MDU2ODM4MiwzNjgzODIwNTEsLTE5MzM2ND
-E3MzEsLTExMzE2OTE1MDAsLTE0MzM2NjgxMzksOTc2NzY3ODMz
-LDYzNTQzNzI5OV19
+eyJoaXN0b3J5IjpbLTEwNzY0OTI2NDIsMjA4NTEyNDcwMCwxNz
+MyNTk4NjcsMTU4OTM2MzYxNywtMTQwMjA2ODYyOSwtOTg5MDkx
+MzA0LDEyMjMxODA4NTgsMTg3ODA5MzAzNywtMjg1NzY2MzYyLD
+EyMzQwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEy
+NTY3MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNj
+QxNzMxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2Nzgz
+Myw2MzU0MzcyOTldfQ==
 -->
