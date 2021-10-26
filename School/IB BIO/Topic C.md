@@ -180,13 +180,17 @@
  - works with captive breeding
  - species might be to rare to breed in the wild
 
-
+#### Population growth
+ - Exponential growth
+	 - Ideal conditions(unlimited resources)
+	 - J shaped
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY5MjY3MjYsMjA4NTEyNDcwMCwxNz
-MyNTk4NjcsMTU4OTM2MzYxNywtMTQwMjA2ODYyOSwtOTg5MDkx
-MzA0LDEyMjMxODA4NTgsMTg3ODA5MzAzNywtMjg1NzY2MzYyLD
-EyMzQwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEy
-NTY3MDcxMjMsLTEzNzA1NjgzODIsMzY4MzgyMDUxLC0xOTMzNj
-QxNzMxLC0xMTMxNjkxNTAwLC0xNDMzNjY4MTM5LDk3Njc2Nzgz
-Myw2MzU0MzcyOTldfQ==
+eyJoaXN0b3J5IjpbLTE3MDY3ODQxMywtMTA4NjkyNjcyNiwyMD
+g1MTI0NzAwLDE3MzI1OTg2NywxNTg5MzYzNjE3LC0xNDAyMDY4
+NjI5LC05ODkwOTEzMDQsMTIyMzE4MDg1OCwxODc4MDkzMDM3LC
+0yODU3NjYzNjIsMTIzNDA3NDY2NiwtMTAxMDc0MjQyOSwtMTIw
+MjA5Mzk3NiwtMTI1NjcwNzEyMywtMTM3MDU2ODM4MiwzNjgzOD
+IwNTEsLTE5MzM2NDE3MzEsLTExMzE2OTE1MDAsLTE0MzM2Njgx
+MzksOTc2NzY3ODMzXX0=
 -->
