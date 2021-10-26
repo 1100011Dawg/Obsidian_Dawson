@@ -179,8 +179,10 @@
  - Will work if habitat is lost
  - works with captive breeding
  - species might be to rare to breed in the wild
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY0OTI2NDIsMjA4NTEyNDcwMCwxNz
+eyJoaXN0b3J5IjpbLTEwODY5MjY3MjYsMjA4NTEyNDcwMCwxNz
 MyNTk4NjcsMTU4OTM2MzYxNywtMTQwMjA2ODYyOSwtOTg5MDkx
 MzA0LDEyMjMxODA4NTgsMTg3ODA5MzAzNywtMjg1NzY2MzYyLD
 EyMzQwNzQ2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEy
