@@ -168,17 +168,17 @@
   - restoration of degraded areas
   - **Nature Reserve**
 	  - Larger size is better
-	  - reserves with less edge are better
-	  - clustered reserves are better
-	  - Habitat
+	  - Reserves with less edge are better
+	  - Clustered reserves are better
+	  - Habitat corridors are good
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTM1MjM2OSwxNTg5MzYzNjE3LC0xND
-AyMDY4NjI5LC05ODkwOTEzMDQsMTIyMzE4MDg1OCwxODc4MDkz
-MDM3LC0yODU3NjYzNjIsMTIzNDA3NDY2NiwtMTAxMDc0MjQyOS
-wtMTIwMjA5Mzk3NiwtMTI1NjcwNzEyMywtMTM3MDU2ODM4Miwz
-NjgzODIwNTEsLTE5MzM2NDE3MzEsLTExMzE2OTE1MDAsLTE0Mz
-M2NjgxMzksOTc2NzY3ODMzLDYzNTQzNzI5OSwtNTE5MTUwOTUy
-LC00NTUzODMzNTRdfQ==
+eyJoaXN0b3J5IjpbMTczMjU5ODY3LDE1ODkzNjM2MTcsLTE0MD
+IwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwODU4LDE4NzgwOTMw
+MzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQyNDI5LC
+0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNTY4MzgyLDM2
+ODM4MjA1MSwtMTkzMzY0MTczMSwtMTEzMTY5MTUwMCwtMTQzMz
+Y2ODEzOSw5NzY3Njc4MzMsNjM1NDM3Mjk5LC01MTkxNTA5NTIs
+LTQ1NTM4MzM1NF19
 -->
