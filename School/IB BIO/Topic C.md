@@ -195,16 +195,18 @@
 	 - Top-Down: Pressures applied by organisms at higher trophic levels
 	 - Bottom-Up factors: Pressures applied by organisms at lower trophic levels.
 
-
+#### Lincoln Index
+ - capture-mark-release-recapture method to estimate the population
+ - $PopSize=\frac{n_1*n_2}{n_3}$
 
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUyMTM5MjMsLTE0ODkzNDI1MTIsLT
-IxMTU1MjE4NzIsMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC0xMDg2
-OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5ODY3LDE1ODkzNjM2MT
-csLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwODU4LDE4
-NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNz
-QyNDI5LC0xMjAyMDkzOTc2LC0xMjU2NzA3MTIzLC0xMzcwNTY4
-MzgyLDM2ODM4MjA1MV19
+eyJoaXN0b3J5IjpbLTg1MzMyMTgyOCwtMTYxNTIxMzkyMywtMT
+Q4OTM0MjUxMiwtMjExNTUyMTg3MiwxNjUwMzgxMTI4LC0xNzA2
+Nzg0MTMsLTEwODY5MjY3MjYsMjA4NTEyNDcwMCwxNzMyNTk4Nj
+csMTU4OTM2MzYxNywtMTQwMjA2ODYyOSwtOTg5MDkxMzA0LDEy
+MjMxODA4NTgsMTg3ODA5MzAzNywtMjg1NzY2MzYyLDEyMzQwNz
+Q2NjYsLTEwMTA3NDI0MjksLTEyMDIwOTM5NzYsLTEyNTY3MDcx
+MjMsLTEzNzA1NjgzODJdfQ==
 -->
