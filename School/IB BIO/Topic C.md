@@ -198,11 +198,12 @@
 #### Lincoln Index
  - capture-mark-release-recapture method to estimate the population
  - $PopSize=\frac{n_1*n_2}{n_3}$
+ - $n_1$ first capture total, $n_2$ second capture total $n_3$ second captured marked only
 
 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzMyMTgyOCwtMTYxNTIxMzkyMywtMT
+eyJoaXN0b3J5IjpbLTc4MTUyMTk4NCwtMTYxNTIxMzkyMywtMT
 Q4OTM0MjUxMiwtMjExNTUyMTg3MiwxNjUwMzgxMTI4LC0xNzA2
 Nzg0MTMsLTEwODY5MjY3MjYsMjA4NTEyNDcwMCwxNzMyNTk4Nj
 csMTU4OTM2MzYxNywtMTQwMjA2ODYyOSwtOTg5MDkxMzA0LDEy
