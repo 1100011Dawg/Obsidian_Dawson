@@ -24,9 +24,12 @@
 #### Types of conflict:
 - Character vs Self, Society, Character, Nature, Technology, Fate/Supernatural.
 
+|Symboles| Motiff | Theme |
+|--|--|--|
+| Only occurs around once | repeatedly occurs and is still concrete, could be repeated phra |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDAyMDU3OTcsMTg0MTMzOTY4Nyw3MD
-c4MjAyOTBdfQ==
+eyJoaXN0b3J5IjpbMTUwODMwNzMxNywtMTg0MDIwNTc5NywxOD
+QxMzM5Njg3LDcwNzgyMDI5MF19
 -->
