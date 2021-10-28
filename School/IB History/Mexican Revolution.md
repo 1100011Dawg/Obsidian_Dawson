@@ -20,11 +20,12 @@
  - Second law to constrain church power
  - forced the sale of profit gaining land
 #### Terrenos Baldios Law(18880-1910)
- - comercialized and privitezed agricultural lands
+ - commercialized and privatized agricultural lands
  - surveyed all lands for deeds of ownership, seized any lands not  ¨owned¨
  - Hacendados ruled the plantations created
- - woreds would be indebted to Hacienda stores owned by Hacendados
+ - workers would be indebted to Hacienda stores(company stores) owned by Hacendados
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDIwOTc2OSwxMDc5MzAwNDE1LDYzMT
-EwNTk3MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3NzgyNjE0NzIsMTA3OTMwMDQxNSw2Mz
+ExMDU5NzMsLTIwODg3NDY2MTJdfQ==
 -->
