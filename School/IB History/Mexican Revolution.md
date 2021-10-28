@@ -13,8 +13,13 @@
  - The company fired shots on the workers striking
  - Was for better wages and conditions
  - Had no change
-#### Ley Jua
+#### Ley Juarez(1855)
+ - eleimentated the special exemptions of the church
+ - limited their powers
+#### Ley Lerdo(1856)
+ - Second law to contrain church power
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEzMDE4NTUsMTA3OTMwMDQxNSw2Mz
-ExMDU5NzMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTAwMDUzNzg1OCwxMDc5MzAwNDE1LDYzMT
+EwNTk3MywtMjA4ODc0NjYxMl19
 -->
