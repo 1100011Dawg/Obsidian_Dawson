@@ -33,8 +33,9 @@
 #### Benito Juarez(1852-1872)
  - War hero and served for 14 years
  - beloved by many
+ - instituted constitutional reforms and created a democratic mexico
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMjg3NTg2LDEwNzkzMDA0MTUsNjMxMT
-A1OTczLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTQ1NDk0NDMyNiwxMDc5MzAwNDE1LDYzMT
+EwNTk3MywtMjA4ODc0NjYxMl19
 -->
