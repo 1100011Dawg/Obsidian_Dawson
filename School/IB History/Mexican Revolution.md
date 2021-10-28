@@ -17,9 +17,11 @@
  - eleimentated the special exemptions of the church
  - limited their powers
 #### Ley Lerdo(1856)
- - Second law to contrain church power
- - 
+ - Second law to constrain church power
+ - forced the sale of profit gaining land
+#### Terrenos Baldios Law(18880-1910)
+ - comercialized and privitezed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDUzNzg1OCwxMDc5MzAwNDE1LDYzMT
+eyJoaXN0b3J5IjpbLTQ0MzY3NDI4MiwxMDc5MzAwNDE1LDYzMT
 EwNTk3MywtMjA4ODc0NjYxMl19
 -->
