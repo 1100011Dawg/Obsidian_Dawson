@@ -12,8 +12,9 @@
 #### Rio Blanco Textile strike(1906- Dec. - 1907 Jan)
  - The company fired shots on the workers striking
  - Was for better wages and conditions
- - 
+ - Had no change
+#### Ley Jua
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTUyMDM2OSwxMDc5MzAwNDE1LDYzMT
-EwNTk3MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEzNjEzMDE4NTUsMTA3OTMwMDQxNSw2Mz
+ExMDU5NzMsLTIwODg3NDY2MTJdfQ==
 -->
