@@ -26,10 +26,10 @@
 
 |Symboles| Motiff | Theme |
 |--|--|--|
-| Only occurs around once |  repeatedly occurs and is still concrete,  could be repeated phrases or objects. Most often imagery | An effect created by many literary elements |
+| Only occurs around once |  repeatedly occurs and is still concrete,  could be repeated phrases or objects. Most often imagery. *she thinks that it is concrete, others disagree* | An effect created by many literary elements |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDIwNDE3NTksLTE4NDAyMDU3OTcsMT
-g0MTMzOTY4Nyw3MDc4MjAyOTBdfQ==
+eyJoaXN0b3J5IjpbMTYwNzc0MDEzMCwtMTg0MDIwNTc5NywxOD
+QxMzM5Njg3LDcwNzgyMDI5MF19
 -->
