@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Jotts-personal.md",
+            "file": "Media.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Jotts-personal.md",
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Jotts-personal.md",
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Jotts-personal.md"
+                "file": "Media.md"
               }
             }
           },
@@ -145,11 +145,11 @@
   },
   "active": "495e3745369417dd",
   "lastOpenFiles": [
+    "Media.md",
     "Personal/Jotts-personal.md",
     "Personal/Untitled.md",
     "Personal/Original sentences ideas.md",
     "Personal/Improvements.md",
-    "Media.md",
     "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
     "School/IB Business/Unit 1.1(21-8-13).md",
     "School/IB BIO/Topic 4/Topic 4.md",
