@@ -29,8 +29,12 @@
  - surveyed all lands for deeds of ownership, seized any lands not  ¨owned¨
  - Hacendados ruled the plantations created
  - workers would be indebted to Hacienda stores(company stores) owned by Hacendados
- - 
+
+#### Benito Juarez(1852-1872)
+ - War hero and served for 14 years
+ - beloved by many
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDAxMzk4OTAsMTA3OTMwMDQxNSw2Mz
-ExMDU5NzMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDczMjg3NTg2LDEwNzkzMDA0MTUsNjMxMT
+A1OTczLC0yMDg4NzQ2NjEyXX0=
 -->
