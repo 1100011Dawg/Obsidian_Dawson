@@ -42,7 +42,7 @@
  - gained wealth during his dictatorship
  - In 1910 allowed an election, won but competition declared it rigged
 
-#### Cientifico(1876 1911))
+#### Cientificos(1876 1911))
  - Officials alongside Diaz extracted wealth from Mexico
  - Were ¨Scientists¨
 
@@ -50,8 +50,9 @@
  - Extracted oil from Mexico
  - An U.S investor discovered oil in San Luis Potosi
  - Received some tax breaks
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDE1MjAzMiw0MzYwMjg1NDgsLTg3ND
-A0MTY5Niw5ODkxNzI5Miw0OTcyMTU3ODgsLTQ1NDk0NDMyNiwx
-MDc5MzAwNDE1LDYzMTEwNTk3MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNjI3NjkzMTczLDQzNjAyODU0OCwtODc0MD
+QxNjk2LDk4OTE3MjkyLDQ5NzIxNTc4OCwtNDU0OTQ0MzI2LDEw
+NzkzMDA0MTUsNjMxMTA1OTczLC0yMDg4NzQ2NjEyXX0=
 -->
