@@ -51,6 +51,7 @@ aliases:
  - The U.S.S.R long neglected agriculture by implementing cost cutting measures rather than trying to optimize for best performance[^37]
  - If politicians favored one scientific theory over another, that other could be completely suppressed.[^38]
  - Pravda couldn't be criticized[^39]
+ - From 1948-1952 even positive descriptions of genetics were critisized while 1958-1964 only direct cri
 
 ##### Footnotes
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)
@@ -132,6 +133,6 @@ aliases:
 
 [^39]:“Criticism by other papers of any articles published in Pravda is practically impossible” (Medvedev and Lerner, p. 249)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY5ODc1LC02MTY3NDM2NTcsNzM2OT
-YwNDMwLC0yNjkyODcyNzUsMzM5ODUxMjk5XX0=
+eyJoaXN0b3J5IjpbLTE0NzYyOTg1MzQsLTYxNjc0MzY1Nyw3Mz
+Y5NjA0MzAsLTI2OTI4NzI3NSwzMzk4NTEyOTldfQ==
 -->
