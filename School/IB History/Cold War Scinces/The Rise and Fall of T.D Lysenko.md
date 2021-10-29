@@ -759,13 +759,7 @@ nihilated.1”
 
 
 
-“Two weeks before the plenary session, all of the  
-issue was removed from circulation at the order of the CC  
-ideological commission, barely two to three days after it had  
-been consigned to the distributing agency. The CC agricul¬  
-tural secretary, Polyakov, who always complied with all  
-Lysenkoite requests,”  
-(Medvedev and Lerner, p. 208)
+
 
 “The events of 1963 in any case demonstrated that the mo¬  
 nopoly of Michurinist biology was on the wav out.”  

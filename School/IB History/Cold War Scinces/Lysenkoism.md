@@ -105,12 +105,11 @@ baths.””  (Medvedev and Lerner, p. 183)
 
 [^29]:“But, on the evening of July 12, all members of the  commission were notified by telephone that the last meeting  had been canceled and the commission dissolved”  (Medvedev and Lerner, p. 199)
 
-[^30]:“Ol’shansky.5 He obviously wanted  to have the session approach the 1948 one in significance and,  under cover of the decree, he demonstrated in his report the  triumph of Michurinist biology over the reactionary Mor-  ganism-Mendelism”  (Medvedev and Lerner, p. 202)
+[^30]:“Ol’shansky.5 He obviously wanted  to have the session approach the 1948 one in significance and,  under cover of the decree, he demonstrated in his report the  triumph of Michurinist biology over the reactionary Morganism-Mendelism”  (Medvedev and Lerner, p. 202)
 
-[^31]:“Furthermore, by 1963 Lysenkoism no longer had sup¬  
-port in medicine, and the Academy of Medical Sciences was  
-undertaking decisive steps for the rebirth of medical genetics”  
-(Medvedev and Lerner, p. 208)
+[^31]:“Furthermore, by 1963 Lysenkoism no longer had support in medicine, and the Academy of Medical Sciences was  undertaking decisive steps for the rebirth of medical genetics”  (Medvedev and Lerner, p. 208)
+
+[^31]:“Two weeks before the plenary session, all of the  issue was removed from circulation at the order of the CC  ideological commission, barely two to three days after it had been consigned to the distributing agency. The CC agricultural secretary, Polyakov, who always complied with all Lysenkoite requests,” (Medvedev and Lerner, p. 208)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTYxNjc0MzY1Nyw3MzY5NjA0MzAsLTI2OT
