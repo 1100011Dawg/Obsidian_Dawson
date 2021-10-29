@@ -48,7 +48,7 @@ asked for, [[Lysenko]] became enraged and categorically refused  to print it in 
 nopoly of Michurinist biology was on the wav out.”  
 (Medvedev and Lerner, p. 210)
 
-
+“lysenko: Not tactless, but slanderous! The praesidium” (Medvedev and Lerner, p. 217)
 
 
 

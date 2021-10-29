@@ -109,7 +109,8 @@ aliases:
 
 [^31]:“Furthermore, by 1963 Lysenkoism no longer had support in medicine, and the Academy of Medical Sciences was  undertaking decisive steps for the rebirth of medical genetics”  (Medvedev and Lerner, p. 208)
 
-[^31]:“Two weeks before the plenary session, all of the  issue was removed from circulation at the order of the CC  ideological commission, barely two to three days after it had been consigned to the distributing agency. The CC agricultural secretary, Polyakov, who always complied with all Lysenkoite requests,” (Medvedev and Lerner, p. 208)
+[^32]:“Two weeks before the plenary session, all of the  issue was removed from circulation at the order of the CC  ideological commission, barely two to three days after it had been consigned to the distributing agency. The CC agricultural secretary, Polyakov, who always complied with all Lysenkoite requests,” (Medvedev and Lerner, p. 208)
+
 
 [^33]:“Lebedev was then given the floor for purposes of condemning Morganism-Mendelism. He demanded the banning of Morganism from curricula and severely criticized Lobashev’s textbook of genetics”  (Medvedev and Lerner, p. 213)
 Footnotes:

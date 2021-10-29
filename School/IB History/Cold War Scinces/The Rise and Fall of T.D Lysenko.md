@@ -761,7 +761,7 @@ nihilated.1”
 
 
 
-“lysenko: Not tactless, but slanderous! The praesidium” (Medvedev and Lerner, p. 217)
+
 
 “lysenko: At least, if not the meeting as a whole, does the prae¬  
 sidium support Sakharov’s statement? You said you did not, but  
