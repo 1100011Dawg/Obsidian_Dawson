@@ -42,6 +42,7 @@ aliases:
 	 - Prolonged by government support meeting was cancled[^29]
 	 - wanted the eventual meeting to support his cause[^30]
  - 1963 no longer had supported, the academy of academic sciences was rebuilding[^31]
+ - two weeks before the plenary session, the lysenkoists got the CC  ideological commission to remove a popular scientific magazine against them[^32]
 
 
 Footnotes:

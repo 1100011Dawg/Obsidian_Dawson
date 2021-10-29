@@ -761,9 +761,7 @@ nihilated.1”
 
 
 
-“The events of 1963 in any case demonstrated that the mo¬  
-nopoly of Michurinist biology was on the wav out.”  
-(Medvedev and Lerner, p. 210)
+
 
 “But the style chosen by Ol’shansky for his article was not  
 suitable for the 1963 environment. The Soviet scientific com¬  
