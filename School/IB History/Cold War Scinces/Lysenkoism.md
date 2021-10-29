@@ -51,7 +51,7 @@ aliases:
  - The U.S.S.R long neglected agriculture by implementing cost cutting measures rather than trying to optimize for best performance[^37]
  - If politicians favored one scientific theory over another, that other could be completely suppressed.[^38]
  - Pravda couldn't be criticized[^39]
- - From 1948-1952 even positive descriptions of genetics were critisized while 1958-1964 only direct cri
+ - From 1948-1952 even positive descriptions of genetics were criticized while 1958-1964 only direct criticism was censured.[^40]
 
 ##### Footnotes
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)
@@ -132,7 +132,19 @@ aliases:
 [^38]:“made possible popular support for one or another scientific trend selected by the political leadership, and complete suppression of the opposition” (Medvedev and Lerner, p. 249)
 
 [^39]:“Criticism by other papers of any articles published in Pravda is practically impossible” (Medvedev and Lerner, p. 249)
+
+[^40]:“Criticism of Lysenko in the three active periods of the cotroversy (1935-1938, 1946-1947, 1953-1958) was to be found  
+only in specialized scientific journals. Several times, however,  
+and for long periods, strict censorship bans on all criticism of  
+Lysenko and Michurinist biology extended to all publications.  
+Between 1948 and 1952, even any positive descriptions of ge-  
+netical experiments were forbidden by the censorship. In  
+1958-1964, only direct criticism of Lysenko was prohibited,  
+and papers on experimental genetics were published without  
+great difficulty, but only in a small number of scientific jour¬  
+nals.”  
+(Medvedev and Lerner, p. 250)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzYyOTg1MzQsLTYxNjc0MzY1Nyw3Mz
-Y5NjA0MzAsLTI2OTI4NzI3NSwzMzk4NTEyOTldfQ==
+eyJoaXN0b3J5IjpbMTY2MTg5NTY4NSwtNjE2NzQzNjU3LDczNj
+k2MDQzMCwtMjY5Mjg3Mjc1LDMzOTg1MTI5OV19
 -->
