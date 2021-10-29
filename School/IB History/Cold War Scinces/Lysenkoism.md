@@ -45,7 +45,7 @@ aliases:
  - two weeks before the plenary session, the lysenkoists got the CC  ideological commission to remove a popular scientific magazine against them[^32]
  - Lebedex condembed Morganism and demanded it's banning from curricula, and critisized Lobashev's text [^33]
 #### The why
- - Semenov and Frolov determed how false doctrines orgiginate from philosphie
+ - Semenov and Frolov determent how false doctrines originate from philosophies and personality cults, respectovley[^]
 
 ##### Footnotes
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)
@@ -114,6 +114,12 @@ aliases:
 
 
 [^33]:“Lebedev was then given the floor for purposes of condemning Morganism-Mendelism. He demanded the banning of Morganism from curricula and severely criticized Lobashev’s textbook of genetics”  (Medvedev and Lerner, p. 213)
+
+[^34]:“The first article is by Semenov,1 and the second by Frolov.2  The first analyzes the subjective-philosophical causes of the  origin of false doctrines in natural science. The second dem¬ onstrates how such false doctrines, under the conditions of  
+the personality cult, can apparently be amalgamated with a  
+dominant, dogmatic philosophy and thus receive the strongest  
+support from influential ideological circles.”  
+(Medvedev and Lerner, p. 244)
 Footnotes:
 
 <!--stackedit_data:

@@ -765,14 +765,7 @@ nihilated.1”
 
 
 
-“The first article is by Semenov,1 and the second by Frolov.2  
-The first analyzes the subjective-philosophical causes of the  
-origin of false doctrines in natural science. The second dem¬  
-onstrates how such false doctrines, under the conditions of  
-the personality cult, can apparently be amalgamated with a  
-dominant, dogmatic philosophy and thus receive the strongest  
-support from influential ideological circles.”  
-(Medvedev and Lerner, p. 244)
+
 
 “To create a false doctrine, all that may be required  
 is a fanatical person who has faith in the products of his own  
