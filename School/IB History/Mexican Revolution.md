@@ -41,6 +41,7 @@
  - A dictator of 31 years
  - gained wealth during his dictatorship
  - In 1910 allowed an election, won but competition declared it rigged
+ - Strengthened The Catholic Church
 
 #### Cientificos(1876 1911))
  - Officials alongside Diaz extracted wealth from Mexico
@@ -77,7 +78,7 @@ Campesinos
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ0Mjg2NTMsNDM2MDI4NTQ4LC04Nz
-QwNDE2OTYsOTg5MTcyOTIsNDk3MjE1Nzg4LC00NTQ5NDQzMjYs
-MTA3OTMwMDQxNSw2MzExMDU5NzMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDgxOTUzODU0LDQzNjAyODU0OCwtODc0MD
+QxNjk2LDk4OTE3MjkyLDQ5NzIxNTc4OCwtNDU0OTQ0MzI2LDEw
+NzkzMDA0MTUsNjMxMTA1OTczLC0yMDg4NzQ2NjEyXX0=
 -->
