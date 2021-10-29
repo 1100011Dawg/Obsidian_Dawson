@@ -763,10 +763,7 @@ nihilated.1”
 
 
 
-“lysenko: At least, if not the meeting as a whole, does the prae¬  
-sidium support Sakharov’s statement? You said you did not, but  
-what about the praesidium?”  
-(Medvedev and Lerner, p. 217)
+
 
 “The first article is by Semenov,1 and the second by Frolov.2  
 The first analyzes the subjective-philosophical causes of the  

@@ -48,7 +48,13 @@ asked for, [[Lysenko]] became enraged and categorically refused  to print it in 
 nopoly of Michurinist biology was on the wav out.”  
 (Medvedev and Lerner, p. 210)
 
-“lysenko: Not tactless, but slanderous! The praesidium” (Medvedev and Lerner, p. 217)
 
+> revist 
+
+**“lysenko: Not tactless, but slanderous! The praesidium” (Medvedev and Lerner, p. 217)
+“lysenko: At least, if not the meeting as a whole, does the prae¬  
+sidium support Sakharov’s statement? You said you did not, but  
+what about the praesidium?”  
+(Medvedev and Lerner, p. 217)**
 
 
