@@ -44,7 +44,9 @@ asked for, [[Lysenko]] became enraged and categorically refused  to print it in 
 
 “This unique volume was also translated into languages of friendly socialist states, some of which, unfortunately, adopted the Soviet “experience” of persecution of genetics”  (Medvedev and Lerner, p. 141)
 
-
+“The events of 1963 in any case demonstrated that the mo¬  
+nopoly of Michurinist biology was on the wav out.”  
+(Medvedev and Lerner, p. 210)
 
 
 
