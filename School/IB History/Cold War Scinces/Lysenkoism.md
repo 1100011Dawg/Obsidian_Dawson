@@ -138,7 +138,9 @@ aliases:
 [^40]:“Criticism of Lysenko in the three active periods of the controversy (1935-1938, 1946-1947, 1953-1958) was to be found only in specialized scientific journals. Several times, however, and for long periods, strict censorship bans on all criticism of Lysenko and Michurinist biology extended to all publications. Between 1948 and 1952, even any positive descriptions of genetical experiments were forbidden by the censorship. In 1958-1964, only direct criticism of Lysenko was prohibited, and papers on experimental genetics were published without great difficulty, but only in a small number of scientific journals.”  (Medvedev and Lerner, p. 250)
 
 [^41]:“An important factor in the prolonged domination of Lysenkoism was the protracted practical isolation of Soviet scientists and the Soviet intelligentsia from world science, foreign scientific institutions, and colleagues abroad” (Medvedev and Lerner, p. 250)
+
+[^42]:“Beginning with 1933-1934, possibilities for Soviet scientists to participate in international conferences, congresses, and symposia abroad became sharply limited” (Medvedev and Lerner, p. 250)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUzMzY3NDcsLTYxNjc0MzY1Nyw3Mz
-Y5NjA0MzAsLTI2OTI4NzI3NSwzMzk4NTEyOTldfQ==
+eyJoaXN0b3J5IjpbMTQ3NTc3MzIyNSwtNjE2NzQzNjU3LDczNj
+k2MDQzMCwtMjY5Mjg3Mjc1LDMzOTg1MTI5OV19
 -->
