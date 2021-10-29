@@ -49,9 +49,9 @@
 #### Edward Doheny(1901 1920)
  - Extracted oil from Mexico
  - An U.S investor discovered oil in San Luis Potosi
- - Received 
+ - Received some tax breaks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNzQzMjYzLDQzNjAyODU0OCwtODc0MD
-QxNjk2LDk4OTE3MjkyLDQ5NzIxNTc4OCwtNDU0OTQ0MzI2LDEw
-NzkzMDA0MTUsNjMxMTA1OTczLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTE2MDE1MjAzMiw0MzYwMjg1NDgsLTg3ND
+A0MTY5Niw5ODkxNzI5Miw0OTcyMTU3ODgsLTQ1NDk0NDMyNiwx
+MDc5MzAwNDE1LDYzMTEwNTk3MywtMjA4ODc0NjYxMl19
 -->
