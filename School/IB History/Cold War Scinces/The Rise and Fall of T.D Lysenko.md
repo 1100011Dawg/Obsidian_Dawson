@@ -769,10 +769,7 @@ nihilated.1”
 
 
 
-“There was an erroneous tendency to classify sciences as  
-bourgeois on the one hand, and proletarian or socialist on the  
-other. T”  
-(Medvedev and Lerner, p. 247)
+
 
 “Constant difficulties and mistaken policies occurred in the  
 country’s agricultural production. For many years, beginning  
