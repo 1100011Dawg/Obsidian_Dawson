@@ -24,7 +24,7 @@
  - Second law to constrain church power
  - forced the sale of profit gaining land
 
-#### Terrenos Baldios Law(18880-1910)
+#### Terrenos Baldios Law(1880-1910)
  - commercialized and privatized agricultural lands
  - surveyed all lands for deeds of ownership, seized any lands not  ¨owned¨
  - Hacendados ruled the plantations created
@@ -35,7 +35,8 @@
  - beloved by many
  - instituted constitutional reforms and created a democratic mexico
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDk0NDMyNiwxMDc5MzAwNDE1LDYzMT
-EwNTk3MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNDk3MjE1Nzg4LC00NTQ5NDQzMjYsMTA3OT
+MwMDQxNSw2MzExMDU5NzMsLTIwODg3NDY2MTJdfQ==
 -->
