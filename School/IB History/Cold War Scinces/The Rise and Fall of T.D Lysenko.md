@@ -778,11 +778,6 @@ nihilated.1”
 
 
 
-“An important factor in the prolonged domination of Ly-  
-senkoism was the protracted practical isolation of Soviet scien¬  
-tists and the Soviet intelligentsia from world science, foreign  
-scientific institutions, and colleagues abroad”  
-(Medvedev and Lerner, p. 250)
 
 “Beginning with  
 1933-1934, possibilities for Soviet scientists to participate in in¬  
@@ -806,8 +801,8 @@ authorities disappeared, and this fact is important”
 
 Medvedev, Zhores A, and Translated I Michael Lerner. The Rise and Fall of T.D. LyseMedvedev and Lerner, The Rise and Fall of T.D. Lysenko.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA0MjYyNTQsNDEzNTM5MzcxLDE3Mj
-M0MzgwODcsOTM5OTczNTQxLC01MjQwNDI0NDEsLTIxMjk1NTA5
-NDEsLTk3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC
-0yMDU3MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbMjA1NDM4OTY0OSwtMTQ5MDQyNjI1NCw0MT
+M1MzkzNzEsMTcyMzQzODA4Nyw5Mzk5NzM1NDEsLTUyNDA0MjQ0
+MSwtMjEyOTU1MDk0MSwtOTczNzUyNzAyLDE3NDc5NjA1ODEsLT
+EwMzE2MDEzNDAsLTIwNTcwMzczNTVdfQ==
 -->
