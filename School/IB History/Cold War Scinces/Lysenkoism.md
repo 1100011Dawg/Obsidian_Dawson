@@ -123,7 +123,9 @@ aliases:
 
 [^36]:“There was an erroneous tendency to classify sciences as bourgeois on the one hand, and proletarian or socialist on the other. T” (Medvedev and Lerner, p. 247)
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjc0MzY1Nyw3MzY5NjA0MzAsLTI2OT
-I4NzI3NSwzMzk4NTEyOTldfQ==
+eyJoaXN0b3J5IjpbLTE0MzA4MDEwMjksLTYxNjc0MzY1Nyw3Mz
+Y5NjA0MzAsLTI2OTI4NzI3NSwzMzk4NTEyOTldfQ==
 -->
