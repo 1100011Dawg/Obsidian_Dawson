@@ -40,10 +40,10 @@
  - After Juarez died of a heart attack he ran against Lerdo in 1776, lost but then threw a coup
  - A dictator of 31 years
  - gained wealth during his dictatorship
- - In 1910 allowed an election, but lost and declared the election rigged
+ - In 1910 allowed an election, won but competition declared 
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MDI4NTQ4LC04NzQwNDE2OTYsOTg5MT
-cyOTIsNDk3MjE1Nzg4LC00NTQ5NDQzMjYsMTA3OTMwMDQxNSw2
-MzExMDU5NzMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTM3NzU5OTc5MCw0MzYwMjg1NDgsLTg3ND
+A0MTY5Niw5ODkxNzI5Miw0OTcyMTU3ODgsLTQ1NDk0NDMyNiwx
+MDc5MzAwNDE1LDYzMTEwNTk3MywtMjA4ODc0NjYxMl19
 -->
