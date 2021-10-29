@@ -45,6 +45,7 @@ aliases:
  - two weeks before the plenary session, the lysenkoists got the CC  ideological commission to remove a popular scientific magazine against them[^32]
  - Lebedex condembed Morganism and demanded it's banning from curricula, and critisized Lobashev's text [^33]
 #### The why
+ - Semenov and Frolov determed how false doctrines orgiginate from philosphie
 
 ##### Footnotes
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)
