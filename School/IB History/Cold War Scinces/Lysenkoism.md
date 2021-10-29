@@ -123,9 +123,9 @@ aliases:
 
 [^36]:“There was an erroneous tendency to classify sciences as bourgeois on the one hand, and proletarian or socialist on the other. T” (Medvedev and Lerner, p. 247)
 
-
+[^37]:“Constant difficulties and mistaken policies occurred in the country’s agricultural production. For many years, beginning with the headlong collectivization and massive repressions against the more prosperous peasants, and ending with Khrushchev’s decrees which limited the possibilities of individual livestock rearing, agricultural policy was based not so much on concern for an all-around development of agricultural production and an increase in soil productivity, but rather on achieving maximum agricultural output at minimum budgetary cost.” (Medvedev and Lerner, p. 248)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA4MDEwMjksLTYxNjc0MzY1Nyw3Mz
-Y5NjA0MzAsLTI2OTI4NzI3NSwzMzk4NTEyOTldfQ==
+eyJoaXN0b3J5IjpbMTk5MTQ4NDA0OSwtNjE2NzQzNjU3LDczNj
+k2MDQzMCwtMjY5Mjg3Mjc1LDMzOTg1MTI5OV19
 -->
