@@ -780,14 +780,7 @@ nihilated.1”
 
 
 
-“prevailing in the U.S.S.R., the periodic,  
-prolonged capture of key administrative posts (the LAAAS  
-praesidium, the Ministry of Agriculture, the agricultural sec¬  
-tion of the CC, the degree-awarding commission, the Min¬  
-istry of Education, etc.) by Lysenkoites secured for them full  
-control over virtually all biological and agricultural science  
-and education”  
-(Medvedev and Lerner, p. 252)
+
 
 “Since October, 1964, the popular support which  
 Lysenko and his followers received from state and political  
@@ -796,8 +789,9 @@ authorities disappeared, and this fact is important”
 
 Medvedev, Zhores A, and Translated I Michael Lerner. The Rise and Fall of T.D. LyseMedvedev and Lerner, The Rise and Fall of T.D. Lysenko.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNzcyOTY1LDIwNTQzODk2NDksLTE0OT
-A0MjYyNTQsNDEzNTM5MzcxLDE3MjM0MzgwODcsOTM5OTczNTQx
-LC01MjQwNDI0NDEsLTIxMjk1NTA5NDEsLTk3Mzc1MjcwMiwxNz
-Q3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbLTEwMDUyMTkwODMsNzIzNzcyOTY1LDIwNT
+QzODk2NDksLTE0OTA0MjYyNTQsNDEzNTM5MzcxLDE3MjM0Mzgw
+ODcsOTM5OTczNTQxLC01MjQwNDI0NDEsLTIxMjk1NTA5NDEsLT
+k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
+MDM3MzU1XX0=
 -->
