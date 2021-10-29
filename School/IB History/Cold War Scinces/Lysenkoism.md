@@ -45,12 +45,7 @@ aliases:
  - two weeks before the plenary session, the lysenkoists got the CC  ideological commission to remove a popular scientific magazine against them[^32]
  - Lebedex condembed Morganism and demanded it's banning from curricula, and critisized Lobashev's text [^33]
 
-“Lebedev was then given the floor for purposes of condemn¬  
-ing Morganism-Mendelism. He demanded the banning of Mor¬  
-ganism from curricula and severely criticized Lobashev’s text¬  
-book of genetics”  
-(Medvedev and Lerner, p. 213)
-Footnotes:
+
 
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)
 
@@ -94,8 +89,7 @@ Footnotes:
 
 [^21]:“U.S.S.R. Minister of Higher Education, Stoletov, issued a special order41 which obliged all institutions of higher learning to believe Lepeshinskaya’s teaching” (Medvedev and Lerner, p. 182)
 
-[^22]:“This discovery was the famous “soda  
-baths.””  (Medvedev and Lerner, p. 183)
+[^22]:“This discovery was the famous “soda baths.””  (Medvedev and Lerner, p. 183)
 
 [^23]:“Bushinsky. He suggested that land should be plowed not to a depth of 20 centimeters, as is usually done, but of a meter” (Medvedev and Lerner, p. 183)
 
@@ -116,6 +110,9 @@ baths.””  (Medvedev and Lerner, p. 183)
 [^31]:“Furthermore, by 1963 Lysenkoism no longer had support in medicine, and the Academy of Medical Sciences was  undertaking decisive steps for the rebirth of medical genetics”  (Medvedev and Lerner, p. 208)
 
 [^31]:“Two weeks before the plenary session, all of the  issue was removed from circulation at the order of the CC  ideological commission, barely two to three days after it had been consigned to the distributing agency. The CC agricultural secretary, Polyakov, who always complied with all Lysenkoite requests,” (Medvedev and Lerner, p. 208)
+
+[^33]:“Lebedev was then given the floor for purposes of condemning Morganism-Mendelism. He demanded the banning of Morganism from curricula and severely criticized Lobashev’s textbook of genetics”  (Medvedev and Lerner, p. 213)
+Footnotes:
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTYxNjc0MzY1Nyw3MzY5NjA0MzAsLTI2OT
