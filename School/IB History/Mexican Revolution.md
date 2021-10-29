@@ -42,6 +42,8 @@
  - gained wealth during his dictatorship
  - In 1910 allowed an election, won but competition declared it rigged
  - Strengthened The Catholic Church
+ - Built up federal army, and infrastructure with foreign capital
+ - Created a solid banking system and other infrastructure like railroads
 
 #### Cientificos(1876 1911))
  - Officials alongside Diaz extracted wealth from Mexico
@@ -78,7 +80,7 @@ Campesinos
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxOTUzODU0LDQzNjAyODU0OCwtODc0MD
+eyJoaXN0b3J5IjpbMzczODg0NTU2LDQzNjAyODU0OCwtODc0MD
 QxNjk2LDk4OTE3MjkyLDQ5NzIxNTc4OCwtNDU0OTQ0MzI2LDEw
 NzkzMDA0MTUsNjMxMTA1OTczLC0yMDg4NzQ2NjEyXX0=
 -->
