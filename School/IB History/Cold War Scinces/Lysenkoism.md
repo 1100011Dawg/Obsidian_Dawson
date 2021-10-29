@@ -52,7 +52,8 @@ aliases:
  - If politicians favored one scientific theory over another, that other could be completely suppressed.[^38]
  - Pravda couldn't be criticized[^39]
  - From 1948-1952 even positive descriptions of genetics were criticized while 1958-1964 only direct criticism was censured.[^40]
- - The isolation from other 
+ - The isolation from other Scientists contributed[^41]
+	 - Started around 1933-1934[^42]
 
 ##### Footnotes
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)
@@ -138,6 +139,6 @@ aliases:
 
 [^41]:“An important factor in the prolonged domination of Lysenkoism was the protracted practical isolation of Soviet scientists and the Soviet intelligentsia from world science, foreign scientific institutions, and colleagues abroad” (Medvedev and Lerner, p. 250)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3Njk5MzU1LC02MTY3NDM2NTcsNzM2OT
-YwNDMwLC0yNjkyODcyNzUsMzM5ODUxMjk5XX0=
+eyJoaXN0b3J5IjpbLTE1MjUzMzY3NDcsLTYxNjc0MzY1Nyw3Mz
+Y5NjA0MzAsLTI2OTI4NzI3NSwzMzk4NTEyOTldfQ==
 -->
