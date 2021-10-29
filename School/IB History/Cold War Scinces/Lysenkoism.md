@@ -54,6 +54,7 @@ aliases:
  - From 1948-1952 even positive descriptions of genetics were criticized while 1958-1964 only direct criticism was censured.[^40]
  - The isolation from other Scientists contributed[^41]
 	 - Started around 1933-1934[^42]
+ - Lysenkoist secured high up positions:the LAAAS praesidium, the Ministry of Agriculture, the agricultural section of the CC, the degree awarding commission, the Ministry of Education[^43]
 
 ##### Footnotes
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)
@@ -140,7 +141,14 @@ aliases:
 [^41]:“An important factor in the prolonged domination of Lysenkoism was the protracted practical isolation of Soviet scientists and the Soviet intelligentsia from world science, foreign scientific institutions, and colleagues abroad” (Medvedev and Lerner, p. 250)
 
 [^42]:“Beginning with 1933-1934, possibilities for Soviet scientists to participate in international conferences, congresses, and symposia abroad became sharply limited” (Medvedev and Lerner, p. 250)
+
+[^43]:“prevailing in the U.S.S.R., the periodic, prolonged capture of key administrative posts (the LAAAS praesidium, the Ministry of Agriculture, the agricultural sec¬  
+tion of the CC, the degree-awarding commission, the Min¬  
+istry of Education, etc.) by Lysenkoites secured for them full  
+control over virtually all biological and agricultural science  
+and education”  
+(Medvedev and Lerner, p. 252)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTc3MzIyNSwtNjE2NzQzNjU3LDczNj
-k2MDQzMCwtMjY5Mjg3Mjc1LDMzOTg1MTI5OV19
+eyJoaXN0b3J5IjpbNTEzNTE3OTE0LC02MTY3NDM2NTcsNzM2OT
+YwNDMwLC0yNjkyODcyNzUsMzM5ODUxMjk5XX0=
 -->
