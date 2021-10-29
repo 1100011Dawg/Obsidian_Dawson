@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "50f94c9b05ecee97",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -143,7 +154,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "495e3745369417dd",
+  "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
     "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
     "School/IB History/Cold War Scinces/Vavilov.md",
