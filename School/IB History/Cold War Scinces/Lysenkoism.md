@@ -37,6 +37,9 @@ aliases:
  - Science discredited from the Untied States[^7]
  - Still millions of Students learn this[^27]
 
+#### Ending
+ - The AS institute under Lysenko finally fell under review[^28]
+
 
 Footnotes:
 
