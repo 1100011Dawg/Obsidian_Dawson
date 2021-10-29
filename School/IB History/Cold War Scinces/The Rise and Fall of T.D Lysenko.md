@@ -759,16 +759,6 @@ nihilated.1”
 
 
 
-
-
-
-
-“But the style chosen by Ol’shansky for his article was not  
-suitable for the 1963 environment. The Soviet scientific com¬  
-munity had become more mature, and the methods and tactics  
-chosen by Ol’shansky by then worked against him”  
-(Medvedev and Lerner, p. 211)
-
 “Lebedev was then given the floor for purposes of condemn¬  
 ing Morganism-Mendelism. He demanded the banning of Mor¬  
 ganism from curricula and severely criticized Lobashev’s text¬  
