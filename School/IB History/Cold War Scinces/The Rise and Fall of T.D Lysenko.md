@@ -750,6 +750,7 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
+
 “The AS Institute of Genetics,  
 headed by Lysenko, fell within the bounds of such review.  
 At the end of June, for the first time in twenty years, the  
