@@ -771,17 +771,7 @@ nihilated.1”
 
 
 
-“Constant difficulties and mistaken policies occurred in the  
-country’s agricultural production. For many years, beginning  
-with the headlong collectivization and massive repressions  
-against the more prosperous peasants, and ending with Khru¬  
-shchev’s decrees which limited the possibilities of individual  
-livestock rearing, agricultural policy was based not so much  
-on concern for an all-around development of agricultural pro¬  
-duction and an increase in soil productivity, but rather on  
-achieving maximum agricultural output at minimum budgetary  
-cost.”  
-(Medvedev and Lerner, p. 248)
+
 
 “made possible popular support for one or another scientific  
 trend selected by the political leadership, and complete sup¬  
@@ -834,7 +824,8 @@ authorities disappeared, and this fact is important”
 
 Medvedev, Zhores A, and Translated I Michael Lerner. The Rise and Fall of T.D. LyseMedvedev and Lerner, The Rise and Fall of T.D. Lysenko.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzQzODA4Nyw5Mzk5NzM1NDEsLTUyND
-A0MjQ0MSwtMjEyOTU1MDk0MSwtOTczNzUyNzAyLDE3NDc5NjA1
-ODEsLTEwMzE2MDEzNDAsLTIwNTcwMzczNTVdfQ==
+eyJoaXN0b3J5IjpbLTE0MDI3OTYyNiwxNzIzNDM4MDg3LDkzOT
+k3MzU0MSwtNTI0MDQyNDQxLC0yMTI5NTUwOTQxLC05NzM3NTI3
+MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAzNzM1NV
+19
 -->
