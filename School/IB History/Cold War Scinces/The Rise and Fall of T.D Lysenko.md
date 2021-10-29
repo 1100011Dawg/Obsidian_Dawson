@@ -750,6 +750,142 @@ nihilated.1”
 
 “With the aid of this doctrine, attempts are made to justify the exploitation of workers, colonialism, and racial discrimination”  (Medvedev and Lerner, p. 148)
 
+“The AS Institute of Genetics,  
+headed by Lysenko, fell within the bounds of such review.  
+At the end of June, for the first time in twenty years, the  
+Institute was visited by a group of scientists with a mandate  
+to examine, investigate, and report its finding”  
+(Medvedev and Lerner, p. 198)
+
+“But, on the evening of July 12, all members of the  
+commission were notified by telephone that the last meeting  
+had been canceled and the commission dissolved”  
+(Medvedev and Lerner, p. 199)
+
+“Ol’shansky.5 He obviously wanted  
+to have the session approach the 1948 one in significance and,  
+under cover of the decree, he demonstrated in his report the  
+triumph of Michurinist biology over the reactionary Mor-  
+ganism-Mendelism”  
+(Medvedev and Lerner, p. 202)
+
+“Furthermore, by 1963 Lysenkoism no longer had sup¬  
+port in medicine, and the Academy of Medical Sciences was  
+undertaking decisive steps for the rebirth of medical genetics”  
+(Medvedev and Lerner, p. 208)
+
+“Two weeks before the plenary session, all of the  
+issue was removed from circulation at the order of the CC  
+ideological commission, barely two to three days after it had  
+been consigned to the distributing agency. The CC agricul¬  
+tural secretary, Polyakov, who always complied with all  
+Lysenkoite requests,”  
+(Medvedev and Lerner, p. 208)
+
+“The events of 1963 in any case demonstrated that the mo¬  
+nopoly of Michurinist biology was on the wav out.”  
+(Medvedev and Lerner, p. 210)
+
+“But the style chosen by Ol’shansky for his article was not  
+suitable for the 1963 environment. The Soviet scientific com¬  
+munity had become more mature, and the methods and tactics  
+chosen by Ol’shansky by then worked against him”  
+(Medvedev and Lerner, p. 211)
+
+“Lebedev was then given the floor for purposes of condemn¬  
+ing Morganism-Mendelism. He demanded the banning of Mor¬  
+ganism from curricula and severely criticized Lobashev’s text¬  
+book of genetics”  
+(Medvedev and Lerner, p. 213)
+
+“lysenko: Not tactless, but slanderous! The praesidium” (Medvedev and Lerner, p. 217)
+
+“lysenko: At least, if not the meeting as a whole, does the prae¬  
+sidium support Sakharov’s statement? You said you did not, but  
+what about the praesidium?”  
+(Medvedev and Lerner, p. 217)
+
+“The first article is by Semenov,1 and the second by Frolov.2  
+The first analyzes the subjective-philosophical causes of the  
+origin of false doctrines in natural science. The second dem¬  
+onstrates how such false doctrines, under the conditions of  
+the personality cult, can apparently be amalgamated with a  
+dominant, dogmatic philosophy and thus receive the strongest  
+support from influential ideological circles.”  
+(Medvedev and Lerner, p. 244)
+
+“To create a false doctrine, all that may be required  
+is a fanatical person who has faith in the products of his own  
+fantasy and who assumes the function of an infallible, scien¬  
+tific prophet”  
+(Medvedev and Lerner, p. 246)
+
+“There was an erroneous tendency to classify sciences as  
+bourgeois on the one hand, and proletarian or socialist on the  
+other. T”  
+(Medvedev and Lerner, p. 247)
+
+“Constant difficulties and mistaken policies occurred in the  
+country’s agricultural production. For many years, beginning  
+with the headlong collectivization and massive repressions  
+against the more prosperous peasants, and ending with Khru¬  
+shchev’s decrees which limited the possibilities of individual  
+livestock rearing, agricultural policy was based not so much  
+on concern for an all-around development of agricultural pro¬  
+duction and an increase in soil productivity, but rather on  
+achieving maximum agricultural output at minimum budgetary  
+cost.”  
+(Medvedev and Lerner, p. 248)
+
+“made possible popular support for one or another scientific  
+trend selected by the political leadership, and complete sup¬  
+pression of the opposition”  
+(Medvedev and Lerner, p. 249)
+
+“Criticism by  
+other papers of any articles published in Pravda is practically  
+impossible”  
+(Medvedev and Lerner, p. 249)
+
+“Criticism of Lysenko in the three active periods of the con¬  
+troversy (1935-1938, 1946-1947, 1953-1958) was to be found  
+only in specialized scientific journals. Several times, however,  
+and for long periods, strict censorship bans on all criticism of  
+Lysenko and Michurinist biology extended to all publications.  
+Between 1948 and 1952, even any positive descriptions of ge-  
+netical experiments were forbidden by the censorship. In  
+1958-1964, only direct criticism of Lysenko was prohibited,  
+and papers on experimental genetics were published without  
+great difficulty, but only in a small number of scientific jour¬  
+nals.”  
+(Medvedev and Lerner, p. 250)
+
+“An important factor in the prolonged domination of Ly-  
+senkoism was the protracted practical isolation of Soviet scien¬  
+tists and the Soviet intelligentsia from world science, foreign  
+scientific institutions, and colleagues abroad”  
+(Medvedev and Lerner, p. 250)
+
+“Beginning with  
+1933-1934, possibilities for Soviet scientists to participate in in¬  
+ternational conferences, congresses, and symposia abroad be¬  
+came sharply limited”  
+(Medvedev and Lerner, p. 250)
+
+“prevailing in the U.S.S.R., the periodic,  
+prolonged capture of key administrative posts (the LAAAS  
+praesidium, the Ministry of Agriculture, the agricultural sec¬  
+tion of the CC, the degree-awarding commission, the Min¬  
+istry of Education, etc.) by Lysenkoites secured for them full  
+control over virtually all biological and agricultural science  
+and education”  
+(Medvedev and Lerner, p. 252)
+
+“Since October, 1964, the popular support which  
+Lysenko and his followers received from state and political  
+authorities disappeared, and this fact is important”  
+(Medvedev and Lerner, p. 253)
+
 Medvedev, Zhores A, and Translated I Michael Lerner. The Rise and Fall of T.D. LyseMedvedev and Lerner, The Rise and Fall of T.D. Lysenko.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTcyMzQzODA4Nyw5Mzk5NzM1NDEsLTUyND
