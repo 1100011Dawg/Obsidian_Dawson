@@ -41,6 +41,7 @@ aliases:
  - The AS institute under Lysenko finally fell under review[^28]
 	 - Prolonged by government support meeting was cancled[^29]
 	 - wanted the eventual meeting to support his cause[^30]
+ - 1963 no longer had supported, the academy of academic sciences was rebuilding[^31]
 
 
 Footnotes:
@@ -103,6 +104,13 @@ baths.””  (Medvedev and Lerner, p. 183)
 [^28]:“The AS Institute of Genetics,  headed by Lysenko, fell within the bounds of such review.  At the end of June, for the first time in twenty years, the  Institute was visited by a group of scientists with a mandate  to examine, investigate, and report its finding”  (Medvedev and Lerner, p. 198)
 
 [^29]:“But, on the evening of July 12, all members of the  commission were notified by telephone that the last meeting  had been canceled and the commission dissolved”  (Medvedev and Lerner, p. 199)
+
+[^30]:“Ol’shansky.5 He obviously wanted  to have the session approach the 1948 one in significance and,  under cover of the decree, he demonstrated in his report the  triumph of Michurinist biology over the reactionary Mor-  ganism-Mendelism”  (Medvedev and Lerner, p. 202)
+
+[^31]:“Furthermore, by 1963 Lysenkoism no longer had sup¬  
+port in medicine, and the Academy of Medical Sciences was  
+undertaking decisive steps for the rebirth of medical genetics”  
+(Medvedev and Lerner, p. 208)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTYxNjc0MzY1Nyw3MzY5NjA0MzAsLTI2OT

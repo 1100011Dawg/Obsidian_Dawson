@@ -757,10 +757,7 @@ nihilated.1”
 
 
 
-“Furthermore, by 1963 Lysenkoism no longer had sup¬  
-port in medicine, and the Academy of Medical Sciences was  
-undertaking decisive steps for the rebirth of medical genetics”  
-(Medvedev and Lerner, p. 208)
+
 
 “Two weeks before the plenary session, all of the  
 issue was removed from circulation at the order of the CC  
