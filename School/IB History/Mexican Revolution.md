@@ -43,8 +43,10 @@
  - In 1910 allowed an election, won but competition declared it rigged
 
 #### Cientifico(1876 1911))
+ - Officials alongside Diaz extracted wealth from Mexico
+ - Were ¨Scientists¨
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM5ODk3ODksNDM2MDI4NTQ4LC04Nz
-QwNDE2OTYsOTg5MTcyOTIsNDk3MjE1Nzg4LC00NTQ5NDQzMjYs
-MTA3OTMwMDQxNSw2MzExMDU5NzMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTUwNjA2NDMwOSw0MzYwMjg1NDgsLTg3ND
+A0MTY5Niw5ODkxNzI5Miw0OTcyMTU3ODgsLTQ1NDk0NDMyNiwx
+MDc5MzAwNDE1LDYzMTEwNTk3MywtMjA4ODc0NjYxMl19
 -->
