@@ -34,9 +34,11 @@
  - War hero and served for 14 years
  - beloved by many
  - instituted constitutional reforms and created a democratic mexico
+ - General skills countered diaz´s attempts at coups
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3MjE1Nzg4LC00NTQ5NDQzMjYsMTA3OT
-MwMDQxNSw2MzExMDU5NzMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbOTg5MTcyOTIsNDk3MjE1Nzg4LC00NTQ5ND
+QzMjYsMTA3OTMwMDQxNSw2MzExMDU5NzMsLTIwODg3NDY2MTJd
+fQ==
 -->
