@@ -43,8 +43,13 @@ aliases:
 	 - wanted the eventual meeting to support his cause[^30]
  - 1963 no longer had supported, the academy of academic sciences was rebuilding[^31]
  - two weeks before the plenary session, the lysenkoists got the CC  ideological commission to remove a popular scientific magazine against them[^32]
+ - Lebedex condembed Morganism and demanded it's banning from curricula, and critisized Lobashev's text [^33]
 
-
+“Lebedev was then given the floor for purposes of condemn¬  
+ing Morganism-Mendelism. He demanded the banning of Mor¬  
+ganism from curricula and severely criticized Lobashev’s text¬  
+book of genetics”  
+(Medvedev and Lerner, p. 213)
 Footnotes:
 
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)

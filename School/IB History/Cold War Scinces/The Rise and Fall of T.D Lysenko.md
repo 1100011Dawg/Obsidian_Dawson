@@ -759,11 +759,7 @@ nihilated.1”
 
 
 
-“Lebedev was then given the floor for purposes of condemn¬  
-ing Morganism-Mendelism. He demanded the banning of Mor¬  
-ganism from curricula and severely criticized Lobashev’s text¬  
-book of genetics”  
-(Medvedev and Lerner, p. 213)
+
 
 “lysenko: Not tactless, but slanderous! The praesidium” (Medvedev and Lerner, p. 217)
 
