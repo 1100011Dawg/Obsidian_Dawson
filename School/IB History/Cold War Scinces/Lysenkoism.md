@@ -44,6 +44,7 @@ aliases:
  - 1963 no longer had supported, the academy of academic sciences was rebuilding[^31]
  - two weeks before the plenary session, the lysenkoists got the CC  ideological commission to remove a popular scientific magazine against them[^32]
  - Lebedex condemned Morganism and demanded it's banning from curricula, and criticized Lobashev's text [^33]
+ - Political support dissipated 1964[^44]
 #### The why
  - Semenov and Frolov determent how false doctrines originate from philosophies and personality cults, respectively[^34]
 	 - To create a personality cult, one must act like a religious prophet, being fanatically and believing in his doctrine[^35]
@@ -142,13 +143,10 @@ aliases:
 
 [^42]:“Beginning with 1933-1934, possibilities for Soviet scientists to participate in international conferences, congresses, and symposia abroad became sharply limited” (Medvedev and Lerner, p. 250)
 
-[^43]:“prevailing in the U.S.S.R., the periodic, prolonged capture of key administrative posts (the LAAAS praesidium, the Ministry of Agriculture, the agricultural sec¬  
-tion of the CC, the degree-awarding commission, the Min¬  
-istry of Education, etc.) by Lysenkoites secured for them full  
-control over virtually all biological and agricultural science  
-and education”  
-(Medvedev and Lerner, p. 252)
+[^43]:“prevailing in the U.S.S.R., the periodic, prolonged capture of key administrative posts (the LAAAS praesidium, the Ministry of Agriculture, the agricultural section of the CC, the degree-awarding commission, the Ministry of Education, etc.) by Lysenkoites secured for them full control over virtually all biological and agricultural science and education” (Medvedev and Lerner, p. 252)
+
+[^43]:“Since October, 1964, the popular support which Lysenko and his followers received from state and political authorities disappeared, and this fact is important” (Medvedev and Lerner, p. 253)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNTE3OTE0LC02MTY3NDM2NTcsNzM2OT
+eyJoaXN0b3J5IjpbLTQ1NDQxMjQwLC02MTY3NDM2NTcsNzM2OT
 YwNDMwLC0yNjkyODcyNzUsMzM5ODUxMjk5XX0=
 -->
