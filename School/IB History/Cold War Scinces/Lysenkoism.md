@@ -49,7 +49,8 @@ aliases:
 	 - To create a personality cult, one must act like a religious prophet, being fanatically and believing in his doctrine[^35]
  - Tendence to discredit other sciences as bourgeois[^36]
  - The U.S.S.R long neglected agriculture by implementing cost cutting measures rather than trying to optimize for best performance[^37]
- - If polititions favored one scintific theory over another, that other could be comptletly supressed.[^38]
+ - If politicians favored one scientific theory over another, that other could be completely suppressed.[^38]
+ - Pravda couldn't be criticized[^39]
 
 ##### Footnotes
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)
@@ -128,7 +129,9 @@ aliases:
 [^37]:“Constant difficulties and mistaken policies occurred in the country’s agricultural production. For many years, beginning with the headlong collectivization and massive repressions against the more prosperous peasants, and ending with Khrushchev’s decrees which limited the possibilities of individual livestock rearing, agricultural policy was based not so much on concern for an all-around development of agricultural production and an increase in soil productivity, but rather on achieving maximum agricultural output at minimum budgetary cost.” (Medvedev and Lerner, p. 248)
 
 [^38]:“made possible popular support for one or another scientific trend selected by the political leadership, and complete suppression of the opposition” (Medvedev and Lerner, p. 249)
+
+[^39]:“Criticism by other papers of any articles published in Pravda is practically impossible” (Medvedev and Lerner, p. 249)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzcyODQ0MSwtNjE2NzQzNjU3LDczNj
-k2MDQzMCwtMjY5Mjg3Mjc1LDMzOTg1MTI5OV19
+eyJoaXN0b3J5IjpbLTEyOTY5ODc1LC02MTY3NDM2NTcsNzM2OT
+YwNDMwLC0yNjkyODcyNzUsMzM5ODUxMjk5XX0=
 -->
