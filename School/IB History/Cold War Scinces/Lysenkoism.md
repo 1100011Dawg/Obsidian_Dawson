@@ -15,7 +15,7 @@ aliases:
  - Destroed stock of Drosophila[^2]
  - Destroyed books about genetics in TAA library[^3]
  - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
- - When the mechanism of gene action had been discovered[^8d[] Lysenkoists said:
+ - When the mechanism of gene action had been discovered[^8] Lysenkoists said:
 	 > “The assertion that there are in an organism some minute particles, genes, responsible for the transmission of hereditary traits is pure fantasy  without any basis in science.””[^9]
  - Lysenko promoted to mix superphosphate with lime before applying it to the soil, witch is absorbed because it transforms superphosphate to insolbe tricalcium.[^12]
  - Many of their experiments lacked a control[^13]
