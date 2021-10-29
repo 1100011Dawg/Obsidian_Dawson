@@ -55,9 +55,13 @@
  - Drilled until 1921
  - Started Mexican eagle oil company, was helped by diaz
  - eventually reached a production of 32 million barrels per year
- - Diaz split conse
+ - Diaz split concessions between U.S and British firms
+
+#### Ricardo Flores and Enrique Magon
+ - Anti-Diaz activists until they fled in 1903
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDIwNDY3OCw0MzYwMjg1NDgsLTg3ND
-A0MTY5Niw5ODkxNzI5Miw0OTcyMTU3ODgsLTQ1NDk0NDMyNiwx
-MDc5MzAwNDE1LDYzMTEwNTk3MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTExMzQ3NjI5LDQzNjAyODU0OCwtODc0MD
+QxNjk2LDk4OTE3MjkyLDQ5NzIxNTc4OCwtNDU0OTQ0MzI2LDEw
+NzkzMDA0MTUsNjMxMTA1OTczLC0yMDg4NzQ2NjEyXX0=
 -->
