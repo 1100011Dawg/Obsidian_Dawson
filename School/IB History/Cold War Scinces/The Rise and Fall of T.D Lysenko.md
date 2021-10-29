@@ -779,11 +779,6 @@ nihilated.1”
 
 
 
-“Beginning with  
-1933-1934, possibilities for Soviet scientists to participate in in¬  
-ternational conferences, congresses, and symposia abroad be¬  
-came sharply limited”  
-(Medvedev and Lerner, p. 250)
 
 “prevailing in the U.S.S.R., the periodic,  
 prolonged capture of key administrative posts (the LAAAS  
@@ -801,8 +796,8 @@ authorities disappeared, and this fact is important”
 
 Medvedev, Zhores A, and Translated I Michael Lerner. The Rise and Fall of T.D. LyseMedvedev and Lerner, The Rise and Fall of T.D. Lysenko.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDM4OTY0OSwtMTQ5MDQyNjI1NCw0MT
-M1MzkzNzEsMTcyMzQzODA4Nyw5Mzk5NzM1NDEsLTUyNDA0MjQ0
-MSwtMjEyOTU1MDk0MSwtOTczNzUyNzAyLDE3NDc5NjA1ODEsLT
-EwMzE2MDEzNDAsLTIwNTcwMzczNTVdfQ==
+eyJoaXN0b3J5IjpbNzIzNzcyOTY1LDIwNTQzODk2NDksLTE0OT
+A0MjYyNTQsNDEzNTM5MzcxLDE3MjM0MzgwODcsOTM5OTczNTQx
+LC01MjQwNDI0NDEsLTIxMjk1NTA5NDEsLTk3Mzc1MjcwMiwxNz
+Q3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3MDM3MzU1XX0=
 -->
