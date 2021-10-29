@@ -64,10 +64,15 @@
  - Ricardo was jailed in the USA under Sedition act in 1917
 
 #### Hacendados(1876-1917)
- - Used vast plantations and abues workers
- - had workers 
+ - Used vast plantations and abused workers
+ - had workers be indebted to their Hacienda store due to not paying workers enough
+
+#### Rurales(1876-1914)
+ - Diaz´s own police force
+ - 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzODI4NTEzLDQzNjAyODU0OCwtODc0MD
-QxNjk2LDk4OTE3MjkyLDQ5NzIxNTc4OCwtNDU0OTQ0MzI2LDEw
-NzkzMDA0MTUsNjMxMTA1OTczLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAwNDQ4NDgxMCw0MzYwMjg1NDgsLTg3ND
+A0MTY5Niw5ODkxNzI5Miw0OTcyMTU3ODgsLTQ1NDk0NDMyNiwx
+MDc5MzAwNDE1LDYzMTEwNTk3MywtMjA4ODc0NjYxMl19
 -->
