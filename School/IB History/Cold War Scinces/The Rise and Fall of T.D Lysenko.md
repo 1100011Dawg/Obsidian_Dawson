@@ -755,12 +755,7 @@ nihilated.1”
 
 
 
-“Ol’shansky.5 He obviously wanted  
-to have the session approach the 1948 one in significance and,  
-under cover of the decree, he demonstrated in his report the  
-triumph of Michurinist biology over the reactionary Mor-  
-ganism-Mendelism”  
-(Medvedev and Lerner, p. 202)
+
 
 “Furthermore, by 1963 Lysenkoism no longer had sup¬  
 port in medicine, and the Academy of Medical Sciences was  

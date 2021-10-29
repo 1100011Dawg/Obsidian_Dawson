@@ -39,7 +39,8 @@ aliases:
 
 #### Ending
  - The AS institute under Lysenko finally fell under review[^28]
-	 - Prolonged by goverment support[^]
+	 - Prolonged by government support meeting was cancled[^29]
+	 - wanted the eventual meeting to support his cause[^30]
 
 
 Footnotes:
