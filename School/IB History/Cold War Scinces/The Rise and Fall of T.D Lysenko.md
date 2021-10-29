@@ -782,16 +782,12 @@ nihilated.1”
 
 
 
-“Since October, 1964, the popular support which  
-Lysenko and his followers received from state and political  
-authorities disappeared, and this fact is important”  
-(Medvedev and Lerner, p. 253)
 
 Medvedev, Zhores A, and Translated I Michael Lerner. The Rise and Fall of T.D. LyseMedvedev and Lerner, The Rise and Fall of T.D. Lysenko.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDUyMTkwODMsNzIzNzcyOTY1LDIwNT
-QzODk2NDksLTE0OTA0MjYyNTQsNDEzNTM5MzcxLDE3MjM0Mzgw
-ODcsOTM5OTczNTQxLC01MjQwNDI0NDEsLTIxMjk1NTA5NDEsLT
-k3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3
-MDM3MzU1XX0=
+eyJoaXN0b3J5IjpbMTcxNDk2NjgzNyw3MjM3NzI5NjUsMjA1ND
+M4OTY0OSwtMTQ5MDQyNjI1NCw0MTM1MzkzNzEsMTcyMzQzODA4
+Nyw5Mzk5NzM1NDEsLTUyNDA0MjQ0MSwtMjEyOTU1MDk0MSwtOT
+czNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLTIwNTcw
+MzczNTVdfQ==
 -->
