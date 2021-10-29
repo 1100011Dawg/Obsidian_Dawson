@@ -61,9 +61,13 @@
  - Anti-Diaz activists until they fled in 1903
  - Formed the Mexican Liberal Party
  - Spread their anarcho-socialist beliefs using a newspaper Regeneración
- - Ricardo was jailed in the USA under Sedition act in 19
+ - Ricardo was jailed in the USA under Sedition act in 1917
+
+#### Hacendados(1876-1917)
+ - Used vast plantations and abues workers
+ - had workers 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQxNTQzMzEsNDM2MDI4NTQ4LC04Nz
-QwNDE2OTYsOTg5MTcyOTIsNDk3MjE1Nzg4LC00NTQ5NDQzMjYs
-MTA3OTMwMDQxNSw2MzExMDU5NzMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDkzODI4NTEzLDQzNjAyODU0OCwtODc0MD
+QxNjk2LDk4OTE3MjkyLDQ5NzIxNTc4OCwtNDU0OTQ0MzI2LDEw
+NzkzMDA0MTUsNjMxMTA1OTczLC0yMDg4NzQ2NjEyXX0=
 -->
