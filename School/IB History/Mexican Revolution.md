@@ -37,9 +37,11 @@
  - General skills countered diaz´s attempts at coups
 
 #### Porfirio Diaz(1776 to 1911 pres)
- - After Juarex died of a heart attack he ran against 
+ - After Juarez died of a heart attack he ran against Lerdo in 1776, lost but then threw a coup
+ - A dictator of 31 years
+ - benefited with wealth 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDEwNDE0MCw5ODkxNzI5Miw0OTcyMT
+eyJoaXN0b3J5IjpbMTE1ODg2MTAwNSw5ODkxNzI5Miw0OTcyMT
 U3ODgsLTQ1NDk0NDMyNiwxMDc5MzAwNDE1LDYzMTEwNTk3Mywt
 MjA4ODc0NjYxMl19
 -->
