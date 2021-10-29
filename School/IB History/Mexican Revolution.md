@@ -71,10 +71,11 @@
  - Diaz´s own police force
  - counterweight to the Mexican army and put down worker strikes
 
-> Campesinos: 
+Campesinos
+: Peasant farmer, owned no land
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTYwMTU4MSw0MzYwMjg1NDgsLTg3ND
+eyJoaXN0b3J5IjpbMTkyMjAyNDIzNyw0MzYwMjg1NDgsLTg3ND
 A0MTY5Niw5ODkxNzI5Miw0OTcyMTU3ODgsLTQ1NDk0NDMyNiwx
 MDc5MzAwNDE1LDYzMTEwNTk3MywtMjA4ODc0NjYxMl19
 -->
