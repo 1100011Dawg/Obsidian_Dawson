@@ -767,11 +767,7 @@ nihilated.1”
 
 
 
-“To create a false doctrine, all that may be required  
-is a fanatical person who has faith in the products of his own  
-fantasy and who assumes the function of an infallible, scien¬  
-tific prophet”  
-(Medvedev and Lerner, p. 246)
+
 
 “There was an erroneous tendency to classify sciences as  
 bourgeois on the one hand, and proletarian or socialist on the  
