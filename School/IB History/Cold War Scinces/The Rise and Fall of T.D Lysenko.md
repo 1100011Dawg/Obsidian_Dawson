@@ -753,10 +753,7 @@ nihilated.1”
 
 
 
-“But, on the evening of July 12, all members of the  
-commission were notified by telephone that the last meeting  
-had been canceled and the commission dissolved”  
-(Medvedev and Lerner, p. 199)
+
 
 “Ol’shansky.5 He obviously wanted  
 to have the session approach the 1948 one in significance and,  

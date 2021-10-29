@@ -39,6 +39,7 @@ aliases:
 
 #### Ending
  - The AS institute under Lysenko finally fell under review[^28]
+	 - Prolonged by goverment support[^]
 
 
 Footnotes:
@@ -97,6 +98,11 @@ baths.””  (Medvedev and Lerner, p. 183)
 [^26]:“Ivanov was thus repainted into a Lysenkoite”  (Medvedev and Lerner, p. 191)
 
 [^27]:“In  secondary schools, millions of children still learned, from the stereotyped text on Darwinism by Veselov, that Morganist genetics is unproductive and reactionary, that it was begotten of the bourgeoisie, that acquired characters are inherited, and so forth.” (Medvedev and Lerner, p. 193)
+
+[^28]:“The AS Institute of Genetics,  headed by Lysenko, fell within the bounds of such review.  At the end of June, for the first time in twenty years, the  Institute was visited by a group of scientists with a mandate  to examine, investigate, and report its finding”  (Medvedev and Lerner, p. 198)
+
+[^29]:“But, on the evening of July 12, all members of the  commission were notified by telephone that the last meeting  had been canceled and the commission dissolved”  (Medvedev and Lerner, p. 199)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTYxNjc0MzY1Nyw3MzY5NjA0MzAsLTI2OT
 I4NzI3NSwzMzk4NTEyOTldfQ==
