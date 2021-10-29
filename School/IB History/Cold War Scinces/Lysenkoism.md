@@ -43,11 +43,12 @@ aliases:
 	 - wanted the eventual meeting to support his cause[^30]
  - 1963 no longer had supported, the academy of academic sciences was rebuilding[^31]
  - two weeks before the plenary session, the lysenkoists got the CC  ideological commission to remove a popular scientific magazine against them[^32]
- - Lebedex condembed Morganism and demanded it's banning from curricula, and critisized Lobashev's text [^33]
+ - Lebedex condemned Morganism and demanded it's banning from curricula, and criticized Lobashev's text [^33]
 #### The why
- - Semenov and Frolov determent how false doctrines originate from philosophies and personality cults, respectovley[^34]
+ - Semenov and Frolov determent how false doctrines originate from philosophies and personality cults, respectively[^34]
 	 - To create a personality cult, one must act like a religious prophet, being fanatically and believing in his doctrine[^35]
  - Tendence to discredit other sciences as bourgeois[^36]
+ - The U.S.S.R long neglected agriculture by implementing cost cutting measures rather than trying to optimize for best performance[^37]
 
 ##### Footnotes
 [^1]:“Within two days alone (August 23-24, 1948), Kaftanov  issued a series of detailed orders published in pamphlet form  and sent to every institution of higher learning. Order No.  1208 (August 23, 1948), regarding universities, decreed (point 2) the dismissal from Moscow University of those who actively fought against Michurinism, including the professor of  Darwinism, Shmal’gauzen, the professor of developmental  biology, M. M. Zavadovsky, the professor of plant physiology,  Sabinin, the dean of the faculty, Yudintsev, and assistant professors Alikhanyan, Zelikman, Berman, and Shapiro”  (Medvedev and Lerner, p. 124)
@@ -126,6 +127,6 @@ aliases:
 [^37]:“Constant difficulties and mistaken policies occurred in the country’s agricultural production. For many years, beginning with the headlong collectivization and massive repressions against the more prosperous peasants, and ending with Khrushchev’s decrees which limited the possibilities of individual livestock rearing, agricultural policy was based not so much on concern for an all-around development of agricultural production and an increase in soil productivity, but rather on achieving maximum agricultural output at minimum budgetary cost.” (Medvedev and Lerner, p. 248)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTQ4NDA0OSwtNjE2NzQzNjU3LDczNj
+eyJoaXN0b3J5IjpbLTQwMTgyNzg3OSwtNjE2NzQzNjU3LDczNj
 k2MDQzMCwtMjY5Mjg3Mjc1LDMzOTg1MTI5OV19
 -->
