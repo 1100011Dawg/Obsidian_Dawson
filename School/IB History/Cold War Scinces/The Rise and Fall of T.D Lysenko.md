@@ -773,10 +773,6 @@ nihilated.1”
 
 
 
-“made possible popular support for one or another scientific  
-trend selected by the political leadership, and complete sup¬  
-pression of the opposition”  
-(Medvedev and Lerner, p. 249)
 
 “Criticism by  
 other papers of any articles published in Pravda is practically  
@@ -824,8 +820,8 @@ authorities disappeared, and this fact is important”
 
 Medvedev, Zhores A, and Translated I Michael Lerner. The Rise and Fall of T.D. LyseMedvedev and Lerner, The Rise and Fall of T.D. Lysenko.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI3OTYyNiwxNzIzNDM4MDg3LDkzOT
-k3MzU0MSwtNTI0MDQyNDQxLC0yMTI5NTUwOTQxLC05NzM3NTI3
-MDIsMTc0Nzk2MDU4MSwtMTAzMTYwMTM0MCwtMjA1NzAzNzM1NV
-19
+eyJoaXN0b3J5IjpbNDEzNTM5MzcxLDE3MjM0MzgwODcsOTM5OT
+czNTQxLC01MjQwNDI0NDEsLTIxMjk1NTA5NDEsLTk3Mzc1Mjcw
+MiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC0yMDU3MDM3MzU1XX
+0=
 -->
