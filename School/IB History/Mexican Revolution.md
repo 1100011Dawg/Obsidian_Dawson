@@ -36,9 +36,10 @@
  - instituted constitutional reforms and created a democratic mexico
  - General skills countered diaz´s attempts at coups
 
-
+#### Porfirio Diaz(1776 to 1911 pres)
+ - After Juarex died of a heart attack he ran against 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MTcyOTIsNDk3MjE1Nzg4LC00NTQ5ND
-QzMjYsMTA3OTMwMDQxNSw2MzExMDU5NzMsLTIwODg3NDY2MTJd
-fQ==
+eyJoaXN0b3J5IjpbLTkxMDEwNDE0MCw5ODkxNzI5Miw0OTcyMT
+U3ODgsLTQ1NDk0NDMyNiwxMDc5MzAwNDE1LDYzMTEwNTk3Mywt
+MjA4ODc0NjYxMl19
 -->
