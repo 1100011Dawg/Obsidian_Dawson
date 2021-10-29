@@ -133,18 +133,8 @@ aliases:
 
 [^39]:“Criticism by other papers of any articles published in Pravda is practically impossible” (Medvedev and Lerner, p. 249)
 
-[^40]:“Criticism of Lysenko in the three active periods of the cotroversy (1935-1938, 1946-1947, 1953-1958) was to be found  
-only in specialized scientific journals. Several times, however,  
-and for long periods, strict censorship bans on all criticism of  
-Lysenko and Michurinist biology extended to all publications.  
-Between 1948 and 1952, even any positive descriptions of ge-  
-netical experiments were forbidden by the censorship. In  
-1958-1964, only direct criticism of Lysenko was prohibited,  
-and papers on experimental genetics were published without  
-great difficulty, but only in a small number of scientific jour¬  
-nals.”  
-(Medvedev and Lerner, p. 250)
+[^40]:“Criticism of Lysenko in the three active periods of the controversy (1935-1938, 1946-1947, 1953-1958) was to be found only in specialized scientific journals. Several times, however, and for long periods, strict censorship bans on all criticism of Lysenko and Michurinist biology extended to all publications. Between 1948 and 1952, even any positive descriptions of genetical experiments were forbidden by the censorship. In 1958-1964, only direct criticism of Lysenko was prohibited, and papers on experimental genetics were published without great difficulty, but only in a small number of scientific journals.”  (Medvedev and Lerner, p. 250)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTg5NTY4NSwtNjE2NzQzNjU3LDczNj
+eyJoaXN0b3J5IjpbMTMxODA0MTk3NiwtNjE2NzQzNjU3LDczNj
 k2MDQzMCwtMjY5Mjg3Mjc1LDMzOTg1MTI5OV19
 -->
