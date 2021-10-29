@@ -776,18 +776,7 @@ nihilated.1”
 
 
 
-“Criticism of Lysenko in the three active periods of the con¬  
-troversy (1935-1938, 1946-1947, 1953-1958) was to be found  
-only in specialized scientific journals. Several times, however,  
-and for long periods, strict censorship bans on all criticism of  
-Lysenko and Michurinist biology extended to all publications.  
-Between 1948 and 1952, even any positive descriptions of ge-  
-netical experiments were forbidden by the censorship. In  
-1958-1964, only direct criticism of Lysenko was prohibited,  
-and papers on experimental genetics were published without  
-great difficulty, but only in a small number of scientific jour¬  
-nals.”  
-(Medvedev and Lerner, p. 250)
+
 
 “An important factor in the prolonged domination of Ly-  
 senkoism was the protracted practical isolation of Soviet scien¬  
@@ -817,8 +806,8 @@ authorities disappeared, and this fact is important”
 
 Medvedev, Zhores A, and Translated I Michael Lerner. The Rise and Fall of T.D. LyseMedvedev and Lerner, The Rise and Fall of T.D. Lysenko.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDYxNjcyNCw0MTM1MzkzNzEsMTcyMz
-QzODA4Nyw5Mzk5NzM1NDEsLTUyNDA0MjQ0MSwtMjEyOTU1MDk0
-MSwtOTczNzUyNzAyLDE3NDc5NjA1ODEsLTEwMzE2MDEzNDAsLT
-IwNTcwMzczNTVdfQ==
+eyJoaXN0b3J5IjpbLTE0OTA0MjYyNTQsNDEzNTM5MzcxLDE3Mj
+M0MzgwODcsOTM5OTczNTQxLC01MjQwNDI0NDEsLTIxMjk1NTA5
+NDEsLTk3Mzc1MjcwMiwxNzQ3OTYwNTgxLC0xMDMxNjAxMzQwLC
+0yMDU3MDM3MzU1XX0=
 -->
