@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "495e3745369417dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "50f94c9b05ecee97",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "School/IB History/Cold War Scinces/Lysenkoism.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -87,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB History/Cold War Scinces/Lysenkoism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB History/Cold War Scinces/Lysenkoism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/IB History/Cold War Scinces/Lysenkoism.md"
-              }
+              "state": {}
             }
           },
           {
