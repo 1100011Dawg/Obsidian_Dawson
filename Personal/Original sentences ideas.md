@@ -5,8 +5,9 @@
 
 Ideas
  - Apple Watch thing for checklists in fields like hospitals/airplanes
+ - Duckweed farm
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDEzNzMwOCwtMTUxNDYwNjgzMyw3Mj
-Y2Mjg3MDAsOTYzOTQ2MDg2XX0=
+eyJoaXN0b3J5IjpbLTc4MTg5MjE3OSwxMTMwMTM3MzA4LC0xNT
+E0NjA2ODMzLDcyNjYyODcwMCw5NjM5NDYwODZdfQ==
 -->
