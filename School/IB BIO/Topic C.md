@@ -207,17 +207,18 @@
  - r-strategists and pest could proliferate
  - Long term recession of the fishing industry
  - By-Catch problems
+ - Quotas are agreed upon internationally
 
 #### Maximum Sustainable yield
  - up to Maximum sustainable yield, their is sufficient reproduction
  - Steepest part of growth curve is the highest rate of growth
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MTU4NzM0LDI4NDI2NTY2OSwtNzgxNT
-IxOTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC0yMTE1NTIx
-ODcyLDE2NTAzODExMjgsLTE3MDY3ODQxMywtMTA4NjkyNjcyNi
-wyMDg1MTI0NzAwLDE3MzI1OTg2NywxNTg5MzYzNjE3LC0xNDAy
-MDY4NjI5LC05ODkwOTEzMDQsMTIyMzE4MDg1OCwxODc4MDkzMD
-M3LC0yODU3NjYzNjIsMTIzNDA3NDY2NiwtMTAxMDc0MjQyOSwt
-MTIwMjA5Mzk3Nl19
+eyJoaXN0b3J5IjpbLTUxOTYzNzE5MSwyODQyNjU2NjksLTc4MT
+UyMTk4NCwtMTYxNTIxMzkyMywtMTQ4OTM0MjUxMiwtMjExNTUy
+MTg3MiwxNjUwMzgxMTI4LC0xNzA2Nzg0MTMsLTEwODY5MjY3Mj
+YsMjA4NTEyNDcwMCwxNzMyNTk4NjcsMTU4OTM2MzYxNywtMTQw
+MjA2ODYyOSwtOTg5MDkxMzA0LDEyMjMxODA4NTgsMTg3ODA5Mz
+AzNywtMjg1NzY2MzYyLDEyMzQwNzQ2NjYsLTEwMTA3NDI0Mjks
+LTEyMDIwOTM5NzZdfQ==
 -->
