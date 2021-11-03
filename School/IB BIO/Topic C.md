@@ -209,9 +209,11 @@
  - By-Catch problems
 
 #### Maximum Sustainable yield
+ - up to Maximum sustainable yield, their is sufficient reproduction
+ - Steepest part of growth curve is the highest rate of growth
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0OTEwMDU2LDI4NDI2NTY2OSwtNzgxNT
+eyJoaXN0b3J5IjpbNTE0MTU4NzM0LDI4NDI2NTY2OSwtNzgxNT
 IxOTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC0yMTE1NTIx
 ODcyLDE2NTAzODExMjgsLTE3MDY3ODQxMywtMTA4NjkyNjcyNi
 wyMDg1MTI0NzAwLDE3MzI1OTg2NywxNTg5MzYzNjE3LC0xNDAy
