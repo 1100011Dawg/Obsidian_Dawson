@@ -203,13 +203,15 @@
 #### Fish
  - 90% of large fish are gone since 1950
  - Fish farming is not the answer
- - Bio magnification helath hazar
+ - Biomagnification health hazard
+ - r-strategists and pest could proliferate
+ - Long term recession of the fishing industry
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcyNjczNzksMjg0MjY1NjY5LC03OD
-E1MjE5ODQsLTE2MTUyMTM5MjMsLTE0ODkzNDI1MTIsLTIxMTU1
-MjE4NzIsMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC0xMDg2OTI2Nz
-I2LDIwODUxMjQ3MDAsMTczMjU5ODY3LDE1ODkzNjM2MTcsLTE0
-MDIwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwODU4LDE4NzgwOT
-MwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQyNDI5
-LC0xMjAyMDkzOTc2XX0=
+eyJoaXN0b3J5IjpbLTYxNDQ3NzkxMywyODQyNjU2NjksLTc4MT
+UyMTk4NCwtMTYxNTIxMzkyMywtMTQ4OTM0MjUxMiwtMjExNTUy
+MTg3MiwxNjUwMzgxMTI4LC0xNzA2Nzg0MTMsLTEwODY5MjY3Mj
+YsMjA4NTEyNDcwMCwxNzMyNTk4NjcsMTU4OTM2MzYxNywtMTQw
+MjA2ODYyOSwtOTg5MDkxMzA0LDEyMjMxODA4NTgsMTg3ODA5Mz
+AzNywtMjg1NzY2MzYyLDEyMzQwNzQ2NjYsLTEwMTA3NDI0Mjks
+LTEyMDIwOTM5NzZdfQ==
 -->
