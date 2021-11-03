@@ -200,13 +200,16 @@
  - $PopSize=\frac{n_1*n_2}{n_3}$
  - $n_1$ first capture total, $n_2$ second capture total $n_3$ second captured marked only
 
-
+#### Fish
+ - 90% of large fish are gone since 1950
+ - Fish farming is not the answer
+ - Bio magnification helath hazar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MjY1NjY5LC03ODE1MjE5ODQsLTE2MT
-UyMTM5MjMsLTE0ODkzNDI1MTIsLTIxMTU1MjE4NzIsMTY1MDM4
-MTEyOCwtMTcwNjc4NDEzLC0xMDg2OTI2NzI2LDIwODUxMjQ3MD
-AsMTczMjU5ODY3LDE1ODkzNjM2MTcsLTE0MDIwNjg2MjksLTk4
-OTA5MTMwNCwxMjIzMTgwODU4LDE4NzgwOTMwMzcsLTI4NTc2Nj
-M2MiwxMjM0MDc0NjY2LC0xMDEwNzQyNDI5LC0xMjAyMDkzOTc2
-LC0xMjU2NzA3MTIzXX0=
+eyJoaXN0b3J5IjpbLTE3MjcyNjczNzksMjg0MjY1NjY5LC03OD
+E1MjE5ODQsLTE2MTUyMTM5MjMsLTE0ODkzNDI1MTIsLTIxMTU1
+MjE4NzIsMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC0xMDg2OTI2Nz
+I2LDIwODUxMjQ3MDAsMTczMjU5ODY3LDE1ODkzNjM2MTcsLTE0
+MDIwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwODU4LDE4NzgwOT
+MwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0xMDEwNzQyNDI5
+LC0xMjAyMDkzOTc2XX0=
 -->
