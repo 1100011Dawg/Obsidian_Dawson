@@ -214,17 +214,18 @@
 	 - useful in lakes
 	 - difficult with small fish
  - Volume of catch, catch rate, catch rate by age of fish
+ - Echo sounders can estimate size of schooling fish species
 
 #### Maximum Sustainable yield
  - up to Maximum sustainable yield, their is sufficient reproduction
  - Steepest part of growth curve is the highest rate of growth
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MTE0MTQ3LC01MTk2MzcxOTEsMjg0Mj
-Y1NjY5LC03ODE1MjE5ODQsLTE2MTUyMTM5MjMsLTE0ODkzNDI1
-MTIsLTIxMTU1MjE4NzIsMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC
-0xMDg2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5ODY3LDE1ODkz
-NjM2MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwOD
-U4LDE4NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0x
-MDEwNzQyNDI5XX0=
+eyJoaXN0b3J5IjpbLTEzNzAwNzk0NzYsLTUxOTYzNzE5MSwyOD
+QyNjU2NjksLTc4MTUyMTk4NCwtMTYxNTIxMzkyMywtMTQ4OTM0
+MjUxMiwtMjExNTUyMTg3MiwxNjUwMzgxMTI4LC0xNzA2Nzg0MT
+MsLTEwODY5MjY3MjYsMjA4NTEyNDcwMCwxNzMyNTk4NjcsMTU4
+OTM2MzYxNywtMTQwMjA2ODYyOSwtOTg5MDkxMzA0LDEyMjMxOD
+A4NTgsMTg3ODA5MzAzNywtMjg1NzY2MzYyLDEyMzQwNzQ2NjYs
+LTEwMTA3NDI0MjldfQ==
 -->
