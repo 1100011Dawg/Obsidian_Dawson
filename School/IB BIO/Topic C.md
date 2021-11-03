@@ -209,18 +209,22 @@
  - By-Catch problems
  - Quotas are agreed upon internationally, Also their are closed seasons to allow the population to recover
 
-#### 
+#### Fish Stock
+ - Lincoln index:
+	 - useful in lakes
+	 - difficult with small fish
+ - Volume of catch, catch rate, catch rate by age of fish
 
 #### Maximum Sustainable yield
  - up to Maximum sustainable yield, their is sufficient reproduction
  - Steepest part of growth curve is the highest rate of growth
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk2OTAyOSwtNTE5NjM3MTkxLDI4ND
-I2NTY2OSwtNzgxNTIxOTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQy
-NTEyLC0yMTE1NTIxODcyLDE2NTAzODExMjgsLTE3MDY3ODQxMy
-wtMTA4NjkyNjcyNiwyMDg1MTI0NzAwLDE3MzI1OTg2NywxNTg5
-MzYzNjE3LC0xNDAyMDY4NjI5LC05ODkwOTEzMDQsMTIyMzE4MD
-g1OCwxODc4MDkzMDM3LC0yODU3NjYzNjIsMTIzNDA3NDY2Niwt
-MTAxMDc0MjQyOV19
+eyJoaXN0b3J5IjpbNDg5MTE0MTQ3LC01MTk2MzcxOTEsMjg0Mj
+Y1NjY5LC03ODE1MjE5ODQsLTE2MTUyMTM5MjMsLTE0ODkzNDI1
+MTIsLTIxMTU1MjE4NzIsMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC
+0xMDg2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5ODY3LDE1ODkz
+NjM2MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwOD
+U4LDE4NzgwOTMwMzcsLTI4NTc2NjM2MiwxMjM0MDc0NjY2LC0x
+MDEwNzQyNDI5XX0=
 -->
