@@ -200,25 +200,27 @@
  - $PopSize=\frac{n_1*n_2}{n_3}$
  - $n_1$ first capture total, $n_2$ second capture total $n_3$ second captured marked only
 
-#### Fish
+#### Fish Problems
  - 90% of large fish are gone since 1950
  - Fish farming is not the answer
  - Biomagnification health hazard
  - r-strategists and pest could proliferate
  - Long term recession of the fishing industry
  - By-Catch problems
- - Quotas are agreed upon internationally
+ - Quotas are agreed upon internationally, Also their are closed seasons to allow the population to recover
+
+#### 
 
 #### Maximum Sustainable yield
  - up to Maximum sustainable yield, their is sufficient reproduction
  - Steepest part of growth curve is the highest rate of growth
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTYzNzE5MSwyODQyNjU2NjksLTc4MT
-UyMTk4NCwtMTYxNTIxMzkyMywtMTQ4OTM0MjUxMiwtMjExNTUy
-MTg3MiwxNjUwMzgxMTI4LC0xNzA2Nzg0MTMsLTEwODY5MjY3Mj
-YsMjA4NTEyNDcwMCwxNzMyNTk4NjcsMTU4OTM2MzYxNywtMTQw
-MjA2ODYyOSwtOTg5MDkxMzA0LDEyMjMxODA4NTgsMTg3ODA5Mz
-AzNywtMjg1NzY2MzYyLDEyMzQwNzQ2NjYsLTEwMTA3NDI0Mjks
-LTEyMDIwOTM5NzZdfQ==
+eyJoaXN0b3J5IjpbLTE0MTk2OTAyOSwtNTE5NjM3MTkxLDI4ND
+I2NTY2OSwtNzgxNTIxOTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQy
+NTEyLC0yMTE1NTIxODcyLDE2NTAzODExMjgsLTE3MDY3ODQxMy
+wtMTA4NjkyNjcyNiwyMDg1MTI0NzAwLDE3MzI1OTg2NywxNTg5
+MzYzNjE3LC0xNDAyMDY4NjI5LC05ODkwOTEzMDQsMTIyMzE4MD
+g1OCwxODc4MDkzMDM3LC0yODU3NjYzNjIsMTIzNDA3NDY2Niwt
+MTAxMDc0MjQyOV19
 -->
