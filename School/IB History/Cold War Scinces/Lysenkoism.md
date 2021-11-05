@@ -17,6 +17,7 @@ aliases:
  - Order (No. 1530, October 6, 1948), Minister of Agriculture called cessation of genetic research.[^4]
  - When the mechanism of gene action had been discovered[^8] Lysenkoists said:
 	 > “The assertion that there are in an organism some minute particles, genes, responsible for the transmission of hereditary traits is pure fantasy  without any basis in science.””[^9]
+	 
  - Lysenko promoted to mix superphosphate with lime before applying it to the soil, witch is absorbed because it transforms superphosphate to insolbe tricalcium.[^12]
  - Many of their experiments lacked a control[^13]
  - Who could not remember branched wheat[^14]
@@ -147,6 +148,7 @@ aliases:
 
 [^43]:“Since October, 1964, the popular support which Lysenko and his followers received from state and political authorities disappeared, and this fact is important” (Medvedev and Lerner, p. 253)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDQxMjQwLC02MTY3NDM2NTcsNzM2OT
-YwNDMwLC0yNjkyODcyNzUsMzM5ODUxMjk5XX0=
+eyJoaXN0b3J5IjpbMTcwOTM2NjM3MiwtNDU0NDEyNDAsLTYxNj
+c0MzY1Nyw3MzY5NjA0MzAsLTI2OTI4NzI3NSwzMzk4NTEyOTld
+fQ==
 -->
