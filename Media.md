@@ -6,6 +6,7 @@
 - [ ] Falling Hard: 9
 - [ ] G.O.D: 13
 - [x] DUB Hellsing Ultimate: 10
+- [X] Doomsday clock
 5
 -eitate
 

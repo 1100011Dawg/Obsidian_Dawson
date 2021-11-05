@@ -7,8 +7,11 @@
         "id": "50f94c9b05ecee97",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Media.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Media.md"
+              }
             }
           },
           {
@@ -138,6 +145,7 @@
   },
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
+    "Media.md",
     "School/IB History/Cold War Scinces/Lysenkoism.md",
     "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
     "School/IB History/Cold War Scinces/Temp extra annotation Rise fall T.D Lysenko.md",
@@ -146,7 +154,6 @@
     "School/IB History/Cold War Scinces/Vavilov.md",
     "School/IB History/Cold War Scinces/Genetics (fill in later with other research).md",
     "School/IB History/Cold War Scinces/GrassLand System.md",
-    "School/IB History/Cold War Scinces/Kol'tsov.md",
-    "School/IB History/Cold War Scinces/LAAAS.md"
+    "School/IB History/Cold War Scinces/Kol'tsov.md"
   ]
 }
