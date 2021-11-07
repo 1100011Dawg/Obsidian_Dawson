@@ -6,9 +6,10 @@
 - [ ] Falling Hard: 9
 - [ ] G.O.D: 13
 - [x] DUB Hellsing Ultimate: 10
-- [X] Doomsday clock
+- [X ] Doomsday clockleveling solo: 171
 5
 -eitate
+
 
 
 
@@ -16,6 +17,7 @@ Maybe:
  - [ ] pan's la3
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk4MjgwNzQsNDY3OTg3Nzc0LC04Mj
-M3MDk3ODgsNjM5MDY2MzcsLTIwNDM2Nzg2NjRdfQ==
+eyJoaXN0b3J5IjpbMTUxOTA3NDgzMywtMTc5OTgyODA3NCw0Nj
+c5ODc3NzQsLTgyMzcwOTc4OCw2MzkwNjYzNywtMjA0MzY3ODY2
+NF19
 -->
