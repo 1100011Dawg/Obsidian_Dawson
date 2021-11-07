@@ -1,6 +1,6 @@
  - canno tthe gods of old wait to take thier claim, their blasted claim witch they ascribe to themselves with no more credibility than a message scratch on a tree, a heartfelt letter written anonsomly, cannot they wait for paitience is their ultimate domain but yet now they must take, take and take no trade or bargain to be had between vendors but anudualterated burgarly upon the populace. why can't they wait to take?
  - Hope can only carry a man so far before it's arms give out and drop him upon the sands of sorrow. Though without the better compatriots of mankind, hope will and spirit, he must still trudge towards the obelisk of truth before his legs crash and he is left in despair once again. This is an attempt in vain for the tower lays outside the reach of humanity, but a great service is done nonetheless if he so trudges an inch further than any man before him. 
- - the sounds of sorrow sow themselves to settle in my ear and reap a harvest of despair.
+ - the sounds of sorrow sow themselves to settle in my ear and reap a harvest of despair. So I must destroy my inner voice least it joins the c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTk1Nzg1MF19
+eyJoaXN0b3J5IjpbMTk3NDUxMDYyMV19
 -->
