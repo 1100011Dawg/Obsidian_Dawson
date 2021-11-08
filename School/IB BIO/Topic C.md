@@ -226,15 +226,16 @@
  - $N0_2$ --> $NO_3$(Nitrobacter)
  - Plants absorb ammonia and nitrates
  - Rhizobium are mutualistic with legumes
- - Denitrification $NO_3$ --> $N_2$
+ - Denitrification $NO_3$ --> $N_2$(Pseudomonas sp.)
+ - Wter logg reduces oxygen
 
-> Oil Rig: Oxygen is loss(electrons) Reduction is gain(of e
+> Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5Njk1ODI1LC0xODI3MjU2MjY1LDY4Nz
-MxNjUzNywtMTM3MDA3OTQ3NiwtNTE5NjM3MTkxLDI4NDI2NTY2
-OSwtNzgxNTIxOTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC
-0yMTE1NTIxODcyLDE2NTAzODExMjgsLTE3MDY3ODQxMywtMTA4
-NjkyNjcyNiwyMDg1MTI0NzAwLDE3MzI1OTg2NywxNTg5MzYzNj
-E3LC0xNDAyMDY4NjI5LC05ODkwOTEzMDQsMTIyMzE4MDg1OCwx
-ODc4MDkzMDM3XX0=
+eyJoaXN0b3J5IjpbLTE1MTAyMTYxMTcsLTE4MjcyNTYyNjUsNj
+g3MzE2NTM3LC0xMzcwMDc5NDc2LC01MTk2MzcxOTEsMjg0MjY1
+NjY5LC03ODE1MjE5ODQsLTE2MTUyMTM5MjMsLTE0ODkzNDI1MT
+IsLTIxMTU1MjE4NzIsMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC0x
+MDg2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5ODY3LDE1ODkzNj
+M2MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwxMjIzMTgwODU4
+LDE4NzgwOTMwMzddfQ==
 -->
