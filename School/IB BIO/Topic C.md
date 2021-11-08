@@ -224,8 +224,10 @@
  - $N_2$ --> $NH_3$(Rhizobium and Azotobacter)(Nitrogen Fixation
  - $NH_3$ --> $NO_2$(NItrosomonas)(Nitrification)
  - $N0_2$ --> $N0_3$(Nitrobacter)
+ - Plants absorb ammonia and nitrates
+ - Rhizobium are symbiotic with legumes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUyNTYyNTMsNjg3MzE2NTM3LC0xMz
+eyJoaXN0b3J5IjpbLTE4MjcyNTYyNjUsNjg3MzE2NTM3LC0xMz
 cwMDc5NDc2LC01MTk2MzcxOTEsMjg0MjY1NjY5LC03ODE1MjE5
 ODQsLTE2MTUyMTM5MjMsLTE0ODkzNDI1MTIsLTIxMTU1MjE4Nz
 IsMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC0xMDg2OTI2NzI2LDIw
