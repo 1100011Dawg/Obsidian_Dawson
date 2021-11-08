@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Jotts-personal.md",
+            "file": "Media.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Jotts-personal.md",
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Jotts-personal.md",
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Jotts-personal.md"
+                "file": "Media.md"
               }
             }
           },
@@ -145,8 +145,8 @@
   },
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
-    "Personal/Jotts-personal.md",
     "Media.md",
+    "Personal/Jotts-personal.md",
     "School/IB History/Cold War Scinces/Lysenkoism.md",
     "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
     "School/IB History/Cold War Scinces/Temp extra annotation Rise fall T.D Lysenko.md",

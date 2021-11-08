@@ -6,7 +6,8 @@
 - [ ] Falling Hard: 9
 - [ ] G.O.D: 13
 - [x] DUB Hellsing Ultimate: 10
-- [X ] Doomsday clockleveling solo: 171
+- [X ] Doomsday clock
+- [ ] leveling solo: 171
 5
 -eitate
 
