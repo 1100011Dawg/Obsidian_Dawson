@@ -225,13 +225,13 @@
  - $NH_3$ --> $NO_2$(NItrosomonas)(Nitrification)
  - $N0_2$ --> $N0_3$(Nitrobacter)
  - Plants absorb ammonia and nitrates
- - Rhizobium are symbiotic with legumes
+ - Rhizobium are mutualistic with legumes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcyNTYyNjUsNjg3MzE2NTM3LC0xMz
-cwMDc5NDc2LC01MTk2MzcxOTEsMjg0MjY1NjY5LC03ODE1MjE5
-ODQsLTE2MTUyMTM5MjMsLTE0ODkzNDI1MTIsLTIxMTU1MjE4Nz
-IsMTY1MDM4MTEyOCwtMTcwNjc4NDEzLC0xMDg2OTI2NzI2LDIw
-ODUxMjQ3MDAsMTczMjU5ODY3LDE1ODkzNjM2MTcsLTE0MDIwNj
-g2MjksLTk4OTA5MTMwNCwxMjIzMTgwODU4LDE4NzgwOTMwMzcs
-LTI4NTc2NjM2Ml19
+eyJoaXN0b3J5IjpbLTQyMjI0OTM1MCwtMTgyNzI1NjI2NSw2OD
+czMTY1MzcsLTEzNzAwNzk0NzYsLTUxOTYzNzE5MSwyODQyNjU2
+NjksLTc4MTUyMTk4NCwtMTYxNTIxMzkyMywtMTQ4OTM0MjUxMi
+wtMjExNTUyMTg3MiwxNjUwMzgxMTI4LC0xNzA2Nzg0MTMsLTEw
+ODY5MjY3MjYsMjA4NTEyNDcwMCwxNzMyNTk4NjcsMTU4OTM2Mz
+YxNywtMTQwMjA2ODYyOSwtOTg5MDkxMzA0LDEyMjMxODA4NTgs
+MTg3ODA5MzAzN119
 -->
