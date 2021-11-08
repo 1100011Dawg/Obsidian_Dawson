@@ -228,16 +228,22 @@
  - Rhizobium are mutualistic with legumes
  - Denitrification $NO_3$ --> $N_2$(Pseudomonas sp.)
  - Water logged reduces oxygen
-
 > Carnivorous plants eat for Nitrogen
+#### Phosphrus cycle
+
+
+#### Leeching
+ - Gricultural leeching leads to eutrophication
+
+
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzNDc0NjU1LC0xODI3MjU2MjY1LDY4Nz
-MxNjUzNywtMTM3MDA3OTQ3NiwtNTE5NjM3MTkxLDI4NDI2NTY2
-OSwtNzgxNTIxOTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC
-0yMTE1NTIxODcyLDE2NTAzODExMjgsLTE3MDY3ODQxMywtMTA4
-NjkyNjcyNiwyMDg1MTI0NzAwLDE3MzI1OTg2NywxNTg5MzYzNj
-E3LC0xNDAyMDY4NjI5LC05ODkwOTEzMDQsMTIyMzE4MDg1OCwx
-ODc4MDkzMDM3XX0=
+eyJoaXN0b3J5IjpbLTY0MTg3NTA3Miw5NDM0NzQ2NTUsLTE4Mj
+cyNTYyNjUsNjg3MzE2NTM3LC0xMzcwMDc5NDc2LC01MTk2Mzcx
+OTEsMjg0MjY1NjY5LC03ODE1MjE5ODQsLTE2MTUyMTM5MjMsLT
+E0ODkzNDI1MTIsLTIxMTU1MjE4NzIsMTY1MDM4MTEyOCwtMTcw
+Njc4NDEzLC0xMDg2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5OD
+Y3LDE1ODkzNjM2MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwx
+MjIzMTgwODU4XX0=
 -->
