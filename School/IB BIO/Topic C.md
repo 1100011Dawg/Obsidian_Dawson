@@ -233,17 +233,18 @@
 
 
 #### Leeching
- - Gricultural leeching leads to eutrophication
+ - Gricultural leeching leads to eutrophication(increse nutrients)
+ - Leads to algae blooms
 
 
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTg3NTA3Miw5NDM0NzQ2NTUsLTE4Mj
-cyNTYyNjUsNjg3MzE2NTM3LC0xMzcwMDc5NDc2LC01MTk2Mzcx
-OTEsMjg0MjY1NjY5LC03ODE1MjE5ODQsLTE2MTUyMTM5MjMsLT
-E0ODkzNDI1MTIsLTIxMTU1MjE4NzIsMTY1MDM4MTEyOCwtMTcw
-Njc4NDEzLC0xMDg2OTI2NzI2LDIwODUxMjQ3MDAsMTczMjU5OD
-Y3LDE1ODkzNjM2MTcsLTE0MDIwNjg2MjksLTk4OTA5MTMwNCwx
-MjIzMTgwODU4XX0=
+eyJoaXN0b3J5IjpbLTE0MzM3NTQwMjksOTQzNDc0NjU1LC0xOD
+I3MjU2MjY1LDY4NzMxNjUzNywtMTM3MDA3OTQ3NiwtNTE5NjM3
+MTkxLDI4NDI2NTY2OSwtNzgxNTIxOTg0LC0xNjE1MjEzOTIzLC
+0xNDg5MzQyNTEyLC0yMTE1NTIxODcyLDE2NTAzODExMjgsLTE3
+MDY3ODQxMywtMTA4NjkyNjcyNiwyMDg1MTI0NzAwLDE3MzI1OT
+g2NywxNTg5MzYzNjE3LC0xNDAyMDY4NjI5LC05ODkwOTEzMDQs
+MTIyMzE4MDg1OF19
 -->
