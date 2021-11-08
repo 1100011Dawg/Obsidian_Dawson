@@ -7,7 +7,7 @@
 - [ ] G.O.D: 13
 - [x] DUB Hellsing Ultimate: 10
 - [X ] Doomsday clock
-- [ ] leveling solo: 171
+- [ ] leveling solo: 172
 5
 -eitate
 
