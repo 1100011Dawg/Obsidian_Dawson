@@ -223,12 +223,14 @@
 #### Nitrogen cycle
  - $N_2$ --> $NH_3$(Rhizobium and Azotobacter)(Nitrogen Fixation
  - $NH_3$ --> $NO_2$(NItrosomonas)(Nitrification)
- - $N0_2$ --> $N0_3$(Nitrobacter)
+ - $N0_2$ --> $NO_3$(Nitrobacter)
  - Plants absorb ammonia and nitrates
  - Rhizobium are mutualistic with legumes
- - Denitrif
+ - Denitrification $NO_3$ --> $N_2$
+
+> Oil Rig: Oxygen is loss(electrons) Reduction is gain(of e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyODk1MTA2LC0xODI3MjU2MjY1LDY4Nz
+eyJoaXN0b3J5IjpbNzc5Njk1ODI1LC0xODI3MjU2MjY1LDY4Nz
 MxNjUzNywtMTM3MDA3OTQ3NiwtNTE5NjM3MTkxLDI4NDI2NTY2
 OSwtNzgxNTIxOTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC
 0yMTE1NTIxODcyLDE2NTAzODExMjgsLTE3MDY3ODQxMywtMTA4
