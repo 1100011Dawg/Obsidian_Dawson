@@ -8,6 +8,8 @@
 - [x] DUB Hellsing Ultimate: 10
 - [X ] Doomsday clock
 - [ ] leveling solo: 172
+- [ ] Doombreacker 20
+- [ ] I grow stronger by eating 40
 5
 -eitate
 
