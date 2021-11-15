@@ -10,6 +10,7 @@
 - [ ] leveling solo: 172
 - [ ] Doombreacker 20
 - [ ] I grow stronger by eating 40
+- [ ] [Star Wars: Knights Of The Old Republic](https://readcomiconline.li/Comic/Star-Wars-Knights-Of-The-Old-Republic) 10
 5
 -eitate
 
