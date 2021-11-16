@@ -219,7 +219,7 @@
 #### Maximum Sustainable yield
  - up to Maximum sustainable yield, their is sufficient reproduction
  - Steepest part of growth curve is the highest rate of growth
- - 
+ - otolith to determine age
 #### Nitrogen cycle
  - $N_2$ --> $NH_3$(Rhizobium(one on roots) and Azotobacter)(Nitrogen Fixation
  - $NH_3$ --> $NO_2$(NItrosomonas)(Nitrification)
@@ -247,11 +247,11 @@
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTgyMjU3OSwtMTk1MjkwMTM5OSwxOD
-Y0ODczNjA2LDQ5ODEyMjYxMSwtMTQzMzc1NDAyOSw5NDM0NzQ2
-NTUsLTE4MjcyNTYyNjUsNjg3MzE2NTM3LC0xMzcwMDc5NDc2LC
-01MTk2MzcxOTEsMjg0MjY1NjY5LC03ODE1MjE5ODQsLTE2MTUy
-MTM5MjMsLTE0ODkzNDI1MTIsLTIxMTU1MjE4NzIsMTY1MDM4MT
-EyOCwtMTcwNjc4NDEzLC0xMDg2OTI2NzI2LDIwODUxMjQ3MDAs
-MTczMjU5ODY3XX0=
+eyJoaXN0b3J5IjpbNzA4NzUyMTAxLDEyMzU4MjI1NzksLTE5NT
+I5MDEzOTksMTg2NDg3MzYwNiw0OTgxMjI2MTEsLTE0MzM3NTQw
+MjksOTQzNDc0NjU1LC0xODI3MjU2MjY1LDY4NzMxNjUzNywtMT
+M3MDA3OTQ3NiwtNTE5NjM3MTkxLDI4NDI2NTY2OSwtNzgxNTIx
+OTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC0yMTE1NTIxOD
+cyLDE2NTAzODExMjgsLTE3MDY3ODQxMywtMTA4NjkyNjcyNiwy
+MDg1MTI0NzAwXX0=
 -->
