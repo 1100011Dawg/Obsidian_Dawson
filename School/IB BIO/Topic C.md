@@ -239,16 +239,19 @@
  - Leads to algae blooms
 	 - dead algae accumulates and feed on saprotrophs
 	 - leads to an increase in **BOD(biochemical oxygen demand)** resulting in deoxygenation of the water supply
+	 - decrease water transparency, increase in turbidity stress plants
+	 - Death or emigration of fish
+	 - Reduction biodiversity.
 
 
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI5MDEzOTksMTg2NDg3MzYwNiw0OT
-gxMjI2MTEsLTE0MzM3NTQwMjksOTQzNDc0NjU1LC0xODI3MjU2
-MjY1LDY4NzMxNjUzNywtMTM3MDA3OTQ3NiwtNTE5NjM3MTkxLD
-I4NDI2NTY2OSwtNzgxNTIxOTg0LC0xNjE1MjEzOTIzLC0xNDg5
-MzQyNTEyLC0yMTE1NTIxODcyLDE2NTAzODExMjgsLTE3MDY3OD
-QxMywtMTA4NjkyNjcyNiwyMDg1MTI0NzAwLDE3MzI1OTg2Nywx
-NTg5MzYzNjE3XX0=
+eyJoaXN0b3J5IjpbMTIzNTgyMjU3OSwtMTk1MjkwMTM5OSwxOD
+Y0ODczNjA2LDQ5ODEyMjYxMSwtMTQzMzc1NDAyOSw5NDM0NzQ2
+NTUsLTE4MjcyNTYyNjUsNjg3MzE2NTM3LC0xMzcwMDc5NDc2LC
+01MTk2MzcxOTEsMjg0MjY1NjY5LC03ODE1MjE5ODQsLTE2MTUy
+MTM5MjMsLTE0ODkzNDI1MTIsLTIxMTU1MjE4NzIsMTY1MDM4MT
+EyOCwtMTcwNjc4NDEzLC0xMDg2OTI2NzI2LDIwODUxMjQ3MDAs
+MTczMjU5ODY3XX0=
 -->
