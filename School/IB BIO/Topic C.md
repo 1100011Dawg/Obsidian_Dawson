@@ -229,8 +229,8 @@
  - Denitrification $NO_3$ --> $N_2$(Pseudomonas sp.)
  - Water logged reduces oxygen
 > Carnivorous plants eat for Nitrogen
-#### Phosphrus cycle
-
+#### Phosphorus cycle
+ - Need phosphate for ATP, DNA, membrane
 
 #### Leeching
  - Gricultural leeching leads to eutrophication(increse nutrients)
@@ -240,11 +240,11 @@
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzA5NzMzNCwtMTQzMzc1NDAyOSw5ND
-M0NzQ2NTUsLTE4MjcyNTYyNjUsNjg3MzE2NTM3LC0xMzcwMDc5
-NDc2LC01MTk2MzcxOTEsMjg0MjY1NjY5LC03ODE1MjE5ODQsLT
-E2MTUyMTM5MjMsLTE0ODkzNDI1MTIsLTIxMTU1MjE4NzIsMTY1
-MDM4MTEyOCwtMTcwNjc4NDEzLC0xMDg2OTI2NzI2LDIwODUxMj
-Q3MDAsMTczMjU5ODY3LDE1ODkzNjM2MTcsLTE0MDIwNjg2Mjks
-LTk4OTA5MTMwNF19
+eyJoaXN0b3J5IjpbLTE5NDQ3OTkyMzIsLTE0MzM3NTQwMjksOT
+QzNDc0NjU1LC0xODI3MjU2MjY1LDY4NzMxNjUzNywtMTM3MDA3
+OTQ3NiwtNTE5NjM3MTkxLDI4NDI2NTY2OSwtNzgxNTIxOTg0LC
+0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC0yMTE1NTIxODcyLDE2
+NTAzODExMjgsLTE3MDY3ODQxMywtMTA4NjkyNjcyNiwyMDg1MT
+I0NzAwLDE3MzI1OTg2NywxNTg5MzYzNjE3LC0xNDAyMDY4NjI5
+LC05ODkwOTEzMDRdfQ==
 -->
