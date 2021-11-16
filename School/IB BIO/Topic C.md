@@ -232,6 +232,7 @@
 #### Phosphorus cycle
  - Need phosphate for: ATP, DNA, Cell membranes
  - Released from certain rocks through erosion
+ - Mining Phosphorus increases rate of turnover
 
 #### Leeching
  - Gricultural leeching leads to eutrophication(increse nutrients)
@@ -241,11 +242,11 @@
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MTIyNjExLC0xNDMzNzU0MDI5LDk0Mz
-Q3NDY1NSwtMTgyNzI1NjI2NSw2ODczMTY1MzcsLTEzNzAwNzk0
-NzYsLTUxOTYzNzE5MSwyODQyNjU2NjksLTc4MTUyMTk4NCwtMT
-YxNTIxMzkyMywtMTQ4OTM0MjUxMiwtMjExNTUyMTg3MiwxNjUw
-MzgxMTI4LC0xNzA2Nzg0MTMsLTEwODY5MjY3MjYsMjA4NTEyND
-cwMCwxNzMyNTk4NjcsMTU4OTM2MzYxNywtMTQwMjA2ODYyOSwt
-OTg5MDkxMzA0XX0=
+eyJoaXN0b3J5IjpbMTcwODUzNDE3NCw0OTgxMjI2MTEsLTE0Mz
+M3NTQwMjksOTQzNDc0NjU1LC0xODI3MjU2MjY1LDY4NzMxNjUz
+NywtMTM3MDA3OTQ3NiwtNTE5NjM3MTkxLDI4NDI2NTY2OSwtNz
+gxNTIxOTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC0yMTE1
+NTIxODcyLDE2NTAzODExMjgsLTE3MDY3ODQxMywtMTA4NjkyNj
+cyNiwyMDg1MTI0NzAwLDE3MzI1OTg2NywxNTg5MzYzNjE3LC0x
+NDAyMDY4NjI5XX0=
 -->
