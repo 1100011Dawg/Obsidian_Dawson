@@ -235,14 +235,14 @@
  - Mining Phosphorus increases rate of turnover
 
 #### Leeching
- - Gricultural leeching leads to eutrophication(increse nutrients)
+ - Agricultural leeching leads to eutrophication(increased nutrients)
  - Leads to algae blooms
 
 
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODUzNDE3NCw0OTgxMjI2MTEsLTE0Mz
+eyJoaXN0b3J5IjpbMTg2NDg3MzYwNiw0OTgxMjI2MTEsLTE0Mz
 M3NTQwMjksOTQzNDc0NjU1LC0xODI3MjU2MjY1LDY4NzMxNjUz
 NywtMTM3MDA3OTQ3NiwtNTE5NjM3MTkxLDI4NDI2NTY2OSwtNz
 gxNTIxOTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC0yMTE1
