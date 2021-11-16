@@ -230,7 +230,8 @@
  - Water logged reduces oxygen
 > Carnivorous plants eat for Nitrogen
 #### Phosphorus cycle
- - Need phosphate for ATP, DNA, membrane
+ - Need phosphate for: ATP, DNA, Cell membranes
+ - Released from certain rocks through erosion
 
 #### Leeching
  - Gricultural leeching leads to eutrophication(increse nutrients)
@@ -240,11 +241,11 @@
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ3OTkyMzIsLTE0MzM3NTQwMjksOT
-QzNDc0NjU1LC0xODI3MjU2MjY1LDY4NzMxNjUzNywtMTM3MDA3
-OTQ3NiwtNTE5NjM3MTkxLDI4NDI2NTY2OSwtNzgxNTIxOTg0LC
-0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC0yMTE1NTIxODcyLDE2
-NTAzODExMjgsLTE3MDY3ODQxMywtMTA4NjkyNjcyNiwyMDg1MT
-I0NzAwLDE3MzI1OTg2NywxNTg5MzYzNjE3LC0xNDAyMDY4NjI5
-LC05ODkwOTEzMDRdfQ==
+eyJoaXN0b3J5IjpbNDk4MTIyNjExLC0xNDMzNzU0MDI5LDk0Mz
+Q3NDY1NSwtMTgyNzI1NjI2NSw2ODczMTY1MzcsLTEzNzAwNzk0
+NzYsLTUxOTYzNzE5MSwyODQyNjU2NjksLTc4MTUyMTk4NCwtMT
+YxNTIxMzkyMywtMTQ4OTM0MjUxMiwtMjExNTUyMTg3MiwxNjUw
+MzgxMTI4LC0xNzA2Nzg0MTMsLTEwODY5MjY3MjYsMjA4NTEyND
+cwMCwxNzMyNTk4NjcsMTU4OTM2MzYxNywtMTQwMjA2ODYyOSwt
+OTg5MDkxMzA0XX0=
 -->
