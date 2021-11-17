@@ -146,6 +146,7 @@
 	 - $n_i$ is number of individual of a species
 	 -  $a_i$ tolerance rating of the species(Bigger less tolerant)
 	 -  $N$ total number of individuals collected
+ - Lichen indicates low air pollution
 
 #### Biodiversity
  - Richness:
@@ -247,11 +248,11 @@
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4NzUyMTAxLDEyMzU4MjI1NzksLTE5NT
-I5MDEzOTksMTg2NDg3MzYwNiw0OTgxMjI2MTEsLTE0MzM3NTQw
-MjksOTQzNDc0NjU1LC0xODI3MjU2MjY1LDY4NzMxNjUzNywtMT
-M3MDA3OTQ3NiwtNTE5NjM3MTkxLDI4NDI2NTY2OSwtNzgxNTIx
-OTg0LC0xNjE1MjEzOTIzLC0xNDg5MzQyNTEyLC0yMTE1NTIxOD
-cyLDE2NTAzODExMjgsLTE3MDY3ODQxMywtMTA4NjkyNjcyNiwy
-MDg1MTI0NzAwXX0=
+eyJoaXN0b3J5IjpbNjc3MTYxMDM1LDcwODc1MjEwMSwxMjM1OD
+IyNTc5LC0xOTUyOTAxMzk5LDE4NjQ4NzM2MDYsNDk4MTIyNjEx
+LC0xNDMzNzU0MDI5LDk0MzQ3NDY1NSwtMTgyNzI1NjI2NSw2OD
+czMTY1MzcsLTEzNzAwNzk0NzYsLTUxOTYzNzE5MSwyODQyNjU2
+NjksLTc4MTUyMTk4NCwtMTYxNTIxMzkyMywtMTQ4OTM0MjUxMi
+wtMjExNTUyMTg3MiwxNjUwMzgxMTI4LC0xNzA2Nzg0MTMsLTEw
+ODY5MjY3MjZdfQ==
 -->
