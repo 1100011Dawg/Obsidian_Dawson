@@ -222,7 +222,7 @@
  - Steepest part of growth curve is the highest rate of growth
  - otolith to determine age
 #### Nitrogen cycle
- - $N_2$ --> $NH_3$(Rhizobium(one on roots) and Azotobacter)(Nitrogen Fixation
+ - $N_2$ --> $NH_3$(Rhizobium(one on roots) and Azotobacter)(Nitrogen Fixation)
  - $NH_3$ --> $NO_2$(NItrosomonas)(Nitrification)
  - $N0_2$ --> $NO_3$(Nitrobacter)
  - Plants absorb ammonia and nitrates
@@ -248,11 +248,11 @@
 
 > Oil Rig: Oxygen is loss(electrons) Reduction is gain(of electrons)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MTYxMDM1LDcwODc1MjEwMSwxMjM1OD
-IyNTc5LC0xOTUyOTAxMzk5LDE4NjQ4NzM2MDYsNDk4MTIyNjEx
-LC0xNDMzNzU0MDI5LDk0MzQ3NDY1NSwtMTgyNzI1NjI2NSw2OD
-czMTY1MzcsLTEzNzAwNzk0NzYsLTUxOTYzNzE5MSwyODQyNjU2
-NjksLTc4MTUyMTk4NCwtMTYxNTIxMzkyMywtMTQ4OTM0MjUxMi
-wtMjExNTUyMTg3MiwxNjUwMzgxMTI4LC0xNzA2Nzg0MTMsLTEw
-ODY5MjY3MjZdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzk0NzQsNjc3MTYxMDM1LDcwODc1Mj
+EwMSwxMjM1ODIyNTc5LC0xOTUyOTAxMzk5LDE4NjQ4NzM2MDYs
+NDk4MTIyNjExLC0xNDMzNzU0MDI5LDk0MzQ3NDY1NSwtMTgyNz
+I1NjI2NSw2ODczMTY1MzcsLTEzNzAwNzk0NzYsLTUxOTYzNzE5
+MSwyODQyNjU2NjksLTc4MTUyMTk4NCwtMTYxNTIxMzkyMywtMT
+Q4OTM0MjUxMiwtMjExNTUyMTg3MiwxNjUwMzgxMTI4LC0xNzA2
+Nzg0MTNdfQ==
 -->
