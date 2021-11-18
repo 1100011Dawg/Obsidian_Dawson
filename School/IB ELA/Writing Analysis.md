@@ -28,8 +28,11 @@
 |--|--|--|
 | Only occurs around once |  repeatedly occurs and is still concrete,  could be repeated phrases or objects. Most often imagery. *she thinks that it is concrete, others disagree* | An effect created by many literary elements |
 
-
+Claims 
+ - Does the claim reveal a smaller layer of the LOI
+ - Is the claim interprive and debatible
+ - Does the claim include a strong verb?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzc0MDEzMCwtMTg0MDIwNTc5NywxOD
-QxMzM5Njg3LDcwNzgyMDI5MF19
+eyJoaXN0b3J5IjpbLTExMzY4OTgwNzcsMTYwNzc0MDEzMCwtMT
+g0MDIwNTc5NywxODQxMzM5Njg3LDcwNzgyMDI5MF19
 -->
