@@ -30,9 +30,11 @@
 
 Claims 
  - Does the claim reveal a smaller layer of the LOI
- - Is the claim interprive and debatible
+ - Is the claim interprive and debatable
  - Does the claim include a strong verb?
+ - Ex:
+	 - LOI: The literary technique of zoomorphism(spefifc literary eletment), allows for an emotionally challing explanation f trama amon the oppressed 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY4OTgwNzcsMTYwNzc0MDEzMCwtMT
-g0MDIwNTc5NywxODQxMzM5Njg3LDcwNzgyMDI5MF19
+eyJoaXN0b3J5IjpbMjA5MTAxNDE0MCwxNjA3NzQwMTMwLC0xOD
+QwMjA1Nzk3LDE4NDEzMzk2ODcsNzA3ODIwMjkwXX0=
 -->
