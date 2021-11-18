@@ -33,8 +33,9 @@ Claims
  - Is the claim interprive and debatable
  - Does the claim include a strong verb?
  - Ex:
-	 - LOI: The literary technique of zoomorphism(spefifc literary eletment), allows for an emotionally challing explanation f trama amon the oppressed 
+	 - LOI: The literary technique of zoomorphism(specific literary eletment), allows for an emotionally challenge explanation f trama amon the oppressed in WW2(time)
+	 - Claim: The representation of [Jews as mice and Germans as cats](claim) establishes a predator-prey dynamic which causes the reader to reexamine power as predating behavior.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTAxNDE0MCwxNjA3NzQwMTMwLC0xOD
-QwMjA1Nzk3LDE4NDEzMzk2ODcsNzA3ODIwMjkwXX0=
+eyJoaXN0b3J5IjpbODI3NjA0OTA5LDE2MDc3NDAxMzAsLTE4ND
+AyMDU3OTcsMTg0MTMzOTY4Nyw3MDc4MjAyOTBdfQ==
 -->
