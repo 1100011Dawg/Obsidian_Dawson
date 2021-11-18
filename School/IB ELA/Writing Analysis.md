@@ -34,8 +34,8 @@ Claims
  - Does the claim include a strong verb?
  - Ex:
 	 - LOI: The literary technique of zoomorphism(specific literary element), allows for an emotionally challenge explanation of trauma among the oppressed in WW2(time)
-	 - Claim: The representation of [Jews as mice and Germans as cats] (claim) establishes a predator-prey dynamic which causes the reader to reexamine power as predating behavior.
+	 - Claim: The representation of (Jews as mice and Germans as cats)(claim) establishes a predator-prey dynamic which causes the reader to reexamine power as predating behavior.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI5MjIzNDYsMTYwNzc0MDEzMCwtMT
-g0MDIwNTc5NywxODQxMzM5Njg3LDcwNzgyMDI5MF19
+eyJoaXN0b3J5IjpbLTkxMTQ3ODc0NSwxNjA3NzQwMTMwLC0xOD
+QwMjA1Nzk3LDE4NDEzMzk2ODcsNzA3ODIwMjkwXX0=
 -->
