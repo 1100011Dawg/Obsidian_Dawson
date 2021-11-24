@@ -4,13 +4,14 @@
  - “if we killed you, we’d achieve more in eugenics than the nazi’s ever did”
  - "I am quite involved in the Human commodities markets"
  - the world can be cruel, and I can be crueler 
+ - when designing architecture you must factor in a copious amount of intellectually disabled dwarves (children)
 
 Ideas
  - Apple Watch thing for checklists in fields like hospitals/airplanes
  - Duckweed farm
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5OTY2MzkwLC03ODE4OTIxNzksMTEzMD
-EzNzMwOCwtMTUxNDYwNjgzMyw3MjY2Mjg3MDAsOTYzOTQ2MDg2
-XX0=
+eyJoaXN0b3J5IjpbMTIyMzE1Nzc0OSw3ODk5NjYzOTAsLTc4MT
+g5MjE3OSwxMTMwMTM3MzA4LC0xNTE0NjA2ODMzLDcyNjYyODcw
+MCw5NjM5NDYwODZdfQ==
 -->
