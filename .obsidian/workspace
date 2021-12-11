@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Media.md",
+            "file": "School/IB Spanish/Cosas en espanol.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media.md",
+                "file": "School/IB Spanish/Cosas en espanol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media.md",
+                "file": "School/IB Spanish/Cosas en espanol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media.md"
+                "file": "School/IB Spanish/Cosas en espanol.md"
               }
             }
           },
@@ -145,6 +145,7 @@
   },
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
+    "School/IB Spanish/Cosas en espanol.md",
     "Media.md",
     "Personal/Original sentences ideas.md",
     "Personal/Jotts-personal.md",
@@ -153,7 +154,6 @@
     "School/IB History/Cold War Scinces/Lysenkoism.md",
     "School/IB History/Cold War Scinces/The Rise and Fall of T.D Lysenko.md",
     "School/IB History/Cold War Scinces/Temp extra annotation Rise fall T.D Lysenko.md",
-    "School/IB History/Cold War Scinces/Ol'shansky.md",
-    "School/IB History/Cold War Scinces/Temp.md"
+    "School/IB History/Cold War Scinces/Ol'shansky.md"
   ]
 }
