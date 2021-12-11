@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/IB Spanish/Cosas en espanol.md",
+            "file": "Media.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB Spanish/Cosas en espanol.md",
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB Spanish/Cosas en espanol.md",
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IB Spanish/Cosas en espanol.md"
+                "file": "Media.md"
               }
             }
           },
@@ -145,8 +145,8 @@
   },
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
-    "School/IB Spanish/Cosas en espanol.md",
     "Media.md",
+    "School/IB Spanish/Cosas en espanol.md",
     "Personal/Original sentences ideas.md",
     "Personal/Jotts-personal.md",
     "Writings/Poem Collection 1.md",
