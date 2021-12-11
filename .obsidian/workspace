@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Original sentences ideas.md",
+            "file": "Media.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Original sentences ideas.md",
+                "file": "Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Original sentences ideas.md",
+                "file": "Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Original sentences ideas.md"
+                "file": "Media.md"
               }
             }
           },
@@ -145,9 +145,9 @@
   },
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
+    "Media.md",
     "Personal/Original sentences ideas.md",
     "Personal/Jotts-personal.md",
-    "Media.md",
     "Writings/Poem Collection 1.md",
     "Writings/Story- pets at magic school..md",
     "School/IB History/Cold War Scinces/Lysenkoism.md",
