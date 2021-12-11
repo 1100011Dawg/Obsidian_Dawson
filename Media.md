@@ -8,7 +8,7 @@
 - [x] DUB Hellsing Ultimate: 10
 - [X ] Doomsday clock
 - [ ] leveling solo: 172
-- [ ] Doombreacker(Reincarnation of the Suicidal Battle God, To a New Life) 20
+- [ ] Doombreacker(Reincarnation of the Suicidal Battle God, To a New Life) 27
 - [ ] I grow stronger by eating 45
 - [ ] [Star Wars: Knights Of The Old Republic](https://readcomiconline.li/Comic/Star-Wars-Knights-Of-The-Old-Republic) 10
 5
