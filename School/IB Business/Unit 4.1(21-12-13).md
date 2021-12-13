@@ -5,7 +5,7 @@
  - Promotion
  #### Marketing
   - the number of choices has grown explisibly making marketing harder
-  - 
+  - Market is a traditionally physical place with both a byer and the seller(B2B, C2C, B2C
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzE5NDE2NV19
+eyJoaXN0b3J5IjpbLTE4MTkxNzExNzZdfQ==
 -->
