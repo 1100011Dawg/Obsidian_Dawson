@@ -11,6 +11,7 @@
 - [ ] Doombreacker(Reincarnation of the Suicidal Battle God, To a New Life) 270
 - [ ] I grow stronger by eating 450
 - [ ] [Star Wars: Knights Of The Old Republic](https://readcomiconline.li/Comic/Star-Wars-Knights-Of-The-Old-Republic) 10
+- [ ] Goblin Slayer:65
 5
 -eitate
 
@@ -21,7 +22,7 @@ Maybe:
  - [ ] pan's la3
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0NjEwMjY4LDE1MTkwNzQ4MzMsLTE3OT
-k4MjgwNzQsNDY3OTg3Nzc0LC04MjM3MDk3ODgsNjM5MDY2Mzcs
-LTIwNDM2Nzg2NjRdfQ==
+eyJoaXN0b3J5IjpbMTA3NjU0NzgwNSwxNTE5MDc0ODMzLC0xNz
+k5ODI4MDc0LDQ2Nzk4Nzc3NCwtODIzNzA5Nzg4LDYzOTA2NjM3
+LC0yMDQzNjc4NjY0XX0=
 -->
