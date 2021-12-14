@@ -12,6 +12,7 @@
 - [ ] I grow stronger by eating 450
 - [ ] [Star Wars: Knights Of The Old Republic](https://readcomiconline.li/Comic/Star-Wars-Knights-Of-The-Old-Republic) 10
 - [ ] Goblin Slayer:65
+- [ ] Goblin Slayer year one:64
 5
 -eitate
 
