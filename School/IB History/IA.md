@@ -24,13 +24,15 @@ IA topics
 - Irreligion in Uruguay
 - United States influnce on Japans constitution
 	- [book](https://www.amazon.com/Birth-Japans-Postwar-Constitution/dp/0813334950)
+	- The Muslim Uprising of 1835 brazil
 Cold war and Science:
 	 - Lamarkism
 	 - Abiogenic petroleum origin
 	 - To what extent did the cold war stunt scientific progress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ0MDIzNCw0MTM3MDE3ODQsMzYzMz
-E5NzY4LDEyMDU0MTE3NywtMjA5Mzg1MDQwMyw2Nzk1NTA3Mjgs
-NjcyMjU3OTQ2LDE4MDIxMDExMjMsLTE3NTE3NjkxMzMsMTQ2Nj
-k3Mzk0NSwzNDMyODg3OCwtMjEzNDk2ODYwMl19
+eyJoaXN0b3J5IjpbLTY3ODg0OTg3NiwtMTExNDQwMjM0LDQxMz
+cwMTc4NCwzNjMzMTk3NjgsMTIwNTQxMTc3LC0yMDkzODUwNDAz
+LDY3OTU1MDcyOCw2NzIyNTc5NDYsMTgwMjEwMTEyMywtMTc1MT
+c2OTEzMywxNDY2OTczOTQ1LDM0MzI4ODc4LC0yMTM0OTY4NjAy
+XX0=
 -->
