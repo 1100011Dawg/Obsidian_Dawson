@@ -18,7 +18,9 @@ IA topics
 	- https://encyclopedia.1914-1918-online.net/article/latin_america porte algre and german ethnicity in south america, german immigration to brazil https://en.wikipedia.org/wiki/German_Brazilians  Porto Alegre
 - https://www.britannica.com/place/Latin-America/Socialism-communism-fascism communism south america
 - game theoritic advancements from cold war
+	- https://www.google.com/books/edition/The_Strategist/oQ4TAQAAIAAJ?hl=en&gbpv=1&bsq=game+theoretic+advancements+from+cold+war+schelling+history+book&dq=game+theoretic+advancements+from+cold+war+schelling+history+book&printsec=frontcover
 - argitinian anarchism movemnets
+	 - bohttps://www.google.com/books/edition/The_Development_of_Argentine_Anarchism/9oDXAAAAMAAJ?hl=en&gbpv=1&bsq=argentinian+anarchist+movements&dq=argentinian+anarchist+movements&printsec=frontcover
 - Irreligion in Uruguay
 - United States influnce on Japans constitution
 	- https://www.amazon.com/Birth-Japans-Postwar-Constitution/dp/0813334950
@@ -27,8 +29,8 @@ Cold war and Science:
 	 - Abiogenic petroleum origin
 	 - To what extent did the cold war stunt scientific progress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTM0OTMwMCw0MTM3MDE3ODQsMzYzMz
-E5NzY4LDEyMDU0MTE3NywtMjA5Mzg1MDQwMyw2Nzk1NTA3Mjgs
-NjcyMjU3OTQ2LDE4MDIxMDExMjMsLTE3NTE3NjkxMzMsMTQ2Nj
-k3Mzk0NSwzNDMyODg3OCwtMjEzNDk2ODYwMl19
+eyJoaXN0b3J5IjpbLTEwNTY1MTY0MDEsNDEzNzAxNzg0LDM2Mz
+MxOTc2OCwxMjA1NDExNzcsLTIwOTM4NTA0MDMsNjc5NTUwNzI4
+LDY3MjI1Nzk0NiwxODAyMTAxMTIzLC0xNzUxNzY5MTMzLDE0Nj
+Y5NzM5NDUsMzQzMjg4NzgsLTIxMzQ5Njg2MDJdfQ==
 -->
