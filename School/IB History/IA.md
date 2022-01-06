@@ -21,12 +21,13 @@ IA topics
 - argitinian anarchism movemnets
 - Irreligion in Uruguay
 - United States influnce on Japans constitution
+	- https://www.amazon.com/Birth-Japans-Postwar-Constitution/dp/0813334950
 Cold war and Science:
 	 - Lamarkism
 	 - Abiogenic petroleum origin
 	 - To what extent did the cold war stunt scientific progress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTEyMTAzOSw0MTM3MDE3ODQsMzYzMz
+eyJoaXN0b3J5IjpbMTA5NTM0OTMwMCw0MTM3MDE3ODQsMzYzMz
 E5NzY4LDEyMDU0MTE3NywtMjA5Mzg1MDQwMyw2Nzk1NTA3Mjgs
 NjcyMjU3OTQ2LDE4MDIxMDExMjMsLTE3NTE3NjkxMzMsMTQ2Nj
 k3Mzk0NSwzNDMyODg3OCwtMjEzNDk2ODYwMl19
