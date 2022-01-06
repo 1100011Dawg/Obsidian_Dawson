@@ -20,13 +20,14 @@ IA topics
 - game theoritic advancements from cold war
 - argitinian anarchism movemnets
 - Irreligion in Uruguay
+- United States influnce on Japans constitution
 Cold war and Science:
 	 - Lamarkism
 	 - Abiogenic petroleum origin
 	 - To what extent did the cold war stunt scientific progress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNzAxNzg0LDM2MzMxOTc2OCwxMjA1ND
-ExNzcsLTIwOTM4NTA0MDMsNjc5NTUwNzI4LDY3MjI1Nzk0Niwx
-ODAyMTAxMTIzLC0xNzUxNzY5MTMzLDE0NjY5NzM5NDUsMzQzMj
-g4NzgsLTIxMzQ5Njg2MDJdfQ==
+eyJoaXN0b3J5IjpbMjA5MTEyMTAzOSw0MTM3MDE3ODQsMzYzMz
+E5NzY4LDEyMDU0MTE3NywtMjA5Mzg1MDQwMyw2Nzk1NTA3Mjgs
+NjcyMjU3OTQ2LDE4MDIxMDExMjMsLTE3NTE3NjkxMzMsMTQ2Nj
+k3Mzk0NSwzNDMyODg3OCwtMjEzNDk2ODYwMl19
 -->
