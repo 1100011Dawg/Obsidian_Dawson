@@ -16,14 +16,17 @@ IA topics
 	- Dollar diplomacy
 		- find a failing of democracy in latin america
 	- https://encyclopedia.1914-1918-online.net/article/latin_america porte algre and german ethnicity in south america, german immigration to brazil https://en.wikipedia.org/wiki/German_Brazilians  Porto Alegre
-	- https://www.britannica.com/place/Latin-America/Socialism-communism-fascism communism south america
+- https://www.britannica.com/place/Latin-America/Socialism-communism-fascism communism south america
+- game theoritic advancements from cold war
+- argitinian anarchism movemnets
+- Irreligion in Uruguay
 Cold war and Science:
 	 - Lamarkism
 	 - Abiogenic petroleum origin
 	 - To what extent did the cold war stunt scientific progress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMzE5NzY4LDEyMDU0MTE3NywtMjA5Mz
-g1MDQwMyw2Nzk1NTA3MjgsNjcyMjU3OTQ2LDE4MDIxMDExMjMs
-LTE3NTE3NjkxMzMsMTQ2Njk3Mzk0NSwzNDMyODg3OCwtMjEzND
-k2ODYwMl19
+eyJoaXN0b3J5IjpbNDEzNzAxNzg0LDM2MzMxOTc2OCwxMjA1ND
+ExNzcsLTIwOTM4NTA0MDMsNjc5NTUwNzI4LDY3MjI1Nzk0Niwx
+ODAyMTAxMTIzLC0xNzUxNzY5MTMzLDE0NjY5NzM5NDUsMzQzMj
+g4NzgsLTIxMzQ5Njg2MDJdfQ==
 -->
