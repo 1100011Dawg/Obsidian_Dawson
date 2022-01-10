@@ -1,7 +1,7 @@
 #### Post WW2:
  - two superpoers 
-	 - USSR: Communist
+	 - USSR: Communist(Distatorship)
 	 - United States: Democracy Captalist
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDg0NTIxOF19
+eyJoaXN0b3J5IjpbMTc3OTk5MzYxMV19
 -->
