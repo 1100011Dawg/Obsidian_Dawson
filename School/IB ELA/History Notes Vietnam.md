@@ -21,7 +21,12 @@
 #### Viatnam
  - One of many proxy wars
  - Has been colonized by the chineese
+ - French moved themselves into vietnam
+	 - Used Missionaries --> Church first
+	 - Buisness --> Money
+	 - Military --> Protect
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTg0MDIzMl19
+eyJoaXN0b3J5IjpbMTMzNzc0Mjc1Nl19
 -->
