@@ -27,8 +27,11 @@
 	 - Used Missionaries --> Church first
 	 - Buisness --> Money
 	 - Military --> Protect
- - Ni-
+ - Ni-Ho ch
+	 - Communist, Stalin
+ - South Vietnam
+	 - U.S/Franch Democratic
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzY3MjA3OV19
+eyJoaXN0b3J5IjpbLTE5ODM0NTM3OTldfQ==
 -->
