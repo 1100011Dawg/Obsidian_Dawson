@@ -7,6 +7,7 @@
  - Initially Lead by Truman for U,S
  - Stalin For USSR
 	 - Went for controal of eastern europe
+	 - 
  - Issues US:
 	 - Don't understand Russia
 	 - Don't have trade partners, low money flow
@@ -16,7 +17,8 @@
 		 - connects us to western europe
 	 - (Long Range)
 > NSC-68: Document militerizes politics(consides with the korean war)
-> 
+> All about containment
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTg3NzQ1OF19
+eyJoaXN0b3J5IjpbMzY0MzI3Mzk1XX0=
 -->
