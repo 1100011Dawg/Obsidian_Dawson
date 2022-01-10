@@ -12,6 +12,7 @@
 	 - Don't have trade partners, low money flow
  - Answers:
 	 - Truman Doctrine(help politically, economically, militarly) (short range)
+	 - Marshal Plan(medium range
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5MzY4ODkzXX0=
+eyJoaXN0b3J5IjpbLTE3OTY0OTU4ODFdfQ==
 -->
