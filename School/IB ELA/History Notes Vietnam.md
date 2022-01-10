@@ -27,8 +27,8 @@
 	 - Used Missionaries --> Church first
 	 - Buisness --> Money
 	 - Military --> Protect
- - 
+ - Ni-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTQ3NjcxN119
+eyJoaXN0b3J5IjpbLTcxNzY3MjA3OV19
 -->
