@@ -11,8 +11,8 @@
 	 - Don't understand Russia
 	 - Don't have trade partners, low money flow
  - Answers:
-	 - Truman Doctrine(help politically, economically, militarly) (short range)
-	 - Marshal Plan(medium range
+	 - Truman Doctrine, mainly greece turkey(help politically, economically, militarly) (short range)
+	 - Marshal Plan- rest of west europe, if you give us a plan we give you a team and money(medium range)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY0OTU4ODFdfQ==
+eyJoaXN0b3J5IjpbMTc1MDAxNDY3Nl19
 -->
