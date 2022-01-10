@@ -15,6 +15,8 @@
 	 - Marshal Plan- rest of west europe, if you give us a plan we give you a team and money(medium range)
 		 - connects us to western europe
 	 - (Long Range)
+> NSC-68: Document militerizes politics(consides with the korean war)
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNzMwMzQ0XX0=
+eyJoaXN0b3J5IjpbMjA2MTg3NzQ1OF19
 -->
