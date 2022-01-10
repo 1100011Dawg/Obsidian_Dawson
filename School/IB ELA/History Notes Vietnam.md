@@ -9,6 +9,9 @@
 	 - Went for controal of eastern europe
  - Issues US:
 	 - Don't understand Russia
+	 - Don't have trade partners, low money flow
+ - Answers:
+	 - Truman Doctrine(help politically, economically, militarly) (short range)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTE5NTc3M119
+eyJoaXN0b3J5IjpbODk5MzY4ODkzXX0=
 -->
