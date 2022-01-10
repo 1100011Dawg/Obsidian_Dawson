@@ -13,6 +13,8 @@
  - Answers:
 	 - Truman Doctrine, mainly greece turkey(help politically, economically, militarly) (short range)
 	 - Marshal Plan- rest of west europe, if you give us a plan we give you a team and money(medium range)
+		 - connects us to western europe
+	 - (Long Range)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDAxNDY3Nl19
+eyJoaXN0b3J5IjpbNjYxNzMwMzQ0XX0=
 -->
