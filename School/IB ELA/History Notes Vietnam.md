@@ -22,11 +22,13 @@
  - One of many proxy wars
  - Has been colonized by the chineese
  - French moved themselves into vietnam
+ - Then colonized by japanese
+ - General Model
 	 - Used Missionaries --> Church first
 	 - Buisness --> Money
 	 - Military --> Protect
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzc0Mjc1Nl19
+eyJoaXN0b3J5IjpbMTM4OTQ3NjcxN119
 -->
