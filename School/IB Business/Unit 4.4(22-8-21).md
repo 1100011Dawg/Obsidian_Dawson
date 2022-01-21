@@ -15,7 +15,9 @@
 	 - Focus Group:
 		 - Small set of individualts to provide feedback
 		 - Usauly qualitative feedback
+	 - Observation:
+		 - Observed peoples actions and beahaviours
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA0NDIzMDUsLTI3MjYwODE2MywtMT
-E1OTM0MjkzM119
+eyJoaXN0b3J5IjpbNTUxNDQzOTU2LC0xODQwNDQyMzA1LC0yNz
+I2MDgxNjMsLTExNTkzNDI5MzNdfQ==
 -->
