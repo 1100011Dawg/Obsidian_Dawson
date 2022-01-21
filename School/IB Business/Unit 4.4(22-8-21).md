@@ -4,7 +4,8 @@
 	 - Predict
 	 - reduce risk
  - Types of Market Research:
-	 - Primary reserach: colle
+	 - Primary reserach: collecti of own data or outsource
+	 - Secondary: Gather existing data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyODY1MTE3XX0=
+eyJoaXN0b3J5IjpbLTExNTkzNDI5MzNdfQ==
 -->
