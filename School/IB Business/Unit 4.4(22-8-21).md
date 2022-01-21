@@ -12,6 +12,9 @@
 		 - measuring consumer responce
 	 - Survey:
 		 - easy to administer, but may be biased
+	 - Focus Group:
+		 - Small set of individualts to provide feedback
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjYwODE2MywtMTE1OTM0MjkzM119
+eyJoaXN0b3J5IjpbLTk4MjkwNzExLC0yNzI2MDgxNjMsLTExNT
+kzNDI5MzNdfQ==
 -->
