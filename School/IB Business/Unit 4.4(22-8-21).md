@@ -10,7 +10,8 @@
 	 - Customer relationship management(Google analytics to which pages they go to )
 	 - Benchmarking:
 		 - measuring consumer responce
+	 - Survey:
+		 - easy to administer, and maby 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkxNzk1NTcsLTExNTkzNDI5MzNdfQ
-==
+eyJoaXN0b3J5IjpbMzIzMzA1NzcyLC0xMTU5MzQyOTMzXX0=
 -->
