@@ -14,7 +14,8 @@
 		 - easy to administer, but may be biased
 	 - Focus Group:
 		 - Small set of individualts to provide feedback
+		 - Usauly qualitative feedback
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjkwNzExLC0yNzI2MDgxNjMsLTExNT
-kzNDI5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE4NDA0NDIzMDUsLTI3MjYwODE2MywtMT
+E1OTM0MjkzM119
 -->
