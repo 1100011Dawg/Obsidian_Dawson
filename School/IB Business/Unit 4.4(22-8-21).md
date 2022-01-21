@@ -11,7 +11,7 @@
 	 - Benchmarking:
 		 - measuring consumer responce
 	 - Survey:
-		 - easy to administer, and maby 
+		 - easy to administer, but may be biased
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMzA1NzcyLC0xMTU5MzQyOTMzXX0=
+eyJoaXN0b3J5IjpbLTI3MjYwODE2MywtMTE1OTM0MjkzM119
 -->
