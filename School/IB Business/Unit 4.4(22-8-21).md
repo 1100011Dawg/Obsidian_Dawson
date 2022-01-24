@@ -19,12 +19,12 @@
 		 - Observed peoples actions and beahaviours
 
 #### Osmosis
- - hypertonic(lower osmotic pressure)(water moves out)(high solute% )
+ - hypertonic(lower osmotic pressure)(high solute% )
  - Isotonic(some osmotic pressure)(no change)
- - Hypotonic(Higher osmotic pressure)(water moves in )(low solute%)
+ - Hypotonic(Higher osmotic pressure)(low solute%)
 #### Tonicity:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzkyMDg1NDgsLTEwNzAzMTQ5NTUsLT
-kyNzgwMjI5NSwxOTMxMTI1MTM5LDU1MTQ0Mzk1NiwtMTg0MDQ0
-MjMwNSwtMjcyNjA4MTYzLC0xMTU5MzQyOTMzXX0=
+eyJoaXN0b3J5IjpbMTk3MzkyMTQwOSwtMTA3MDMxNDk1NSwtOT
+I3ODAyMjk1LDE5MzExMjUxMzksNTUxNDQzOTU2LC0xODQwNDQy
+MzA1LC0yNzI2MDgxNjMsLTExNTkzNDI5MzNdfQ==
 -->
