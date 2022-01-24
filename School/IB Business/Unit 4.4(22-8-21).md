@@ -17,7 +17,12 @@
 		 - Usauly qualitative feedback
 	 - Observation:
 		 - Observed peoples actions and beahaviours
+
+#### Osmosis
+ - hypertonic(lower osmotic pressure)(watermoves out
+ - Isotonic(some 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNDQzOTU2LC0xODQwNDQyMzA1LC0yNz
-I2MDgxNjMsLTExNTkzNDI5MzNdfQ==
+eyJoaXN0b3J5IjpbLTgyMzg1NzAsNTUxNDQzOTU2LC0xODQwND
+QyMzA1LC0yNzI2MDgxNjMsLTExNTkzNDI5MzNdfQ==
 -->
