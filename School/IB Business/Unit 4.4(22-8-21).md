@@ -22,10 +22,10 @@
  - hypertonic(lower osmotic pressure)(high solute% )
  - Isotonic(some osmotic pressure)(no change)
  - Hypotonic(Higher osmotic pressure)(low solute%)
- - To
+ - Tonicity
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTc4NDk4NiwxOTczOTIxNDA5LC0xMD
+eyJoaXN0b3J5IjpbMTM1NTM4MDI3NiwxOTczOTIxNDA5LC0xMD
 cwMzE0OTU1LC05Mjc4MDIyOTUsMTkzMTEyNTEzOSw1NTE0NDM5
 NTYsLTE4NDA0NDIzMDUsLTI3MjYwODE2MywtMTE1OTM0MjkzM1
 19
