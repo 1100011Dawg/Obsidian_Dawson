@@ -18,15 +18,11 @@
 	 - Observation:
 		 - Observed peoples actions and beahaviours
 
-#### Osmosis
- - hypertonic(lower osmotic pressure)(high solute% )
- - Isotonic(some osmotic pressure)(no change)
- - Hypotonic(Higher osmotic pressure)(low solute%)
- - Tonicity
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTM4MDI3NiwxOTczOTIxNDA5LC0xMD
-cwMzE0OTU1LC05Mjc4MDIyOTUsMTkzMTEyNTEzOSw1NTE0NDM5
-NTYsLTE4NDA0NDIzMDUsLTI3MjYwODE2MywtMTE1OTM0MjkzM1
-19
+eyJoaXN0b3J5IjpbLTk5ODM5ODIxMCwxMzU1MzgwMjc2LDE5Nz
+M5MjE0MDksLTEwNzAzMTQ5NTUsLTkyNzgwMjI5NSwxOTMxMTI1
+MTM5LDU1MTQ0Mzk1NiwtMTg0MDQ0MjMwNSwtMjcyNjA4MTYzLC
+0xMTU5MzQyOTMzXX0=
 -->
