@@ -10,7 +10,9 @@
  - 1964 Golf of Tolkin Incident
 	 - the US Madox had a skirmish with North Vietnam votes
 	 - These ¨incedents¨ angered the amican people, gave LBG authority to initiate war
+- 1968 Viet Cong doe sthe Tet Offensive, with a massive cordinated effort in South Vietnam(during whitch th president said they were about to win the war)
+- 
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk0NDk2MSwtMTMyMDY1NzA1N119
+eyJoaXN0b3J5IjpbMTE2MDg2Nzk1NCwtMTMyMDY1NzA1N119
 -->
