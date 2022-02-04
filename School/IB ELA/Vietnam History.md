@@ -8,8 +8,9 @@
 	 - Diem Persecutted buddists
 		 - was semi autocratic
  - 1964 Golf of Tolkin Incident
-	 - the US Madox had a skirmish with North 
+	 - the US Madox had a skirmish with North Vietnam votes
+	 - These ¨incedents¨ angered the amican people, gave LBG authority to initiate war
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzcwNDM1NSwtMTMyMDY1NzA1N119
+eyJoaXN0b3J5IjpbLTE5MTk0NDk2MSwtMTMyMDY1NzA1N119
 -->
