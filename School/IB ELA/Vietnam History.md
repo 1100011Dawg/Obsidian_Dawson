@@ -14,7 +14,7 @@
 - My Lai Massacare, the americans did the attack, degraded American moral ground, disgusting the public
 - 1971 Pentagon Papers, leacked america engaged in Laos and cambodia likng to the public. Carpet bombing their supply routes
 - Pan Peace Accords in 1973, signed then in 1975 North overran the south.
- - 
+ - 1-3million Vietmanese killed, 58k american troops
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzAwNzgzNiwtMTMyMDY1NzA1N119
+eyJoaXN0b3J5IjpbMjMzMjE4NjM4LC0xMzIwNjU3MDU3XX0=
 -->
