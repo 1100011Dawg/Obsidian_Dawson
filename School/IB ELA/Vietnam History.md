@@ -7,8 +7,9 @@
 	 - Traditional war between communist north and the south
 	 - Diem Persecutted buddists
 		 - was semi autocratic
-		 - 
+ - 1964 Golf of Tolkin Incident
+	 - the US Madox had a skirmish with North 
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MjE1MDk3LC0xMzIwNjU3MDU3XX0=
+eyJoaXN0b3J5IjpbMTEzMzcwNDM1NSwtMTMyMDY1NzA1N119
 -->
