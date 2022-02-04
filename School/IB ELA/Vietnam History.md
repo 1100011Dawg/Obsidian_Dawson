@@ -11,8 +11,9 @@
 	 - the US Madox had a skirmish with North Vietnam votes
 	 - These ¨incedents¨ angered the amican people, gave LBG authority to initiate war
 - 1968 Viet Cong doe sthe Tet Offensive, with a massive cordinated effort in South Vietnam(during whitch th president said they were about to win the war)
-- 
+- My Lai Massacare, the americans did the attack, degraded American moral ground, disgusting the public
+- 1971 Pentagon Papers 
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDg2Nzk1NCwtMTMyMDY1NzA1N119
+eyJoaXN0b3J5IjpbLTkwNDgyMzkxMSwtMTMyMDY1NzA1N119
 -->
