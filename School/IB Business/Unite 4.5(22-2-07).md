@@ -14,7 +14,8 @@ Brand value: the extra amount consumers will pay above market rpice for a produc
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 -->
-
+**![](https://lh4.googleusercontent.com/6XH7clnJbvfhn8fua0_ZAYLZ15OACVrZCayXTUMv1lecKdAuuYT8i7VyBO76KsrHhEuGVI5Za4Cl6cdIjrimRLaPboQ6jbfp0jEy9eHEbeLjge1b7vqkm8dIFxtOy4p9TQ0po0ms)**
 
 #### Pricing
- - 
+ - Price: the money customers pay for a service
+ - Cost-plus p
