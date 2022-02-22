@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CC  ideological commission",
+                "query": "tag:#Lysenkoism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
               "state": {
                 "file": "School/IB ELA/Vietnam History.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
