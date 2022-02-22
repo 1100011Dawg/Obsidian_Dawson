@@ -3,7 +3,7 @@
 
 Ideas for topics
  - How did the cold war influnce game thoery
- - How did the cold 
+ - How did the game theor influcne the perception of the cold war
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzE0Mzk0OV19
+eyJoaXN0b3J5IjpbMTg1MTYxNDkwOV19
 -->
