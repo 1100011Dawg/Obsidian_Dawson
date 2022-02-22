@@ -41,10 +41,10 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 		- Band segregation(ex 29,998 car will show up for searches for cars 30k and undeer)
 		- Placing higher cost first
 		- Promoting it with the price
-	- Adv: 
-	- Disadv: 
-	- When best to use: 
-	- Example in real life:
+	- Allows you to stay competitive, easy to do
+	- could lose power overtime, discounted items can hurt brand reputation
+- a
+
 -   **Loss leader**: 
 	- Define: 
 	- Adv: 
