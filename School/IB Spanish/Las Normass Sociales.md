@@ -6,7 +6,8 @@
  - We can invent our own social norms
 #### Martrimonio:
  - compararía españa a Honduras
+	 - ¿casarse o no?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzUyODA1MSwtMTQ3NjYxNzAwMywtMz
-U2MjAyNTAwLDE0NjUwODE4NDddfQ==
+eyJoaXN0b3J5IjpbLTE3NjMxODA3ODIsMjAzNzUyODA1MSwtMT
+Q3NjYxNzAwMywtMzU2MjAyNTAwLDE0NjUwODE4NDddfQ==
 -->
