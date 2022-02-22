@@ -14,7 +14,8 @@ The prolitarate feel dienfrachised by todays society, and thus to revoke this ra
 Improvement jotts
  - [ ] clean room
  - [ ] have morning schedule
-	 - Mabye get up snack water and set up tea. Than a quick shower(mabye set timer) or make the shower cold, after that set up computer with obsidian and anki. Additionally mabye due something mirroring this activity in the morning. Might 
+	 - Mabye get up snack water and set up tea. Than a quick shower(mabye set timer) or make the shower cold, after that set up computer with obsidian and anki. Additionally mabye due something mirroring this activity in the morning. Might want to do reading? or Light exersize/ brilliant. Something to fill 30 minutes. I want by backpack to be ready before we leave by a bit.
+ - [ ] j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTEyMzI1MV19
+eyJoaXN0b3J5IjpbODUxNzAyMzldfQ==
 -->
