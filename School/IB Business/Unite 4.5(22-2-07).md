@@ -57,7 +57,7 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- can use when their is imperfect competition, prevention of resales,and eleticity of demand
 
 -   **Predatory**: 
-	- Define: 
+	- Goods offered at a very low price point, with the intention of driving out competition()
 	- Adv: 
 	- Disadv: 
 	- When best to use: 
