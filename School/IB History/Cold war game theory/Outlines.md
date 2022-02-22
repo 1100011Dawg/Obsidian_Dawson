@@ -8,7 +8,7 @@ Ideas for topics
 
 Important
  - Robert Mcnamra was during this timestratigist USA
- - https://books.google.com/books?id=wS4A2jJph_cC&pg=PA163#v=onepage&q&f=false
+	 - https://books.google.com/books?id=wS4A2jJph_cC&pg=PA163#v=onepage&q&f=false coonection Mcnamra and game theory?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzc3MzIzNCwxODUxNjE0OTA5XX0=
+eyJoaXN0b3J5IjpbLTE5MzQ4MDUxMzEsMTg1MTYxNDkwOV19
 -->
