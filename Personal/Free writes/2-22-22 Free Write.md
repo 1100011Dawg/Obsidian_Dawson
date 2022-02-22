@@ -8,7 +8,12 @@ The prolitarate feel dienfrachised by todays society, and thus to revoke this ra
  - An Implementation of Geoergism based upon a 80% land value tax
  - A change of our voting system to one that nears the VSE of STAR
  - Thridly a unregulatted prediction market.
- These changes will chip away at the wicked problems that stem from ur current capa
+ These changes will chip away at the wicked problems that stem from ur current capatalist system
+
+
+Improvement jotts
+ - [ ] clean room
+ - [ ] hav
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTAwNzY1MV19
+eyJoaXN0b3J5IjpbMTIyMDgzOTkxNl19
 -->
