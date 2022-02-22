@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a9154830dbe457d",
@@ -149,10 +148,10 @@
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
     "School/IB Business/Unite 4.5(22-2-07).md",
+    "School/IB Business/Unit 4.1(21-12-13).md",
     "School/IB Business/Unit 4.4(22-8-21).md",
     "School/IB ELA/Vietnam History.md",
     "School/IB ELA/Writing Analysis.md",
-    "School/IB Business/Unit 4.1(21-12-13).md",
     "Progress.md",
     "Media.md",
     "Tips.md",
