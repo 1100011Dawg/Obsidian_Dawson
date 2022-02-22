@@ -30,9 +30,9 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- Will create a pricing expectation and can heart brand image/base later on 
 	- Best used with little product differation and price-elastic
 -   **Skimming**: 
-	- Define: 
-	- Adv: 
-	- Disadv: 
+	- chareges an initial high price than gradually lowers price to attract more customers
+	- Creates perceved quality, and high profitability: 
+	- Not viable long term
 	- When best to use: 
 	- Example in real life:
 -   Penetration: 
