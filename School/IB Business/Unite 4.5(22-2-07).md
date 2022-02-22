@@ -57,11 +57,11 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- can use when their is imperfect competition, prevention of resales,and eleticity of demand
 
 -   **Predatory**: 
-	- Goods offered at a very low price point, with the intention of driving out competition()
-	- Adv: 
-	- Disadv: 
-	- When best to use: 
-	- Example in real life:
+	- Goods offered at a very low price point, with the intention of driving out competition(airlines)
+	- Allows for monopolies
+	- Can get sued 
+	- Best used when you hae the govener in your paycheck
+
 
 
 
