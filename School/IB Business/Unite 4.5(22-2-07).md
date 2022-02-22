@@ -21,4 +21,7 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
  - Cost-plus pricing:
 	 - adding mark-up to the average cost of producing a product
 	 - $SellingPrice = Average cost+Markup price$
-	 - $MarkupPrice = %#$
+	 - $MarkupPrice = \%\#*Average cost$
+	 - Best used by retail/grocery stores
+ - 
+	 - 
