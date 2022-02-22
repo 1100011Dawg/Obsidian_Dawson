@@ -13,7 +13,8 @@ The prolitarate feel dienfrachised by todays society, and thus to revoke this ra
 
 Improvement jotts
  - [ ] clean room
- - [ ] hav
+ - [ ] have morning schedule
+	 - Mabye get up snack water and set up tea. Than a quick shower(mabye set timer) or make the shower cold, after that set up computer with obsidian and anki. Additionally mabye due something mirroring this activity in the morning. Might 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDgzOTkxNl19
+eyJoaXN0b3J5IjpbMTI5OTEyMzI1MV19
 -->
