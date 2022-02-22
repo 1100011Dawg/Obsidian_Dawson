@@ -43,10 +43,10 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 		- Promoting it with the price
 	- Allows you to stay competitive, easy to do
 	- could lose power overtime, discounted items can hurt brand reputation
-- a
+- always do it if your customer is human
 
 -   **Loss leader**: 
-	- Define: 
+	- set price below cost to stimulate other slaes(printers)
 	- Adv: 
 	- Disadv: 
 	- When best to use: 
