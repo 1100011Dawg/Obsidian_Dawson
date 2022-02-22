@@ -18,18 +18,35 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 
 #### Pricing
  - Price: the money customers pay for a service
- - Cost-plus pricing:
+ - **Cost-plus pricing**:
 	 - adding mark-up to the average cost of producing a product
 	 - $SellingPrice = Average cost+Markup price$
 	 - $MarkupPrice = \%\#*Average cost$
 	 - Best used by retail/grocery stores(Costco)
 	 - Don't use hig price fluctuations
--   Penetration: 
+-   **Penetration**: 
 	- Prcing used to gain market share.(ex epic games)
 	- Creates market share and brand loyalty, and drives out compitition
 	- Will create a pricing expectation and can heart brand image/base later on 
-	- Best used with little product dif
-	- 
+	- Best used with little product differation and price-elastic
+-   **Skimming**: 
+	- Define: 
+	- Adv: 
+	- Disadv: 
+	- When best to use: 
+	- Example in real life:
+-   Penetration: 
+	- Define: 
+	- Adv: 
+	- Disadv: 
+	- When best to use: 
+	- Example in real life:
+-   Penetration: 
+	- Define: 
+	- Adv: 
+	- Disadv: 
+	- When best to use: 
+	- Example in real life:
 -   Penetration: 
 	- Define: 
 	- Adv: 
