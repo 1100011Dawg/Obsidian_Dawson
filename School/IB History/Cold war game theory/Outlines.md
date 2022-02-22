@@ -8,6 +8,7 @@ Ideas for topics
 
 Important
  - Robert Mcnamra was during this timestratigist USA
+ - https://books.google.com/books?id=wS4A2jJph_cC&pg=PA163#v=onepage&q&f=false
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MTA4NzE5LDE4NTE2MTQ5MDldfQ==
+eyJoaXN0b3J5IjpbMTIxMzc3MzIzNCwxODUxNjE0OTA5XX0=
 -->
