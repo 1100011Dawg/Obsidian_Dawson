@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/IB Business/Unit 4.1(21-12-13).md",
+            "file": "School/IB ELA/Vietnam History.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/IB Business/Unit 4.1(21-12-13).md",
+                "file": "School/IB ELA/Vietnam History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/IB Business/Unit 4.1(21-12-13).md",
+                "file": "School/IB ELA/Vietnam History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/IB Business/Unit 4.1(21-12-13).md"
+                "file": "School/IB ELA/Vietnam History.md"
               }
             }
           },
@@ -137,15 +137,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
+    "School/IB ELA/Vietnam History.md",
+    "School/IB ELA/Writing Analysis.md",
     "School/IB Business/Unit 4.1(21-12-13).md",
     "School/IB Business/Unite 4.5(22-2-07).md",
     "Progress.md",
@@ -153,8 +155,6 @@
     "Tips.md",
     "Tane of Cawdor.md",
     "School/IB Spanish/Cosas en espanol.md",
-    "Personal/Original sentences ideas.md",
-    "Personal/Jotts-personal.md",
-    "Writings/Poem Collection 1.md"
+    "Personal/Original sentences ideas.md"
   ]
 }
