@@ -30,6 +30,13 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- Disadv: 
 	- When best to use: 
 	- Example in real life:
+-   Penetration: 
+	- Define: 
+	- Adv: 
+	- Disadv: 
+	- When best to use: 
+	- Example in real life:
+
 
 
 
