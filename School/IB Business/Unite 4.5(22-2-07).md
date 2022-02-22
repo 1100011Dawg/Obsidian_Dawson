@@ -22,7 +22,22 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	 - adding mark-up to the average cost of producing a product
 	 - $SellingPrice = Average cost+Markup price$
 	 - $MarkupPrice = \%\#*Average cost$
-	 - Best used by retail/grocery stores
+	 - Best used by retail/grocery stores(Costco)
 	 - Don't use hig price fluctuations
- - 
+-   Penetration: 
+	- Define: 
+	- Adv: 
+	- Disadv: 
+	- When best to use: 
+	- Example in real life:
+
+
+
+
+
+
+
+
+
+**
 	 - 
