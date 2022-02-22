@@ -25,11 +25,11 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	 - Best used by retail/grocery stores(Costco)
 	 - Don't use hig price fluctuations
 -   Penetration: 
-	- Prcing used to gain market share.
+	- Prcing used to gain market share.(ex epic games)
 	- Creates market share and brand loyalty, and drives out compitition
-	- Disadv: 
-	- When best to use: 
-	- Example in real life:
+	- Will create a pricing expectation and can heart brand image/base later on 
+	- Best used with little product dif
+	- 
 -   Penetration: 
 	- Define: 
 	- Adv: 
