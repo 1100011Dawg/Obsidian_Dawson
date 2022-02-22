@@ -51,10 +51,10 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- Customers might take avantage of the loss leader pricing and not purchase other goods
 	- Best used when your in mutiple interalated markets, and those products are highly connected
 -   **Price discrimination**: 
-	- Charges cus
+	- Charges customers diffrent prices for identical goods
 	- Adv: 
 	- Disadv: 
-	- When best to use: 
+	- can use when their is imperfect competition, prevention of res
 	- Example in real life:
 -   **Predatory**: 
 	- Define: 
