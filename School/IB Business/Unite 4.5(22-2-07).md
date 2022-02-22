@@ -30,24 +30,30 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- Will create a pricing expectation and can heart brand image/base later on 
 	- Best used with little product differation and price-elastic
 -   **Skimming**: 
-	- chareges an initial high price than gradually lowers price to attract more customers(Nvidia GP)
+	- chareges an initial high price than gradually lowers price to attract more customers(Nvidia GPU)
 	- Creates perceived quality, and high profitability: 
 	- Not viable long term stable, might leave first purchases feeling ripped of
 	- Best used when your the first in the market
 	-
--   Penetration: 
+-   **Psychological**: 
 	- Define: 
 	- Adv: 
 	- Disadv: 
 	- When best to use: 
 	- Example in real life:
--   Penetration: 
+-   **Loss leader**: 
 	- Define: 
 	- Adv: 
 	- Disadv: 
 	- When best to use: 
 	- Example in real life:
--   Penetration: 
+-   **Price discrimination**: 
+	- Define: 
+	- Adv: 
+	- Disadv: 
+	- When best to use: 
+	- Example in real life:
+-   : 
 	- Define: 
 	- Adv: 
 	- Disadv: 
