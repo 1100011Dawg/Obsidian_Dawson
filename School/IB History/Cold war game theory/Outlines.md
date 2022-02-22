@@ -4,11 +4,13 @@
 Ideas for topics
  - How did the cold war influnce game thoery
  - How did the game theor influcne the perception of the cold war
+	  - https://en.wikipedia.org/wiki/Dr._Strangelove
 
 
 Important
  - Robert Mcnamra was during this timestratigist USA
 	 - https://books.google.com/books?id=wS4A2jJph_cC&pg=PA163#v=onepage&q&f=false coonection Mcnamra and game theory?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ4MDUxMzEsMTg1MTYxNDkwOV19
+eyJoaXN0b3J5IjpbMTk3Nzc2ODYxNCwtMTkzNDgwNTEzMSwxOD
+UxNjE0OTA5XX0=
 -->
