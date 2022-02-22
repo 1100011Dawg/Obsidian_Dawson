@@ -53,9 +53,9 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 -   **Price discrimination**: 
 	- Charges customers diffrent prices for identical goods(age price discrimination at food places)
 	- Increases the firms profitibility
-	- Disadv: 
+	- Might be seen as scummy// at certain brackets could be taken avantage of
 	- can use when their is imperfect competition, prevention of resales,and eleticity of demand
-	- Example in real life:
+
 -   **Predatory**: 
 	- Define: 
 	- Adv: 
