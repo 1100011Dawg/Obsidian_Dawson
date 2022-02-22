@@ -23,5 +23,6 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	 - $SellingPrice = Average cost+Markup price$
 	 - $MarkupPrice = \%\#*Average cost$
 	 - Best used by retail/grocery stores
+	 - Don't use hig price fluctuations
  - 
 	 - 
