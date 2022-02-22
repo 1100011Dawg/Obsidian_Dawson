@@ -30,11 +30,11 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- Will create a pricing expectation and can heart brand image/base later on 
 	- Best used with little product differation and price-elastic
 -   **Skimming**: 
-	- chareges an initial high price than gradually lowers price to attract more customers
-	- Creates perceved quality, and high profitability: 
-	- Not viable long term
-	- When best to use: 
-	- Example in real life:
+	- chareges an initial high price than gradually lowers price to attract more customers(Nvidia GP)
+	- Creates perceived quality, and high profitability: 
+	- Not viable long term stable, might leave first purchases feeling ripped of
+	- Best used when your the first in the market
+	-
 -   Penetration: 
 	- Define: 
 	- Adv: 
