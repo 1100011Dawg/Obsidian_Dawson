@@ -38,7 +38,9 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 -   **Psychological**: 
 	- Pricing based upon their phychological impact(think Dollar store)
 		- pricing with 2.99 instead of 3
-		- Band segregation(ex 29,998 car will show up for searches )
+		- Band segregation(ex 29,998 car will show up for searches for cars 30k and undeer)
+		- Placing higher cost first
+		- Promoting it with the price
 	- Adv: 
 	- Disadv: 
 	- When best to use: 
