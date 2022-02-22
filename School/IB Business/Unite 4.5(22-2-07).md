@@ -36,7 +36,8 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- Best used when your the first in the market
 	-
 -   **Psychological**: 
-	- Define: 
+	- Pricing based upon their phychological impact(think Dollar store)
+		- 
 	- Adv: 
 	- Disadv: 
 	- When best to use: 
