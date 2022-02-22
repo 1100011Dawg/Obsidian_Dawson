@@ -49,9 +49,9 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- set price below cost to stimulate other slaes(printers)
 	- Can help create recurring revenue
 	- Customers might take avantage of the loss leader pricing and not purchase other goods
-	- Best used when your in mutiple 
+	- Best used when your in mutiple interalated markets, and those products are highly connected
 -   **Price discrimination**: 
-	- Define: 
+	- Charges cus
 	- Adv: 
 	- Disadv: 
 	- When best to use: 
