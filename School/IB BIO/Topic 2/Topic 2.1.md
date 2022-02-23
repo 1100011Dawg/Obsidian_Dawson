@@ -11,7 +11,11 @@
 - Methyl(Methylated compound)
 #### Important Molecules
  - ATP(Adenosine Triphosphate)
+	 
+#### Terminology
+ - polymer is a long molecule consisting of many similiar buildin blocks
+	 - These small building blocks are **Monomers**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcxMTYwMTAsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTAzODgzMTA5NiwtMTgyNzExNjAxMCwtMj
+A4ODc0NjYxMl19
 -->
