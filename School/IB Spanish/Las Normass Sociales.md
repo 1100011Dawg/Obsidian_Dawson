@@ -9,9 +9,10 @@
  - We can invent our own social norms
 #### Martrimonio:
  - compararía españa a Honduras
-	 - ¿casarse o no? o ¿Edad?
+	 - ¿casarse o no? o ¿Edad? ¿Mismo sexo? ¿Caserse o No? ¿Religión? ¿Divorcio?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNDQzMjgzLDE3ODYxNTY0OTAsLTYwNj
-c2OTY3NywtMTc2MzE4MDc4MiwyMDM3NTI4MDUxLC0xNDc2NjE3
-MDAzLC0zNTYyMDI1MDAsMTQ2NTA4MTg0N119
+eyJoaXN0b3J5IjpbLTM5OTkxNjIxNSw3MTA0NDMyODMsMTc4Nj
+E1NjQ5MCwtNjA2NzY5Njc3LC0xNzYzMTgwNzgyLDIwMzc1Mjgw
+NTEsLTE0NzY2MTcwMDMsLTM1NjIwMjUwMCwxNDY1MDgxODQ3XX
+0=
 -->
