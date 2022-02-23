@@ -9,12 +9,12 @@
  - We can invent our own social norms
 #### Martrimonio:
  - compararía españa a Honduras
-	 - ¿casarse o no? o ¿Edad? ¿Mismo sexo? ¿Caserse o No? ¿Religión? ¿Divorcio? ¿Qué es expectativas sociales?
+	 - ¿casarse o no? o ¿Edad? ¿Mismo sexo? ¿Caserse o No? ¿Religión? ¿Divorcio? ¿Qué es expectativas sociales? ¿Dinero?
 	 - EL DEBER
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjEwOTI1NDksLTIxNTMxMDAxMiwtMz
-k5OTE2MjE1LDcxMDQ0MzI4MywxNzg2MTU2NDkwLC02MDY3Njk2
-NzcsLTE3NjMxODA3ODIsMjAzNzUyODA1MSwtMTQ3NjYxNzAwMy
-wtMzU2MjAyNTAwLDE0NjUwODE4NDddfQ==
+eyJoaXN0b3J5IjpbMTQ2MjE1ODgzMiwtMjE1MzEwMDEyLC0zOT
+k5MTYyMTUsNzEwNDQzMjgzLDE3ODYxNTY0OTAsLTYwNjc2OTY3
+NywtMTc2MzE4MDc4MiwyMDM3NTI4MDUxLC0xNDc2NjE3MDAzLC
+0zNTYyMDI1MDAsMTQ2NTA4MTg0N119
 -->
