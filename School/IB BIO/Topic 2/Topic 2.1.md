@@ -18,7 +18,9 @@
  - Dehydration reaction occurs when two monomers bond together through the loss of water moledule
  - Hydrolisis is the reverse of the dehydration reaction
  - These processes are facilitated by enzymes
+ - **Anabolic** builds molicules by the process of condensation(dehydration reaction)
+ - **Catabolic** dreadk down moledules by Hydrolysis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDY2Mzc1MCwtMTgyNzExNjAxMCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTQ4OTI1NDkxOSwxMjQwNjYzNzUwLC0xOD
+I3MTE2MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
