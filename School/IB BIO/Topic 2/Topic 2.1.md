@@ -9,6 +9,9 @@
 - Sulfhydryl(Thiol)
 - Phosphate(Organic phosphate)
 - Methyl(Methylated compound)
+#### Important Molecules
+ - ATP(Adenosine Triphosphate)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NzYzMzcsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MjcxMTYwMTAsLTIwODg3NDY2MTJdfQ
+==
 -->
