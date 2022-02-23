@@ -6,9 +6,9 @@
 - Carbonyl(Ketone Aldehyde)
 - Carboxyl(Carboxylic acid or organic acid)
 - Amino(Amine)
-- Sulfhydryl
-- Phosphate
-- Methyl
+- Sulfhydryl(Thiol)
+- Phosphate(Organic phosphate)
+- Methyl(Methylated compound)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMDkwNjU3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbOTQ3NzYzMzcsLTIwODg3NDY2MTJdfQ==
 -->
