@@ -2,7 +2,7 @@
 	 - way to excrete ecsess amino acids
 	 - Aritificailly used as a nitrogen fertilizer
 #### Functional Groups:
-- Hydroxyl
+- Hydroxyl (-OH)
 - Carbonyl
 - Carboxyl
 - Amino
@@ -10,6 +10,6 @@
 - Phosphate
 - Methyl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYxMTUxNjUsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTE1NTIxMDcyNDAsLTIwODg3NDY2MTJdfQ
 ==
 -->
