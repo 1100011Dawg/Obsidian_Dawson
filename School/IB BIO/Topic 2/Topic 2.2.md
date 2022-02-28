@@ -5,7 +5,8 @@
  - Glucose is polar and is carried in disssolved blood plasma
  - Oxygen, transported by hemaglobin, to easyly saturates it.
 #### Polarity of water
- - leads to hydrogen 
+ - leads to hydrogen bonding
+ - Oxygen is -, Hydrogen is +
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjE0MDYxMCw0NjkwMjMyMDFdfQ==
+eyJoaXN0b3J5IjpbMTQ3Nzk5MzA0Niw0NjkwMjMyMDFdfQ==
 -->
