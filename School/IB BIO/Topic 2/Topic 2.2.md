@@ -8,7 +8,9 @@
 #### Polarity of water
  - leads to hydrogen bonding
  - Oxygen is -, Hydrogen is +
+ - Cohesion with water molecules stiking to each other
+	 - Surface tension, caused by cohesiv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjQ0MTM2NSwxNDc3OTkzMDQ2LDQ2OT
-AyMzIwMV19
+eyJoaXN0b3J5IjpbNTA1MjQyNjc4LDE0Nzc5OTMwNDYsNDY5MD
+IzMjAxXX0=
 -->
