@@ -62,8 +62,10 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 	- Can get sued 
 	- Best used when you hae the govener in your paycheck
 
-
-
+#### Packaging:
+ - provide physical protection,
+ - offers convenience
+ - provides information
 
 
 
@@ -74,3 +76,6 @@ eyJoaXN0b3J5IjpbLTE3MDk2NzIwNTAsLTY3OTUzMzM1NV19
 
 **
 	 - 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MTQ3OTI4ODddfQ==
+-->
