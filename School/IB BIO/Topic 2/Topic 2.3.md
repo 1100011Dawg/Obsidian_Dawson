@@ -7,8 +7,8 @@
 	 - HO and O are fliped from glucose
  - Fructose: Pensote sugar
  - Ribose: pentose sugar, forms backbone RNA
-	 - Deoxyrib
+	 - Deoxyribose differs and forms the backbone of DNA(has one liess oxygen thant ribose)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTI5NTc5N119
+eyJoaXN0b3J5IjpbLTc1OTIyNjQyMV19
 -->
