@@ -9,8 +9,10 @@
  - Ribose: pentose sugar, forms backbone RNA
 	 - Deoxyribose differs and forms the backbone of DNA(has one liess oxygen thant ribose)
 #### polysaccharides
- - 2Glucose --> maltose
+ - 2Glucose --> maltose, dimer of glucose
+ - Glucose + Galactose--> Lactose
+ - glucose + Fructosee --> Sucrose
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjAyNjcxOF19
+eyJoaXN0b3J5IjpbNzczNDc5Njk4XX0=
 -->
