@@ -13,7 +13,7 @@
  - Adhesion, the polarity of water allows water to stick to other substances
 	 - Capillar action is caused by the combination of adhesiona dn cohesion
 	 - The universal solvent
-		 - Polar attraction allows ater to form spher
+		 - Polar attraction allows ater to form sphers around solutes
 #### Transpiration of water
  - water is continually evaporating from the leave cells exposed to air
  - This provides evaportive cooling and nutrient uptake(water has high energy to evaporate)
@@ -24,7 +24,7 @@
 3.Water moves from the xylem into the mesophyll cells, evaporates from their surfaces and leaves the plant by diffusion through the stomata`
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjYxMjk4OSwtMjA5Njc5NjQ1Miw1NT
-Y3NjEyMzksLTQ4NjE4OTE4NSwtMzE5MTMzODg5LDE0Nzc5OTMw
-NDYsNDY5MDIzMjAxXX0=
+eyJoaXN0b3J5IjpbLTIwNTIzOTI2OTIsLTIwOTY3OTY0NTIsNT
+U2NzYxMjM5LC00ODYxODkxODUsLTMxOTEzMzg4OSwxNDc3OTkz
+MDQ2LDQ2OTAyMzIwMV19
 -->
