@@ -18,7 +18,10 @@
  - This provides evaportive cooling and nutrient uptake(water has high energy to evaporate)
  - When tranpirating the stomata is open allowing CO2 to come in. 
  - The cohesive properties of water allowing water to come up to be eaportated
+ - Steps `1.Water is passively transported into the roots and then into the xylem.
+2.The forces of cohesion and adhesion cause the water molecules to form a column in the xylem.
+3.Water moves from the xylem into the mesophyll cells, evaporates from their surfaces and leaves the plant by diffusion through the stomata`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTQ0ODQ2MywtNDg2MTg5MTg1LC0zMT
-kxMzM4ODksMTQ3Nzk5MzA0Niw0NjkwMjMyMDFdfQ==
+eyJoaXN0b3J5IjpbNTU2NzYxMjM5LC00ODYxODkxODUsLTMxOT
+EzMzg4OSwxNDc3OTkzMDQ2LDQ2OTAyMzIwMV19
 -->
