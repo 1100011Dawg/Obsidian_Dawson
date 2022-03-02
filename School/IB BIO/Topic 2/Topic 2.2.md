@@ -12,7 +12,10 @@
 	 - Surface tension, caused by cohesive hydrogen bonding
  - Adhesion, the polarity of water allows water to stick to other substances
 	 - Capillar action is caused by the combination of adhesiona dn cohesion
+	
+#### Transpiration of water
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTEzMzg4OSwxNDc3OTkzMDQ2LDQ2OT
-AyMzIwMV19
+eyJoaXN0b3J5IjpbLTEyNzg5MzM2NCwtMzE5MTMzODg5LDE0Nz
+c5OTMwNDYsNDY5MDIzMjAxXX0=
 -->
