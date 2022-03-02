@@ -14,8 +14,9 @@
 	 - Capillar action is caused by the combination of adhesiona dn cohesion
 	
 #### Transpiration of water
- - 
+ - water is continually evaporating from the leave cells exposed to air
+ - This provides evaportive cooling and nutrient uptake
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg5MzM2NCwtMzE5MTMzODg5LDE0Nz
-c5OTMwNDYsNDY5MDIzMjAxXX0=
+eyJoaXN0b3J5IjpbLTE1ODAxMzQyNDAsLTMxOTEzMzg4OSwxND
+c3OTkzMDQ2LDQ2OTAyMzIwMV19
 -->
