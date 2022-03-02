@@ -1,6 +1,9 @@
 > Bonds between moledcurles are energy
 #### Monosacharides:
- - Gluces $C_)H_12O_6$
+ - Are monomeers linked together by condesnsation reactions to form disaccharides and polysaccharises
+ - Glucose $C_6H_{12}O_6$
+	 - 5 of the carbons form cornes on the rind, with the 6 taken by oxygen
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU0MjAwNDBdfQ==
+eyJoaXN0b3J5IjpbODYxNDgyODddfQ==
 -->
