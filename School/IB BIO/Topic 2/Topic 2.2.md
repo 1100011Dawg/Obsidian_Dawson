@@ -17,8 +17,8 @@
  - water is continually evaporating from the leave cells exposed to air
  - This provides evaportive cooling and nutrient uptake
  - When tranpirating the stomata is open allowing CO2 to come in. 
- - The cohesive properties of water allowing 
+ - The cohesive properties of water allowing water to come up to be eaportated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU3NjQ3NTksLTMxOTEzMzg4OSwxND
-c3OTkzMDQ2LDQ2OTAyMzIwMV19
+eyJoaXN0b3J5IjpbLTQ4NjE4OTE4NSwtMzE5MTMzODg5LDE0Nz
+c5OTMwNDYsNDY5MDIzMjAxXX0=
 -->
