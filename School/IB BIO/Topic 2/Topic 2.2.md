@@ -15,7 +15,7 @@
  - The universal solvent
 	 - Polar attraction allows ater to form sphers around solutes
  - Hydrophobic: insolluble in water
- - Solvent for urea, oxygen, has surface tnetion, ice floats, stable te
+ - Solvent for urea, oxygen, has surface tnetion, ice floats, stable temperature, density 
 #### Transpiration of water
  - water is continually evaporating from the leave cells exposed to air
  - This provides evaportive cooling and nutrient uptake(water has high energy to evaporate)
@@ -26,7 +26,7 @@
 3.Water moves from the xylem into the mesophyll cells, evaporates from their surfaces and leaves the plant by diffusion through the stomata`
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Njg5MjcxMSwtMjA1MjM5MjY5MiwtMj
+eyJoaXN0b3J5IjpbMTY1MjU4Njk4NiwtMjA1MjM5MjY5MiwtMj
 A5Njc5NjQ1Miw1NTY3NjEyMzksLTQ4NjE4OTE4NSwtMzE5MTMz
 ODg5LDE0Nzc5OTMwNDYsNDY5MDIzMjAxXX0=
 -->
