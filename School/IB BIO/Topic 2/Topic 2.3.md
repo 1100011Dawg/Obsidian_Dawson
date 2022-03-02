@@ -16,7 +16,9 @@
  - Celluose: long chains of Glucose, very high tensile strach
  - Starch: linking togerterh a-glucose molecules, sci name Amylose/Amylopectin
 	 - Curved molcues
+ - Glycogen: made from repeading glucose subunites
+	 - Branches many times
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjY5NzcxM119
+eyJoaXN0b3J5IjpbMTk1NjIyOTAwNl19
 -->
