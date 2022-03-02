@@ -12,9 +12,10 @@
 	 - Surface tension, caused by cohesive hydrogen bonding
  - Adhesion, the polarity of water allows water to stick to other substances
 	 - Capillar action is caused by the combination of adhesiona dn cohesion
-	 - The universal solvent
-		 - Polar attraction allows ater to form sphers around solutes
-	 - Hydrophobic: insolluble in water
+ - The universal solvent
+	 - Polar attraction allows ater to form sphers around solutes
+ - Hydrophobic: insolluble in water
+ - Solvent for urea, oxygen, has surface tnetion, ice floats, stable te
 #### Transpiration of water
  - water is continually evaporating from the leave cells exposed to air
  - This provides evaportive cooling and nutrient uptake(water has high energy to evaporate)
@@ -25,7 +26,7 @@
 3.Water moves from the xylem into the mesophyll cells, evaporates from their surfaces and leaves the plant by diffusion through the stomata`
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjQyMDkxNSwtMjA1MjM5MjY5MiwtMj
+eyJoaXN0b3J5IjpbMTU0Njg5MjcxMSwtMjA1MjM5MjY5MiwtMj
 A5Njc5NjQ1Miw1NTY3NjEyMzksLTQ4NjE4OTE4NSwtMzE5MTMz
 ODg5LDE0Nzc5OTMwNDYsNDY5MDIzMjAxXX0=
 -->
