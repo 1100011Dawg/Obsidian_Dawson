@@ -14,7 +14,9 @@
 	 - Glucose + Galactose--> Lactose
 	 - glucose + Fructosee --> Sucrose
  - Celluose: long chains of Glucose, very high tensile strach
+ - Starch: linking togerterh a-glucose molecules, sci name Amylose, 
+	 - Curved molcues
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjA5MDgxMF19
+eyJoaXN0b3J5IjpbMTQ4NjU5MDk5OV19
 -->
