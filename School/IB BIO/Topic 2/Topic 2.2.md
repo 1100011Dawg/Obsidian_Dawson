@@ -15,10 +15,10 @@
 	
 #### Transpiration of water
  - water is continually evaporating from the leave cells exposed to air
- - This provides evaportive cooling and nutrient uptake
+ - This provides evaportive cooling and nutrient uptake(water has high energy to evaporate)
  - When tranpirating the stomata is open allowing CO2 to come in. 
  - The cohesive properties of water allowing water to come up to be eaportated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjE4OTE4NSwtMzE5MTMzODg5LDE0Nz
-c5OTMwNDYsNDY5MDIzMjAxXX0=
+eyJoaXN0b3J5IjpbLTk2NTQ0ODQ2MywtNDg2MTg5MTg1LC0zMT
+kxMzM4ODksMTQ3Nzk5MzA0Niw0NjkwMjMyMDFdfQ==
 -->
