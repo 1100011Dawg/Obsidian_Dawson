@@ -29,8 +29,12 @@
 		  - Protection(around key orgains)
 		  - Storage of eenryg
 	  - 9Cal/g compared to carhohydrates 4Cal/g
-  - 
+	  - Only burned by aerobic resperation
+	#### Storage of water
+	 - Respiration is instance from glucose
+	 - Glycogen is medium-term energy storage in molecures
+	 - Fat is long term storage
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNjgwMzZdfQ==
+eyJoaXN0b3J5IjpbNzY5NTU4Mjc0XX0=
 -->
