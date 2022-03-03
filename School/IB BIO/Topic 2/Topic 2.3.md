@@ -18,7 +18,8 @@
 	 - Curved molcues
  - Glycogen: made from repeading glucose subunites
 	 - Branches many times
+ - Chitin
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjIyOTAwNl19
+eyJoaXN0b3J5IjpbLTE5NTIyNDI5MDBdfQ==
 -->
