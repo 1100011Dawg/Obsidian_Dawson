@@ -23,8 +23,13 @@
  - Lipids are glycerol combined with 1,2,3 fatty acids
 	  - Tryclycerieds are formed by the condestation of three fatty acids and one glycerol
 	  - Functions:
-		  - sturcture for cell me
+		  - sturcture for cell membrane
+		  - hormaonal signaling(steroids)
+		  - Insulation
+		  - Protection(around key orgains)
+		  - Storage of eenryg
+	  - 9Cal/g compared to carhohydrates 4Cal/g
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNjc0NjI3XX0=
+eyJoaXN0b3J5IjpbMTQzMjIwNDkzN119
 -->
