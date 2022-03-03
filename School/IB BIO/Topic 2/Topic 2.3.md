@@ -20,8 +20,9 @@
 	 - Branches many times
  - Chitin
 ## Fats:
-
+ - Lipids are glyc
+  - Tryclycerieds are formed by the condestation of three fatty acids and one glycerol
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTA4OTEyOF19
+eyJoaXN0b3J5IjpbMTUzMzMzMzMzOV19
 -->
