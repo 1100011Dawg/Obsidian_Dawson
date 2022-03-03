@@ -19,8 +19,9 @@
  - Glycogen: made from repeading glucose subunites
 	 - Branches many times
  - Chitin
+## Fats:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYxMDAxMzRdfQ==
+eyJoaXN0b3J5IjpbMTU5NTA4OTEyOF19
 -->
