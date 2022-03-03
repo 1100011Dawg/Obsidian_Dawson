@@ -34,7 +34,8 @@
 	 - Respiration is instance from glucose
 	 - Glycogen is medium-term energy storage in molecures
 	 - Fat is long term storage
+	 - Unsaturated(kink in chain due to double bond) liquide, saturated(satured with carbon/hydrobonds) solid
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5NTU4Mjc0XX0=
+eyJoaXN0b3J5IjpbLTE0MjE4NzE4NTAsNzY5NTU4Mjc0XX0=
 -->
