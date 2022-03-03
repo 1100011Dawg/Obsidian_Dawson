@@ -19,7 +19,7 @@
  - Glycogen: made from repeading glucose subunites
 	 - Branches many times
  - Chitin
-## Fats:
+#### Fats:
  - Lipids are glycerol combined with 1,2,3 fatty acids
 	  - Tryclycerieds are formed by the condestation of three fatty acids and one glycerol
 	  - Functions:
@@ -29,7 +29,8 @@
 		  - Protection(around key orgains)
 		  - Storage of eenryg
 	  - 9Cal/g compared to carhohydrates 4Cal/g
+  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjIwNDkzN119
+eyJoaXN0b3J5IjpbODYzNjgwMzZdfQ==
 -->
