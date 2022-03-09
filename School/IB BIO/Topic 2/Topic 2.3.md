@@ -30,15 +30,17 @@
 		  - Storage of eenryg
 	  - 9Cal/g compared to carhohydrates 4Cal/g
 	  - Only burned by aerobic resperation
-	#### Storage of water
+	#### Storage of energy
 	 - Respiration is instance from glucose
 	 - Glycogen is medium-term energy storage in molecures
 	 - Fat is long term storage
 	 - Unsaturated(kink in chain due to double bond) liquide, saturated(satured with carbon/hydrobonds) solid
+ - **Types of Fats**
+	 - 
 
 > $BMI =\frac{kg}{meters²}$
 >![BMI categories](https://ib.bioninja.com.au/_Media/bmi-categories_med.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExMjEwNTQ5LC0xODY3OTIyMjY5LC0xND
-IxODcxODUwLDc2OTU1ODI3NF19
+eyJoaXN0b3J5IjpbLTE1OTE2NTI4NDQsOTExMjEwNTQ5LC0xOD
+Y3OTIyMjY5LC0xNDIxODcxODUwLDc2OTU1ODI3NF19
 -->
