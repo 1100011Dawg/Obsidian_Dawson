@@ -36,8 +36,8 @@
 	 - Fat is long term storage
 	 - Unsaturated(kink in chain due to double bond) liquide, saturated(satured with carbon/hydrobonds) solid
 
-> $BMI =\frac
+> $BMI =\frac{kg}{meters²}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjkwNjIzNywtMTQyMTg3MTg1MCw3Nj
-k1NTgyNzRdfQ==
+eyJoaXN0b3J5IjpbLTE4Njc5MjIyNjksLTE0MjE4NzE4NTAsNz
+Y5NTU4Mjc0XX0=
 -->
