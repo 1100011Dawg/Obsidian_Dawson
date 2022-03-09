@@ -37,11 +37,12 @@
 	 - Fat is long term storage
 	 - Unsaturated(kink in chain due to double bond) liquide, saturated(satured with carbon/hydrobonds) solid
  - **Types of Fats**
-	 - Unsatruated Oils, only sing
+	 - Unsatruated: has a double bond greating a kink in the chain
+	 - Satruated: no double nods in the carbon gain
 
 > $BMI =\frac{kg}{meters²}$
 >![BMI categories](https://ib.bioninja.com.au/_Media/bmi-categories_med.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE5MzQyODksOTExMjEwNTQ5LC0xOD
-Y3OTIyMjY5LC0xNDIxODcxODUwLDc2OTU1ODI3NF19
+eyJoaXN0b3J5IjpbLTczNDI0OTA0Niw5MTEyMTA1NDksLTE4Nj
+c5MjIyNjksLTE0MjE4NzE4NTAsNzY5NTU4Mjc0XX0=
 -->
