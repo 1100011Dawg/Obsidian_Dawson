@@ -37,7 +37,8 @@
 	 - Unsaturated(kink in chain due to double bond) liquide, saturated(satured with carbon/hydrobonds) solid
 
 > $BMI =\frac{kg}{meters²}$
+>![BMI categories](https://ib.bioninja.com.au/_Media/bmi-categories_med.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc5MjIyNjksLTE0MjE4NzE4NTAsNz
-Y5NTU4Mjc0XX0=
+eyJoaXN0b3J5IjpbOTExMjEwNTQ5LC0xODY3OTIyMjY5LC0xND
+IxODcxODUwLDc2OTU1ODI3NF19
 -->
