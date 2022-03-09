@@ -21,6 +21,7 @@
  - Chitin
 #### Fats:
  - Lipids are glycerol combined with 1,2,3 fatty acids
+ - Structure has chain/ring of carbona nd hydrogen with a corboxyl group
 	  - Tryclycerieds are formed by the condestation of three fatty acids and one glycerol
 	  - Functions:
 		  - sturcture for cell membrane
@@ -36,11 +37,11 @@
 	 - Fat is long term storage
 	 - Unsaturated(kink in chain due to double bond) liquide, saturated(satured with carbon/hydrobonds) solid
  - **Types of Fats**
-	 - 
+	 - Unsatruated Oils, only sing
 
 > $BMI =\frac{kg}{meters²}$
 >![BMI categories](https://ib.bioninja.com.au/_Media/bmi-categories_med.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE2NTI4NDQsOTExMjEwNTQ5LC0xOD
+eyJoaXN0b3J5IjpbLTE3OTE5MzQyODksOTExMjEwNTQ5LC0xOD
 Y3OTIyMjY5LC0xNDIxODcxODUwLDc2OTU1ODI3NF19
 -->
