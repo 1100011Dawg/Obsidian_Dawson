@@ -40,7 +40,8 @@
 	 - Unsatruated: has a double bond greating a kink in the chain
 		 - poly unsaturated fats have many kinks, monounsaturated on
 		 - Isomers
-		 - 
+			 - Cis look like soup
+			 - Trans is artificail no bend lightning bolt
 	 - Satruated: no double nods in the carbon gain
 		 - large amounts increase risk of heart diaseas, mainly animal orgin
 
@@ -48,7 +49,7 @@
 > $BMI =\frac{kg}{meters²}$
 >![BMI categories](https://ib.bioninja.com.au/_Media/bmi-categories_med.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTg5MzU0OCwtNzM0MjQ5MDQ2LDkxMT
+eyJoaXN0b3J5IjpbMTIyNDg4MzIxMiwtNzM0MjQ5MDQ2LDkxMT
 IxMDU0OSwtMTg2NzkyMjI2OSwtMTQyMTg3MTg1MCw3Njk1NTgy
 NzRdfQ==
 -->
