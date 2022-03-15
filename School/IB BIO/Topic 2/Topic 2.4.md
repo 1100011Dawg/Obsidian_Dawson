@@ -4,9 +4,11 @@ Portiens
 
 #### Protein
  - Peptide bonds are anabolism(dehydration syntehsis?) to combind them together
+ - are one or more polupeptides
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDA0MTExNSwxNDIzOTQxMDQ5XX0=
+eyJoaXN0b3J5IjpbNTQ1MTA0NTIyLDE5NTAwNDExMTUsMTQyMz
+k0MTA0OV19
 -->
