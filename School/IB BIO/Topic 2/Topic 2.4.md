@@ -24,8 +24,10 @@ Portiens
 #### Protein structure:
  - The order of amino acids of the protein, then contraol all subsequent levels of structure
  - Secondary structure: is held by hydrogen bonds between anime and carboxylic groups, how they fold or turn upon them selves(a-helix, b-plreated sheet)
+ - tertiary structure: Disulfide bridge causes a protein to fold upon itself
+ - Quaternary: interaction between mutiple polypeptides, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjEzNDk1MCwtMjA4MTk3MTU3MiwtMT
+eyJoaXN0b3J5IjpbMTU0MDU3NzcxNCwtMjA4MTk3MTU3MiwtMT
 E3NDA4ODUxNyw1NDUxMDQ1MjIsMTk1MDA0MTExNSwxNDIzOTQx
 MDQ5XX0=
 -->
