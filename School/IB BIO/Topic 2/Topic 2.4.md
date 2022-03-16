@@ -23,8 +23,9 @@ Portiens
 
 #### Protein structure:
  - The order of amino acids of the protein, then contraol all subsequent levels of structure
+ - Secondary structure: is held by hydrogen bonds between anime and carboxylic groups, how they fold or turn upon them selves(a-helix, b-plreated sheet)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAwMjcwMiwtMjA4MTk3MTU3MiwtMT
+eyJoaXN0b3J5IjpbMjEyMjEzNDk1MCwtMjA4MTk3MTU3MiwtMT
 E3NDA4ODUxNyw1NDUxMDQ1MjIsMTk1MDA0MTExNSwxNDIzOTQx
 MDQ5XX0=
 -->
