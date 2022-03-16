@@ -11,9 +11,11 @@ Portiens
  - **Named Proteins**
 	 - Rubisco: catalyzes the ractions that fixes carbon diaoxiede from the atmosphere
 	 - Insulin:hormone signals liver to asar glucose and lower blood sugar
+	 - Immunoglobulins: antibodies
+	 - Rhodopsin: Pigment that absorbs light
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MDU3NDQxLC0xMTc0MDg4NTE3LDU0NT
-EwNDUyMiwxOTUwMDQxMTE1LDE0MjM5NDEwNDldfQ==
+eyJoaXN0b3J5IjpbLTIzNDg2OTkwNCwtMTE3NDA4ODUxNyw1ND
+UxMDQ1MjIsMTk1MDA0MTExNSwxNDIzOTQxMDQ5XX0=
 -->
