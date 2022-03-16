@@ -16,8 +16,13 @@ Portiens
 	 - Collagen:1/4 all protein in human body, part of teeth and bones
 	 - Spider Silk:very strong
 
+#### Genome/Proteome:
+ - Genome: all geners of cell
+ - Proteome: all proteins prudced by a cell, tissue/orgran
+ - Proteme are larger than genome
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMDU5NDgwLC0xMTc0MDg4NTE3LDU0NT
-EwNDUyMiwxOTUwMDQxMTE1LDE0MjM5NDEwNDldfQ==
+eyJoaXN0b3J5IjpbLTIwODE5NzE1NzIsLTExNzQwODg1MTcsNT
+Q1MTA0NTIyLDE5NTAwNDExMTUsMTQyMzk0MTA0OV19
 -->
