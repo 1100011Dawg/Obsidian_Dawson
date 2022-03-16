@@ -10,9 +10,10 @@ Portiens
  - Nenature, when heat/ph is not optimum.
  - **Named Proteins**
 	 - Rubisco: catalyzes the ractions that fixes carbon diaoxiede from the atmosphere
+	 - Insulin:hormone signals liver to asar glucose and lower blood sugar
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1NjgxNjkxLC0xMTc0MDg4NTE3LDU0NT
+eyJoaXN0b3J5IjpbNzE5MDU3NDQxLC0xMTc0MDg4NTE3LDU0NT
 EwNDUyMiwxOTUwMDQxMTE1LDE0MjM5NDEwNDldfQ==
 -->
