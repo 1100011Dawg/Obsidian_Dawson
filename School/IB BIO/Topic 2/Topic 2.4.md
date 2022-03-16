@@ -13,9 +13,11 @@ Portiens
 	 - Insulin:hormone signals liver to asar glucose and lower blood sugar
 	 - Immunoglobulins: antibodies
 	 - Rhodopsin: Pigment that absorbs light
+	 - Collagen:1/4 all protein in human body, part of teeth and bones
+	 - Spider Silk:very strong
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDg2OTkwNCwtMTE3NDA4ODUxNyw1ND
-UxMDQ1MjIsMTk1MDA0MTExNSwxNDIzOTQxMDQ5XX0=
+eyJoaXN0b3J5IjpbODgzMDU5NDgwLC0xMTc0MDg4NTE3LDU0NT
+EwNDUyMiwxOTUwMDQxMTE1LDE0MjM5NDEwNDldfQ==
 -->
