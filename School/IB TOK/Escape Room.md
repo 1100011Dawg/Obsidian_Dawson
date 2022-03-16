@@ -4,14 +4,14 @@ Remy thing:
  - ANS:4 Remy force feed 5 people taco bell and the other 5 ratatouille, what is the P value that taco bell causes diarea,
 |Taco Bell Group | Rattau group |
 |--|--|
-| .39$m^3$ of diarea | $m^3$ of diarea |
-| $m^3$ of diarea | $m^3$ of diarea |
-| $m^3$ of diarea | $m^3$ of diarea |
-| $m^3$ of diarea | $m^3$ of diarea |
-| $m^3$ of diarea | $m^3$ of diarea |
+| .39$m^3$ of diarea | 0$m^3$ of diarea |
+| .47$m^3$ of diarea | .1$m^3$ of diarea |
+| .23$m^3$ of diarea | .05$m^3$ of diarea |
+| .12$m^3$ of diarea | .06$m^3$ of diarea |
+| .23$m^3$ of diarea | .21$m^3$ of diarea |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUxMDk4OTAsLTcyODM1MjcxNiwtMT
+eyJoaXN0b3J5IjpbLTEyOTg1MjI1MzcsLTcyODM1MjcxNiwtMT
 gzMDg5ODk5Myw5MjIyMjc5MzMsNjY2OTg1ODk0LC04MzMzMTA2
 NiwtMTI3MTEyOTY2MywtMTkyODcwMzc3M119
 -->
