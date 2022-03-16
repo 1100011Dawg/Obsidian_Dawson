@@ -21,8 +21,10 @@ Portiens
  - Proteome: all proteins prudced by a cell, tissue/orgran
  - Proteme are larger than genome
 
-> Written with [StackEdit](https://stackedit.io/).
+#### Protein structure:
+ - The order of amino acids of the protein, then contraol all subsequent levels of structure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE5NzE1NzIsLTExNzQwODg1MTcsNT
-Q1MTA0NTIyLDE5NTAwNDExMTUsMTQyMzk0MTA0OV19
+eyJoaXN0b3J5IjpbLTEzNDAwMjcwMiwtMjA4MTk3MTU3MiwtMT
+E3NDA4ODUxNyw1NDUxMDQ1MjIsMTk1MDA0MTExNSwxNDIzOTQx
+MDQ5XX0=
 -->
