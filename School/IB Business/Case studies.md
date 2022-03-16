@@ -5,7 +5,7 @@ Case study 1.99 B
  - Dis1:Though the customers might sour seeing that the 4.99 store is favoured with only a price increase to itś name
  - Dis2:It will also increase his dependnce of physcological price fixing, and he might be critisized for children having to by at this new price
  - Ev: The expantion into te 4.99 market allows James more opprotutunies to diversify his brand image, at the cost of an additional problem of the price hike that customers complain about. Due to him targeting low-income families this price hike might out weight the benefiets
- - Rec: that 
+ - Rec: that James doen invest into the 4.99 shop due to the problems it solves not fixing the problems of the other story, and the additional problem of the percieved pricehike for nothing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjY0NTgyN119
+eyJoaXN0b3J5IjpbNTgzNzQyMjU1XX0=
 -->
