@@ -9,13 +9,13 @@ Remy thing:
 | .23$m^3$ of diarea | .05$m^3$ of diarea |
 | .12$m^3$ of diarea | .06$m^3$ of diarea |
 | .23$m^3$ of diarea | .21$m^3$ of diarea |
- - Ans=9 first d
+ - Ans=9 first digt
 $\frac{d}{dx}tan(x) \bigg\rvert_{x=\pi/4}$
- - What is the angle of an equiladeral tringale on the globe. given that $180°(1 + 4f)$ 
+ - What is the angle of an equiladeral tringale on the globe. given that it ocupies $\frac{1}{8}$ of the sphere´s area. Help:$180°(1 + 4f)=SumOfTrinagleArea$ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAyNDIyNzgsLTExMDk4NzcyNTMsLT
+eyJoaXN0b3J5IjpbLTEwODAxNTUyNTQsLTExMDk4NzcyNTMsLT
 E2MDY5MzgzNjEsLTI1MjY4NzE3NiwtNDc2NTM2NDI1LC03Mjgz
 NTI3MTYsLTE4MzA4OTg5OTMsOTIyMjI3OTMzLDY2Njk4NTg5NC
 wtODMzMzEwNjYsLTEyNzExMjk2NjMsLTE5Mjg3MDM3NzNdfQ==
