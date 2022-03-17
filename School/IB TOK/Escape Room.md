@@ -9,13 +9,14 @@ Remy thing:
 | .23$m^3$ of diarea | .05$m^3$ of diarea |
 | .12$m^3$ of diarea | .06$m^3$ of diarea |
 | .23$m^3$ of diarea | .21$m^3$ of diarea |
- - 
+ - Ans=2
 $\frac{d}{dx}tan(x) \bigg\rvert_{x=\pi/4}$
+ - What is the angle of an equiladeral tringale on the globe.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjA5NDA1NywtMTYwNjkzODM2MSwtMj
-UyNjg3MTc2LC00NzY1MzY0MjUsLTcyODM1MjcxNiwtMTgzMDg5
-ODk5Myw5MjIyMjc5MzMsNjY2OTg1ODk0LC04MzMzMTA2NiwtMT
-I3MTEyOTY2MywtMTkyODcwMzc3M119
+eyJoaXN0b3J5IjpbLTExMDk4NzcyNTMsLTE2MDY5MzgzNjEsLT
+I1MjY4NzE3NiwtNDc2NTM2NDI1LC03MjgzNTI3MTYsLTE4MzA4
+OTg5OTMsOTIyMjI3OTMzLDY2Njk4NTg5NCwtODMzMzEwNjYsLT
+EyNzExMjk2NjMsLTE5Mjg3MDM3NzNdfQ==
 -->
