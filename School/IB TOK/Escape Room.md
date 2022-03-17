@@ -9,15 +9,15 @@ Remy thing:
 | .23$m^3$ of diarea | .05$m^3$ of diarea |
 | .12$m^3$ of diarea | .06$m^3$ of diarea |
 | .23$m^3$ of diarea | .21$m^3$ of diarea |
- - Ans=9 first digt
+ - Ans=2 
 $\frac{d}{dx}tan(x) \bigg\rvert_{x=\pi/4}$
- - What is the angle of an equiladeral tringale on the globe. given that it ocupies $\frac{1}{8}$ of the sphere´s area. Help:$180°(1 + 4f)=SumOfTrinagleArea$ 
+ - 9 first digitWhat is the angle of an equiladeral tringale on the globe. given that it ocupies $\frac{1}{8}$ of the sphere´s area. Help:$180°(1 + 4f)=SumOfTrinagleArea$ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUwNDgyOTUsLTExMDk4NzcyNTMsLT
-E2MDY5MzgzNjEsLTI1MjY4NzE3NiwtNDc2NTM2NDI1LC03Mjgz
-NTI3MTYsLTE4MzA4OTg5OTMsOTIyMjI3OTMzLDY2Njk4NTg5NC
-wtODMzMzEwNjYsLTEyNzExMjk2NjMsLTE5Mjg3MDM3NzNdfQ==
-
+eyJoaXN0b3J5IjpbLTYxNDk1NDMyOCwtMTA2NTA0ODI5NSwtMT
+EwOTg3NzI1MywtMTYwNjkzODM2MSwtMjUyNjg3MTc2LC00NzY1
+MzY0MjUsLTcyODM1MjcxNiwtMTgzMDg5ODk5Myw5MjIyMjc5Mz
+MsNjY2OTg1ODk0LC04MzMzMTA2NiwtMTI3MTEyOTY2MywtMTky
+ODcwMzc3M119
 -->
