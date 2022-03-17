@@ -10,11 +10,11 @@ Remy thing:
 | .12$m^3$ of diarea | .06$m^3$ of diarea |
 | .23$m^3$ of diarea | .21$m^3$ of diarea |
  - 
-$\frac{}{} \bigg\rvert_{\hat S = \epsilon^{1/n} \frac{s}{\omega_P}}$
+$\frac{d}{dx}tan(x) \bigg\rvert_{x=\pi/4}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzMxMjc0OCwtMTYwNjkzODM2MSwtMj
+eyJoaXN0b3J5IjpbMTIzNjA5NDA1NywtMTYwNjkzODM2MSwtMj
 UyNjg3MTc2LC00NzY1MzY0MjUsLTcyODM1MjcxNiwtMTgzMDg5
 ODk5Myw5MjIyMjc5MzMsNjY2OTg1ODk0LC04MzMzMTA2NiwtMT
 I3MTEyOTY2MywtMTkyODcwMzc3M119
