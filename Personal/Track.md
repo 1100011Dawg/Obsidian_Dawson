@@ -4,7 +4,9 @@
 3-18-22
  - discus 102,9
  - shotput 33,4/3
+ 3-25-22
+  - discus 100,6
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzcxMjQ4NSwtMTY5NzgyOTQ4MV19
+eyJoaXN0b3J5IjpbLTYzOTY5MTQ3MiwtMTY5NzgyOTQ4MV19
 -->
