@@ -6,9 +6,11 @@
  - **Rhodopsin** is a light sensitive protein that is extremely sensitive to light and easily photo bleaches. It is regenerated in around 30 minutes in humans.
 
 #### Enzymes:
- - Lactase(breacks down lactores), 
- - Enzymes function by taki
+ - Lactase(breacks down lactores), Lipases(group breacks down lipids), Maltase(maltose to glucose), Trypsin(protein ammino acids)
+ - Enzymes function by taking substrates to the actibe site and breacking them down into products.
+ - PH, Temputrue, adn substrate concetration all effected 
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc2OTgwNjQsMTg5NjQ1MDg2MCwxMz
-MzMjM2MTYxXX0=
+eyJoaXN0b3J5IjpbMTc4NzQwNjY2OSwxODk2NDUwODYwLDEzMz
+MyMzYxNjFdfQ==
 -->
