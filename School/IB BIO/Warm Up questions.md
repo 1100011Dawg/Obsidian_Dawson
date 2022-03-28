@@ -4,6 +4,11 @@
 #### 3-15-22
  - **Catalase** is a proteint that converts $H_2O_2$(hydrogen peroxide) into water and Oxygen, preventin the cell grom damaging.
  - **Rhodopsin** is a light sensitive protein that is extremely sensitive to light and easily photo bleaches. It is regenerated in around 30 minutes in humans.
+
+#### Enzymes:
+ - Lactase(breacks down lactores), 
+ - Enzymes function by taki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjQ1MDg2MCwxMzMzMjM2MTYxXX0=
+eyJoaXN0b3J5IjpbLTE5Njc2OTgwNjQsMTg5NjQ1MDg2MCwxMz
+MzMjM2MTYxXX0=
 -->
