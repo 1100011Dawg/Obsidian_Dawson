@@ -8,9 +8,10 @@
 #### Enzymes:
  - Lactase(breacks down lactores), Lipases(group breacks down lipids), Maltase(maltose to glucose), Trypsin(protein ammino acids)
  - Enzymes function by taking substrates to the actibe site and breacking them down into products.
- - PH, Temputrue, adn substrate concetration all effected 
+ - PH, Temputrue, adn substrate concetration all effected enzymatic activity, with the first two working by having a spefific zone that best suites the enzuem, the latter seems to go up log?
+ - t
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzQwNjY2OSwxODk2NDUwODYwLDEzMz
+eyJoaXN0b3J5IjpbMTYyNTI4MzI5OSwxODk2NDUwODYwLDEzMz
 MyMzYxNjFdfQ==
 -->
