@@ -1,4 +1,4 @@
-
+$Assests=Liability+OwnerEquity$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTMwMzc0MDQ2OSwtMjA4ODc0NjYxMl19
 -->
