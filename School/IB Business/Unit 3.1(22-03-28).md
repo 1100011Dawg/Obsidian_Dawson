@@ -4,7 +4,7 @@
 
 | Define | Advantage | Disavantage | Short/Medium/ Long Term fianance |
 |--|--|--|--|
-| Internal: Personal Funds:Mon |  |  |  |
+| Internal: Personal Funds:Money obtained from inside the buisness/ thier profits/assets |  |  |  |
 | Internal: Retained Profits |  |  |  |
 | Internal: Sale of Assets |  |  |  |
 | External: Share Capital |  |  |  |
@@ -22,6 +22,6 @@
 1.  Purpose -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTYwODU4NiwxODIzMDkyMDE2LC0zMD
+eyJoaXN0b3J5IjpbLTMxODM1NjI5MSwxODIzMDkyMDE2LC0zMD
 M3NDA0NjksLTIwODg3NDY2MTJdfQ==
 -->
