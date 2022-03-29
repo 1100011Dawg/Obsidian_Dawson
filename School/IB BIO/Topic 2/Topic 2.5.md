@@ -8,9 +8,11 @@
 
 
 #### Human digestive enzymes:
- -
+ - Amylases breack down carbohydrates
+ - Proteases breack down polypeptide
+ - Lipases brack down fats and lipids
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjE2NDc5NV19
+eyJoaXN0b3J5IjpbODQzMzUzNTkyXX0=
 -->
