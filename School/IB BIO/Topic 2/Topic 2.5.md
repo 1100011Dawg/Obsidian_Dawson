@@ -21,7 +21,7 @@
 - Enzyme: globular proteins which acts as a catalist
 - Active site: region on the surface which subrates bind and catalist react
 - Enzyme changes state during reaction
-- Tempeture, pH and subrate effect rate fo enzyme activity
+- Tempeture, pH and subrate effect rate fo enzyme activity, Ph and temp can cuse denaturation
 
 #### Enzyme Types:
  - inhibitors fits on the active site if competitive
@@ -31,6 +31,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIxMjQ1NjcsLTIwMjA4NzcxNDcsLT
+eyJoaXN0b3J5IjpbLTE3NTEwMDM3MTYsLTIwMjA4NzcxNDcsLT
 Y0NTgwMTI2OCw4NDMzNTM1OTJdfQ==
 -->
