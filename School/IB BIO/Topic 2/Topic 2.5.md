@@ -23,8 +23,13 @@
 - Enzyme changes state during reaction
 - Tempeture, pH and subrate effect rate fo enzyme activity
 
+#### Enzyme Types:
+ - inhibitors fits on the active site if competitive
+ - inhibi
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA4NzcxNDcsLTY0NTgwMTI2OCw4ND
-MzNTM1OTJdfQ==
+eyJoaXN0b3J5IjpbLTU0MDI5ODk0NSwtMjAyMDg3NzE0NywtNj
+Q1ODAxMjY4LDg0MzM1MzU5Ml19
 -->
