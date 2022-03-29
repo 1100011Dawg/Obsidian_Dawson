@@ -4,22 +4,24 @@
 
 | Define | Advantage | Disavantage | Short/Medium/ Long Term fianance |
 |--|--|--|--|
-| Internal: Personal Funds |  |  |  |
+| Internal: Personal Funds:Mon |  |  |  |
 | Internal: Retained Profits |  |  |  |
 | Internal: Sale of Assets |  |  |  |
 | External: Share Capital |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| External: Loan Capital |  |  |  |
+| External: Overdrafts |  |  |  |
+| External: Trade Credit |  |  |  |
+| External: Grants |  |  |  |
+| External: Subsidies |  |  |  |
+| External: Debt Factoring |  |  |  |
+| External: Leasing |  |  |  |
+| External: Venture Capital |  |  |  |
+| External: Business Angels |  |  |  |
 
+**Seven Factors influencing choices of finance (list and briefly describe)**
+1.  Purpose -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMDQ0ODI0LDE4MjMwOTIwMTYsLTMwMz
-c0MDQ2OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTgyNTYwODU4NiwxODIzMDkyMDE2LC0zMD
+M3NDA0NjksLTIwODg3NDY2MTJdfQ==
 -->
