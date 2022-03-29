@@ -21,9 +21,10 @@
 - Enzyme: globular proteins which acts as a catalist
 - Active site: region on the surface which subrates bind and catalist react
 - Enzyme changes state during reaction
+- Tempeture, pH and subrate effect rate fo enzyme activity
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDc4NTQxOSwtNjQ1ODAxMjY4LDg0Mz
-M1MzU5Ml19
+eyJoaXN0b3J5IjpbLTIwMjA4NzcxNDcsLTY0NTgwMTI2OCw4ND
+MzNTM1OTJdfQ==
 -->
