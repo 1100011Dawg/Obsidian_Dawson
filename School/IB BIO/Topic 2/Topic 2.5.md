@@ -20,9 +20,10 @@
 - subrates:reactant in biochemical reaction
 - Enzyme: globular proteins which acts as a catalist
 - Active site: region on the surface which subrates bind and catalist react
+- Enzyme changes state during reaction
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDg0ODU4OCwtNjQ1ODAxMjY4LDg0Mz
+eyJoaXN0b3J5IjpbMTM5MDc4NTQxOSwtNjQ1ODAxMjY4LDg0Mz
 M1MzU5Ml19
 -->
