@@ -8,11 +8,14 @@
 
 
 #### Human digestive enzymes:
- - Amylases breack down carbohydrates
- - Proteases breack down polypeptide
- - Lipases brack down fats and lipids
+ - Amylases breack down carbohydrates(salivia mouth)
+ - Proteases breack down polypeptide(stomach)
+ - Lipases brack down fats and lipids(intestine)
+
+###Exo v Endothermic
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTgwMTI2OCw4NDMzNTM1OTJdfQ==
+eyJoaXN0b3J5IjpbMTQ5NTY1MTM3NiwtNjQ1ODAxMjY4LDg0Mz
+M1MzU5Ml19
 -->
