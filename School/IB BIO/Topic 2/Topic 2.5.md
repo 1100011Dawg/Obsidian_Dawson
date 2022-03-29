@@ -12,13 +12,15 @@
  - Proteases breack down polypeptide(stomach)
  - Lipases brack down fats and lipids(intestine)
 
-###Exo v Endothermic:
+#### Enzyme Genral
+ - Exo v Endothermic:
 	- Exo energy is released
 	- Endo energy is increased
 	- enzymes lower activation energy
+- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzAyMTQxOSwtNjQ1ODAxMjY4LDg0Mz
+eyJoaXN0b3J5IjpbMTMzOTM1MDA4MSwtNjQ1ODAxMjY4LDg0Mz
 M1MzU5Ml19
 -->
