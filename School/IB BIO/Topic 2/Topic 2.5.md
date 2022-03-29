@@ -17,10 +17,12 @@
 	- Exo energy is released
 	- Endo energy is increased
 	- enzymes lower activation energy
-- 
+- subrates:reactant in biochemical reaction
+- Enzyme: globular proteins which acts as a catalist
+- Active site: region on the surface which subrates bind and catalist react
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTM1MDA4MSwtNjQ1ODAxMjY4LDg0Mz
+eyJoaXN0b3J5IjpbMTg0NDg0ODU4OCwtNjQ1ODAxMjY4LDg0Mz
 M1MzU5Ml19
 -->
