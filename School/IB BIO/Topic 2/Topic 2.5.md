@@ -25,11 +25,11 @@
 
 #### Enzyme Types:
  - inhibitors fits on the active site if competitive
- - inhibi
+ - non-competitive inhibitors fits into a allosteric site causeing a conformational change in acctive site, leading to substrate not attching
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDI5ODk0NSwtMjAyMDg3NzE0NywtNj
+eyJoaXN0b3J5IjpbLTM5MzMwODMwNCwtMjAyMDg3NzE0NywtNj
 Q1ODAxMjY4LDg0MzM1MzU5Ml19
 -->
