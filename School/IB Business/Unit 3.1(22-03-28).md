@@ -21,13 +21,15 @@
 **Seven Factors influencing choices of finance (list and briefly describe)**
 1.  Purpose: what will the fiance will be used for, long term of short term
 2. Cost: all costs associated with obtaining the source of fianance, including opprutunity cost
-3. Status and size: 
+3. Status and size: the smaller you are the harder it is to obstain capital
+4. Amount required: vary sourced for the amount required
+5. Flexibility: This looks into the ease with which a business can switch from one source to another. 
 
 
 [^1]:Buyers of these shares are known as **shareholders** and may be entitled to dividends when profits are made. The term **authorized share capital** suggests the maximum amount the shareholders of a company intend to raise
 
 [^2]:The interest rates may be either fixed or variable. A **fixed interest rate** is one that does not fluctuate and remains fixed for the entire term of the loan repayment. A **variable interest rate**, on the other hand, changes periodically based on the prevailing market conditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NDM2MjcwLC0zMTgzNTYyOTEsMTgyMz
-A5MjAxNiwtMzAzNzQwNDY5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwNTMxNDcwMTIsLTMxODM1NjI5MSwxOD
+IzMDkyMDE2LC0zMDM3NDA0NjksLTIwODg3NDY2MTJdfQ==
 -->
