@@ -24,12 +24,14 @@
 3. Status and size: the smaller you are the harder it is to obstain capital
 4. Amount required: vary sourced for the amount required
 5. Flexibility: This looks into the ease with which a business can switch from one source to another. 
+6. State of the external environment:This involves factors that the business has no control of.(such as intrest and inflation)
+7. Gearing: This refers to the relationship between **share capital** and **loan capital**. If a company has a large proportion of loan capital to share capital it is said to be **high geared**, while a company that is **low geared** has a smaller proportion of loan capital to share capital
 
 
 [^1]:Buyers of these shares are known as **shareholders** and may be entitled to dividends when profits are made. The term **authorized share capital** suggests the maximum amount the shareholders of a company intend to raise
 
 [^2]:The interest rates may be either fixed or variable. A **fixed interest rate** is one that does not fluctuate and remains fixed for the entire term of the loan repayment. A **variable interest rate**, on the other hand, changes periodically based on the prevailing market conditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMxNDcwMTIsLTMxODM1NjI5MSwxOD
-IzMDkyMDE2LC0zMDM3NDA0NjksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTQxNjU4Njc2OSwtMzE4MzU2MjkxLDE4Mj
+MwOTIwMTYsLTMwMzc0MDQ2OSwtMjA4ODc0NjYxMl19
 -->
