@@ -15,7 +15,7 @@
 | External: **Subsidies**: financial assistance from the govemrnt, a non-govermnetal agency, or and individual for support | does not need to be paid back, allows **subvention** where market price is below production cost | often marred by political interference | long |
 | External: **Debt Factoring**: sells invoice to a third party known as a debt factor, pays imediantly 80–90 per cent of the debt to the busness | immediante chase, looses risk on collecting debt | lose a percent of profit, may sour relationship if **debt factor** is harsh | short |
 | External: **Leasing**:This is where a business (lessee) enters into a contract with a leasing company (lessor) to acquire or use particular assets such as machinery, equipment, or property | limits risk of repair, some **financial lease** agreements might be able to buy at end, more flexible | can use it fro colleteral, may be more expensive | medium |
-| External: **Venture Capital**: provide high risk, high potential busness, taking a share in the busness | might provide guidance, might be only soure of funding if your busness is high risk | set high profit standerds for the buisness, if not meet might increse equity |  |
+| External: **Venture Capital**: provide high risk, high potential busness, taking a share in the busness | might provide guidance, might be only soure of funding if your busness is high risk | set high profit standerds for the buisness, if not meet might increse equity | long |
 | External: **Business Angels**: affulant individuals who provide financial capital in exchange for equity | have more favorible tersm than other busnesses | may diluse ownership | short/long term |
 
 **Seven Factors influencing choices of finance (list and briefly describe)**
@@ -32,6 +32,6 @@
 
 [^2]:The interest rates may be either fixed or variable. A **fixed interest rate** is one that does not fluctuate and remains fixed for the entire term of the loan repayment. A **variable interest rate**, on the other hand, changes periodically based on the prevailing market conditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjU4Njc2OSwtMzE4MzU2MjkxLDE4Mj
-MwOTIwMTYsLTMwMzc0MDQ2OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTUyNTkyOTA5LC0zMTgzNTYyOTEsMTgyMz
+A5MjAxNiwtMzAzNzQwNDY5LC0yMDg4NzQ2NjEyXX0=
 -->
