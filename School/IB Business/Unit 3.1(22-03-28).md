@@ -11,7 +11,7 @@
 | External: **Loan Capital(debt capital)**: money sourced from financial institutions[^2] | no diluted ownership, can be arranged quickly | the capital will have to be redeemed, even if the busnesses are lossing profit | medium |
 | External: **Overdrafts**:when they withdraw more money than there is in their acount | flexible short term fianace, intrest only on amount over the money they have | banks can ask for it to be payed back at very short notice | short |
 | External: **Trade Credit**:pay the seller at a lower date | better cash flow and is intrest free | may sour relationships, may lose out on discounts | medium |
-| External: **Grants**: founds provided by a government, foundation, or trust |  f|  |  |
+| External: **Grants**: founds provided by a government, foundation, or trust | does not need to be paid back | comes with strings attached by the **grant maker** | long |
 | External: **Subsidies |  |  |  |
 | External: **Debt Factoring |  |  |  |
 | External: **Leasing |  |  |  |
@@ -26,6 +26,6 @@
 
 [^2]:The interest rates may be either fixed or variable. A **fixed interest rate** is one that does not fluctuate and remains fixed for the entire term of the loan repayment. A **variable interest rate**, on the other hand, changes periodically based on the prevailing market conditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI2OTQ1NzIsLTMxODM1NjI5MSwxOD
-IzMDkyMDE2LC0zMDM3NDA0NjksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTQzODI5OTg3MCwtMzE4MzU2MjkxLDE4Mj
+MwOTIwMTYsLTMwMzc0MDQ2OSwtMjA4ODc0NjYxMl19
 -->
