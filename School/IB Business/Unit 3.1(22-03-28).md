@@ -19,13 +19,15 @@
 | External: **Business Angels**: affulant individuals who provide financial capital in exchange for equity | have more favorible tersm than other busnesses | may diluse ownership | short/long term |
 
 **Seven Factors influencing choices of finance (list and briefly describe)**
-1.  Purpose: 
+1.  Purpose: what will the fiance will be used for, long term of short term
+2. Cost: all costs associated with obtaining the source of fianance, including opprutunity cost
+3. Status and size: 
 
 
 [^1]:Buyers of these shares are known as **shareholders** and may be entitled to dividends when profits are made. The term **authorized share capital** suggests the maximum amount the shareholders of a company intend to raise
 
 [^2]:The interest rates may be either fixed or variable. A **fixed interest rate** is one that does not fluctuate and remains fixed for the entire term of the loan repayment. A **variable interest rate**, on the other hand, changes periodically based on the prevailing market conditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ4MDM1NTgsLTMxODM1NjI5MSwxOD
-IzMDkyMDE2LC0zMDM3NDA0NjksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDQ4NDM2MjcwLC0zMTgzNTYyOTEsMTgyMz
+A5MjAxNiwtMzAzNzQwNDY5LC0yMDg4NzQ2NjEyXX0=
 -->
