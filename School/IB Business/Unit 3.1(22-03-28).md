@@ -10,8 +10,8 @@
 | External: **Share Capital(equity capital)**[^1]: money raised from the sale of shares of a limited company | permenant source of capital(it will not need to be repaid) | shareholders will expect dividens from the comapany | short |
 | External: **Loan Capital(debt capital)**: money sourced from financial institutions[^2] | no diluted ownership, can be arranged quickly | the capital will have to be redeemed, even if the busnesses are lossing profit | medium |
 | External: **Overdrafts**:when they withdraw more money than there is in their acount | flexible short term fianace, intrest only on amount over the money they have | banks can ask for it to be payed back at very short notice | short |
-| External: **Trade Credit**:pay the seller at a lower date |  |  |  |
-| External: **Grants |  |  |  |
+| External: **Trade Credit**:pay the seller at a lower date | better cash flow and is intrest free | may sour relationships, may lose out on discounts | medium |
+| External: **Grants**: founds provided by a government, foundation, or trust |  f|  |  |
 | External: **Subsidies |  |  |  |
 | External: **Debt Factoring |  |  |  |
 | External: **Leasing |  |  |  |
@@ -26,6 +26,6 @@
 
 [^2]:The interest rates may be either fixed or variable. A **fixed interest rate** is one that does not fluctuate and remains fixed for the entire term of the loan repayment. A **variable interest rate**, on the other hand, changes periodically based on the prevailing market conditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI2ODE0MSwtMzE4MzU2MjkxLDE4Mj
-MwOTIwMTYsLTMwMzc0MDQ2OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4ODI2OTQ1NzIsLTMxODM1NjI5MSwxOD
+IzMDkyMDE2LC0zMDM3NDA0NjksLTIwODg3NDY2MTJdfQ==
 -->
