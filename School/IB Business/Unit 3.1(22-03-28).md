@@ -8,7 +8,7 @@
 | Internal: **Retained Profits(ploughed-back profit)**: Porfit that remains after the Business paid taxes to the goverment | has no intrest is a permenant source and is flexible |  may be too low, may be overused leading to little buffer/ money to shareholders | long |
 | Internal: **Sale of Assets**: when they sell of unused or unwanted assests | no intrest, also allows a **sale and lease back**(sell it to someone else they lease it back to you) model allowing for more flexibility | only availible to established buisnesses, may be time consumeing | short |
 | External: **Share Capital(equity capital)**[^1]: money raised from the sale of shares of a limited company | permenant source of capital(it will not need to be repaid) | shareholders will expect dividens from the comapany | short |
-| External: **Loan Capital(debt capital)**: money sourced from financial institutions[^2] | no diluted ownership, can be arranged quick |  |  |
+| External: **Loan Capital(debt capital)**: money sourced from financial institutions[^2] | no diluted ownership, can be arranged quickly |  |  |
 | External: Overdrafts |  |  |  |
 | External: Trade Credit |  |  |  |
 | External: Grants |  |  |  |
@@ -26,6 +26,6 @@
 
 [^2]:The interest rates may be either fixed or variable. A **fixed interest rate** is one that does not fluctuate and remains fixed for the entire term of the loan repayment. A **variable interest rate**, on the other hand, changes periodically based on the prevailing market conditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjE1NzI3LC0zMTgzNTYyOTEsMTgyMz
-A5MjAxNiwtMzAzNzQwNDY5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTI5MDM2NjE0OCwtMzE4MzU2MjkxLDE4Mj
+MwOTIwMTYsLTMwMzc0MDQ2OSwtMjA4ODc0NjYxMl19
 -->
