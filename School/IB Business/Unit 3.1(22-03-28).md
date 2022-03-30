@@ -5,7 +5,7 @@
 | Define | Advantage | Disavantage | Short/Medium/ Long Term fianance |
 |--|--|--|--|
 | Internal: Personal Funds: The funds that the owner invest | cheap and easily availible | comes with great personal risk to the owner | short |
-| Internal: Retained Profits(ploughed-back prot): Porfit that remains after the Business paid taxes to the goverment |  |  | long |
+| Internal: Retained Profits(ploughed-back prot): Porfit that remains after the Business paid taxes to the goverment | has no intrest is a permenant source and is flexible |  may be too low, may be overused leading to little buffer/ money to shareholders | long |
 | Internal: Sale of Assets |  |  |  |
 | External: Share Capital |  |  |  |
 | External: Loan Capital |  |  |  |
@@ -22,6 +22,6 @@
 1.  Purpose -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzA4NDg5MywtMzE4MzU2MjkxLDE4Mj
+eyJoaXN0b3J5IjpbLTQwMzIwNDY2MSwtMzE4MzU2MjkxLDE4Mj
 MwOTIwMTYsLTMwMzc0MDQ2OSwtMjA4ODc0NjYxMl19
 -->
