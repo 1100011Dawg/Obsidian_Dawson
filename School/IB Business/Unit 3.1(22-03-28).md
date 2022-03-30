@@ -13,7 +13,7 @@
 | External: **Trade Credit**:pay the seller at a lower date | better cash flow and is intrest free | may sour relationships, may lose out on discounts | medium |
 | External: **Grants**: founds provided by a government, foundation, or trust | does not need to be paid back | comes with strings attached by the **grant maker** | long |
 | External: **Subsidies**: financial assistance from the govemrnt, a non-govermnetal agency, or and individual for support | does not need to be paid back, allows **subvention** where market price is below production cost | often marred by political interference | long |
-| External: **Debt Factoring**: sells invoice to a third party known as a debt factor |  |  |  |
+| External: **Debt Factoring**: sells invoice to a third party known as a debt factor, pays imediantly 80–90 per cent of the debt to the busness | immediante chase, looses risk on collecting debt | lose a percent of profit, may sour relationship if **debt factor** is harsh | short |
 | External: **Leasing |  |  |  |
 | External: **Venture Capital |  |  |  |
 | External: **Business Angels |  |  |  |
@@ -26,6 +26,6 @@
 
 [^2]:The interest rates may be either fixed or variable. A **fixed interest rate** is one that does not fluctuate and remains fixed for the entire term of the loan repayment. A **variable interest rate**, on the other hand, changes periodically based on the prevailing market conditions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg5NjUxNDYsLTMxODM1NjI5MSwxOD
-IzMDkyMDE2LC0zMDM3NDA0NjksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNzI4NDUzMTA2LC0zMTgzNTYyOTEsMTgyMz
+A5MjAxNiwtMzAzNzQwNDY5LC0yMDg4NzQ2NjEyXX0=
 -->
