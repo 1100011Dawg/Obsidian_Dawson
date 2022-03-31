@@ -27,6 +27,7 @@ People to know:
 		 - Aggricultural:didn support full agrarian reform, started with Ägrarian Regularory Law of 1922. Though 2500 still owned half of land
 		 - Recognition:Needed forign recognition, hard because US watned reperations. Bucareli Accords, Huerta brokered with the united states Obregon felt that he sold out.
 		 - Choose Calles over De Huearta for president
+		 - Got killed by sketch artist José de León Toral
  - Elias Calles
 	 - Obergos succsesors, went against cathlic church
 		 - Calles favoured buisness over worker, leading workers to join the CTM from the CROM, marxists?
@@ -41,6 +42,7 @@ People to know:
  - Vicenta Lombardo
 - Cristeros
  - Emilio Portes Gil
+	 - Was 
 - Ortiz Rubio
  - Alberto J. Pani
  - Abelardo Rodriguez
@@ -69,5 +71,6 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzE5ODcyMiw1ODk1MTEzMjRdfQ==
+eyJoaXN0b3J5IjpbMTEyMDEzOTMyMiwxNDA3MTk4NzIyLDU4OT
+UxMTMyNF19
 -->
