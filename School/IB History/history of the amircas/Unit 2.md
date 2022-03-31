@@ -17,7 +17,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
 
 People to know:
  - General Alvaro Obregon
-	 - Generally a centrest lead
+	 - **Generally a centrest leader pushing small reforms in agriculture, labour, and the military, he was a Mexican president**
 		 - Lost a arm due to the revelution, fighting of Villa
 		 - Militaryly: relied on regional bosses, rotated them so they don build up power, gave out bribes to keep them loyal[^1]
 		 - Labour: dealede with CROM, was kee assest
@@ -64,5 +64,5 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExMDU0NjU2LDU4OTUxMTMyNF19
+eyJoaXN0b3J5IjpbLTE5ODIxOTg2MTYsNTg5NTExMzI0XX0=
 -->
