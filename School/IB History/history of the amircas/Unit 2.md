@@ -6,6 +6,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
  - Confederación de Trabajadores Mexicanos or CTM
 	 - **Orginization founded by marxist Vicente Lombardo, alternative of CROM**
  - Cristero Rebellion
+	 - ****
  - Partido Nacional Revolucionario (PNR)
  - Ejidos 
 	 - Cummonity land for agricultural, for small familes/ individuals[^2].
@@ -26,7 +27,7 @@ People to know:
 		 - Recognition:Needed forign recognition, hard because US watned reperations. Bucareli Accords, Huerta brokered with the united states Obregon felt that he sold out.
 		 - Choose Calles over De Huearta for president
  - Elias Calles
-	 - is dude
+	 - Obergos succsesors, went against cathlic church
 		 - Calles favoured buisness over worker, leading workers to join the CTM from the CROM, marxists?
 		 - Wanted the end Church influnce
  - Adolfo de la Huerta
@@ -67,5 +68,5 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU5ODM5NjYsNTg5NTExMzI0XX0=
+eyJoaXN0b3J5IjpbLTE3Njg5MDk2MjMsNTg5NTExMzI0XX0=
 -->
