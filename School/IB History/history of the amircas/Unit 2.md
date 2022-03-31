@@ -6,7 +6,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
  - Confederación de Trabajadores Mexicanos or CTM
 	 - **Orginization founded by marxist Vicente Lombardo, alternative of CROM**
  - Cristero Rebellion
-	 - ****
+	 - **Was strike by cathlic church for three yea agast Calles**
  - Partido Nacional Revolucionario (PNR)
  - Ejidos 
 	 - Cummonity land for agricultural, for small familes/ individuals[^2].
@@ -68,5 +68,5 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg5MDk2MjMsNTg5NTExMzI0XX0=
+eyJoaXN0b3J5IjpbLTE5MDEzMjI1ODgsNTg5NTExMzI0XX0=
 -->
