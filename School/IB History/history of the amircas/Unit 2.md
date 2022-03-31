@@ -22,7 +22,7 @@ People to know:
 		 - Militaryly: relied on regional bosses, rotated them so they don build up power, gave out bribes to keep them loyal[^1]
 		 - Labour: dealede with CROM, was kee assest
 		 - Aggricultural:didn support full agrarian reform, started with Ägrarian Regularory Law of 1922. Though 2500 still owned half of land
-		 - Recognition:Needed forign recognition, hard because US watned reperations. Bucareli Accords
+		 - Recognition:Needed forign recognition, hard because US watned reperations. Bucareli Accords, Huerta brokered with the united states Obregon felt that he sold out.
  - Elias Calles
 	 - 
  - Adolfo de la Huerta
@@ -63,5 +63,5 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYyMDY3NDIsNTg5NTExMzI0XX0=
+eyJoaXN0b3J5IjpbMTM1OTEzNjU3OCw1ODk1MTEzMjRdfQ==
 -->
