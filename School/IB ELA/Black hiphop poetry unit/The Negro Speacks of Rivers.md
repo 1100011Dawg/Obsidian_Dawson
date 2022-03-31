@@ -6,11 +6,11 @@
  - Speacker: Himself
 
 #### DIDLS
- - Details: I looked upon the Nile and raised the [pyramids](https://en.wikipedia.org/wiki/Ancient_Egyptian_race_controversy) above it. Going back to the civil the quetion of who buil the pyramids was pretentios, with schoolars arguing that the caucation race was the ones to do it. With a contention of the black hypothsis otherwise. It seems that there was a significant population of Blcks, but the main race/ethnicity is the one that remains their today. 
+ - Details: I looked upon the Nile and raised the [pyramids](https://en.wikipedia.org/wiki/Ancient_Egyptian_race_controversy) above it. Going back to the civil the quetion of who buil the pyramids was pretentios, with schoolars arguing that the caucation race was the ones to do it. With a contention of the black hypothsis otherwise. It seems that there was a significant population of Blcks, but the main race/ethnicity is the one that remains their today. Though the general consisnses is tha it was diverse, and black/white isn´t a good definition. 
  - Imegery:
  - Diction:
  - Language
  - Structure:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTk0OTc2MCwtNjAyMDAyNjYzXX0=
+eyJoaXN0b3J5IjpbLTUwMzgwODQ1MCwtNjAyMDAyNjYzXX0=
 -->
