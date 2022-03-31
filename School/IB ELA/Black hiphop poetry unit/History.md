@@ -6,7 +6,8 @@ Renosane in new york for blacks,
  - Mccarthey smeared his reputation. 
 	 - Mcarthism was like a witch hunt
  - Spectualted that he was gay
- - 
+ - Born in missuri, had mixed parents(dad hated african american culture)
+ - Ended up in a diverse high school in chicago
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTcxMTE2Ml19
+eyJoaXN0b3J5IjpbLTE3NTIwMzcyNzIsMjA4NTcxMTE2Ml19
 -->
