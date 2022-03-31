@@ -8,6 +8,9 @@ Renosane in new york for blacks,
  - Spectualted that he was gay
  - Born in missuri, had mixed parents(dad hated african american culture)
  - Ended up in a diverse high school in chicago
+ - experincing the russian revoltion
+ - one of the only black stutdent at collumbia university
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTIwMzcyNzIsMjA4NTcxMTE2Ml19
+eyJoaXN0b3J5IjpbLTIwMjUwMTI5MjIsMjA4NTcxMTE2Ml19
 -->
