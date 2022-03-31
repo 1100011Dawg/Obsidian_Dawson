@@ -14,13 +14,15 @@ Events/Ideas to know: (my def, optional textbook, significance)
 
 People to know:
  - General Alvaro Obregon
-	 - 
+	 - is dude
+		 - Lost a arm due to the revelution, fighting of Villa
  - Elias Calles
 	 - 
  - Adolfo de la Huerta
 	 - is dude
 		 - Got rid of paucho Villa(retirement deal)
 		 - Set up national elections, won
+	 - sig:
  - Luis Morones
  - Jose Vasconcelos
  - Vicenta Lombardo
@@ -50,5 +52,5 @@ Diego Rivera
 David Alfaro Siqueiros
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTIzNTYwLDU4OTUxMTMyNF19
+eyJoaXN0b3J5IjpbMjEzNzg2MDU3OCw1ODk1MTEzMjRdfQ==
 -->
