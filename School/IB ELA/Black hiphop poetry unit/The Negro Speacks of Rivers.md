@@ -6,11 +6,11 @@
  - Speacker: Himself
 
 #### DIDLS
- - Details: 
+ - Details: I looked upon the Nile and raised the [pyramids](https://en.wikipedia.org/wiki/Ancient_Egyptian_race_controversy) above it. Going back to the civil the quetion of who buil the pyramids was pretentios, with schoolars arguing that the caucation race was the ones to do it. 
  - Imegery:
  - Diction:
  - Language
  - Structure:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODg5MjM5NSwtNjAyMDAyNjYzXX0=
+eyJoaXN0b3J5IjpbMjA2NzI3MTIxNSwtNjAyMDAyNjYzXX0=
 -->
