@@ -18,7 +18,9 @@ People to know:
  - Elias Calles
 	 - 
  - Adolfo de la Huerta
-	 - 
+	 - is dude
+		 - Got rid of paucho Villa(retirement deal)
+		 - Set up national elections, won
  - Luis Morones
  - Jose Vasconcelos
  - Vicenta Lombardo
@@ -48,5 +50,5 @@ Diego Rivera
 David Alfaro Siqueiros
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDY2OTc2MSw1ODk1MTEzMjRdfQ==
+eyJoaXN0b3J5IjpbMTg3NTIzNTYwLDU4OTUxMTMyNF19
 -->
