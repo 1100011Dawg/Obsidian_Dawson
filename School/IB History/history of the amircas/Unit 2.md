@@ -1,8 +1,8 @@
 Unit 2.4 ID Terms
-Events/Ideas to know: (my def, optional textbook copy , significance)
+Events/Ideas to know: (my def, optional textbook copy paste footnote, significance)
  - Confederación Regional de Obreros Mexicanos (CROM)
 	 - **Formed 1918 under Carranza, helped adress labour turmoil**
-	 - 
+	 - was elad by Luis Morones
  - Confederación de Trabajadores Mexicanos or CTM
  - Cristero Rebellion
  - Partido Nacional Revolucionario (PNR)
@@ -18,6 +18,7 @@ People to know:
  - General Alvaro Obregon
 	 - is dude
 		 - Lost a arm due to the revelution, fighting of Villa
+		 - 
  - Elias Calles
 	 - 
  - Adolfo de la Huerta
@@ -53,6 +54,9 @@ Diego Rivera
 
 David Alfaro Siqueiros
 
+
+#### Additional Information:
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzY4MTc2OCw1ODk1MTEzMjRdfQ==
+eyJoaXN0b3J5IjpbLTgxMTI0MDM3MCw1ODk1MTEzMjRdfQ==
 -->
