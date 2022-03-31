@@ -7,6 +7,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
  - Cristero Rebellion
  - Partido Nacional Revolucionario (PNR)
  - Ejidos 
+	 - Cummonity land for agricultural, for 
  - Hacendados
  - Campesinos 
  - Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM)
@@ -19,7 +20,7 @@ People to know:
 	 - is dude
 		 - Lost a arm due to the revelution, fighting of Villa
 		 - Militaryly: relied on regional bosses, rotated them so they don build up power, gave out bribes to keep them loyal[^1]
-		 - Labour: dealede with CROM, was kee assestdidn 
+		 - Labour: dealede with CROM, was kee assestdidn support full agrarian reform, started with Ägrarian Regularory Law of 1922. 
 		 - Aggricultural:
  - Elias Calles
 	 - 
@@ -60,5 +61,5 @@ David Alfaro Siqueiros
 #### Additional Information:
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTQ1MDc3Myw1ODk1MTEzMjRdfQ==
+eyJoaXN0b3J5IjpbLTExMzY3NTQ0MTEsNTg5NTExMzI0XX0=
 -->
