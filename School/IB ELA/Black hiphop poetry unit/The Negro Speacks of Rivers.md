@@ -6,11 +6,11 @@
  - Speacker: Himself
 
 #### DIDLS
- - Details:
+ - Details: 
  - Imegery:
  - Diction:
  - Language
  - Structure:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjAwMjY2M119
+eyJoaXN0b3J5IjpbLTgxODg5MjM5NSwtNjAyMDAyNjYzXX0=
 -->
