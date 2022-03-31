@@ -3,7 +3,10 @@ Renosane in new york for blacks,
  - American poet, novelist, playright
  - The Nego speacks of Rivers(1921) first poem
  - Jazz peoems became big
- - Mccarthey smeared his reputation
+ - Mccarthey smeared his reputation. 
+	 - Mcarthism was like a witch hunt
+ - Spectualted that he was gay
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzg4MjI1Nl19
+eyJoaXN0b3J5IjpbMjA4NTcxMTE2Ml19
 -->
