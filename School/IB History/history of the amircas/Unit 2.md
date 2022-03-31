@@ -18,7 +18,8 @@ People to know:
  - General Alvaro Obregon
 	 - is dude
 		 - Lost a arm due to the revelution, fighting of Villa
-		 - 
+		 - Militaryly: relied on regional bosses, rotated them so they don build up power, gave out bribes to keep them loyal[^1]
+		 - Labour: 
  - Elias Calles
 	 - 
  - Adolfo de la Huerta
@@ -56,7 +57,7 @@ David Alfaro Siqueiros
 
 
 #### Additional Information:
- - 
+[^1]:“no general can resist a cannon shot of fty thousand pesos”.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTI0MDM3MCw1ODk1MTEzMjRdfQ==
+eyJoaXN0b3J5IjpbMjA4MDg0MzcsNTg5NTExMzI0XX0=
 -->
