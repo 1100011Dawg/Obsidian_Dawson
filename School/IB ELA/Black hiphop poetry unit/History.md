@@ -10,7 +10,8 @@ Renosane in new york for blacks,
  - Ended up in a diverse high school in chicago
  - experincing the russian revoltion
  - one of the only black stutdent at collumbia university
+ - Harlem renosance was going on
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUwMTI5MjIsMjA4NTcxMTE2Ml19
+eyJoaXN0b3J5IjpbLTc2NTM3NjEzNiwyMDg1NzExMTYyXX0=
 -->
