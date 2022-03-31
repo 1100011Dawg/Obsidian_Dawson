@@ -1,5 +1,5 @@
 Unit 2.4 ID Terms
-Events/Ideas to know: 
+Events/Ideas to know: (my def, optional textbook, significance)
  - Confederación Regional de Obreros Mexicanos (CROM)
  - Confederación de Trabajadores Mexicanos or CTM
  - Cristero Rebellion
@@ -48,5 +48,5 @@ Diego Rivera
 David Alfaro Siqueiros
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NTExMzI0XX0=
+eyJoaXN0b3J5IjpbLTg0MDY2OTc2MSw1ODk1MTEzMjRdfQ==
 -->
