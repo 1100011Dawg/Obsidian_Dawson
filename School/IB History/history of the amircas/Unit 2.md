@@ -4,6 +4,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
 	 - **Formed 1918 under Carranza, helped adress labour turmoil**
 	 - was elad by Luis Morones
  - Confederación de Trabajadores Mexicanos or CTM
+	 - **Orginization founded **
  - Cristero Rebellion
  - Partido Nacional Revolucionario (PNR)
  - Ejidos 
@@ -64,5 +65,5 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIxOTg2MTYsNTg5NTExMzI0XX0=
+eyJoaXN0b3J5IjpbMTUxMzgxNjc3MSw1ODk1MTEzMjRdfQ==
 -->
