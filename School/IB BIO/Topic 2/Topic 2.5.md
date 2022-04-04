@@ -39,12 +39,12 @@
  - Tread -->Bread --> Breed --> Bleed --> Blend --> Blind --> Blink
 
 #### Bioinformatics:
- 
+ - collect information about metabolic patways, add infor to database
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg3OTI1NzcsLTEzNTAxMDc0ODgsLT
+eyJoaXN0b3J5IjpbLTIxMDMyMjI0MzksLTEzNTAxMDc0ODgsLT
 E1MzI1MzE4NTksLTE3NTEwMDM3MTYsLTIwMjA4NzcxNDcsLTY0
 NTgwMTI2OCw4NDMzNTM1OTJdfQ==
 -->
