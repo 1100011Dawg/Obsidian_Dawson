@@ -60,6 +60,7 @@ People to know:
 	 - **Went against calles loyalist, was president, had more radical policies**
 	 - was part of PNR
 	 - cut his salary in half, and spent 500 days on thre road visiting the people of mexico
+	 - Had school curiculum have, ¨to include socialist scientific, secular, and nationalistic concepts¨
 	 - *Managed to rid mexico of Calles.*
 
 Unit 2.5 ID Terms
@@ -85,7 +86,7 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjI0MzYzLC0yODIxOTczODMsMTA1NT
-MxNTQ0NywtMTA3MjUwMDc3LDE0MDcxOTg3MjIsNTg5NTExMzI0
-XX0=
+eyJoaXN0b3J5IjpbNjM5OTEzODE4LDE4MzYyNDM2MywtMjgyMT
+k3MzgzLDEwNTUzMTU0NDcsLTEwNzI1MDA3NywxNDA3MTk4NzIy
+LDU4OTUxMTMyNF19
 -->
