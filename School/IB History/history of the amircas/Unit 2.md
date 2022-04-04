@@ -42,7 +42,7 @@ People to know:
  - Vicenta Lombardo
 - Cristeros
  - Emilio Portes Gil
-	 - Was provetional presedent after Calle
+	 - Was provetional presedent after Calle.
 		 - 
 - Ortiz Rubio
  - Alberto J. Pani
@@ -72,6 +72,6 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI1MDA3NywxNDA3MTk4NzIyLDU4OT
-UxMTMyNF19
+eyJoaXN0b3J5IjpbLTgxNzM0OTQwOSwtMTA3MjUwMDc3LDE0MD
+cxOTg3MjIsNTg5NTExMzI0XX0=
 -->
