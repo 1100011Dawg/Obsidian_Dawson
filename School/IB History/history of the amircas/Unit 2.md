@@ -8,6 +8,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
  - Cristero Rebellion
 	 - **Was strike by cathlic church for three years agast Calles**
 	 - Calles exicuted people that tried to assasinate obellero, making demonstration
+	 - *It furt*
  - Partido Nacional Revolucionario (PNR)
  - Ejidos 
 	 - Cummonity land for agricultural, for small familes/ individuals[^2].
@@ -42,7 +43,7 @@ People to know:
  - Vicenta Lombardo
 - Cristeros
  - Emilio Portes Gil
-	 - Was provetional presedent after Calle.
+	 - Was provetional presedent after Calle. Had more amible relationships with the catholic chcurch.
 		 - 
 - Ortiz Rubio
  - Alberto J. Pani
@@ -72,6 +73,6 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzM0OTQwOSwtMTA3MjUwMDc3LDE0MD
+eyJoaXN0b3J5IjpbMTg4NTAzNzQxNSwtMTA3MjUwMDc3LDE0MD
 cxOTg3MjIsNTg5NTExMzI0XX0=
 -->
