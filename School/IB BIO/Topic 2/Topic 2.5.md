@@ -29,14 +29,16 @@
  - competitve let all product being made, non competitive their will be less product
 
 #### Metabolism:
- - feedback regolation, alloric recultion, using allosteric site, change shapre prevent brinting
+ - Metabolism: sum total of all chemical reactions that occur within a orgainsm
+ - Metabolic path
  - Alloric recultion: endporduct inhibitor is non-copetitive inhibitor by the end product attaching to the **allosteric site**, preventing inhibition
+ - 
  - Tread -->Bread --> Breed --> Bleed --> Blend --> Blind --> Blink
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTAyOTI1MywtMTc1MTAwMzcxNiwtMj
+eyJoaXN0b3J5IjpbMTExNDI4NjU3OCwtMTc1MTAwMzcxNiwtMj
 AyMDg3NzE0NywtNjQ1ODAxMjY4LDg0MzM1MzU5Ml19
 -->
