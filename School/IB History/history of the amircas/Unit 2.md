@@ -55,6 +55,7 @@ People to know:
  - Abelardo Rodriguez
 	 - **Set up minimum wage, had more land distribution**
 	 - Set up 3 peso minimum wage, Had land distribution spike to 1.2 million hecactres
+	 - *Had more radical policies than his predessesors.*
  - Lazaro Cardenas
 	 - 
 
@@ -81,6 +82,6 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ4NzUxMDcsMTA1NTMxNTQ0NywtMT
-A3MjUwMDc3LDE0MDcxOTg3MjIsNTg5NTExMzI0XX0=
+eyJoaXN0b3J5IjpbLTI4MjE5NzM4MywxMDU1MzE1NDQ3LC0xMD
+cyNTAwNzcsMTQwNzE5ODcyMiw1ODk1MTEzMjRdfQ==
 -->
