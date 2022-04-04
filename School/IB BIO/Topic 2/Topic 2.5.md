@@ -28,9 +28,14 @@
  - non-competitive inhibitors fits into a allosteric site causeing a conformational change in acctive site, leading to substrate not attching
  - competitve let all product being made, non competitive their will be less product
 
+#### Metabolism:
+ - feedback regolation, alloric recultion, using allosteric site, change shapre prevent brinting
+ - endporduct inhibitor is non-copetitive inhibitor by the end product attaching to the **allosteric site**
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTEwMDM3MTYsLTIwMjA4NzcxNDcsLT
-Y0NTgwMTI2OCw4NDMzNTM1OTJdfQ==
+eyJoaXN0b3J5IjpbLTM2MDY0MTI2MCwtMTc1MTAwMzcxNiwtMj
+AyMDg3NzE0NywtNjQ1ODAxMjY4LDg0MzM1MzU5Ml19
 -->
