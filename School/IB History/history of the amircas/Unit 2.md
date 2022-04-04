@@ -50,7 +50,8 @@ People to know:
 	- *Not too much significance because he got shot.*
  - Alberto J. Pani
  - Abelardo Rodriguez
-	 - ****
+	 - **Set up **
+	 - Set up 3 peso minimum wage, 
  - Lazaro Cardenas
 
 Unit 2.5 ID Terms
@@ -76,6 +77,6 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjgyMzIxMiwtMTA3MjUwMDc3LDE0MD
-cxOTg3MjIsNTg5NTExMzI0XX0=
+eyJoaXN0b3J5IjpbLTE3Nzc2NzE2MDcsLTEwNzI1MDA3NywxND
+A3MTk4NzIyLDU4OTUxMTMyNF19
 -->
