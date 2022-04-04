@@ -46,7 +46,8 @@ People to know:
 	 - **Was provetional presedent after Calle. Had more amible relationships with the catholic chcurch.**
 		 - *Other than his relationship improvement with the catholic church there doesn seem to be too much of not in this textbook*
 - Ortiz Rubio
-	- Choose by Calles/Obregón, but was shot 
+	- **Choose by Calles/Obregón, but was shot in car**
+	- *Not too much significance because he got shot.*
  - Alberto J. Pani
  - Abelardo Rodriguez
  - Lazaro Cardenas
@@ -74,6 +75,6 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODA5NTQ5NywtMTA3MjUwMDc3LDE0MD
+eyJoaXN0b3J5IjpbLTc5NTUwNjE3MSwtMTA3MjUwMDc3LDE0MD
 cxOTg3MjIsNTg5NTExMzI0XX0=
 -->
