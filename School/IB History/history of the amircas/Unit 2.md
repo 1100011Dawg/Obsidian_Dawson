@@ -58,7 +58,7 @@ People to know:
 	 - *Had more radical policies than his predessesors.*
  - Lazaro Cardenas
 	 - was part of PNR
-	 - 
+	 - cut his salary in half, and spent 500 days on thre road visiting the people of mexico
 
 Unit 2.5 ID Terms
 Events/Ideas to know: 
@@ -83,7 +83,7 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTM1MTE1MywtMjgyMTk3MzgzLDEwNT
+eyJoaXN0b3J5IjpbLTY0ODY5Nzg2MSwtMjgyMTk3MzgzLDEwNT
 UzMTU0NDcsLTEwNzI1MDA3NywxNDA3MTk4NzIyLDU4OTUxMTMy
 NF19
 -->
