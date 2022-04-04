@@ -30,7 +30,7 @@
 
 #### Metabolism:
  - Metabolism: sum total of all chemical reactions that occur within a orgainsm
- - Metabolic path
+ - Metabolic pathways, chains/cycles of enzyme catalized reactions
  - Alloric recultion: endporduct inhibitor is non-copetitive inhibitor by the end product attaching to the **allosteric site**, preventing inhibition
  - 
  - Tread -->Bread --> Breed --> Bleed --> Blend --> Blind --> Blink
@@ -39,6 +39,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDI4NjU3OCwtMTc1MTAwMzcxNiwtMj
+eyJoaXN0b3J5IjpbLTU4ODk4OTg0NiwtMTc1MTAwMzcxNiwtMj
 AyMDg3NzE0NywtNjQ1ODAxMjY4LDg0MzM1MzU5Ml19
 -->
