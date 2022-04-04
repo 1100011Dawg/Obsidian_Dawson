@@ -38,11 +38,13 @@
 	 - competitve comptese, will eventually go to max, noncompetitive binds somewhere else changing shape, never will have 100% enzyme activity
  - Tread -->Bread --> Breed --> Bleed --> Blend --> Blind --> Blink
 
+#### Bioinformatics:
+ 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzQ0NTAzOCwtMTM1MDEwNzQ4OCwtMT
-UzMjUzMTg1OSwtMTc1MTAwMzcxNiwtMjAyMDg3NzE0NywtNjQ1
-ODAxMjY4LDg0MzM1MzU5Ml19
+eyJoaXN0b3J5IjpbLTE5Njg3OTI1NzcsLTEzNTAxMDc0ODgsLT
+E1MzI1MzE4NTksLTE3NTEwMDM3MTYsLTIwMjA4NzcxNDcsLTY0
+NTgwMTI2OCw4NDMzNTM1OTJdfQ==
 -->
