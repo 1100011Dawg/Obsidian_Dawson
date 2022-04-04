@@ -30,13 +30,13 @@
 
 #### Metabolism:
  - feedback regolation, alloric recultion, using allosteric site, change shapre prevent brinting
- - Alloric recultion: endporduct inhibitor is non-copetitive inhibitor by the end product attaching to the **allosteric site**
- - A
+ - Alloric recultion: endporduct inhibitor is non-copetitive inhibitor by the end product attaching to the **allosteric site**, preventing inhibition
+ - Tread -->Bread --> Breed --> Bleed --> Blend --> Blind --> Blink
 
 
-Tread Bread Breed Bleed Blend blind blink
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTQ5NDQ1OSwtMTc1MTAwMzcxNiwtMj
+eyJoaXN0b3J5IjpbMTAzMTAyOTI1MywtMTc1MTAwMzcxNiwtMj
 AyMDg3NzE0NywtNjQ1ODAxMjY4LDg0MzM1MzU5Ml19
 -->
