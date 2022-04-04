@@ -13,6 +13,7 @@
  - Lipases brack down fats and lipids(intestine)
 
 #### Enzyme Genral
+ - They lower the activation energy(initial input of energy that is needed to spark the reaction)
  - Exo v Endothermic:
 	- Exo energy is released
 	- Endo energy is increased
@@ -39,6 +40,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODk4OTg0NiwtMTc1MTAwMzcxNiwtMj
-AyMDg3NzE0NywtNjQ1ODAxMjY4LDg0MzM1MzU5Ml19
+eyJoaXN0b3J5IjpbLTE1MzI1MzE4NTksLTE3NTEwMDM3MTYsLT
+IwMjA4NzcxNDcsLTY0NTgwMTI2OCw4NDMzNTM1OTJdfQ==
 -->
