@@ -57,8 +57,10 @@ People to know:
 	 - Set up 3 peso minimum wage, Had land distribution spike to 1.2 million hecactres
 	 - *Had more radical policies than his predessesors.*
  - Lazaro Cardenas
+	 - **Went against calles loyalist, was president, had more radical policies**
 	 - was part of PNR
 	 - cut his salary in half, and spent 500 days on thre road visiting the people of mexico
+	 - *Managed to rid mexico of Calles.*
 
 Unit 2.5 ID Terms
 Events/Ideas to know: 
@@ -83,7 +85,7 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODY5Nzg2MSwtMjgyMTk3MzgzLDEwNT
-UzMTU0NDcsLTEwNzI1MDA3NywxNDA3MTk4NzIyLDU4OTUxMTMy
-NF19
+eyJoaXN0b3J5IjpbMTgzNjI0MzYzLC0yODIxOTczODMsMTA1NT
+MxNTQ0NywtMTA3MjUwMDc3LDE0MDcxOTg3MjIsNTg5NTExMzI0
+XX0=
 -->
