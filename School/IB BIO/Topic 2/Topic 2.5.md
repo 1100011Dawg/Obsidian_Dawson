@@ -35,13 +35,14 @@
  - Alloric recultion: endporduct inhibitor is non-copetitive inhibitor by the end product attaching to the **allosteric site**, preventing inhibition
 	 - ex: ethonal -oxiation->  acetaldehyde -aldehyde oxidase-> acetic acid antabuse compters 
 	 - ex: ACE inhibitos: hep conttoal blood pressure
+	 - competitve comptese, will eventually go to max, noncompetitive binds somewhere else changing shape, never will have 100% enzyme activity
  - Tread -->Bread --> Breed --> Bleed --> Blend --> Blind --> Blink
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAxMDc0ODgsLTE1MzI1MzE4NTksLT
-E3NTEwMDM3MTYsLTIwMjA4NzcxNDcsLTY0NTgwMTI2OCw4NDMz
-NTM1OTJdfQ==
+eyJoaXN0b3J5IjpbLTM2MzQ0NTAzOCwtMTM1MDEwNzQ4OCwtMT
+UzMjUzMTg1OSwtMTc1MTAwMzcxNiwtMjAyMDg3NzE0NywtNjQ1
+ODAxMjY4LDg0MzM1MzU5Ml19
 -->
