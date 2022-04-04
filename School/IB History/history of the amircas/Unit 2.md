@@ -14,7 +14,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
 	 - Cummonity land for agricultural, for small familes/ individuals[^2].
  - Hacendados
 	 - **Owners of haciendas, a spanish estate with plantiions, factories, or mines**
-	 - *Was a social class to itself, gneraly opressive to the people of mexico*
+	 - *Was a social class to itself, gneraly opressive to the people of mexico.*
  - Campesinos 
  - Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM)
  - PEMEX 
@@ -88,7 +88,7 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODI4MzMxNiwxODM2MjQzNjMsLTI4Mj
-E5NzM4MywxMDU1MzE1NDQ3LC0xMDcyNTAwNzcsMTQwNzE5ODcy
-Miw1ODk1MTEzMjRdfQ==
+eyJoaXN0b3J5IjpbLTEwMTU0ODIzNjgsMTgzNjI0MzYzLC0yOD
+IxOTczODMsMTA1NTMxNTQ0NywtMTA3MjUwMDc3LDE0MDcxOTg3
+MjIsNTg5NTExMzI0XX0=
 -->
