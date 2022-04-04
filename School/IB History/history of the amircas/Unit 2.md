@@ -13,6 +13,8 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
  - Ejidos 
 	 - Cummonity land for agricultural, for small familes/ individuals[^2].
  - Hacendados
+	 - **Owners of haciendas, a spanish estate with plantiions, factories, or mines**
+	 - *Was a social class to itself, gneraly opressive to the people of mexico*
  - Campesinos 
  - Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM)
  - PEMEX 
@@ -24,7 +26,7 @@ People to know:
 	 - **Generally a centrest leader pushing small reforms in agriculture, labour, and the military, he was a Mexican president**
 		 - Lost a arm due to the revelution, fighting of Villa
 		 - Militaryly: relied on regional bosses, rotated them so they don build up power, gave out bribes to keep them loyal[^1]
-		 - Labour: dealede with CROM, was kee assest
+		 - Labour: dealede with CROM, was key assest
 		 - Aggricultural:didn support full agrarian reform, started with Ägrarian Regularory Law of 1922. Though 2500 still owned half of land
 		 - Recognition:Needed forign recognition, hard because US watned reperations. Bucareli Accords, Huerta brokered with the united states Obregon felt that he sold out.
 		 - Choose Calles over De Huearta for president
@@ -86,7 +88,7 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5OTEzODE4LDE4MzYyNDM2MywtMjgyMT
-k3MzgzLDEwNTUzMTU0NDcsLTEwNzI1MDA3NywxNDA3MTk4NzIy
-LDU4OTUxMTMyNF19
+eyJoaXN0b3J5IjpbLTg0ODI4MzMxNiwxODM2MjQzNjMsLTI4Mj
+E5NzM4MywxMDU1MzE1NDQ3LC0xMDcyNTAwNzcsMTQwNzE5ODcy
+Miw1ODk1MTEzMjRdfQ==
 -->
