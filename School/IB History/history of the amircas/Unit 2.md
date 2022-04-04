@@ -57,6 +57,7 @@ People to know:
 	 - Set up 3 peso minimum wage, Had land distribution spike to 1.2 million hecactres
 	 - *Had more radical policies than his predessesors.*
  - Lazaro Cardenas
+	 - was part of PNR
 	 - 
 
 Unit 2.5 ID Terms
@@ -82,6 +83,7 @@ David Alfaro Siqueiros
 [^1]:“no general can resist a cannon shot of fty thousand pesos”.
 [^2]:Community land for agriculture where individuals or individual families farm a specic portion of land.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjE5NzM4MywxMDU1MzE1NDQ3LC0xMD
-cyNTAwNzcsMTQwNzE5ODcyMiw1ODk1MTEzMjRdfQ==
+eyJoaXN0b3J5IjpbMTk0MTM1MTE1MywtMjgyMTk3MzgzLDEwNT
+UzMTU0NDcsLTEwNzI1MDA3NywxNDA3MTk4NzIyLDU4OTUxMTMy
+NF19
 -->
