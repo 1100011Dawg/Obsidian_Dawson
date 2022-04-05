@@ -108,6 +108,8 @@ Syndicate of Technical Workers, Painters and Sculptors
  - *Their works included the dailys turglle of people*
 
 Corridos
+ - **Mexico ballads, shared stories of revolution**
+ - *was another medium that Mexio used to comunicate*
 
 
 People to know:
