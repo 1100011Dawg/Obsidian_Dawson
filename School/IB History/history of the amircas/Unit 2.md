@@ -49,6 +49,8 @@ People to know:
  - Luis Morones
  - Jose Vasconcelos
  - Vicenta Lombardo
+	 - **Charsmatic marxist leader and founder of the CTM**
+	 - **
 - Cristeros
 - Emilio Portes Gil
 	 - **Was provetional presedent after Calle. Had more amible relationships with the catholic chcurch.**
