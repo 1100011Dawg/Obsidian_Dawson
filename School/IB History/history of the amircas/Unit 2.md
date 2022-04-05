@@ -22,6 +22,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
 	 - **Owners of haciendas, a spanish estate with plantiions, factories, or mines**
 	 - *Was a social class to itself, gneraly opressive to the people of mexico.*
  - Campesinos 
+	 - **They are the workers of m**
  - Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM)
  - PEMEX 
  - Mexican Revolutionary Party (PRM)
