@@ -3,7 +3,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
  - Confederación Regional de Obreros Mexicanos (CROM)
 	 - **Formed 1918 under Carranza, helped adress labour turmoil**
 	 - was lead by Luis Morones
-	 - *The controal from higher and *
+	 - *The controal from higher up stiffled the labour movemnt in mexico.*
  - Confederación de Trabajadores Mexicanos or CTM
 	 - **Orginization founded by marxist Vicente Lombardo, alternative of CROM**
 	 - *Advanced the mexican labour movment*
