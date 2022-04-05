@@ -25,8 +25,11 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
 	 - **They are the workers of mexico**
 	 - *They are the main driving force behind the labour mvoemnts*
  - Sindicato de Trabajadores Petroleros de la República Mexicana (STPRM)
-	 - ****
+	 - **The consolodation of mexican petroleum unions**
+	 - Helped by CTM
+	 - *would help in the nationalizing of oil*
  - PEMEX 
+	 - **S**
  - Mexican Revolutionary Party (PRM)
  - Cardenismo
 
