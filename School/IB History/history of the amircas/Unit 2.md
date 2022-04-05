@@ -116,6 +116,7 @@ Soldaderas
  - *The significanly contributed to the war(think o the logistics)*
 
 Jose Clemente Orozco
+ - **Begain carrer as car**
 
 Diego Rivera
 
