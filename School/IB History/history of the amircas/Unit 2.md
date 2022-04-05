@@ -100,6 +100,8 @@ People to know:
 Unit 2.5 ID Terms
 Events/Ideas to know: 
 Sindicato de Telefonistas de la República 
+ - **A large telephone workgers group, mainly by women**
+ - *Helped the womens movmenets in the *
 
 Syndicate of Technical Workers, Painters and Sculptors
 
