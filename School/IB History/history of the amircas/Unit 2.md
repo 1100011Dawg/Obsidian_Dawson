@@ -29,7 +29,9 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
 	 - Helped by CTM
 	 - *would help in the nationalizing of oil*
  - PEMEX 
-	 - **S**
+	 - **State run oil company founded by Cardenas**
+	 - The goog nehbor policy by us helped lift embargos
+	 - 
  - Mexican Revolutionary Party (PRM)
  - Cardenismo
 
