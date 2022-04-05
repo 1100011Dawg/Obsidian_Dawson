@@ -104,6 +104,7 @@ Sindicato de Telefonistas de la República
  - *Helped the womens movmenets in the future*
 
 Syndicate of Technical Workers, Painters and Sculptors
+ - ****
 
 Corridos
 
