@@ -47,10 +47,11 @@ People to know:
 		 - Set up national elections, won
 	 - sig:
  - Luis Morones
- - ****
+	 - **Was the leader of CROm, proposed president by calles**
 	 - Was proposed susseror by calles
 	 - Was the Crom leader
 	 - leaft mexico as not to be suspected
+	 - *although he was part of CROm the benefiets didn't trickle down to the workers*
  - Jose Vasconcelos
  - Vicenta Lombardo
 	 - **Charsmatic marxist leader and founder of the CTM**
