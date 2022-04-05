@@ -9,10 +9,11 @@
 	 - $Totalsales+Price*Quantity$
  - $Contribution per unit = priceperunit-varbostperunit$
  - $Totalcontribution=TotalRevenue-TVC$ or $contributionperunit*#unitssold$
+ - $Profit=Totalcontribution-Totalfixcosts$
 
 
 
  - ex:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU5NTYyODQsMzc1MzE0NjkyXX0=
+eyJoaXN0b3J5IjpbLTc0MDE5ODI3OCwzNzUzMTQ2OTJdfQ==
 -->
