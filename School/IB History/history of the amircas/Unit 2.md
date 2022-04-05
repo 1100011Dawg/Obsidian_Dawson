@@ -12,11 +12,11 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
 	 - Calles exicuted people that tried to assasinate obellero, making demonstration
 	 - *It furthered the conflict between the catholic church and the goverment*
  - Partido Nacional Revolucionario (PNR)
- - **founded by Calles**
+ - **founded by Calles elected Rubio**
 	 - Calles founded it. calles was known as jefe maxismo
-	 - 
+	 - *seems to be a group that extened calles power further*
  - Ejidos 
-	 - Cummonity land for agricultural, for small familes/ individuals[^2].
+	 - Cummonity land for agricultural, for small familes/ individuals[^2].**
  - Hacendados
 	 - **Owners of haciendas, a spanish estate with plantiions, factories, or mines**
 	 - *Was a social class to itself, gneraly opressive to the people of mexico.*
