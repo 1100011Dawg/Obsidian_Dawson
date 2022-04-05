@@ -47,6 +47,8 @@ People to know:
 		 - Set up national elections, won
 	 - sig:
  - Luis Morones
+	 - Was proposed susseror by calles
+	 - Was the CROm leader
  - Jose Vasconcelos
  - Vicenta Lombardo
 	 - **Charsmatic marxist leader and founder of the CTM**
