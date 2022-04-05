@@ -38,14 +38,14 @@ People to know:
 		 - Choose Calles over De Huearta for president
 		 - Got killed by sketch artist José de León Toral
  - Elias Calles
-	 - Obergos succsesors, went against cathlic church
+	 -** Obergos succsesors, went against cathlic church**
 		 - Calles favoured buisness over worker, leading workers to join the CTM from the CROM, marxists?
-		 - Wanted the end Church influnce
+		 - *Wanted the end Church influnce*
 - Adolfo de la Huerta
-	 - ****
+	 - **was finance minister declared that he was running for president**
 		 - Got rid of paucho Villa(retirement deal)
 		 - Set up national elections, won
-	 - 
+	 - *Was agasnt obregon though was defeated.*
  - Luis Morones
 	 - **Was the leader of CROm, proposed president by calles**
 	 - Was proposed susseror by calles
