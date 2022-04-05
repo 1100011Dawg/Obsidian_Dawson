@@ -50,7 +50,8 @@ People to know:
  - Jose Vasconcelos
  - Vicenta Lombardo
 	 - **Charsmatic marxist leader and founder of the CTM**
-	 - **
+	 - the ctm had 940,000 members at its peak
+	 - *The founding of the CTm seemed important for the deveolpment of the m*
 - Cristeros
 - Emilio Portes Gil
 	 - **Was provetional presedent after Calle. Had more amible relationships with the catholic chcurch.**
