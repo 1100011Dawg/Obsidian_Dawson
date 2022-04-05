@@ -124,7 +124,8 @@ Diego Rivera
  - *his art demonstrated the struckgle betwen facism and democracy*
 
 David Alfaro Siqueiros
- - **Tried to defin a new post**
+ - **Tried to defin a new post-revolrutionary Mexico throug art**
+ - *was part of team that founded Syndicate of ..*
 
 
 #### Additional Information:
