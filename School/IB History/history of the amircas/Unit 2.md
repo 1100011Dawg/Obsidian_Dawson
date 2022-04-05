@@ -31,8 +31,10 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
  - PEMEX 
 	 - **State run oil company founded by Cardenas**
 	 - The goog nehbor policy by us helped lift embargos
-	 - 
+	 - *One of the main nationaliztion by mexico*
  - Mexican Revolutionary Party (PRM)
+	 - was formed by cardenas
+	 - **
  - Cardenismo
 
 People to know:
