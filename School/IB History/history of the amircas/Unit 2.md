@@ -120,9 +120,11 @@ Jose Clemente Orozco
  - *Depicted the struggles of mexican people*
 
 Diego Rivera
- - **was a important muralist **
+ - **was a important muralist, later depicted US imperlism**
+ - *his art demonstrated the struckgle betwen facism and democracy*
 
 David Alfaro Siqueiros
+ - 
 
 
 #### Additional Information:
