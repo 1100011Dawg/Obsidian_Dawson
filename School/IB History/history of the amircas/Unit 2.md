@@ -116,7 +116,8 @@ Soldaderas
  - *The significanly contributed to the war(think o the logistics)*
 
 Jose Clemente Orozco
- - **Begain carrer as car**
+ - **Begain carrer as cartoonist, was a muralist**
+ - *Depicted the struggles of mexican people*
 
 Diego Rivera
 
