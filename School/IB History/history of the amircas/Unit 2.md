@@ -41,7 +41,7 @@ People to know:
 	 - Obergos succsesors, went against cathlic church
 		 - Calles favoured buisness over worker, leading workers to join the CTM from the CROM, marxists?
 		 - Wanted the end Church influnce
- - Adolfo de la Huerta
+- Adolfo de la Huerta
 	 - is dude
 		 - Got rid of paucho Villa(retirement deal)
 		 - Set up national elections, won
@@ -50,9 +50,9 @@ People to know:
  - Jose Vasconcelos
  - Vicenta Lombardo
 - Cristeros
- - Emilio Portes Gil
+- Emilio Portes Gil
 	 - **Was provetional presedent after Calle. Had more amible relationships with the catholic chcurch.**
-		 - *Other than his relationship improvement with the catholic church there doesn seem to be too much of not in this textbook*
+	 - *Other than his relationship improvement with the catholic church there doesn seem to be too much of not in this textbook*
 - Ortiz Rubio
 	- **Choose by Calles/Obregón, but was shot in car. Had limited significance**
 	- *Not too much significance because he got shot.*
