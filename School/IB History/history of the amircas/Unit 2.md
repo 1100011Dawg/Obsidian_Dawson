@@ -55,7 +55,7 @@ People to know:
 - Cristeros
 	- **Rebersls who fout the goverment as repersentives of the Catholic chruch**
 	- numbed over 10,000
-	- **
+	- *Emerged as small pockets of violence*
 - Emilio Portes Gil
 	 - **Was provetional presedent after Calle. Had more amible relationships with the catholic chcurch.**
 	 - *Other than his relationship improvement with the catholic church there doesn seem to be too much of not in this textbook*
