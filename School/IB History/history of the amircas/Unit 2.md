@@ -2,9 +2,11 @@ Unit 2.4 ID Terms
 Events/Ideas to know: (my def, optional textbook copy paste footnote, significance)
  - Confederación Regional de Obreros Mexicanos (CROM)
 	 - **Formed 1918 under Carranza, helped adress labour turmoil**
-	 - was elad by Luis Morones
+	 - was lead by Luis Morones
+	 - *The controal from higher and *
  - Confederación de Trabajadores Mexicanos or CTM
 	 - **Orginization founded by marxist Vicente Lombardo, alternative of CROM**
+	 - *Advanced the mexican labour movment*
  - Cristero Rebellion
 	 - **Was strike by cathlic church for three years agast Calles**
 	 - Calles exicuted people that tried to assasinate obellero, making demonstration
