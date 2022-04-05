@@ -37,7 +37,7 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
 	 - *would by become part of the future of mexico*
  - Cardenismo
 	 - **the populist ideas of cardenas**
-	 - **
+	 - *helped pay back the sacrafices rebels made for 1917 constitution*
 
 People to know:
  - General Alvaro Obregon
@@ -50,7 +50,7 @@ People to know:
 		 - Choose Calles over De Huearta for president
 		 - Got killed by sketch artist José de León Toral
  - Elias Calles
-	 -** Obergos succsesors, went against cathlic church**
+	 - **Obergos succsesors, went against cathlic church**
 		 - Calles favoured buisness over worker, leading workers to join the CTM from the CROM, marxists?
 		 - *Wanted the end Church influnce*
 - Adolfo de la Huerta
