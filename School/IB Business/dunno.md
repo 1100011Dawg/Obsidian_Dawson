@@ -7,11 +7,12 @@
 	 - Cost center(hr not directly make profit)
  - Total revenu
 	 - $Totalsales+Price*Quantity$
- - Contribution per unit = priceperunit-varbostperu
+ - $Contribution per unit = priceperunit-varbostperunit$
+ - $Totalcontribution=TotalRevenue-TVC$ or $contributionperunit*#unitssold$
 
 
 
  - ex:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDI1MzgyMSwzNzUzMTQ2OTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDU5NTYyODQsMzc1MzE0NjkyXX0=
 -->
