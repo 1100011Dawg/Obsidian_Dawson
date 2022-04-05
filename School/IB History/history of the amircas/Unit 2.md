@@ -33,9 +33,11 @@ Events/Ideas to know: (my def, optional textbook copy paste footnote, significan
 	 - The goog nehbor policy by us helped lift embargos
 	 - *One of the main nationaliztion by mexico*
  - Mexican Revolutionary Party (PRM)
-	 - was formed by cardenas
-	 - **
+	 - **was formed by cardenas****
+	 - *would by become part of the future of mexico*
  - Cardenismo
+	 - **the populist ideas of cardenas**
+	 - **
 
 People to know:
  - General Alvaro Obregon
