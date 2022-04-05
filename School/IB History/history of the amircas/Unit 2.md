@@ -104,7 +104,8 @@ Sindicato de Telefonistas de la República
  - *Helped the womens movmenets in the future*
 
 Syndicate of Technical Workers, Painters and Sculptors
- - ****
+ - **Founded by Orozco, Rivera, and Siqueiro mural workers, created offifical mexican communist party paper**
+ - *Their works included the dailys turglle of people*
 
 Corridos
 
