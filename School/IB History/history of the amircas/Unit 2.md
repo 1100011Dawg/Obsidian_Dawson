@@ -56,15 +56,15 @@ People to know:
 - Ortiz Rubio
 	- **Choose by Calles/Obregón, but was shot in car. Had limited significance**
 	- *Not too much significance because he got shot.*
- - Alberto J. Pani
+- Alberto J. Pani
 	 - **Was ambassador to france, returned to the office of Finance Minister**
 	 - Made silver coins
 	 - *Helped eased the financial woes of Mexico.*
- - Abelardo Rodriguez
+- Abelardo Rodriguez
 	 - **Set up minimum wage, had more land distribution**
 	 - Set up 3 peso minimum wage, Had land distribution spike to 1.2 million hecactres
 	 - *Had more radical policies than his predessesors.*
- - Lazaro Cardenas
+- Lazaro Cardenas
 	 - **Went against calles loyalist, was president, had more radical policies**
 	 - was part of PNR
 	 - cut his salary in half, and spent 500 days on thre road visiting the people of mexico
