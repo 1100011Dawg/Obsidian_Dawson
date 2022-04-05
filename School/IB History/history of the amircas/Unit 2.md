@@ -42,10 +42,10 @@ People to know:
 		 - Calles favoured buisness over worker, leading workers to join the CTM from the CROM, marxists?
 		 - Wanted the end Church influnce
 - Adolfo de la Huerta
-	 - is dude
+	 - ****
 		 - Got rid of paucho Villa(retirement deal)
 		 - Set up national elections, won
-	 - sig:
+	 - 
  - Luis Morones
 	 - **Was the leader of CROm, proposed president by calles**
 	 - Was proposed susseror by calles
