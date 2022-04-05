@@ -67,7 +67,7 @@ People to know:
  - Jose Vasconcelos
 	 - **Was in charge of eduction by Obregon**
 	 - believed indians population was a hinderance
-	 - **
+	 - *built many schools and libraries*
  - Vicenta Lombardo
 	 - **Charsmatic marxist leader and founder of the CTM**
 	 - the ctm had 940,000 members at its peak
