@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Free writes/free write.md",
+            "file": "School/IB History/history of the amircas/Unit 2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Free writes/free write.md",
+                "file": "School/IB History/history of the amircas/Unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Free writes/free write.md",
+                "file": "School/IB History/history of the amircas/Unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Free writes/free write.md"
+                "file": "School/IB History/history of the amircas/Unit 2.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
+    "School/IB History/history of the amircas/Unit 2.md",
     "Personal/Free writes/free write.md",
     "Personal/Track.md",
     "Personal/Improvements.md",
@@ -155,7 +156,6 @@
     "School/IB History/Cold war game theory/Loans.md",
     "School/IB History/Cold war game theory/Outlines.md",
     "School/IB Business/Unite 4.5(22-2-07).md",
-    "School/IB Business/Unit 4.1(21-12-13).md",
-    "School/IB Business/Unit 4.4(22-8-21).md"
+    "School/IB Business/Unit 4.1(21-12-13).md"
   ]
 }
