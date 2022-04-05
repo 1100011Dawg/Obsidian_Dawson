@@ -124,7 +124,7 @@ Diego Rivera
  - *his art demonstrated the struckgle betwen facism and democracy*
 
 David Alfaro Siqueiros
- - 
+ - **Tried to defin a new post**
 
 
 #### Additional Information:
