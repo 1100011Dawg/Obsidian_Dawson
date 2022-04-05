@@ -3,8 +3,11 @@
  - Semi-Varible costs: carectoristics of both
  - Direct costs: costs that are directly associated with the product(raw materials)
 	 -	 Profit center(saleesman makes profit)	
- - Cost center(hr not directly make profit)
+ -	Inderiect(recuring costs)
+	 - Cost center(hr not directly make profit)
+ - Total revenu
+	 - $Totalsales+Price*Quantity$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNjIxMTI0XX0=
+eyJoaXN0b3J5IjpbMzc1MzE0NjkyXX0=
 -->
