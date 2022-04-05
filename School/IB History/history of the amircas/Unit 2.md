@@ -65,6 +65,9 @@ People to know:
 	 - leaft mexico as not to be suspected
 	 - *although he was part of CROm the benefiets didn't trickle down to the workers*
  - Jose Vasconcelos
+	 - **Was in charge of eduction by Obregon**
+	 - believed indians population was a hinderance
+	 - **
  - Vicenta Lombardo
 	 - **Charsmatic marxist leader and founder of the CTM**
 	 - the ctm had 940,000 members at its peak
