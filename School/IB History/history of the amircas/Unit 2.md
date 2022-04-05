@@ -108,7 +108,8 @@ Corridos
 
 People to know:
 Soldaderas
- - **followe**
+ - **followed men around battle field to battlefied doing a varity of tasks**
+ - *The significanly contributed to the war(think o the logistics)*
 
 Jose Clemente Orozco
 
