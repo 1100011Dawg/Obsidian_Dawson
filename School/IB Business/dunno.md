@@ -10,10 +10,12 @@
  - $Contribution per unit = priceperunit-varbostperunit$
  - $Totalcontribution=TotalRevenue-TVC$ or $contributionperunit*#unitssold$
  - $Profit=Totalcontribution-Totalfixcosts$
+ - 
 
 
 
  - ex:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDE5ODI3OCwzNzUzMTQ2OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MTAwNzA1NTksLTc0MDE5ODI3OCwzNz
+UzMTQ2OTJdfQ==
 -->
