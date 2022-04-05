@@ -120,6 +120,7 @@ Jose Clemente Orozco
  - *Depicted the struggles of mexican people*
 
 Diego Rivera
+ - **was a important muralist **
 
 David Alfaro Siqueiros
 
