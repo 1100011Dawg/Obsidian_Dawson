@@ -7,7 +7,11 @@
 	 - Cost center(hr not directly make profit)
  - Total revenu
 	 - $Totalsales+Price*Quantity$
+ - Contribution per unit = priceperunit-varbostperu
 
+
+
+ - ex:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MzE0NjkyXX0=
+eyJoaXN0b3J5IjpbMTIzNDI1MzgyMSwzNzUzMTQ2OTJdfQ==
 -->
