@@ -53,7 +53,9 @@ People to know:
 	 - the ctm had 940,000 members at its peak
 	 - *The founding of the CTm seemed important for the deveolpment of the mexican labour rights.*
 - Cristeros
-	- **Rebersls who fout the goverment as repersentives of the Catholic chruc**
+	- **Rebersls who fout the goverment as repersentives of the Catholic chruch**
+	- numbed over 10,000
+	- **
 - Emilio Portes Gil
 	 - **Was provetional presedent after Calle. Had more amible relationships with the catholic chcurch.**
 	 - *Other than his relationship improvement with the catholic church there doesn seem to be too much of not in this textbook*
