@@ -3,8 +3,10 @@
  - 
 
 
- - TO have a good sleep schedule: no eating after 8:30, at 9:30 get ready bed, 9:45 be in bed so at 10:15 I can sleep, wake up at 5:45(mabye move to 10:30 and 6:00) Generaly eat more and see salt 
+ - TO have a good sleep schedule: no eating after 8:30, at 9:30 get ready bed, 9:45 be in bed so at 10:15 I can sleep, wake up at 5:45(mabye move to 10:30 and 6:00) Generaly eat more and salt and see the diffrence in attidue(especialy with how much water I drink).
+ - Dealy bad activities by 30 minutes ofr implulse, purchaes by 1-2 weeks and short bad by 10 minutes.
+ - No Fun till all work down/time is after 7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM1MjQwNDEsMjI0MTM3Mzc3LC0xMj
-MzNTk0OTU4LDgzNzg1ODQ3N119
+eyJoaXN0b3J5IjpbMTU3MjQzNzA0MywyMjQxMzczNzcsLTEyMz
+M1OTQ5NTgsODM3ODU4NDc3XX0=
 -->
