@@ -12,10 +12,10 @@
   - shotput 34,7
  4-09-22
   - discus 111,10
-  - 
+  - shotput 32,4
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDU0NzQzMCw0NDkzMjc1MTYsMTIxNT
-A4MzY5MSwyMTM5OTQ4MjkwLC02Mzk2OTE0NzIsLTE2OTc4Mjk0
-ODFdfQ==
+eyJoaXN0b3J5IjpbNzg0OTY1MjY4LDQ0OTMyNzUxNiwxMjE1MD
+gzNjkxLDIxMzk5NDgyOTAsLTYzOTY5MTQ3MiwtMTY5NzgyOTQ4
+MV19
 -->
