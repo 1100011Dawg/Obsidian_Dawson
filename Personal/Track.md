@@ -10,8 +10,12 @@
  4-01-2
   - discus 92 something 
   - shotput 34,7
+ 4-09-22
+  - discus 111,10
+  - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MzI3NTE2LDEyMTUwODM2OTEsMjEzOT
-k0ODI5MCwtNjM5NjkxNDcyLC0xNjk3ODI5NDgxXX0=
+eyJoaXN0b3J5IjpbMTkzNDU0NzQzMCw0NDkzMjc1MTYsMTIxNT
+A4MzY5MSwyMTM5OTQ4MjkwLC02Mzk2OTE0NzIsLTE2OTc4Mjk0
+ODFdfQ==
 -->
