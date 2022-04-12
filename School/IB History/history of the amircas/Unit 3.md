@@ -1,5 +1,6 @@
 1.  Jose Marti:
-     - 
+     - He was a Cuban national hero during 1890s and the leader of the independce movemnt from spain with hid ideas leading to the formation of the auténtico party.
+     - His significance is that he seperate cuban 
 2.  Autentico Party:
     
 3.  Ortodox Party:
@@ -24,6 +25,5 @@
     
 13.  Cause of the USA embargo of Cuba:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDgxMzYyNDAsLTEwNTAyNDA1NjVdfQ
-==
+eyJoaXN0b3J5IjpbMTIwNTQxNjc2NSwtMTA1MDI0MDU2NV19
 -->
