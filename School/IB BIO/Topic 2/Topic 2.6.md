@@ -11,9 +11,11 @@
  - They are anti parrele
  - prokayrotic naked DNA(no histomes)
  - Nucleotide: a single unit eof a nucleic acid polymere: have phosphate group, 5-C sugar(either ribose of Deoxyribose) and a Nitrogous base
+ - Happens with a 5 to 3 prime direction.
+ - RNA is single stranded, DNA is duouble helix
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA0MzE1MjEsLTkwMjc0MDA5LDkxOT
-M3NzY1MiwtMjA4NjE4MjU1Niw0NTIyNDY1MjIsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTkwODQyNjcxOSwtOTAyNzQwMDksOTE5Mz
+c3NjUyLC0yMDg2MTgyNTU2LDQ1MjI0NjUyMiwtMjA4ODc0NjYx
+Ml19
 -->
