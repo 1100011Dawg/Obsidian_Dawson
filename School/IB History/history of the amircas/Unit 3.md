@@ -1,5 +1,5 @@
 1.  Jose Marti:
-    
+     - 
 2.  Autentico Party:
     
 3.  Ortodox Party:
@@ -24,5 +24,6 @@
     
 13.  Cause of the USA embargo of Cuba:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTE2NDgxMzYyNDAsLTEwNTAyNDA1NjVdfQ
+==
 -->
