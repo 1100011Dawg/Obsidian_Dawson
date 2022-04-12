@@ -8,7 +8,8 @@ pyrimedies have y
 purine: adenine and guanine
 paring: A to T, G to C
 They are anti parrele
+prokayrotic naked DNA(no histomes)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5Mzc3NjUyLC0yMDg2MTgyNTU2LDQ1Mj
-I0NjUyMiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTkwMjc0MDA5LDkxOTM3NzY1MiwtMjA4Nj
+E4MjU1Niw0NTIyNDY1MjIsLTIwODg3NDY2MTJdfQ==
 -->
