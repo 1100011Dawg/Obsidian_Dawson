@@ -12,11 +12,11 @@
  - prokayrotic naked DNA(no histomes)
  - Nucleotide: a single unit eof a nucleic acid polymere: have phosphate group, 5-C sugar(either ribose of Deoxyribose) and a Nitrogous base
  - Happens with a 5 to 3 prime direction.
- - RNA is single stranded, DNA is duouble helix(has hydrogen bonds between nucleic bases)
+ - RNA is single stranded, DNA is duouble helix(has hydrogen bonds between nucleic bases 2 or three bonds)
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjczMTY0OCwtOTAyNzQwMDksOTE5Mz
-c3NjUyLC0yMDg2MTgyNTU2LDQ1MjI0NjUyMiwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbNjY2MTg4OSwtOTAyNzQwMDksOTE5Mzc3Nj
+UyLC0yMDg2MTgyNTU2LDQ1MjI0NjUyMiwtMjA4ODc0NjYxMl19
+
 -->
