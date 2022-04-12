@@ -15,9 +15,10 @@
  - RNA is single stranded, DNA is duouble helix(has hydrogen bonds between nucleic bases 2 or three bonds)
  - telomeres are located in the end of eukaryote chromososms, prevent loss of important genes
 
+> DNA has phosphorus, proteins have sulter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4NjUzODkxLC05MDI3NDAwOSw5MTkzNz
+eyJoaXN0b3J5IjpbNzM4Njc3MDE2LC05MDI3NDAwOSw5MTkzNz
 c2NTIsLTIwODYxODI1NTYsNDUyMjQ2NTIyLC0yMDg4NzQ2NjEy
 XX0=
 -->
