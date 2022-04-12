@@ -3,7 +3,7 @@
      - His significance is that he seperate Cuba from spains influnce.
 2.  Autentico Party:
     - A party that called fro true authentic reforsm calling for a detatchment from the United States.
-    - This detachment has a significance of Cuba´s 
+    - This detachment has a significance of Cuba´s exporpriation of USA property, and 
 3.  Ortodox Party:
     
 4.  Fulgencio Batista:
@@ -26,5 +26,6 @@
     
 13.  Cause of the USA embargo of Cuba:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTMyMzMzOSwtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbLTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ
+==
 -->
