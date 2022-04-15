@@ -15,9 +15,12 @@
   - shotput 32,4
  4-15-22
   - shotput 32,something 
+
+notes:
+ - limit practice throws to 9
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTEyODczMDUsNzg0OTY1MjY4LDQ0OT
-MyNzUxNiwxMjE1MDgzNjkxLDIxMzk5NDgyOTAsLTYzOTY5MTQ3
-MiwtMTY5NzgyOTQ4MV19
+eyJoaXN0b3J5IjpbODE0NzYzNDM0LDc4NDk2NTI2OCw0NDkzMj
+c1MTYsMTIxNTA4MzY5MSwyMTM5OTQ4MjkwLC02Mzk2OTE0NzIs
+LTE2OTc4Mjk0ODFdfQ==
 -->
