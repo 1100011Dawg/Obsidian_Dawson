@@ -1,10 +1,4 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
-Brave password:winner conduct quick where open month abuse master cushion delay step fiscal
-
-
+ - ambiogousamphibian watch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzQzOTM2MF19
+eyJoaXN0b3J5IjpbMTIxNzI1MDAzMSwtNDAzNDM5MzYwXX0=
 -->
