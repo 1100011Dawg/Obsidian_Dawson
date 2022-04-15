@@ -10,8 +10,9 @@
  - $Contribution per unit = priceperunit-varbostperunit$
  - $Totalcontribution=TotalRevenue-TVC$ or $contributionperunit*#unitssold$
  - $Profit=Totalcontribution-Totalfixcosts$
- - $MarginofSafty= LevelofDemand-BreackEvenPoint$
+ - $MarginofSafty= LevelofDemand(current Ourput)-BreackEvenPoint$
  - $BreackEven=fixedcost/constributionPerUnit$
+ - 
 
 
 
@@ -19,5 +20,5 @@
 
  - ex:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMzM0MTMxXX0=
+eyJoaXN0b3J5IjpbLTg4NDMwMTg3OSw1MTEzMzQxMzFdfQ==
 -->
