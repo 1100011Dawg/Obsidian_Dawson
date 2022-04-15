@@ -6,7 +6,10 @@ Final Acounts three statements:
 Temrs:
  - relationship supplier yourself, have credit extended to you
  - 2/10 N/30 2% disc, 10 days Net 30 days
+
+Assets: items owned by a buisness
+ - Fixed assest: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTg2MDAwOCwxNDU3OTgyMDE1LC01Nz
-Y2OTY2MzNdfQ==
+eyJoaXN0b3J5IjpbMTcwMTA1NzgyOCwyMDY1ODYwMDA4LDE0NT
+c5ODIwMTUsLTU3NjY5NjYzM119
 -->
