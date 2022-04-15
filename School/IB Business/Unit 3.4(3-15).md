@@ -5,7 +5,8 @@ Final Acounts three statements:
 
 Temrs:
  - relationship supplier yourself, have credit extended to you
- - 
+ - 2/10 N/30 2% disc, 10 days Net 30 days
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Nzk4MjAxNSwtNTc2Njk2NjMzXX0=
+eyJoaXN0b3J5IjpbMjA2NTg2MDAwOCwxNDU3OTgyMDE1LC01Nz
+Y2OTY2MzNdfQ==
 -->
