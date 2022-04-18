@@ -61,10 +61,20 @@
 1. Unionism
 2. Oligarchic Parties
 3. Populism
-4. Juan
+4. Juan Peron
+5. Descamisados
+6. Caudillo
+7. Getúlio Vargas
+8. Estado Novo
+9. Clientelism
+3.3 Democracy in crisis
+10. Import Substitution Industrialization
+11. International Monetary Fund
+12. Agency for International Devlopment(USAID):
+13.   
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjM3MTEyMywxNDczOTAwNjczLC0xMz
-A1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbLTgxMzU0MDMsMTQ3MzkwMDY3MywtMTMwNT
+E4MTE0NywtMTA1MDI0MDU2NV19
 -->
