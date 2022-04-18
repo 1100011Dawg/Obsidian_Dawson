@@ -30,7 +30,8 @@
 	 - Castro wanted to produce a record amount of Zafra, though the target was not reached by Castro
     
 10.  Federation of Cuban Women (FMC):
-     - Was founded in 1961 by Vilman Espin, a gurilla figher 
+     - Was founded in 1961 by Vilman Espin, a gurilla figher in Sierra Maestra.
+     - Started by rehabilitating prostitutes but later convinced Castro of Womens equality. Wiorked on a familiy codes
 11.  Bay of Pigs:
     
 12.  Marxist-Leninists:
