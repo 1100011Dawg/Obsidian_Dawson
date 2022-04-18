@@ -65,7 +65,7 @@
  - Conservative political parties in Latin America, stemming from the late 19th centuary generally tied to land, agrarian or mining intrests
  - were supported by the army
 3. Populism
- - 
+ - Power Strategy used by leaders who reperesented the common people using emotional speeches and feelings of nationalism(Trump 2056)
 5. Juan Peron
 6. Descamisados
 7. Caudillo
@@ -80,6 +80,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTAwMTM1MiwtODEzNTQwMywxNDczOT
+eyJoaXN0b3J5IjpbMjAyMDUxMDU4NywtODEzNTQwMywxNDczOT
 AwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
