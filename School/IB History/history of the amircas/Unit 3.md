@@ -47,8 +47,24 @@
 | Traits | Peron | Vargas |
 |--|--|--|
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+3.2 ID Terms
+1. Unionism
+2. Oligarchic Parties
+3. Populism
+4. Juan
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDUwNTk2OCwxNDczOTAwNjczLC0xMz
+eyJoaXN0b3J5IjpbMTY2NjM3MTEyMywxNDczOTAwNjczLC0xMz
 A1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
