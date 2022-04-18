@@ -10,8 +10,9 @@
     
 4.  Fulgencio Batista:
 	 - He repressed election in 1952, and was gneraly looked down upon by the young people of the nation.
-	 -     He was the current power in place that 
+	 -     He was the current power in place that Fidel castro would seize power from.
 5.  Fidel Castro:
+	 - A charsmatic leader he was able to enter havan in january 1959, with his M-26-
     
 6.  26 of July Movement:
     
