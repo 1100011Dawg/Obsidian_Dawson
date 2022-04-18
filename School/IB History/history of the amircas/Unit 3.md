@@ -30,7 +30,7 @@
 	 - Castro wanted to produce a record amount of Zafra, though the target was not reached by Castro
     
 10.  Federation of Cuban Women (FMC):
-    
+     - 
 11.  Bay of Pigs:
     
 12.  Marxist-Leninists:
