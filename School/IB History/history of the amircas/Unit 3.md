@@ -22,6 +22,7 @@
 7.  Sierra Maestra:
     
 8.  Expropriation of USA Property:
+	 - The exporpraition of US porperty was value
     
 9.  Zafra:
     
