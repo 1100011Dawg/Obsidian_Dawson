@@ -46,16 +46,16 @@
 
 | Traits | Peron | Vargas |
 |--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Leader Background |  |  |
+| Rise to Power |  |  |
+| Ideology |  |  |
+| Treatment of Opposition |  |  |
+| Political Policies |  |  |
+| Economic Policies |  |  |
+| Social Policies |  |  |
+| Successes |  |  |
+| Failures |  |  |
+| My Analysis of Leader |  |  |
 
 3.2 ID Terms
 1. Unionism
@@ -80,6 +80,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDUxMDU4NywtODEzNTQwMywxNDczOT
-AwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMD
+Y3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
