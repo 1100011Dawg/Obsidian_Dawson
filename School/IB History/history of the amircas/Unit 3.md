@@ -41,6 +41,7 @@
 	 - This reflects Cuba getting closer to the soviet union.
     
 13.  Cause of the USA embargo of Cuba:
+ - it is conitnoing becasue of the Human Rights abuses of Cuba and the lack
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ
 ==
