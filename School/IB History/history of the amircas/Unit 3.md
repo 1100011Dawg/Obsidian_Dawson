@@ -33,6 +33,8 @@
      - Was founded in 1961 by Vilman Espin, a gurilla figher in Sierra Maestra.
      - Started by rehabilitating prostitutes but later convinced Castro of Womens equality. Wiorked on a familiy codes
 11.  Bay of Pigs:
+	 - A invation of Cuba with US support that was repelled by the Cuban People
+	 - It made Castro Wary of a =nother US attack
     
 12.  Marxist-Leninists:
     
