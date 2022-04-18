@@ -37,6 +37,8 @@
 	 - It made Castro Wary of a =nother US attack
     
 12.  Marxist-Leninists:
+	 - Someone who adheres to the communist principles of Karl Marx and Lenin
+	 - This reflects Cuba getting closer to the soviet union.
     
 13.  Cause of the USA embargo of Cuba:
 <!--stackedit_data:
