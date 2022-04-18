@@ -21,7 +21,7 @@
     
 7.  Sierra Maestra:
  - These were the mountais that the Castro Brothers and Che Guevara fled to.
- - Didn't 
+ - Didn't say significance in text
 8.  Expropriation of USA Property:
 	 - The exporpraition of US property was valued at 1 billion, whis soured relations with the US.
 	 - This souring of realtions with the US seems like a continual trwend in these kinda things.
