@@ -16,6 +16,7 @@
 	 - His calls to rteform and united his goverment with the communist party
     
 6.  26 of July Movement:
+	 - The attack was ill planned on the Moncada Barracks
     
 7.  Sierra Maestra:
     
