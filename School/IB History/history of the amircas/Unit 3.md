@@ -43,7 +43,12 @@
 13.  Cause of the USA embargo of Cuba:
  - it is conitnoing becasue of the Human Rights abuses of Cuba and the lack of democracy.
  - It seems like these measures wern't fully implemented
+
+| Traits | Peron | Vargas |
+|--|--|--|
+|  |  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMT
-A1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbMTgyMDUwNTk2OCwxNDczOTAwNjczLC0xMz
+A1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
