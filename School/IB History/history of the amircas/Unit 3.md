@@ -9,8 +9,8 @@
 	 - An important member iof this party was Fidel Castro, a charismatic young lawer.
     
 4.  Fulgencio Batista:
-    
-5.  Fidel Castro:
+	 -     
+1.  Fidel Castro:
     
 6.  26 of July Movement:
     
