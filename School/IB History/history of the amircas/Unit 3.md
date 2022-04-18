@@ -5,6 +5,7 @@
     - A party that called fro true authentic reforsm calling for a detatchment from the United States.
     - This detachment has a significance of Cuba´s exporpriation of USA property, and 
 3.  Ortodox Party:
+	 - A splinter party from the Autentico Party in 1947, fed up with govermnet corruption, had nationalistic ideas.
     
 4.  Fulgencio Batista:
     
