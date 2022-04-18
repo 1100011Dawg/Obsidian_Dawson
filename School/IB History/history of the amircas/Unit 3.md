@@ -26,6 +26,8 @@
 	 - This souring of realtions with the US seems like a continual trwend in these kinda things.
     
 9.  Zafra:
+	 - A spanish word meanding "sugar-cane harvest"
+	 - Castro wanted to produce a record amount of Zafra, though the target was not reached by Castro
     
 10.  Federation of Cuban Women (FMC):
     
