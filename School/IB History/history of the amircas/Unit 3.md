@@ -9,8 +9,9 @@
 	 - An important member iof this party was Fidel Castro, a charismatic young lawer.
     
 4.  Fulgencio Batista:
-	 -     
-1.  Fidel Castro:
+	 - He repressed election in 1952, and was gneraly looked down upon by the young people of the nation.
+	 -     He was the current power in place that 
+5.  Fidel Castro:
     
 6.  26 of July Movement:
     
