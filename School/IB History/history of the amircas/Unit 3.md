@@ -7,7 +7,6 @@
 3.  Ortodox Party:
 	 - A splinter party from the Autentico Party in 1947, fed up with govermnet corruption, had nationalistic ideas.
 	 - An important member iof this party was Fidel Castro, a charismatic young lawer.
-    
 4.  Fulgencio Batista:
 	 - He repressed election in 1952, and was gneraly looked down upon by the young people of the nation.
 	 -     He was the current power in place that Fidel castro would seize power from.
@@ -45,6 +44,6 @@
  - it is conitnoing becasue of the Human Rights abuses of Cuba and the lack of democracy.
  - It seems like these measures wern't fully implemented
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ
-==
+eyJoaXN0b3J5IjpbMTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMT
+A1MDI0MDU2NV19
 -->
