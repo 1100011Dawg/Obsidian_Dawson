@@ -66,8 +66,9 @@
  - were supported by the army
 3. Populism
  - Power Strategy used by leaders who reperesented the common people using emotional speeches and feelings of nationalism(Trump 2056)
-5. Juan Peron
-6. Descamisados
+4. Juan Peron
+5. Descamisados
+ - 
 7. Caudillo
 8. Getúlio Vargas
 9. Estado Novo
@@ -80,7 +81,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODk3OTQ5MiwtODg0Njc3OSwtODEzNT
+eyJoaXN0b3J5IjpbMTc5MTE5NTQ0OSwtODg0Njc3OSwtODEzNT
 QwMywxNDczOTAwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1
 XX0=
 -->
