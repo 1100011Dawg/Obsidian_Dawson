@@ -60,8 +60,10 @@
 3.2 ID Terms
 1. Unionism
  - Movement to encourage workers to join unions and become powerful political players.
+ - 
 2. Oligarchic Parties
- - Conservative political parties in Latin America, stemming from the late 19th centuary generally tied to la
+ - Conservative political parties in Latin America, stemming from the late 19th centuary generally tied to land, agrarian or mining intrests
+ - 
 4. Populism
 5. Juan Peron
 6. Descamisados
@@ -77,6 +79,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTY4MTQ0OSwtODEzNTQwMywxNDczOT
-AwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbLTE1MDA5OTgxNDcsLTgxMzU0MDMsMTQ3Mz
+kwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
