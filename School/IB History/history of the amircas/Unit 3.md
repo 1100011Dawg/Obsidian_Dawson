@@ -60,7 +60,7 @@
 3.2 ID Terms
 1. Unionism
  - Movement to encourage workers to join unions and become powerful political players.
- - 
+ - self explanitory importance
 2. Oligarchic Parties
  - Conservative political parties in Latin America, stemming from the late 19th centuary generally tied to land, agrarian or mining intrests
  - 
@@ -79,6 +79,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA5OTgxNDcsLTgxMzU0MDMsMTQ3Mz
-kwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbMjE0NDYwNDMzNiwtODEzNTQwMywxNDczOT
+AwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
