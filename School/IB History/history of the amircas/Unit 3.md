@@ -16,7 +16,8 @@
 	 - His calls to rteform and united his goverment with the communist party
     
 6.  26 of July Movement:
-	 - The attack was ill planned on the Moncada Barracks
+	 - The attack was ill planned on the Moncada Barracks, it was lead by Fidel Castro, he was exiled to Mexico.
+	 - This is the power base of Fidel Castro, and an important movemnt for their revolution.
     
 7.  Sierra Maestra:
     
