@@ -63,8 +63,9 @@
  - self explanitory importance
 2. Oligarchic Parties
  - Conservative political parties in Latin America, stemming from the late 19th centuary generally tied to land, agrarian or mining intrests
+ - were supported by the army
+3. Populism
  - 
-4. Populism
 5. Juan Peron
 6. Descamisados
 7. Caudillo
@@ -79,6 +80,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDYwNDMzNiwtODEzNTQwMywxNDczOT
+eyJoaXN0b3J5IjpbMTE4MTAwMTM1MiwtODEzNTQwMywxNDczOT
 AwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
