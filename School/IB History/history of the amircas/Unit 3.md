@@ -22,7 +22,8 @@
 7.  Sierra Maestra:
     
 8.  Expropriation of USA Property:
-	 - The exporpraition of US porperty was value
+	 - The exporpraition of US property was valued at 1 billion, whis soured relations with the US.
+	 - This souring of realtions with the US seems like a continual trwend in these kinda things.
     
 9.  Zafra:
     
