@@ -46,9 +46,9 @@
 
 | Traits | Peron | Vargas |
 |--|--|--|
-| Leader Background |  |  |
+| Leader Background | member of GOU, was army secretary, minister of labour, and 1944 war minister |  |
 | Rise to Power |  |  |
-| Ideology |  |  |
+| Ideology | He sided with the workers, orginizing strikes |  |
 | Treatment of Opposition |  |  |
 | Political Policies |  |  |
 | Economic Policies |  |  |
@@ -80,6 +80,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMD
-Y3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbMTU4MTI5MzIzMywtODg0Njc3OSwtODEzNT
+QwMywxNDczOTAwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1
+XX0=
 -->
