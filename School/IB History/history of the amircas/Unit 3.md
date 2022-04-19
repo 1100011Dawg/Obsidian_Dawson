@@ -52,7 +52,7 @@
 | Treatment of Opposition |  |  |
 | Political Policies |  |  |
 | Economic Policies |  |  |
-| Social Policies |  |  |
+| Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like |  |
 | Successes |  |  |
 | Failures |  |  |
 | My Analysis of Leader |  |  |
@@ -82,7 +82,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg5MTIwODksOTc2NTkyOTY3LC04OD
-Q2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODExNDcs
-LTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTYzMzM5MDc0MSw5NzY1OTI5NjcsLTg4ND
+Y3NzksLTgxMzU0MDMsMTQ3MzkwMDY3MywtMTMwNTE4MTE0Nywt
+MTA1MDI0MDU2NV19
 -->
