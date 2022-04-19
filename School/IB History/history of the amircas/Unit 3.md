@@ -51,7 +51,7 @@
 | Ideology | He sided with the workers, orginizing strikes |  |
 | Treatment of Opposition |  |  |
 | Political Policies |  |  |
-| Economic Policies |  |  |
+| Economic Policies | He implemented high tarifs to protect their industries , and manifacturing rose in percentage. |  |
 | Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like. He was also a good contributer to womens sufferage.  |  |
 | Successes |  |  |
 | Failures |  |  |
@@ -82,7 +82,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODg3MzIwOSw5NzY1OTI5NjcsLTg4ND
-Y3NzksLTgxMzU0MDMsMTQ3MzkwMDY3MywtMTMwNTE4MTE0Nywt
-MTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbLTExNTUwNzEwMTIsOTc2NTkyOTY3LC04OD
+Q2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODExNDcs
+LTEwNTAyNDA1NjVdfQ==
 -->
