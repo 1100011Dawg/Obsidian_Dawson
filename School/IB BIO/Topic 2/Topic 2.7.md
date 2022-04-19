@@ -17,6 +17,8 @@ Enzymes:
 DNA Replication:
  - DNA polymerase moves in a 5´ to 3´ direaction.(building, on the strands looks like 3-->5)
  - Cromosomes made up chomatine, with nucleasomes than DNA
+ - is semi onservative, so one strain of the orignal remains in each
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MTA3MzYxLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTczNDgwODg3NCw1MDYxMDczNjEsLTIwOD
+g3NDY2MTJdfQ==
 -->
