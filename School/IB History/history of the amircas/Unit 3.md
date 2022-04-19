@@ -69,7 +69,7 @@
 4. Juan Peron
 5. Descamisados
  - Spanish word of shirtless ones, who cań afford new clothing
- - Used by Eva Perón to refer to the poo
+ - Used by Eva Perón to refer to the poor
 7. Caudillo
 8. Getúlio Vargas
 9. Estado Novo
@@ -82,7 +82,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NTkyOTY3LC04ODQ2Nzc5LC04MTM1ND
-AzLDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLTEwNTAyNDA1NjVd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNDg5MTIwODksOTc2NTkyOTY3LC04OD
+Q2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODExNDcs
+LTEwNTAyNDA1NjVdfQ==
 -->
