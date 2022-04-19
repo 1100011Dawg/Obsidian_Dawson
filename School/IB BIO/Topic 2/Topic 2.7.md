@@ -5,7 +5,7 @@ Enzymes:
  - DNA Polymerase
 	 - Polymerase 3 goes on the leading strand, joins up oppisites
 	 - Polymersase 1 goes on lagging strand
-	 - have 3 phosphate than uses enegy to remove 2 p
+	 - have 3 phosphate than uses enegy to remove 2 phsophate and have the bond
  DNA
   - made up of nucleotieds(sugar, phospurus nitrogenous base)
   - pyramidines:thymine, cytosine
@@ -13,8 +13,8 @@ Enzymes:
   - 2 bonds A-T 3 bonds G-C
 
 DNA Replication:
- - DNA polymerase moves in a 5´ to 3´ direaction. 
+ - DNA polymerase moves in a 5´ to 3´ direaction.(building, on the strands looks like 3-->5)
  - Cromosomes made up chomatine, with nucleasomes than DNA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDQ5MjUwNywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTUxMzg5Njg4NywtMjA4ODc0NjYxMl19
 -->
