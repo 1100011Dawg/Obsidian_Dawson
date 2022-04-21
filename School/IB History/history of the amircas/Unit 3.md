@@ -49,12 +49,12 @@
 | Leader Background | member of GOU, was army secretary, minister of labour, and 1944 war minister |  |
 | Rise to Power | He one power by acclimation, ran by labour party for legitamecy |  |
 | Ideology | He sided with the workers, orginizing strikes |  |
-| Treatment of Opposition |  |  |
+| Treatment of Opposition | He became more and more athotarian, censored the press. |  |
 | Political Policies |  |  |
 | Economic Policies | He implemented high tarifs to protect their industries , and manifacturing rose in percentage. |  |
 | Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like. He was also a good contributer to womens sufferage.  |  |
 | Successes |  |  |
-| Failures | alienated soclists who had lost workers sup |  |
+| Failures | alienated soclists who had lost workers support as union leaders |  |
 | My Analysis of Leader |  |  |
 
 3.2 ID Terms
