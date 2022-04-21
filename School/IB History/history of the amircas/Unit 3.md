@@ -108,7 +108,8 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
 1.  Christian Democratic Party (PDC):
      - It was a moderate party, betwen the communist left and captalist right. 
 2.  Eduardo Frei:
-    
+     - Frei
+     - s demoemtic fpolicy included labour reforms, but his rule was plagued by miner s
 3.  Popular Unity/Unidad Popular (UP):
     
 4.  Mother Centers:
@@ -135,7 +136,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDEyMjAxNywtMTE1NTA3MTAxMiw5Nz
+eyJoaXN0b3J5IjpbMTY3ODEyNzQyNSwtMTE1NTA3MTAxMiw5Nz
 Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
 MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
