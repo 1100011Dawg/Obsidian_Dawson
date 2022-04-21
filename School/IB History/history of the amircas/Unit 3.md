@@ -73,22 +73,23 @@
 6. Caudillo
 - term used for a political leader of strongman, usauly with miitary orginas, authoritarin manner of rule.
 7. Getúlio Vargas
-8. Estado Novo
+ - 
+9. Estado Novo
  - authoritarian state in brazil 1937-1945, institutued by Geltulio vargas who ruled with dictorial powers
-9. Clientelism
+10. Clientelism
  - a political system that creas a dependence between supporters who provide fianaical/political support to polititions, while the politicains help them.
 3.3 Democracy in crisis
-10. Import Substitution Industrialization
+11. Import Substitution Industrialization
  - Economic program implemented by many latin american countries(1940-7) to deveolp manufacturing a indsutry
-11. International Monetary Fund
+12. International Monetary Fund
  - An internation orgination by the UN to mantain financial stability by loaning money to countries, obligies govemrnts to follow economc austerity measures.
-12. Agency for International Devlopment(USAID):
- - Foreign aid program created by kennedy admninistration 1961, to ensure basic hu
+13. Agency for International Devlopment(USAID):
+ - Foreign aid program created by kennedy admninistration 1961, to ensure basic human needs are met, to avoid socialist revoltion.
 14.   
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODM1OTM4MywtMTE1NTA3MTAxMiw5Nz
-Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
-MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbLTM0NzQ2Njc2LC0xMTU1MDcxMDEyLDk3Nj
+U5Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0x
+MzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
