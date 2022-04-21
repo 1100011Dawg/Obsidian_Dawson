@@ -117,9 +117,10 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
      - Process initiated by Presednet Eduardo Frei between chile and the Us for the gradual purchases by chile of 51% of the shares of US-owned copper companies.
      - Might relate to the mining strikes.
 6.  World Bank:
-     - UN financial instituation created b
+     - UN financial instituation created to lend money to deveopting nations, but also put financial/political power on them.
+     - Double edge sword
 7.  Inter-American Development Bank (IADB):
-    
+     - 
 8.  Salvador Allende
     
 9.  Shock Groups:
@@ -136,7 +137,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc3MzA3MDcsLTExNTUwNzEwMTIsOT
-c2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMs
-LTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbMTI4NzgyMDM4NiwtMTE1NTA3MTAxMiw5Nz
+Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
+MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
