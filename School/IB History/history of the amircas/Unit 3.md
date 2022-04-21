@@ -49,12 +49,12 @@
 | Leader Background | member of GOU, was army secretary, minister of labour, and 1944 war minister | He was partof a landowning familiy, was in the armyu but then went to study law. Joint the PRR. |
 | Rise to Power | He one power by acclimation, ran by labour party for legitamecy | he replaced Luis after his fall due to brazil going in the red. |
 | Ideology | He sided with the workers, orginizing strikes | He resented the power of politics. had the constitution have strong nationalism(no forigners can own land) |
-| Treatment of Opposition | He became more and more athotarian, censored the press. |  |
+| Treatment of Opposition | He became more and more athotarian, censored the press. | Simliar authoritarian rule compared to the arginian leader, suppresd the oligarcy |
 | Political Policies | He had a personality cuilt, he alsto had a anti church stance at the end. |  |
-| Economic Policies | He implemented high tarifs to protect their industries , and manifacturing rose in percentage. |  |
-| Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like. He was also a good contributer to womens sufferage.  |  |
-| Successes | Improved the working class and structures of argitina |  |
-| Failures | alienated soclists who had lost workers support as union leaders |  |
+| Economic Policies | He implemented high tarifs to protect their industries , and manifacturing rose in percentage. | He implemented more industrylization following the lead of other latina american coujtries |
+| Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like. He was also a good contributer to womens sufferage.  | implemented a minimum wage |
+| Successes | Improved the working class and structures of argitina | improve the brazilian power strucutre and had clsoer ties with america |
+| Failures | alienated soclists who had lost workers support as union leaders | had more authoritarian measures and a heavy sne |
 | My Analysis of Leader | Overall he seemed to improve society, but don so with authoritarian means |  |
 
 3.2 ID Terms
@@ -89,7 +89,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzQ2Njc2LC0xMTU1MDcxMDEyLDk3Nj
-U5Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0x
-MzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbLTE3MDMxMDA0NiwtMTE1NTA3MTAxMiw5Nz
+Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
+MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
