@@ -120,7 +120,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
      - UN financial instituation created to lend money to deveopting nations, but also put financial/political power on them.
      - Double edge sword
 7.  Inter-American Development Bank (IADB):
-     - 
+     - established(1959) trie to alleviate povery in laten america/carribian, providing grants/technical experience.
 8.  Salvador Allende
     
 9.  Shock Groups:
@@ -137,7 +137,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzgyMDM4NiwtMTE1NTA3MTAxMiw5Nz
-Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
-MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbLTEyMDM4MDczMDgsLTExNTUwNzEwMTIsOT
+c2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMs
+LTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
 -->
