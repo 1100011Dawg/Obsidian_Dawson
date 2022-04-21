@@ -50,7 +50,7 @@
 | Rise to Power | He one power by acclimation, ran by labour party for legitamecy |  |
 | Ideology | He sided with the workers, orginizing strikes |  |
 | Treatment of Opposition | He became more and more athotarian, censored the press. |  |
-| Political Policies |  |  |
+| Political Policies | He had a personality cuilt, he alsto had a anti church stance at the end. |  |
 | Economic Policies | He implemented high tarifs to protect their industries , and manifacturing rose in percentage. |  |
 | Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like. He was also a good contributer to womens sufferage.  |  |
 | Successes | Improved the working class and structures of argitina |  |
