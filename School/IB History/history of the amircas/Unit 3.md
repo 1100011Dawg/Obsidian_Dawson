@@ -53,7 +53,7 @@
 | Political Policies |  |  |
 | Economic Policies | He implemented high tarifs to protect their industries , and manifacturing rose in percentage. |  |
 | Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like. He was also a good contributer to womens sufferage.  |  |
-| Successes |  |  |
+| Successes | Improved the working class and structures of argitina |  |
 | Failures | alienated soclists who had lost workers support as union leaders |  |
 | My Analysis of Leader |  |  |
 
@@ -71,9 +71,10 @@
  - Spanish word of shirtless ones, who cań afford new clothing
  - Used by Eva Perón to refer to the poor
 7. Caudillo
-8. Getúlio Vargas
-9. Estado Novo
-10. Clientelism
+	 - term used for a political leader of strongman, usauly with miitary orginas, authoritarin manner of rule.
+1. Getúlio Vargas
+2. Estado Novo
+3. Clientelism
 3.3 Democracy in crisis
 11. Import Substitution Industrialization
 12. International Monetary Fund
