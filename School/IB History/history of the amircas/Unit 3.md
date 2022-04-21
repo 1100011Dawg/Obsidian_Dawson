@@ -89,15 +89,18 @@
 14.   
 
 3.4 
-
-
-![](https://lh5.googleusercontent.com/DvpB3fNjsqFaVo5RFGOEknbIpd6e_QbJNzK-Jj3C-wYa7wfQaATzqYTBu9V5U9WjKyFL4jR70OrObtNDx0rFXAfXeauiHQ_X33iMd0bJrg2nOhOjRVmeGvI2y_BMSQTtWJVX_mHf)
-
-![](https://lh6.googleusercontent.com/DpJxqXynZZc6qI-EQ_FJ4q_fB6SKR2beUtiESsmjRtFx1y-wjvXny0IOam-tjMFEv2NsJNiKHlO9Ku8IqaF7h0MXDvbnx96M6Cin4KA7M1KJXOVBrROALdkq4R4suGWI8qtiQED9)
-
-  
-
-Allende & Pinochet Graphic Organizer
+| Cosas | Allende | Pinochet |
+|--|--|--|
+| Leader Background |  |  |
+| Rise to power |  |  |
+| Ideology |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 
 Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
@@ -132,7 +135,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDAwNDMxODIsLTExNTUwNzEwMTIsOT
-c2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMs
-LTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbMTcyMjE3MDU3NCwtMTE1NTA3MTAxMiw5Nz
+Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
+MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
