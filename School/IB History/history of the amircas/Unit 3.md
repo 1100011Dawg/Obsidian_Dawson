@@ -88,9 +88,9 @@
  - Foreign aid program created by kennedy admninistration 1961, to ensure basic human needs are met, to avoid socialist revoltion.
 14.   
 
-
+3.4 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Mzc2NjcsLTExNTUwNzEwMTIsOTc2NT
-kyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEz
-MDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTE5MjMxNTMwLC0xMTU1MDcxMDEyLDk3Nj
+U5Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0x
+MzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
