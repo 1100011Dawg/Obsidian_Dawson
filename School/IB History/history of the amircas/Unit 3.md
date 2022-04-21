@@ -70,10 +70,11 @@
 5. Descamisados
  - Spanish word of shirtless ones, who cań afford new clothing
  - Used by Eva Perón to refer to the poor
-7. Caudillo
+6. Caudillo
 - term used for a political leader of strongman, usauly with miitary orginas, authoritarin manner of rule.
-8. Getúlio Vargas
-9. Estado Novo
+7. Getúlio Vargas
+8. Estado Novo
+ - authoritarian state in brazil 1937-1945, institutued by Geltulio vargas who ruled with dictorial powers
 10. Clientelism
 3.3 Democracy in crisis
 11. Import Substitution Industrialization
@@ -83,7 +84,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUwNzEwMTIsOTc2NTkyOTY3LC04OD
-Q2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODExNDcs
-LTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTk4MTE0NTU3LC0xMTU1MDcxMDEyLDk3Nj
+U5Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0x
+MzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
