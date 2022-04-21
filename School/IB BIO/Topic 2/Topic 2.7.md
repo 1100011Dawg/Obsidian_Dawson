@@ -18,7 +18,13 @@ DNA Replication:
  - DNA polymerase moves in a 5´ to 3´ direaction.(building, on the strands looks like 3-->5)
  - Cromosomes made up chomatine, with nucleasomes than DNA
  - is semi onservative, so one strain of the orignal remains in each
+
+PCR:
+ - PCR is a way of producitng large qualtites of RNA/DNA
+	 - denaturation, DNA is heated to seperate strands
+	 - Annealing, DNA primers attach to oppiste ends of target sequence
+	 - Elongation: a heat-tolerant DNA polyemrase(Taq) copies the strand)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDgwODg3NCw1MDYxMDczNjEsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE1OTE3NTM1MDIsMTczNDgwODg3NCw1MD
+YxMDczNjEsLTIwODg3NDY2MTJdfQ==
 -->
