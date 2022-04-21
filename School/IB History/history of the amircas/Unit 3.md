@@ -112,11 +112,12 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
 3.  Popular Unity/Unidad Popular (UP):
     
 4.  Mother Centers:
-     - Women's orginizsations in chi
+     - Women's orginizsations in chilean govmenrt in 1954 to support women by teaching houshold skills.(sewing)
 5.  Chileanization:
-    
+     - Process initiated by Presednet Eduardo Frei between chile and the Us for the gradual purchases by chile of 51% of the shares of US-owned copper companies.
+     - Might relate to the mining strikes.
 6.  World Bank:
-    
+     - UN financial instituation created b
 7.  Inter-American Development Bank (IADB):
     
 8.  Salvador Allende
@@ -135,7 +136,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MzYxOTEsLTExNTUwNzEwMTIsOTc2NT
-kyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEz
-MDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTEwNDc3MzA3MDcsLTExNTUwNzEwMTIsOT
+c2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMs
+LTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
 -->
