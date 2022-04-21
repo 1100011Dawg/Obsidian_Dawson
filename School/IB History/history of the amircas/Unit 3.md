@@ -50,12 +50,12 @@
 | Rise to Power | He one power by acclimation, ran by labour party for legitamecy | he replaced Luis after his fall due to brazil going in the red. |
 | Ideology | He sided with the workers, orginizing strikes | He resented the power of politics. had the constitution have strong nationalism(no forigners can own land) |
 | Treatment of Opposition | He became more and more athotarian, censored the press. | Simliar authoritarian rule compared to the arginian leader, suppresd the oligarcy |
-| Political Policies | He had a personality cuilt, he alsto had a anti church stance at the end. |  |
+| Political Policies | He had a personality cuilt, he alsto had a anti church stance at the end. | Had reform for the brazilain policis though he avoided the consittution. |
 | Economic Policies | He implemented high tarifs to protect their industries , and manifacturing rose in percentage. | He implemented more industrylization following the lead of other latina american coujtries |
 | Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like. He was also a good contributer to womens sufferage.  | implemented a minimum wage |
 | Successes | Improved the working class and structures of argitina | improve the brazilian power strucutre and had clsoer ties with america |
-| Failures | alienated soclists who had lost workers support as union leaders | had more authoritarian measures and a heavy sne |
-| My Analysis of Leader | Overall he seemed to improve society, but don so with authoritarian means |  |
+| Failures | alienated soclists who had lost workers support as union leaders | had more authoritarian measures and a heavy sence of nationlism, stunitng politcal growth. |
+| My Analysis of Leader | Overall he seemed to improve society, but don so with authoritarian means | Not as good as the other leader but provided non the less sufficent |
 
 3.2 ID Terms
 1. Unionism
@@ -67,13 +67,14 @@
 3. Populism
  - Power Strategy used by leaders who reperesented the common people using emotional speeches and feelings of nationalism(Trump 2056)
 4. Juan Peron
-5. Descamisados
+ - argintian leader that imp
+6. Descamisados
  - Spanish word of shirtless ones, who cań afford new clothing
  - Used by Eva Perón to refer to the poor
-6. Caudillo
+7. Caudillo
 - term used for a political leader of strongman, usauly with miitary orginas, authoritarin manner of rule.
-7. Getúlio Vargas
- - 
+8. Getúlio Vargas
+ - The brazilain leader begingin in 1930, was authrotian but has socil change
 9. Estado Novo
  - authoritarian state in brazil 1937-1945, institutued by Geltulio vargas who ruled with dictorial powers
 10. Clientelism
@@ -89,7 +90,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMxMDA0NiwtMTE1NTA3MTAxMiw5Nz
+eyJoaXN0b3J5IjpbLTYyMDY0ODM0MCwtMTE1NTA3MTAxMiw5Nz
 Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
 MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
