@@ -79,14 +79,16 @@
  - a political system that creas a dependence between supporters who provide fianaical/political support to polititions, while the politicains help them.
 3.3 Democracy in crisis
 10. Import Substitution Industrialization
- - Economic program implemented by many latin american countries(1940-7) to deveolp 
-12. International Monetary Fund
-13. Agency for International Devlopment(USAID):
+ - Economic program implemented by many latin american countries(1940-7) to deveolp manufacturing a indsutry
+11. International Monetary Fund
+ - An internation orgination by the UN to mantain financial stability by loaning money to countries, obligies govemrnts to follow economc austerity measures.
+12. Agency for International Devlopment(USAID):
+ - Foreign aid program created by kennedy admninistration 1961, to ensure basic hu
 14.   
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTkwMDIyNCwtMTE1NTA3MTAxMiw5Nz
+eyJoaXN0b3J5IjpbLTYxODM1OTM4MywtMTE1NTA3MTAxMiw5Nz
 Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
 MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
