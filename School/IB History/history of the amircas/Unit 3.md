@@ -48,7 +48,7 @@
 |--|--|--|
 | Leader Background | member of GOU, was army secretary, minister of labour, and 1944 war minister | He was partof a landowning familiy, was in the armyu but then went to study law. Joint the PRR. |
 | Rise to Power | He one power by acclimation, ran by labour party for legitamecy | he replaced Luis after his fall due to brazil going in the red. |
-| Ideology | He sided with the workers, orginizing strikes |  |
+| Ideology | He sided with the workers, orginizing strikes | He resented the power of politics. had the constitution have strong national |
 | Treatment of Opposition | He became more and more athotarian, censored the press. |  |
 | Political Policies | He had a personality cuilt, he alsto had a anti church stance at the end. |  |
 | Economic Policies | He implemented high tarifs to protect their industries , and manifacturing rose in percentage. |  |
@@ -71,10 +71,10 @@
  - Spanish word of shirtless ones, who cań afford new clothing
  - Used by Eva Perón to refer to the poor
 7. Caudillo
-	 - term used for a political leader of strongman, usauly with miitary orginas, authoritarin manner of rule.
-1. Getúlio Vargas
-2. Estado Novo
-3. Clientelism
+- term used for a political leader of strongman, usauly with miitary orginas, authoritarin manner of rule.
+8. Getúlio Vargas
+9. Estado Novo
+10. Clientelism
 3.3 Democracy in crisis
 11. Import Substitution Industrialization
 12. International Monetary Fund
