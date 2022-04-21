@@ -89,8 +89,50 @@
 14.   
 
 3.4 
+
+
+![](https://lh5.googleusercontent.com/DvpB3fNjsqFaVo5RFGOEknbIpd6e_QbJNzK-Jj3C-wYa7wfQaATzqYTBu9V5U9WjKyFL4jR70OrObtNDx0rFXAfXeauiHQ_X33iMd0bJrg2nOhOjRVmeGvI2y_BMSQTtWJVX_mHf)
+
+![](https://lh6.googleusercontent.com/DpJxqXynZZc6qI-EQ_FJ4q_fB6SKR2beUtiESsmjRtFx1y-wjvXny0IOam-tjMFEv2NsJNiKHlO9Ku8IqaF7h0MXDvbnx96M6Cin4KA7M1KJXOVBrROALdkq4R4suGWI8qtiQED9)
+
+  
+
+Allende & Pinochet Graphic Organizer
+
+
+Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
+
+1.  Christian Democratic Party (PDC):
+    
+2.  Eduardo Frei:
+    
+3.  Popular Unity/Unidad Popular (UP):
+    
+4.  Mother Centers:
+    
+5.  Chileanization:
+    
+6.  World Bank:
+    
+7.  Inter-American Development Bank (IADB):
+    
+8.  Salvador Allende
+    
+9.  Shock Groups:
+    
+10.  Supply & Price-control Committees/Juntas de Abastecimiento y Control de Precios (JAP):
+    
+11.  Escuela Nacional Unificada/National Unified School System (ENU):
+    
+12.  General Augusto Pinochet
+    
+13.  National Party (PDC):
+    
+14.  Chicago Boys:
+    
+15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMxNTMwLC0xMTU1MDcxMDEyLDk3Nj
-U5Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0x
-MzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbLTE1NDAwNDMxODIsLTExNTUwNzEwMTIsOT
+c2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMs
+LTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
 -->
