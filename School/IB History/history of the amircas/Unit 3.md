@@ -54,7 +54,7 @@
 | Economic Policies | He implemented high tarifs to protect their industries , and manifacturing rose in percentage. |  |
 | Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like. He was also a good contributer to womens sufferage.  |  |
 | Successes |  |  |
-| Failures |  |  |
+| Failures | alienated soclists who had lost workers sup |  |
 | My Analysis of Leader |  |  |
 
 3.2 ID Terms
