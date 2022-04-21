@@ -75,16 +75,18 @@
 7. Getúlio Vargas
 8. Estado Novo
  - authoritarian state in brazil 1937-1945, institutued by Geltulio vargas who ruled with dictorial powers
-10. Clientelism
+9. Clientelism
+ - a political system that creas a dependence between supporters who provide fianaical/political support to polititions, while the politicains help them.
 3.3 Democracy in crisis
-11. Import Substitution Industrialization
+10. Import Substitution Industrialization
+ - Economic program implemented by many latin american countries(1940-7) to deveolp 
 12. International Monetary Fund
 13. Agency for International Devlopment(USAID):
 14.   
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTE0NTU3LC0xMTU1MDcxMDEyLDk3Nj
-U5Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0x
-MzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbMTkxOTkwMDIyNCwtMTE1NTA3MTAxMiw5Nz
+Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
+MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
