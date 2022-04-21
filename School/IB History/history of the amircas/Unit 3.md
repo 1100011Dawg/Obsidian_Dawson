@@ -46,8 +46,8 @@
 
 | Traits | Peron | Vargas |
 |--|--|--|
-| Leader Background | member of GOU, was army secretary, minister of labour, and 1944 war minister | He was partof a landowning familiy, was in the armyu but then went to study law |
-| Rise to Power | He one power by acclimation, ran by labour party for legitamecy |  |
+| Leader Background | member of GOU, was army secretary, minister of labour, and 1944 war minister | He was partof a landowning familiy, was in the armyu but then went to study law. Joint the PRR. |
+| Rise to Power | He one power by acclimation, ran by labour party for legitamecy | he replaced Luis after his fall due to brazil going in the red. |
 | Ideology | He sided with the workers, orginizing strikes |  |
 | Treatment of Opposition | He became more and more athotarian, censored the press. |  |
 | Political Policies | He had a personality cuilt, he alsto had a anti church stance at the end. |  |
