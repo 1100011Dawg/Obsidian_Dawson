@@ -106,7 +106,7 @@
 Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
 
 1.  Christian Democratic Party (PDC):
-    
+     - It was a moderate party, betwen the communist left and captalist right. 
 2.  Eduardo Frei:
     
 3.  Popular Unity/Unidad Popular (UP):
@@ -135,7 +135,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Mjc4ODIyMiwtMTE1NTA3MTAxMiw5Nz
+eyJoaXN0b3J5IjpbLTEzNDEyMjAxNywtMTE1NTA3MTAxMiw5Nz
 Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
 MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
