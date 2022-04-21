@@ -67,7 +67,7 @@
 3. Populism
  - Power Strategy used by leaders who reperesented the common people using emotional speeches and feelings of nationalism(Trump 2056)
 4. Juan Peron
- - argintian leader that imp
+ - argintian leader that implemented union reform and labour reform by t whas authortarain.
 6. Descamisados
  - Spanish word of shirtless ones, who cań afford new clothing
  - Used by Eva Perón to refer to the poor
@@ -90,7 +90,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDY0ODM0MCwtMTE1NTA3MTAxMiw5Nz
-Y1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3Mywt
-MTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbLTU5Mzc2NjcsLTExNTUwNzEwMTIsOTc2NT
+kyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEz
+MDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
 -->
