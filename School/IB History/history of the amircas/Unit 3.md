@@ -55,7 +55,7 @@
 | Social Policies | He imporved the condition of the average Argitinian with housing projects, accsess to schools hospitals and the like. He was also a good contributer to womens sufferage.  |  |
 | Successes | Improved the working class and structures of argitina |  |
 | Failures | alienated soclists who had lost workers support as union leaders |  |
-| My Analysis of Leader |  |  |
+| My Analysis of Leader | Overall he seemed to improve society, but don so with authoritarian means |  |
 
 3.2 ID Terms
 1. Unionism
