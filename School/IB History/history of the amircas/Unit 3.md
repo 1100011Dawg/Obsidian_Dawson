@@ -130,16 +130,17 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
      - where nehibor hood price control comminites, involved in the distribtuion of basic food stuffs.
      - It seems that the USA funed truckers strike went against this system.
 11.  Escuela Nacional Unificada/National Unified School System (ENU):
-     - Unified National School sytem, created by Allende 
+     - Unified National School sytem, created by Allende went agsint the historical divistion of private and public schoools.
+     - This was met by vast critisim
 12.  General Augusto Pinochet
-    
+     - 
 13.  National Party (PDC):
     
 14.  Chicago Boys:
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTM4NTI2MiwtMTIwMzgwNzMwOCwtMT
+eyJoaXN0b3J5IjpbLTQyMDA4ODI5MiwtMTIwMzgwNzMwOCwtMT
 E1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMs
 MTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
