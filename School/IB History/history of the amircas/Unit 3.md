@@ -137,10 +137,12 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
 13.  National Party (PDC):
      - This was a block with the PDC becoming allied with the National party in oposition to Allende.
 14.  Chicago Boys:
-     - Male Chilean economists who had recivied degrees at the university of chicago, floowed Milton Friedman
+     - Male Chilean economists who had recivied degrees at the university of chicago, floowed Milton Friedman(neoliberal freemarket)
+     - resulted in inflation going from 500% to 8% per year and per capita income rising 2.5x
 15.  Dirección de Inteligencia Nacional (DINA):
+16. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzc0OTIwNywtMTIwMzgwNzMwOCwtMT
-E1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMs
-MTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbNjk1MjM2MTEwLC0xMjAzODA3MzA4LC0xMT
+U1MDcxMDEyLDk3NjU5Mjk2NywtODg0Njc3OSwtODEzNTQwMywx
+NDczOTAwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
