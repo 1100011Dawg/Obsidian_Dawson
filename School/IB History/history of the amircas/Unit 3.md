@@ -98,8 +98,8 @@
 | Political Policies | Enlarged govermental social services and nationlized industries. |  |
 | Economic Policies | The socilist policies and price fixing, and leaving of capital left the economy in a not good state |  |
 | Social Policies | Had implemented Agrarian reforsm, as well as a nationlized school system |  |
-| Successes | had moderate re |  |
-| Failures |  |  |
+| Successes | had moderate reform and teneed towrd socilist policies helping the poor. | managed to get inflaction from 500% to 8% per year |
+| Failures | The economy was in shambles with his policiy |  |
 |My Analysis|  |  |
 
 
@@ -143,7 +143,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
  - they found political personages, murdering people as far as the USA, some were graduates of the US counter-insurgency traing school.
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDYzNTUxMiwtMTI4NjU4NDk0MCwtMT
+eyJoaXN0b3J5IjpbLTQ4MzE2Mzk5NiwtMTI4NjU4NDk0MCwtMT
 IwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3
 NzksLTgxMzU0MDMsMTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMT
 A1MDI0MDU2NV19
