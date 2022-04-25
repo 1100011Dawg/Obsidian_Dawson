@@ -28,8 +28,10 @@ PCR:
 Trasncrpition:
  - Exons: spliced together
  - Erons: splieced out
- - tRNA crries amino acid to mRNA
+ - Transction: in the nucleos, the gene sequence is copied to mRNA(U replaces T)
+ 
+ Translation: a protein making machenray, called t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDEyNTAxOSwxNzM0ODA4ODc0LDUwNj
-EwNzM2MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTMyNTY4MjAzMCwtNTU0MTI1MDE5LDE3Mz
+Q4MDg4NzQsNTA2MTA3MzYxLC0yMDg4NzQ2NjEyXX0=
 -->
