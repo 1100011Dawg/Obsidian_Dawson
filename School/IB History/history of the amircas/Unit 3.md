@@ -127,9 +127,10 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
      - Armed band of extreme political parties, who supported political demonstrations and engaged n violence with opposing groups.
      - It seems that this is reflective of the time. 
 10.  Supply & Price-control Committees/Juntas de Abastecimiento y Control de Precios (JAP):
-     - where nehibor hood price 
+     - where nehibor hood price control comminites, involved in the distribtuion of basic food stuffs.
+     - It seems that the USA funed truckers strike went against this system.
 11.  Escuela Nacional Unificada/National Unified School System (ENU):
-    
+     - Unified National School sytem, created by Allende 
 12.  General Augusto Pinochet
     
 13.  National Party (PDC):
@@ -138,7 +139,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTA4ODQ3MiwtMTIwMzgwNzMwOCwtMT
+eyJoaXN0b3J5IjpbLTc4NTM4NTI2MiwtMTIwMzgwNzMwOCwtMT
 E1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMs
 MTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
