@@ -100,7 +100,7 @@
 | Social Policies | Had implemented Agrarian reforsm, as well as a nationlized school system | Went against many of the previous social policies, though did use women |
 | Successes | had moderate reform and teneed towrd socilist policies helping the poor. | managed to get inflaction from 500% to 8% per year |
 | Failures | The economy was in shambles with his policiy | His authoritarian contraol although was a success for him seemed like a failure nonehteless |
-|My Analysis|  |  |
+|My Analysis| Generally good socilist but wreckted the economy, and had some prety heavy handed policies | Did recover the economy but the cost of an authroitarian regeime might be too high. |
 
 
 Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
@@ -110,7 +110,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
 2.  Eduardo Frei:
      - Frei' s demoemtic fpolicy included labour reforms, but his rule was plagued by miner strikess and education strikes.
 3.  Popular Unity/Unidad Popular (UP):
-    
+     - 
 4.  Mother Centers:
      - Women's orginizsations in chilean govmenrt in 1954 to support women by teaching houshold skills.(sewing)
 5.  Chileanization:
@@ -143,8 +143,8 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
  - they found political personages, murdering people as far as the USA, some were graduates of the US counter-insurgency traing school.
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjYxMDczMywtNDgzMTYzOTk2LC0xMj
-g2NTg0OTQwLC0xMjAzODA3MzA4LC0xMTU1MDcxMDEyLDk3NjU5
-Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0xMz
-A1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbNjUwODA3NTE4LC00ODMxNjM5OTYsLTEyOD
+Y1ODQ5NDAsLTEyMDM4MDczMDgsLTExNTUwNzEwMTIsOTc2NTky
+OTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMD
+UxODExNDcsLTEwNTAyNDA1NjVdfQ==
 -->
