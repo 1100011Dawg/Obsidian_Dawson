@@ -29,12 +29,13 @@ Trasncrpition:
  - Exons: spliced together
  - Erons: splieced out
  - Transction: in the nucleos, the gene sequence is copied to mRNA(U replaces T)
+ - hppens 5 to 3 prime direction
  
  
  Translation: The ribosome makes proteins by reading the mRNA translating to amino acids. their are start/stop codons( AUG, and UAA/UAG/UGA respectivly
- 
+  - 
 > three type RNA: mRNA(messenger), tRNA(transfer amino acid), rRNA(ribosomes RNA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM4Mzk2NDcsLTU1NDEyNTAxOSwxNz
-M0ODA4ODc0LDUwNjEwNzM2MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbOTAyMjAxMjcyLC01NTQxMjUwMTksMTczND
+gwODg3NCw1MDYxMDczNjEsLTIwODg3NDY2MTJdfQ==
 -->
