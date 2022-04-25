@@ -24,7 +24,12 @@ PCR:
 	 - denaturation, DNA is heated to seperate strands
 	 - Annealing, DNA primers attach to oppiste ends of target sequence
 	 - Elongation: a heat-tolerant DNA polyemrase(Taq) copies the strand)
+
+Trasncrpition:
+ - Exons: spliced together
+ - Erons: splieced out
+ - tRNA crries amino acid to mRNA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE3NTM1MDIsMTczNDgwODg3NCw1MD
-YxMDczNjEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTU1NDEyNTAxOSwxNzM0ODA4ODc0LDUwNj
+EwNzM2MSwtMjA4ODc0NjYxMl19
 -->
