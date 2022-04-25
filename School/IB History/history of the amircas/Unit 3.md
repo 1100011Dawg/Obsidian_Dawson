@@ -95,11 +95,11 @@
 | Rise to power | Got elected by popular vote in the 1970 elections | Threw a coup withc resulted in Allende death. |
 | Ideology | Generally had socialist tendencies, wanted deep change. | Was very authoritiarin but had a neoliberal policy iwth chicago boys. |
 | Treatment of Opposition | Didn't seem to do anything outrageos | (To the Gulag) harchly persicueted the opition with his DINA, with 100000 murders |
-| Political Policies | Enlarged govermental social services and nationlized industries. |  |
-| Economic Policies | The socilist policies and price fixing, and leaving of capital left the economy in a not good state |  |
-| Social Policies | Had implemented Agrarian reforsm, as well as a nationlized school system |  |
+| Political Policies | Enlarged govermental social services and nationlized industries. | The constrant state of state of siege and curfews was authoritarin at it's finist |
+| Economic Policies | The socilist policies and price fixing, and leaving of capital left the economy in a not good state | The neoliberal policies of the Chicago Boys recoverdd the economy |
+| Social Policies | Had implemented Agrarian reforsm, as well as a nationlized school system | Went against many of the previous social policies, though did use women |
 | Successes | had moderate reform and teneed towrd socilist policies helping the poor. | managed to get inflaction from 500% to 8% per year |
-| Failures | The economy was in shambles with his policiy |  |
+| Failures | The economy was in shambles with his policiy | His authoritarian contraol although was a success for him seemed like a failure nonehteless |
 |My Analysis|  |  |
 
 
@@ -143,7 +143,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
  - they found political personages, murdering people as far as the USA, some were graduates of the US counter-insurgency traing school.
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTQ4OTIwOCwtNDgzMTYzOTk2LC0xMj
+eyJoaXN0b3J5IjpbMTk1MjYxMDczMywtNDgzMTYzOTk2LC0xMj
 g2NTg0OTQwLC0xMjAzODA3MzA4LC0xMTU1MDcxMDEyLDk3NjU5
 Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0xMz
 A1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
