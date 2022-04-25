@@ -124,9 +124,10 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
 8.  Salvador Allende
      - Wanted to build socialism in Chile. He nationlized industries, and enlarged govment services. 
 9.  Shock Groups:
-    
+     - Armed band of extreme political parties, who supported political demonstrations and engaged n violence with opposing groups.
+     - It seems that this is reflective of the time. 
 10.  Supply & Price-control Committees/Juntas de Abastecimiento y Control de Precios (JAP):
-    
+     - where nehibor hood price 
 11.  Escuela Nacional Unificada/National Unified School System (ENU):
     
 12.  General Augusto Pinochet
@@ -137,8 +138,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ5NzY4NjQsLTEyMDM4MDczMDgsLT
-ExNTUwNzEwMTIsOTc2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAz
-LDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ
-==
+eyJoaXN0b3J5IjpbLTUwMTA4ODQ3MiwtMTIwMzgwNzMwOCwtMT
+E1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMs
+MTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
