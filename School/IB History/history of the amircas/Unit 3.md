@@ -91,10 +91,10 @@
 3.4 
 | Cosas | Allende | Pinochet |
 |--|--|--|
-| Leader Background | Leader of the leftist colatition Poular Unity |  |
-| Rise to power | Got elected by popular vote in the 1970 elections |  |
-| Ideology | Generally had socialist tendencies, wanted deep change. |  |
-| Treatment of Opposition | Didn't seem to do anything outrageos | (To the Gulag) harchly persicueted the opition with his DINA |
+| Leader Background | Leader of the leftist colatition Poular Unity | Seemed to have a miltary background |
+| Rise to power | Got elected by popular vote in the 1970 elections | Threw a coup withc resulted in Allende death. |
+| Ideology | Generally had socialist tendencies, wanted deep change. | Was very authoritiarin but had a neoliberal policy iwth chicago boys. |
+| Treatment of Opposition | Didn't seem to do anything outrageos | (To the Gulag) harchly persicueted the opition with his DINA, with 100000 murders |
 | Political Policies | Enlarged govermental social services and nationlized industries. |  |
 | Economic Policies | The socilist policies and price fixing, and leaving of capital left the economy in a not good state |  |
 | Social Policies | Had implemented Agrarian reforsm, as well as a nationlized school system |  |
@@ -143,8 +143,8 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
  - they found political personages, murdering people as far as the USA, some were graduates of the US counter-insurgency traing school.
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzE2Mzk5NiwtMTI4NjU4NDk0MCwtMT
-IwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3
-NzksLTgxMzU0MDMsMTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMT
-A1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbMTAxNTQ4OTIwOCwtNDgzMTYzOTk2LC0xMj
+g2NTg0OTQwLC0xMjAzODA3MzA4LC0xMTU1MDcxMDEyLDk3NjU5
+Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0xMz
+A1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
