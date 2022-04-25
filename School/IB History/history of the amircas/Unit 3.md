@@ -140,9 +140,11 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
      - Male Chilean economists who had recivied degrees at the university of chicago, floowed Milton Friedman(neoliberal freemarket)
      - resulted in inflation going from 500% to 8% per year and per capita income rising 2.5x
 15.  Dirección de Inteligencia Nacional (DINA):
- - they found 
+ - they found political personages, murdering people as far as the USA, some were graduates of the US counter-insurgency traing school.
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDY4NTE0LC0xMjAzODA3MzA4LC0xMT
-U1MDcxMDEyLDk3NjU5Mjk2NywtODg0Njc3OSwtODEzNTQwMywx
-NDczOTAwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbLTEyODY1ODQ5NDAsLTEyMDM4MDczMDgsLT
+ExNTUwNzEwMTIsOTc2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAz
+LDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ
+==
 -->
