@@ -91,12 +91,12 @@
 3.4 
 | Cosas | Allende | Pinochet |
 |--|--|--|
-| Leader Background | Leader of the leftist |  |
+| Leader Background | Leader of the leftist colatition Poular Unity |  |
 | Rise to power | Got elected by popular vote in the 1970 elections |  |
-| Ideology |  |  |
+| Ideology | Generally had socialist tendencies, wanted deep change. |  |
 | Treatment of Opposition |  |  |
-| Political Policies |  |  |
-| Economic Policies |  |  |
+| Political Policies | Enlarged govermental social services and nationlized industries. |  |
+| Economic Policies | The socilist policies and price fixing, and leaving of capital left the economy in a not good state |  |
 | Social Policies |  |  |
 | Successes |  |  |
 | Failures |  |  |
@@ -143,8 +143,8 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
  - they found political personages, murdering people as far as the USA, some were graduates of the US counter-insurgency traing school.
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQyMTQ2NzksLTEyODY1ODQ5NDAsLT
-EyMDM4MDczMDgsLTExNTUwNzEwMTIsOTc2NTkyOTY3LC04ODQ2
-Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLT
-EwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbMTI5NDYyMDcxNywtMTI4NjU4NDk0MCwtMT
+IwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3
+NzksLTgxMzU0MDMsMTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMT
+A1MDI0MDU2NV19
 -->
