@@ -122,7 +122,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
 7.  Inter-American Development Bank (IADB):
      - established(1959) trie to alleviate povery in laten america/carribian, providing grants/technical experience.
 8.  Salvador Allende
-    
+     - Wanted to build socialis 
 9.  Shock Groups:
     
 10.  Supply & Price-control Committees/Juntas de Abastecimiento y Control de Precios (JAP):
@@ -137,7 +137,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM4MDczMDgsLTExNTUwNzEwMTIsOT
-c2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMs
-LTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbMTg3NzIwNTY2OCwtMTIwMzgwNzMwOCwtMT
+E1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMs
+MTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
