@@ -91,8 +91,8 @@
 3.4 
 | Cosas | Allende | Pinochet |
 |--|--|--|
-| Leader Background |  |  |
-| Rise to power |  |  |
+| Leader Background | Leader of the leftist |  |
+| Rise to power | Got elected by popular vote in the 1970 elections |  |
 | Ideology |  |  |
 | Treatment of Opposition |  |  |
 | Political Policies |  |  |
@@ -143,8 +143,8 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
  - they found political personages, murdering people as far as the USA, some were graduates of the US counter-insurgency traing school.
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY1ODQ5NDAsLTEyMDM4MDczMDgsLT
-ExNTUwNzEwMTIsOTc2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAz
-LDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ
-==
+eyJoaXN0b3J5IjpbLTE2MDQyMTQ2NzksLTEyODY1ODQ5NDAsLT
+EyMDM4MDczMDgsLTExNTUwNzEwMTIsOTc2NTkyOTY3LC04ODQ2
+Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLT
+EwNTAyNDA1NjVdfQ==
 -->
