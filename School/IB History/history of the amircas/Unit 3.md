@@ -110,7 +110,7 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
 2.  Eduardo Frei:
      - Frei' s demoemtic fpolicy included labour reforms, but his rule was plagued by miner strikess and education strikes.
 3.  Popular Unity/Unidad Popular (UP):
-     - 
+     - left wing political alliance?
 4.  Mother Centers:
      - Women's orginizsations in chilean govmenrt in 1954 to support women by teaching houshold skills.(sewing)
 5.  Chileanization:
@@ -143,8 +143,8 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
  - they found political personages, murdering people as far as the USA, some were graduates of the US counter-insurgency traing school.
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwODA3NTE4LC00ODMxNjM5OTYsLTEyOD
-Y1ODQ5NDAsLTEyMDM4MDczMDgsLTExNTUwNzEwMTIsOTc2NTky
-OTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMD
-UxODExNDcsLTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTM5ODcyNTQ2MSw2NTA4MDc1MTgsLTQ4Mz
+E2Mzk5NiwtMTI4NjU4NDk0MCwtMTIwMzgwNzMwOCwtMTE1NTA3
+MTAxMiw5NzY1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3Mz
+kwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
