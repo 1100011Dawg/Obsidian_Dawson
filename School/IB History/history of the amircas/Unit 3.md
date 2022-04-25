@@ -133,14 +133,14 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
      - Unified National School sytem, created by Allende went agsint the historical divistion of private and public schoools.
      - This was met by vast critisim
 12.  General Augusto Pinochet
-     - did a military coup against allende
+     - did a military coup against allende, suspended elections
 13.  National Party (PDC):
-    
+     - 
 14.  Chicago Boys:
     
 15.  Dirección de Inteligencia Nacional (DINA):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTk4OTUyNCwtMTIwMzgwNzMwOCwtMT
-E1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMs
-MTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbNDk0NjQzMjU0LC0xMjAzODA3MzA4LC0xMT
+U1MDcxMDEyLDk3NjU5Mjk2NywtODg0Njc3OSwtODEzNTQwMywx
+NDczOTAwNjczLC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
