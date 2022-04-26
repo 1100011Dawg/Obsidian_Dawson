@@ -142,9 +142,35 @@ Unit 3.4 Rise of Military Dictatorship in One Country ID Terms
 15.  Dirección de Inteligencia Nacional (DINA):
  - they found political personages, murdering people as far as the USA, some were graduates of the US counter-insurgency traing school.
  - 
+
+
+Subunit 3.5 ID Terms:
+
+1.  Fourteen Families:
+     - 
+2.  Ladinos:
+     - 
+3.  Farabundo Marti:
+     - 
+4.  Central American Common Market (CACM):
+     - 
+5.  Farabundo Marti Liberation Forces (FPL):
+     - 
+6.  Organización Democrática Nacionalista (ORDEN):
+     - 
+7.  Keep It Simple, Sustainable, Small, and Salvadoran (KISSSS):
+     - 
+
+Short Answer Questions:
+
+1.  Describe four conditions that caused the civil war in El Salvador. (four sentence minimum)
+
+
+2.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODcyNTQ2MSw2NTA4MDc1MTgsLTQ4Mz
-E2Mzk5NiwtMTI4NjU4NDk0MCwtMTIwMzgwNzMwOCwtMTE1NTA3
-MTAxMiw5NzY1OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3Mz
-kwMDY3MywtMTMwNTE4MTE0NywtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbMjI2MTQ4NDY3LC0zOTg3MjU0NjEsNjUwOD
+A3NTE4LC00ODMxNjM5OTYsLTEyODY1ODQ5NDAsLTEyMDM4MDcz
+MDgsLTExNTUwNzEwMTIsOTc2NTkyOTY3LC04ODQ2Nzc5LC04MT
+M1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLTEwNTAyNDA1
+NjVdfQ==
 -->
