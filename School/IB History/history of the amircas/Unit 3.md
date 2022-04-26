@@ -150,7 +150,7 @@ Subunit 3.5 ID Terms:
 	 - A oligarchial group in El slavidor
      - 2% families owend 60% of land much of it was coffe
 2.  Ladinos:
-     - 
+     - Term used in Central America to denominate a person of Spanish and indigenous ancestry and culture.
 4.  Farabundo Marti:
      - 
 5.  Central American Common Market (CACM):
@@ -169,7 +169,7 @@ Short Answer Questions:
 
 2.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDE4MTEyNiwyMjYxNDg0NjcsLTM5OD
+eyJoaXN0b3J5IjpbMTY5NjYzOTU3MywyMjYxNDg0NjcsLTM5OD
 cyNTQ2MSw2NTA4MDc1MTgsLTQ4MzE2Mzk5NiwtMTI4NjU4NDk0
 MCwtMTIwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1OTI5NjcsLT
 g4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3MywtMTMwNTE4MTE0
