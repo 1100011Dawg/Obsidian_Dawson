@@ -164,10 +164,12 @@ Subunit 3.5 ID Terms:
      - Held up banks.
 7.  Organización Democrática Nacionalista (ORDEN):
      - An anti-guerrilla paramilitary organization that coordinated and trained death squads and intimidations, led by Colonel José Alberto Medrano.
+     - Name based in the spansih word for order
+     - US adi in helocopter and military aid
      - 
 8.  Keep It Simple, Sustainable, Small, and Salvadoran (KISSSS):
      - US principle on dealing with leftist guerrillas in El Salvador in the 1980s, amounting to sending Special Force Soldiers, arms, money and advisors, as well as setting up a counter-insurgency training camp in Honduras.
-
+ - 
 Short Answer Questions:
 
 1.  Describe four conditions that caused the civil war in El Salvador. (four sentence minimum)
@@ -175,9 +177,10 @@ Short Answer Questions:
 
 2.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjgyNDI4MjEsOTM0MzU2MjI0LDIyNj
-E0ODQ2NywtMzk4NzI1NDYxLDY1MDgwNzUxOCwtNDgzMTYzOTk2
-LC0xMjg2NTg0OTQwLC0xMjAzODA3MzA4LC0xMTU1MDcxMDEyLD
-k3NjU5Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjcz
-LC0xMzA1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbMTU4NDc0MTczNSwtMTAyODI0MjgyMSw5Mz
+QzNTYyMjQsMjI2MTQ4NDY3LC0zOTg3MjU0NjEsNjUwODA3NTE4
+LC00ODMxNjM5OTYsLTEyODY1ODQ5NDAsLTEyMDM4MDczMDgsLT
+ExNTUwNzEwMTIsOTc2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAz
+LDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ
+==
 -->
