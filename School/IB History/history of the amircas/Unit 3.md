@@ -159,7 +159,9 @@ Subunit 3.5 ID Terms:
      - Created in the 1960s to establish regional protective taris to protect ISI manufacturing, but did not flourish.
      - failed with salvadorian trade. 
 6.  Farabundo Marti Liberation Forces (FPL):
-     - 
+     - A large group of revolutionaries that had marxist tendencies. Though violence was the only way.
+     - leader was: cayento Carpio
+     - Held up banks.
 7.  Organización Democrática Nacionalista (ORDEN):
      - 
 8.  Keep It Simple, Sustainable, Small, and Salvadoran (KISSSS):
@@ -172,9 +174,9 @@ Short Answer Questions:
 
 2.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MzU2MjI0LDIyNjE0ODQ2NywtMzk4Nz
-I1NDYxLDY1MDgwNzUxOCwtNDgzMTYzOTk2LC0xMjg2NTg0OTQw
-LC0xMjAzODA3MzA4LC0xMTU1MDcxMDEyLDk3NjU5Mjk2NywtOD
-g0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0xMzA1MTgxMTQ3
-LC0xMDUwMjQwNTY1XX0=
+eyJoaXN0b3J5IjpbMTY5MzcyNzY2NCw5MzQzNTYyMjQsMjI2MT
+Q4NDY3LC0zOTg3MjU0NjEsNjUwODA3NTE4LC00ODMxNjM5OTYs
+LTEyODY1ODQ5NDAsLTEyMDM4MDczMDgsLTExNTUwNzEwMTIsOT
+c2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMs
+LTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ==
 -->
