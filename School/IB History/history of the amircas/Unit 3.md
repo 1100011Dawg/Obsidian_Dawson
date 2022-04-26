@@ -176,9 +176,9 @@ Short Answer Questions:
  - One of the main conditions that contributed to this disidence was the economic inequality. This inequality comes from the fourteen families with 2% of the poulation owning 60% of the wealth. It is addtioanlly improtat that thier is kendling of marxist ideas. This was present with the leader of Farabundo Marti. Other than that the political corruption contributed to this overall disidence. Also with their main cash rop being coffee they were subject to the whims of the global economy.
 
 9.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
- -  
+ - It was the largest of the revolution groups that  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjkwMjY1MCwxNTg0NzQxNzM1LC0xMD
+eyJoaXN0b3J5IjpbLTEwOTAyNjQzOSwxNTg0NzQxNzM1LC0xMD
 I4MjQyODIxLDkzNDM1NjIyNCwyMjYxNDg0NjcsLTM5ODcyNTQ2
 MSw2NTA4MDc1MTgsLTQ4MzE2Mzk5NiwtMTI4NjU4NDk0MCwtMT
 IwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3
