@@ -151,8 +151,9 @@ Subunit 3.5 ID Terms:
      - 2% families owend 60% of land much of it was coffe
 2.  Ladinos:
      - Term used in Central America to denominate a person of Spanish and indigenous ancestry and culture.
-4.  Farabundo Marti:
-     - 
+     - One of the main workign groups
+3.  Farabundo Marti:
+     - Originally land owning family, got marxist ideas
 5.  Central American Common Market (CACM):
      - 
 6.  Farabundo Marti Liberation Forces (FPL):
@@ -169,9 +170,9 @@ Short Answer Questions:
 
 2.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjYzOTU3MywyMjYxNDg0NjcsLTM5OD
-cyNTQ2MSw2NTA4MDc1MTgsLTQ4MzE2Mzk5NiwtMTI4NjU4NDk0
-MCwtMTIwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1OTI5NjcsLT
-g4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3MywtMTMwNTE4MTE0
-NywtMTA1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbLTExNDMwOTM2NzQsMjI2MTQ4NDY3LC0zOT
+g3MjU0NjEsNjUwODA3NTE4LC00ODMxNjM5OTYsLTEyODY1ODQ5
+NDAsLTEyMDM4MDczMDgsLTExNTUwNzEwMTIsOTc2NTkyOTY3LC
+04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODEx
+NDcsLTEwNTAyNDA1NjVdfQ==
 -->
