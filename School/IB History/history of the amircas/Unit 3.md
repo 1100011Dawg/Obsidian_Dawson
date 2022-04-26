@@ -176,12 +176,12 @@ Short Answer Questions:
  - One of the main conditions that contributed to this disidence was the economic inequality. This inequality comes from the fourteen families with 2% of the poulation owning 60% of the wealth. It is addtioanlly improtat that thier is kendling of marxist ideas. This was present with the leader of Farabundo Marti. Other than that the political corruption contributed to this overall disidence. Also with their main cash rop being coffee they were subject to the whims of the global economy.
 
 9.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
- - It was the largest of the revolution groups that was led by Cayetano Carpio. His leadership came along with marxist tendencies for the guerilla group. They also idealized violence as a solution for the inequality in El Salvador. They employed methods such as ransoming wealthy families, and holding up banks. Recently it seemed that It won an election on March 15, 2009, but 
+ - It was the largest of the revolution groups that was led by Cayetano Carpio. His leadership came along with marxist tendencies for the guerilla group. They also idealized violence as a solution for the inequality in El Salvador. They employed methods such as ransoming wealthy families, and holding up banks. Recently it seemed that It won an election on March 15, 2009, but it historically started during the civil war.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDg1NTg4LC04MDUzMzk3NTQsMTU4ND
-c0MTczNSwtMTAyODI0MjgyMSw5MzQzNTYyMjQsMjI2MTQ4NDY3
-LC0zOTg3MjU0NjEsNjUwODA3NTE4LC00ODMxNjM5OTYsLTEyOD
-Y1ODQ5NDAsLTEyMDM4MDczMDgsLTExNTUwNzEwMTIsOTc2NTky
-OTY3LC04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMD
-UxODExNDcsLTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk2ODYxMTgsLTgwNTMzOTc1NCwxNT
+g0NzQxNzM1LC0xMDI4MjQyODIxLDkzNDM1NjIyNCwyMjYxNDg0
+NjcsLTM5ODcyNTQ2MSw2NTA4MDc1MTgsLTQ4MzE2Mzk5NiwtMT
+I4NjU4NDk0MCwtMTIwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1
+OTI5NjcsLTg4NDY3NzksLTgxMzU0MDMsMTQ3MzkwMDY3MywtMT
+MwNTE4MTE0NywtMTA1MDI0MDU2NV19
 -->
