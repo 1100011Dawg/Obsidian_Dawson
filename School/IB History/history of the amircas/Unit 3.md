@@ -169,18 +169,18 @@ Subunit 3.5 ID Terms:
      - 
 8.  Keep It Simple, Sustainable, Small, and Salvadoran (KISSSS):
      - US principle on dealing with leftist guerrillas in El Salvador in the 1980s, amounting to sending Special Force Soldiers, arms, money and advisors, as well as setting up a counter-insurgency training camp in Honduras.
- - 
+	 - Nothing to see here
 Short Answer Questions:
 
 1.  Describe four conditions that caused the civil war in El Salvador. (four sentence minimum)
-
+ - 
 
 2.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDc0MTczNSwtMTAyODI0MjgyMSw5Mz
-QzNTYyMjQsMjI2MTQ4NDY3LC0zOTg3MjU0NjEsNjUwODA3NTE4
-LC00ODMxNjM5OTYsLTEyODY1ODQ5NDAsLTEyMDM4MDczMDgsLT
-ExNTUwNzEwMTIsOTc2NTkyOTY3LC04ODQ2Nzc5LC04MTM1NDAz
-LDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLTEwNTAyNDA1NjVdfQ
-==
+eyJoaXN0b3J5IjpbLTE4MjU0MzIyNDEsMTU4NDc0MTczNSwtMT
+AyODI0MjgyMSw5MzQzNTYyMjQsMjI2MTQ4NDY3LC0zOTg3MjU0
+NjEsNjUwODA3NTE4LC00ODMxNjM5OTYsLTEyODY1ODQ5NDAsLT
+EyMDM4MDczMDgsLTExNTUwNzEwMTIsOTc2NTkyOTY3LC04ODQ2
+Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODExNDcsLT
+EwNTAyNDA1NjVdfQ==
 -->
