@@ -176,12 +176,12 @@ Short Answer Questions:
  - One of the main conditions that contributed to this disidence was the economic inequality. This inequality comes from the fourteen families with 2% of the poulation owning 60% of the wealth. It is addtioanlly improtat that thier is kendling of marxist ideas. This was present with the leader of Farabundo Marti. Other than that the political corruption contributed to this overall disidence. Also with their main cash rop being coffee they were subject to the whims of the global economy.
 
 9.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
- - It was the largest of the revolution groups that was led by Cayetano Carpio. His leadership came along with marxist tendencies for the guerilla group,  
+ - It was the largest of the revolution groups that was led by Cayetano Carpio. His leadership came along with marxist tendencies for the guerilla group. They also idealized violence as a solution for the inequality in El Salvador. They employed methods such as ransoming wealthy families, and holding up banks. This  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTMzOTc1NCwxNTg0NzQxNzM1LC0xMD
-I4MjQyODIxLDkzNDM1NjIyNCwyMjYxNDg0NjcsLTM5ODcyNTQ2
-MSw2NTA4MDc1MTgsLTQ4MzE2Mzk5NiwtMTI4NjU4NDk0MCwtMT
-IwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3
-NzksLTgxMzU0MDMsMTQ3MzkwMDY3MywtMTMwNTE4MTE0NywtMT
-A1MDI0MDU2NV19
+eyJoaXN0b3J5IjpbLTEwOTIzNjAzOCwtODA1MzM5NzU0LDE1OD
+Q3NDE3MzUsLTEwMjgyNDI4MjEsOTM0MzU2MjI0LDIyNjE0ODQ2
+NywtMzk4NzI1NDYxLDY1MDgwNzUxOCwtNDgzMTYzOTk2LC0xMj
+g2NTg0OTQwLC0xMjAzODA3MzA4LC0xMTU1MDcxMDEyLDk3NjU5
+Mjk2NywtODg0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0xMz
+A1MTgxMTQ3LC0xMDUwMjQwNTY1XX0=
 -->
