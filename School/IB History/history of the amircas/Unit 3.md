@@ -153,9 +153,11 @@ Subunit 3.5 ID Terms:
      - Term used in Central America to denominate a person of Spanish and indigenous ancestry and culture.
      - One of the main workign groups
 3.  Farabundo Marti:
-     - Originally land owning family, got marxist ideas
+     - Originally land owning family, got marxist ideas.
+     - Was caught and exicuted
 5.  Central American Common Market (CACM):
-     - 
+     - Created in the 1960s to establish regional protective taris to protect ISI manufacturing, but did not flourish.
+     - failed with salvadorian trade. 
 6.  Farabundo Marti Liberation Forces (FPL):
      - 
 7.  Organización Democrática Nacionalista (ORDEN):
@@ -170,9 +172,9 @@ Short Answer Questions:
 
 2.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMwOTM2NzQsMjI2MTQ4NDY3LC0zOT
-g3MjU0NjEsNjUwODA3NTE4LC00ODMxNjM5OTYsLTEyODY1ODQ5
-NDAsLTEyMDM4MDczMDgsLTExNTUwNzEwMTIsOTc2NTkyOTY3LC
-04ODQ2Nzc5LC04MTM1NDAzLDE0NzM5MDA2NzMsLTEzMDUxODEx
-NDcsLTEwNTAyNDA1NjVdfQ==
+eyJoaXN0b3J5IjpbOTM0MzU2MjI0LDIyNjE0ODQ2NywtMzk4Nz
+I1NDYxLDY1MDgwNzUxOCwtNDgzMTYzOTk2LC0xMjg2NTg0OTQw
+LC0xMjAzODA3MzA4LC0xMTU1MDcxMDEyLDk3NjU5Mjk2NywtOD
+g0Njc3OSwtODEzNTQwMywxNDczOTAwNjczLC0xMzA1MTgxMTQ3
+LC0xMDUwMjQwNTY1XX0=
 -->
