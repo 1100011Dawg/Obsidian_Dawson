@@ -155,29 +155,30 @@ Subunit 3.5 ID Terms:
 3.  Farabundo Marti:
      - Originally land owning family, got marxist ideas.
      - Was caught and exicuted
-5.  Central American Common Market (CACM):
+4.  Central American Common Market (CACM):
      - Created in the 1960s to establish regional protective taris to protect ISI manufacturing, but did not flourish.
      - failed with salvadorian trade. 
-6.  Farabundo Marti Liberation Forces (FPL):
+5.  Farabundo Marti Liberation Forces (FPL):
      - A large group of revolutionaries that had marxist tendencies. Though violence was the only way.
      - leader was: cayento Carpio
      - Held up banks.
-7.  Organización Democrática Nacionalista (ORDEN):
+6.  Organización Democrática Nacionalista (ORDEN):
      - An anti-guerrilla paramilitary organization that coordinated and trained death squads and intimidations, led by Colonel José Alberto Medrano.
      - Name based in the spansih word for order
      - US adi in helocopter and military aid
      - 
-8.  Keep It Simple, Sustainable, Small, and Salvadoran (KISSSS):
+7.  Keep It Simple, Sustainable, Small, and Salvadoran (KISSSS):
      - US principle on dealing with leftist guerrillas in El Salvador in the 1980s, amounting to sending Special Force Soldiers, arms, money and advisors, as well as setting up a counter-insurgency training camp in Honduras.
 	 - Nothing to see here
 Short Answer Questions:
 
-1.  Describe four conditions that caused the civil war in El Salvador. (four sentence minimum)
- - One of the main conditions that contributed to this disidence was the economic inequality. This inequality comes from the fourteen families with 2% of the poulation owning 60% of the wealth. It is addtioanlly improtat that thier is kendling of marxist ideas. This was present with the leader of Farabundo Marti. Other than that the political corruption contributed to this overall disidence. 
+8.  Describe four conditions that caused the civil war in El Salvador. (four sentence minimum)
+ - One of the main conditions that contributed to this disidence was the economic inequality. This inequality comes from the fourteen families with 2% of the poulation owning 60% of the wealth. It is addtioanlly improtat that thier is kendling of marxist ideas. This was present with the leader of Farabundo Marti. Other than that the political corruption contributed to this overall disidence. Also with their main cash rop being coffee they were subject to the whims of the global economy.
 
-2.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
+9.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
+ -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDQ5NTkwMiwxNTg0NzQxNzM1LC0xMD
+eyJoaXN0b3J5IjpbLTIyMjkwMjY1MCwxNTg0NzQxNzM1LC0xMD
 I4MjQyODIxLDkzNDM1NjIyNCwyMjYxNDg0NjcsLTM5ODcyNTQ2
 MSw2NTA4MDc1MTgsLTQ4MzE2Mzk5NiwtMTI4NjU4NDk0MCwtMT
 IwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3
