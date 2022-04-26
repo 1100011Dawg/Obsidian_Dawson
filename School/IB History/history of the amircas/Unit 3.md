@@ -173,11 +173,11 @@ Subunit 3.5 ID Terms:
 Short Answer Questions:
 
 1.  Describe four conditions that caused the civil war in El Salvador. (four sentence minimum)
- - One of the main conditions that contributed to this disidence was the economic inequality. This inequality comes from the fourteen families with 2% of the 
+ - One of the main conditions that contributed to this disidence was the economic inequality. This inequality comes from the fourteen families with 2% of the poulation owning 60% of the wealth. It is addtioanlly improtat that thier is kendling of marxist ideas. This was present with the leader of Farabundo Marti. Other than that the political corruption contributed to this overall disidence. 
 
 2.  Describe the life of the FPL from 1970 to 2010 clearly explaining four significant events in the life of the organization. (four sentence minimum)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzIwNDcwMywxNTg0NzQxNzM1LC0xMD
+eyJoaXN0b3J5IjpbMTk0MDQ5NTkwMiwxNTg0NzQxNzM1LC0xMD
 I4MjQyODIxLDkzNDM1NjIyNCwyMjYxNDg0NjcsLTM5ODcyNTQ2
 MSw2NTA4MDc1MTgsLTQ4MzE2Mzk5NiwtMTI4NjU4NDk0MCwtMT
 IwMzgwNzMwOCwtMTE1NTA3MTAxMiw5NzY1OTI5NjcsLTg4NDY3
