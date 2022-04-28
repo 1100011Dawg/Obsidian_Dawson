@@ -43,9 +43,10 @@ Restriction enzymes cut out a small part of plasmid with ligase joining them tog
 
 #### Epigenetics:
   - Cuased by modification of gene expression rather than genetic code.
-  - 
+	  - Siamese cats have a pigment protein that only express at low tempetures(extremenines)
+  - Nucleasome(tightly coiled DNA around histomes cant have transcription occur
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDA1NDY3OSwzODQzNjQxOTAsLTEzNz
-g0MTA3NzQsLTU1NDEyNTAxOSwxNzM0ODA4ODc0LDUwNjEwNzM2
-MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbOTk3NDAzNDMzLC03MTAwNTQ2NzksMzg0Mz
+Y0MTkwLC0xMzc4NDEwNzc0LC01NTQxMjUwMTksMTczNDgwODg3
+NCw1MDYxMDczNjEsLTIwODg3NDY2MTJdfQ==
 -->
