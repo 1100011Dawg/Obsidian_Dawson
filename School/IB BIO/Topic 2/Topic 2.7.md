@@ -33,11 +33,12 @@ Trasncrpition:
  - only some genes are transcibed and translated
  
  
- Translation: The ribosome makes proteins by reading the mRNA translating to amino acids. their are start/stop codons( AUG, and UAA/UAG/UGA respectivly
+ Translation: The ribosome makes proteins by reading the mRNA translating to amino acids. their are start/stop codons( AUG, and UAA/UAG/UGA respectivly, when transcribing the codon chart is for mRNA and start at AUG no metter what.
   - ribosomes have two subunits(each being small and large)
   - 
 > three type RNA: mRNA(messenger), tRNA(transfer amino acid), rRNA(ribosomes RNA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg0MTA3NzQsLTU1NDEyNTAxOSwxNz
-M0ODA4ODc0LDUwNjEwNzM2MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMzg0MzY0MTkwLC0xMzc4NDEwNzc0LC01NT
+QxMjUwMTksMTczNDgwODg3NCw1MDYxMDczNjEsLTIwODg3NDY2
+MTJdfQ==
 -->
