@@ -46,9 +46,10 @@ Restriction enzymes cut out a small part of plasmid with ligase joining them tog
 	  - Siamese cats have a pigment protein that only express at low tempetures(extremenines)
   - Nucleasome(tightly coiled DNA around histomes) cant have transcription occur
   - Methylated ctosines, with deacetylated histomes swiches of transcription, it is possitble if itw as unmethelated
-  - Methly group:d
+  - Methly group:decreases transcitpion
+  - Acetyl group, increases strancition.(neatrelize charge)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2ODUxMzc2LC03MTAwNTQ2NzksMzg0Mz
-Y0MTkwLC0xMzc4NDEwNzc0LC01NTQxMjUwMTksMTczNDgwODg3
-NCw1MDYxMDczNjEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNjExMDYyNjgsLTcxMDA1NDY3OSwzODQzNj
+QxOTAsLTEzNzg0MTA3NzQsLTU1NDEyNTAxOSwxNzM0ODA4ODc0
+LDUwNjEwNzM2MSwtMjA4ODc0NjYxMl19
 -->
