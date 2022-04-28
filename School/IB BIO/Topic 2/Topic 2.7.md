@@ -37,8 +37,14 @@ Trasncrpition:
   - ribosomes have two subunits(each being small and large)
   - 
 > three type RNA: mRNA(messenger), tRNA(transfer amino acid), rRNA(ribosomes RNA)
+
+
+Restriction enzymes cut out a small part of plasmid with ligase joining them together.
+
+#### Epigenetics:
+  - Cuased by modi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0MzY0MTkwLC0xMzc4NDEwNzc0LC01NT
-QxMjUwMTksMTczNDgwODg3NCw1MDYxMDczNjEsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTU3ODA1NTIxMCwzODQzNjQxOTAsLTEzNz
+g0MTA3NzQsLTU1NDEyNTAxOSwxNzM0ODA4ODc0LDUwNjEwNzM2
+MSwtMjA4ODc0NjYxMl19
 -->
