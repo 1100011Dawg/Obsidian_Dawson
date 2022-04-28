@@ -42,9 +42,10 @@ Trasncrpition:
 Restriction enzymes cut out a small part of plasmid with ligase joining them together.
 
 #### Epigenetics:
-  - Cuased by modi
+  - Cuased by modification of gene expression rather than genetic code.
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODA1NTIxMCwzODQzNjQxOTAsLTEzNz
+eyJoaXN0b3J5IjpbLTcxMDA1NDY3OSwzODQzNjQxOTAsLTEzNz
 g0MTA3NzQsLTU1NDEyNTAxOSwxNzM0ODA4ODc0LDUwNjEwNzM2
 MSwtMjA4ODc0NjYxMl19
 -->
