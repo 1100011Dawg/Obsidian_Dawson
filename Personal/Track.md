@@ -16,6 +16,7 @@
  4-15-22
   - shotput 32,something 
   - discus 104,1
+ 
 
 notes:
  - limit practice throws to 9
