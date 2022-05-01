@@ -16,7 +16,8 @@
  4-15-22
   - shotput 32,something 
   - discus 104,1
- 
+ 4-10-22
+  - BAAD, back injury
 
 notes:
  - limit practice throws to 9

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Track.md",
+            "file": "Personal/Free writes/free write.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Track.md",
+                "file": "Personal/Free writes/free write.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Track.md",
+                "file": "Personal/Free writes/free write.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Track.md"
+                "file": "Personal/Free writes/free write.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
+    "Personal/Free writes/free write.md",
+    "Personal/Free writes/2-22-22 Free Write.md",
+    "Daily Notes/2021-07-23.md",
+    "Daily Notes/2021-08-08.md",
     "Personal/Track.md",
     "Personal/TODO.md",
     "Personal/Save for later.md",
     "Personal/Original sentences ideas.md",
     "Personal/Jotts-personal.md",
-    "Personal/Improvements.md",
-    "Personal/Topics Ideas/Sofa problem..md",
-    "School/IB History/history of the amircas/Unit 3.md",
-    "School/IB History/history of the amircas/Unit 2.md",
-    "Personal/Free writes/free write.md"
+    "Personal/Improvements.md"
   ]
 }
