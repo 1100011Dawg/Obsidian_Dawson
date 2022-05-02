@@ -24,11 +24,12 @@ Your analysis (bullet point this):
     - Canada's native americans
 2.  Seven Years War
      - A war between Great Britan and France for oversea territory, Brits won in 1763 leading to massive territorial gains in north ameria
-     - After estabilishe
+     - After estabilished trates with First Nations
 3.  Land Title
-    
+     - The innate indigenous right to ancestral lands due to histrical occupation and a continued socio-political relationship with it.
 4.  (Indian) Reserve
-    
+     - An area of land se aside for indigenous people to inhabit, but the legal ititle is still held by the goverment
+     - 
 5.  Residential Schools
     
 6.  Patriate
@@ -101,5 +102,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEzNzY0OTRdfQ==
+eyJoaXN0b3J5IjpbMTQ5OTg2MzE2NF19
 -->
