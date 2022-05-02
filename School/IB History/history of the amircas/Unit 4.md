@@ -31,6 +31,7 @@ Your analysis (bullet point this):
      - An area of land se aside for indigenous people to inhabit, but the legal ititle is still held by the goverment
      - after 1812 more pressure to obtain land for Europe settlements
 5.  Residential Schools
+     - from 1883 First Nations people were assiblated by residential schools, ran by christian organizations, allowing them to only speck english/france, banned from traditonal clothes/customs.
      - 
 6.  Patriate
     
@@ -102,5 +103,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMDkyMDMwXX0=
+eyJoaXN0b3J5IjpbLTE0ODczNzUzMDVdfQ==
 -->
