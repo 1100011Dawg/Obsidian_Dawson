@@ -22,9 +22,9 @@ Your analysis (bullet point this):
 1.  First Nations
     - Canadian Aboriginal peoples who are neither Métis nor Inuit.
     - Canada's native americans
-    - 
 2.  Seven Years War
-    
+     - A war between Great Britan and France for oversea territory, Brits won in 1763 leading to massive territorial gains in north ameria
+     - After estabilishe
 3.  Land Title
     
 4.  (Indian) Reserve
@@ -101,5 +101,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTYzMDk1NV19
+eyJoaXN0b3J5IjpbLTExODEzNzY0OTRdfQ==
 -->
