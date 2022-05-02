@@ -10,11 +10,13 @@ Temrs:
 terms:
  1. assests: fixed tanglible, intangible investments
  2. liabilites, log temr investments
- 3. equaity: 
+ 3. equaity: shareholders funs or owenr equity
+
+> look at page 197
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ5NDg2MjQsMTcwMTA1NzgyOCwyMD
-Y1ODYwMDA4LDE0NTc5ODIwMTUsLTU3NjY5NjYzM119
+eyJoaXN0b3J5IjpbNzIxNjI4MjIxLDE3MDEwNTc4MjgsMjA2NT
+g2MDAwOCwxNDU3OTgyMDE1LC01NzY2OTY2MzNdfQ==
 -->
