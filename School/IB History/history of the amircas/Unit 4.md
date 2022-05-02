@@ -20,7 +20,7 @@ Your analysis (bullet point this):
 
 #### 4.1 Id terms
 1.  First Nations
-    
+    - 
 2.  Seven Years War
     
 3.  Land Title
@@ -74,7 +74,30 @@ ___
 
 **In what ways, and for what reasons, did women’s role in society change after 1945? Support your answer with three specific examples from one or more countries.**
 
+    enter code here
+
+#### 4.4 ID terms
+1.  Bracero Program -
+    
+2.  Jones Act 1917 -
+    
+3.  National Origins Act 1924 -
+    
+4.  Dolores Huerta and Cesar Chavez -
+    
+5.  Alianza Federal de Pueblos Libres/Federal Land Grant Alliance -
+    
+6.  Rodolfo Gonzales -
+    
+7.  Brown Berets & United Mexica -
+    
+8.  La Raza Unida Party -
+    
+9.  Young Lords Organization (YLO) -
+    
+10.  Proposition 187 -
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzM0MjIxNF19
+eyJoaXN0b3J5IjpbOTczODg3MTgzXX0=
 -->
