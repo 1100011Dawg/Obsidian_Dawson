@@ -20,7 +20,7 @@ Your analysis (bullet point this):
 
 #### 4.1 Id terms
 1.  First Nations
-    - Canadian Aboriginal peoples who are neither Métis nor Inuit.
+    - Canadian Aboriginal peoples who are neither Métis(mix eurpeoans and indeians) nor Inuit.
     - Canada's native americans
 2.  Seven Years War
      - A war between Great Britan and France for oversea territory, Brits won in 1763 leading to massive territorial gains in north ameria
@@ -29,9 +29,9 @@ Your analysis (bullet point this):
      - The innate indigenous right to ancestral lands due to histrical occupation and a continued socio-political relationship with it.
 4.  (Indian) Reserve
      - An area of land se aside for indigenous people to inhabit, but the legal ititle is still held by the goverment
-     - 
+     - after 1812 more pressure to obtain land for Europe settlements
 5.  Residential Schools
-    
+     - 
 6.  Patriate
     
 7.  Constitutional Express 1980-1981
@@ -102,5 +102,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTg2MzE2NF19
+eyJoaXN0b3J5IjpbODMxMDkyMDMwXX0=
 -->
