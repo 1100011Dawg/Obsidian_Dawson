@@ -53,9 +53,28 @@ Your analysis (bullet point this):
     
 17.  National Indigenist Institute/Instituto Nacional Indigenista (INI)
 
+#### Unit 4.3 Id terms
+1.  Tactics of Feminists pre-1945 (page 2, paragraph 2 under ‘Background pre-1945’) -
+  
+2.  19th Amendment -
+   
+3.  Patriarchy/Patriarchal Society -
+    
+4.  National Women’s Party (NWP) -
+   
+5.  Feminine Mystique -
+   
+6.  National Organization for Women (NOW) -
+    
+7.  Roe v. Wade -
+    
+8.  Encuentros (Encounters) -
 
+___
+
+**In what ways, and for what reasons, did women’s role in society change after 1945? Support your answer with three specific examples from one or more countries.**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDIzNjI3MV19
+eyJoaXN0b3J5IjpbMTMzNzM0MjIxNF19
 -->
