@@ -32,9 +32,9 @@ Your analysis (bullet point this):
      - after 1812 more pressure to obtain land for Europe settlements
 5.  Residential Schools
      - from 1883 First Nations people were assiblated by residential schools, ran by christian organizations, allowing them to only speck english/france, banned from traditonal clothes/customs.
-     - 
+     - note 1969 Trudeau moved to repeal indian act but failed, due to protests
 6.  Patriate
-    
+     - 
 7.  Constitutional Express 1980-1981
     
 8.  Assembly of First Nations
@@ -103,5 +103,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODczNzUzMDVdfQ==
+eyJoaXN0b3J5IjpbMTgzODY2OTA4OF19
 -->
