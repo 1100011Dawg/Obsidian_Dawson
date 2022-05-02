@@ -20,6 +20,8 @@ Your analysis (bullet point this):
 
 #### 4.1 Id terms
 1.  First Nations
+    - Canadian Aboriginal peoples who are neither Métis nor Inuit.
+    - Canada's native americans
     - 
 2.  Seven Years War
     
@@ -99,5 +101,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczODg3MTgzXX0=
+eyJoaXN0b3J5IjpbMTA2NTYzMDk1NV19
 -->
