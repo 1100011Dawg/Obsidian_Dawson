@@ -35,9 +35,9 @@ Your analysis (bullet point this):
      - note 1969 Trudeau moved to repeal indian act but failed, due to protests
 6.  Patriate
      - to legally transfer the otherit over certain legislation from the origianl colonial power to a sovereign state.
-     - Transfer constitution from Uk to Ca
+     - Transfer constitution from Uk to Canada in around 1980
 7.  Constitutional Express 1980-1981
-    
+     - 
 8.  Assembly of First Nations
     
 9.  Nunavut
@@ -104,5 +104,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkwNTM2Nl19
+eyJoaXN0b3J5IjpbLTM2MjE2MDY0M119
 -->
