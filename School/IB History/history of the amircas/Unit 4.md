@@ -34,7 +34,8 @@ Your analysis (bullet point this):
      - from 1883 First Nations people were assiblated by residential schools, ran by christian organizations, allowing them to only speck english/france, banned from traditonal clothes/customs.
      - note 1969 Trudeau moved to repeal indian act but failed, due to protests
 6.  Patriate
-     - 
+     - to legally transfer the otherit over certain legislation from the origianl colonial power to a sovereign state.
+     - Transfer constitution from Uk to Ca
 7.  Constitutional Express 1980-1981
     
 8.  Assembly of First Nations
@@ -103,5 +104,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODY2OTA4OF19
+eyJoaXN0b3J5IjpbLTE0NjkwNTM2Nl19
 -->
