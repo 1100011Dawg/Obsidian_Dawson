@@ -44,9 +44,9 @@ Your analysis (bullet point this):
      - coddifing the past
 9.  Nunavut
      - A term for "our land" it compremiss 20% of Canada land,, and was taken from northwest territories. The inuet(85% of area population) gained self rule over their lands
-     - 
+     - from 1975-2008 22 land claim agreements were made
 10.  Idle No More
-    
+     - Movement in 2012 contra law C-45(gave Canada more power to negotiate land usage), the grass root movment
 11.  Traditional Tribal Landholding
     
 12.  Alcatraz Island
@@ -107,5 +107,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE5NjQ4NjgsLTM2MjE2MDY0M119
+eyJoaXN0b3J5IjpbMTMwMzA0Nzk3OSwtMzYyMTYwNjQzXX0=
 -->
