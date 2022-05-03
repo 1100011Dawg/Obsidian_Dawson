@@ -60,7 +60,8 @@ Your analysis (bullet point this):
      - when police put an individual in jail to provide protection from others or them selves, no crimal charges are made
      - AIm tried to prvent this to happening to indians
 14.  Wounded Knee
-     - the site of the 1890 massacre of around 300 Lakota wo/men and ch
+     - the site of the 1890 massacre of around 300 Lakota wo/men and children, on the Pine Ridge Reservation.
+     - 
 15.  Mestizo
     
 16.  Mulattoes
@@ -113,5 +114,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1OTA2Mzg1LC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
 -->
