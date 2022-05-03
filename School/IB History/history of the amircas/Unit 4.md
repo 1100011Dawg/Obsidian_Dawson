@@ -54,10 +54,10 @@ Your analysis (bullet point this):
 	   - Indian new deal resotred unsold land
 12.  Alcatraz Island
      - had been a high security federal prison, but had closed in 1963
-	     - There was a protest occupying it 
+	     - There was a protest occupying it, compared the island to indian reservations, it ended 11 June
      - From more indians moving to urban areas to to termination there was more protests
 13.  Preventative Detention
-    
+     - when police put an individual in jail to provide protection from others or them selves, no crimal charges are mad
 14.  Wounded Knee
     
 15.  Mestizo
@@ -112,5 +112,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExMTUzMjQ3LC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbMTk1ODkwOTc2NCwtMzYyMTYwNjQzXX0=
 -->
