@@ -40,9 +40,10 @@ Your analysis (bullet point this):
      - was a massive peaceful demonstration from 1980-1981 , they chared two trainsfrom vancouver with 2,000 people about their rights that would be canceld under the 1982 constituation, when this did not work they went to london/US to get support. 
      - led directly to section 35 on the constitution
 8.  Assembly of First Nations
-     - 
+     - 1982 the assumbly was founded with the goal to make chiefs more formal representitives, to create a governing assemble
+     - coddifing the past
 9.  Nunavut
-    
+     - A term for "our land" it compremiss 2
 10.  Idle No More
     
 11.  Traditional Tribal Landholding
@@ -105,5 +106,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ5ODMwNDAsLTM2MjE2MDY0M119
+eyJoaXN0b3J5IjpbOTE2NDQ0MDIxLC0zNjIxNjA2NDNdfQ==
 -->
