@@ -57,9 +57,10 @@ Your analysis (bullet point this):
 	     - There was a protest occupying it, compared the island to indian reservations, it ended 11 June
      - From more indians moving to urban areas to to termination there was more protests
 13.  Preventative Detention
-     - when police put an individual in jail to provide protection from others or them selves, no crimal charges are mad
+     - when police put an individual in jail to provide protection from others or them selves, no crimal charges are made
+     - AIm tried to prvent this to happening to indians
 14.  Wounded Knee
-    
+     - the site of the 1890 massacre of around 300 Lakota wo/men and ch
 15.  Mestizo
     
 16.  Mulattoes
@@ -112,5 +113,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODkwOTc2NCwtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbODk1OTA2Mzg1LC0zNjIxNjA2NDNdfQ==
 -->
