@@ -43,7 +43,8 @@ Your analysis (bullet point this):
      - 1982 the assumbly was founded with the goal to make chiefs more formal representitives, to create a governing assemble
      - coddifing the past
 9.  Nunavut
-     - A term for "our land" it compremiss 2
+     - A term for "our land" it compremiss 20% of Canada land,, and was taken from northwest territories. The inuet(85% of area population) gained self rule over their lands
+     - 
 10.  Idle No More
     
 11.  Traditional Tribal Landholding
@@ -106,5 +107,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NDQ0MDIxLC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbLTExNDE5NjQ4NjgsLTM2MjE2MDY0M119
 -->
