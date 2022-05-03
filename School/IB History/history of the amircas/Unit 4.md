@@ -49,7 +49,9 @@ Your analysis (bullet point this):
      - Movement in 2012 contra law C-45(gave Canada more power to negotiate land usage), the grass root movment, "Idle no More" AFN has supported it.
   - compared to occupy wallstreet
 11.  Traditional Tribal Landholding
-   - The right to land that had been provided by treaties. in article 1 section 8 of USA constitution, idean tribes were clasffified by for
+   - The right to land that had been provided by treaties. in article 1 section 8 of USA constitution, idean tribes were clasffified by foreign nations, "to regulate commerce with foreign nations, and amond the several states, and with the Indian tribes. 
+	   - Dawes act elimentated it, leading to indian land loss
+   - 
 12.  Alcatraz Island
     
 13.  Preventative Detention
@@ -108,5 +110,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwOTg5NTA2LC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbNzMzMTczOTM4LC0zNjIxNjA2NDNdfQ==
 -->
