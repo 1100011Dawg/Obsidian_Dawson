@@ -51,6 +51,7 @@ Your analysis (bullet point this):
 11.  Traditional Tribal Landholding
    - The right to land that had been provided by treaties. in article 1 section 8 of USA constitution, idean tribes were clasffified by foreign nations, "to regulate commerce with foreign nations, and amond the several states, and with the Indian tribes. 
 	   - Dawes act elimentated it, leading to indian land loss
+	   - Indian new deal resotred unsold land
    - 
 12.  Alcatraz Island
     
@@ -110,5 +111,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMTczOTM4LC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbLTI5OTk4MjI1OCwtMzYyMTYwNjQzXX0=
 -->
