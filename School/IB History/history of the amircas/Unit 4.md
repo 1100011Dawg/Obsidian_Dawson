@@ -37,9 +37,10 @@ Your analysis (bullet point this):
      - to legally transfer the otherit over certain legislation from the origianl colonial power to a sovereign state.
      - Transfer constitution from Uk to Canada in around 1980
 7.  Constitutional Express 1980-1981
-     - was a massive 
+     - was a massive peaceful demonstration from 1980-1981 , they chared two trainsfrom vancouver with 2,000 people about their rights that would be canceld under the 1982 constituation, when this did not work they went to london/US to get support. 
+     - led directly to section 35 on the constitution
 8.  Assembly of First Nations
-    
+     - 
 9.  Nunavut
     
 10.  Idle No More
@@ -104,5 +105,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTI2NTkzMSwtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbLTE5MzQ5ODMwNDAsLTM2MjE2MDY0M119
 -->
