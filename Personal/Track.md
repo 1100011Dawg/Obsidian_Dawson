@@ -16,14 +16,14 @@
  4-15-22
   - shotput 32,something 
   - discus 104,1
- 4-10-22
-  - BAAD, back injury
+ 4-1022-22
+  - BAAD, back injuryshotput: malo
 
 notes:
  - limit practice throws to 9
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjAzNzE1Niw4MTQ3NjM0MzQsNzg0OT
-Y1MjY4LDQ0OTMyNzUxNiwxMjE1MDgzNjkxLDIxMzk5NDgyOTAs
-LTYzOTY5MTQ3MiwtMTY5NzgyOTQ4MV19
+eyJoaXN0b3J5IjpbMTEyNjkyNTc2LC00MzIwMzcxNTYsODE0Nz
+YzNDM0LDc4NDk2NTI2OCw0NDkzMjc1MTYsMTIxNTA4MzY5MSwy
+MTM5OTQ4MjkwLC02Mzk2OTE0NzIsLTE2OTc4Mjk0ODFdfQ==
 -->
