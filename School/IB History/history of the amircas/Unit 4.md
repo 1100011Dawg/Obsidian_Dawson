@@ -98,9 +98,10 @@ Your analysis (bullet point this):
     - womes suffreage in the americas range from 1918 to 1961
 3.  Patriarchy/Patriarchal Society -
      - refers to societies where men held the power
-     - woemn were not expeted to "work" 
+     - woemn were not expeted to "work" but do domestic work( led to basically a double day fo work)
 4.  National Women’s Party (NWP) -
-   
+    - Was active since the suffrage movment
+    - lobbied 
 5.  Feminine Mystique -
    
 6.  National Organization for Women (NOW) -
@@ -138,7 +139,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5OTkxMzgxLC0xMzA1NTE5Njc0LC0yMT
-E5ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLTM2MjE2MDY0
-M119
+eyJoaXN0b3J5IjpbMjEwNTI0Nzc1OSwtMTMwNTUxOTY3NCwtMj
+ExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2
+NDNdfQ==
 -->
