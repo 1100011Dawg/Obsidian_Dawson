@@ -9,15 +9,14 @@ Metzel stal is ecol had N 14 15 had heavy first than N14 they they use  centrifu
 
 component nuclesome, 2 DNA strands around 8 histores
 
-methylation effect gneeexpretion does no allow transcriptio to occur
+methylation effect gneeexpretion does no allow transcriptio to occur(need know phosphorilation)
 
 E-site: releases trna with no amino acid
 A site binds incomming trna with new amino acid
 holds the trna with the growing polypeptide o allow elongation
 
-
+inition start strar codin , peptide bond a and p site, ploy peptide in a side mov to p site ou
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg5MDI5OTQsLTE5MDA3MTgxNjRdfQ
-==
+eyJoaXN0b3J5IjpbMjA5OTY5MTIxNSwtMTkwMDcxODE2NF19
 -->
