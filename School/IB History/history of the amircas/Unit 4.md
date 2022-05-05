@@ -27,7 +27,11 @@ Your analysis (bullet point this):
 - Mexico
 	- around 1980 more NGo supporting theri rights
 	- 1992 addtion of multiculturism in Mexico
-	- 
+	 - added funding
+ - Latin merica
+	 - K'che Maya in Guatama created attention about the slaying of the Maya
+	 - addmenments to cosntitutions around 1990-2000
+	 - 
 
 #### 4.1 Id terms
 1.  First Nations
@@ -129,6 +133,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjMwNzA1MSwtMjExOTgyMzc0LDc4MT
+eyJoaXN0b3J5IjpbMTE4MTkzNjA0MSwtMjExOTgyMzc0LDc4MT
 A5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
 -->
