@@ -63,6 +63,7 @@ Your analysis (bullet point this):
      - the site of the 1890 massacre of around 300 Lakota wo/men and children, on the Pine Ridge Reservation.
      - shooting occured almost daily
 15.  Mestizo
+     - Term used in Latin America to denominate persons of European aand indigenous ancestry and culture
      - 
 16.  Mulattoes
     
@@ -114,6 +115,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNDg2MTY5LDE5MTc1NzE3MzMsLTM2Mj
-E2MDY0M119
+eyJoaXN0b3J5IjpbMTYxMjYwMTkyMCwxOTE3NTcxNzMzLC0zNj
+IxNjA2NDNdfQ==
 -->
