@@ -95,9 +95,10 @@ Your analysis (bullet point this):
    - sometimes they got the right to vote because polititions new it would garner suppoort. 
 2.  19th Amendment -
     - happened in 1920, was in the united states, allowed womens suffrage
-    - womes suffreage in the america
+    - womes suffreage in the americas range from 1918 to 1961
 3.  Patriarchy/Patriarchal Society -
-    
+     - refers to societies where men held the power
+     - woemn were not expeted to "work" 
 4.  National Women’s Party (NWP) -
    
 5.  Feminine Mystique -
@@ -137,7 +138,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTAxMjUxNywtMTMwNTUxOTY3NCwtMj
-ExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2
-NDNdfQ==
+eyJoaXN0b3J5IjpbOTA5OTkxMzgxLC0xMzA1NTE5Njc0LC0yMT
+E5ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLTM2MjE2MDY0
+M119
 -->
