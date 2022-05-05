@@ -17,9 +17,14 @@ holds the trna with the growing polypeptide o allow elongation
 
 inition start strar codin , peptide bond a and p site, ploy peptide in a side mov to p site outline(could do some drawing)
 
-hershey chase:provided evidence, two competing theries ptotein and DNA, ra
+hershey chase:provided evidence, two competing theries ptotein and DNA, radoactive gentic material injected into cell they found bactophages compsed of DNA dn protein, and only the DNA entries the cell. 
+
+PCRTaq DNA polymerase is good for extreme eviroments.
+steps 1 denaturation, seprate strands
+anneling(cool down tto primer bind to template, extention (extend primers)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc2MDQ0MzYsMjEzMTA5MDQ3NCwtMT
-kwMDcxODE2NF19
+eyJoaXN0b3J5IjpbLTcxMDgyNzcyNSwyMTMxMDkwNDc0LC0xOT
+AwNzE4MTY0XX0=
 -->
