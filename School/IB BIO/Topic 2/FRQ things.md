@@ -24,11 +24,17 @@ steps 1 denaturation, seprate strands
 anneling(cool down tto primer bind to template, extention (extend primers)
 
 
-a dite: acdepts incoming trna, ribosomes are in cytoplams or rough ER 
+a dite: acdepts incoming trna, ribosomes are in cytoplams or rough ER then move to p site. 
+trna activating enzymes bind amnio acid to the trna with matching anticodon, act as a catalyst for buing polypeptide chain
+one function non coding dna : regulate gene transcription
+
+prodcution of mran by transtion" 
+inition elonction 
 
 
+> dillion: my laugh will aarrive in 3-5 buisness days
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjgwOTIyMiwyMTMxMDkwNDc0LC0xOT
+eyJoaXN0b3J5IjpbMTIxNjkzNTU3MCwyMTMxMDkwNDc0LC0xOT
 AwNzE4MTY0XX0=
 -->
