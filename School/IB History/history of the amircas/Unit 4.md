@@ -111,12 +111,13 @@ Your analysis (bullet point this):
      - was in 1973, gave women reporductive rights in the US supreme court desition. Thi allowed abortion in the first three monthes of pregnancy. 
      - Still very contentious
 8.  Encuentros (Encounters) -
- - was orginized in 1981 by 
+ - was orginized in 1981 in Latin Ameria, tried to advance rights with special intrest groups. 
+ - increased diversity by lesbians and Afro-descendent women
 ___
 
 **In what ways, and for what reasons, did women’s role in society change after 1945? Support your answer with three specific examples from one or more countries.**
 
-    enter code here
+    I would say the main reson women's role in society 
 
 #### 4.4 ID terms
 1.  Bracero Program -
@@ -141,7 +142,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwNzMzOTU0LDIwMTk0MTU3MzksLTEzMD
-U1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTcz
-MywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbLTEzMTUxMTAwMTQsMjAxOTQxNTczOSwtMT
+MwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcx
+NzMzLC0zNjIxNjA2NDNdfQ==
 -->
