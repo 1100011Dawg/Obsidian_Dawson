@@ -101,11 +101,12 @@ Your analysis (bullet point this):
      - woemn were not expeted to "work" but do domestic work( led to basically a double day fo work)
 4.  National Women’s Party (NWP) -
     - Was active since the suffrage movment
-    - lobbied 
+    - lobbied to incoperate a ban on sex discrimenation in emplyment
 5.  Feminine Mystique -
-   
+    - Book in 1963 by Betty Friedan, exposed the myth of happy housewives. 
 6.  National Organization for Women (NOW) -
-    
+     - 1966 many women inspired by Feminine Mystique sounded  NOWW to afvance womens rights
+     - 
 7.  Roe v. Wade -
     
 8.  Encuentros (Encounters) -
@@ -139,7 +140,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTI0Nzc1OSwtMTMwNTUxOTY3NCwtMj
+eyJoaXN0b3J5IjpbLTM5MDE5ODk2OCwtMTMwNTUxOTY3NCwtMj
 ExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2
 NDNdfQ==
 -->
