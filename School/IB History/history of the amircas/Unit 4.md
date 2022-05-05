@@ -64,10 +64,12 @@ Your analysis (bullet point this):
      - shooting occured almost daily
 15.  Mestizo
      - Term used in Latin America to denominate persons of European aand indigenous ancestry and culture
-     - 
+     - just a term 
 16.  Mulattoes
-    
+     - Term used in Latin America to denominate persons of European and African ancestry and culture
+     - otra vez
 17.  National Indigenist Institute/Instituto Nacional Indigenista (INI)
+ - 
 
 #### Unit 4.3 Id terms
 1.  Tactics of Feminists pre-1945 (page 2, paragraph 2 under ‘Background pre-1945’) -
@@ -115,6 +117,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjYwMTkyMCwxOTE3NTcxNzMzLC0zNj
-IxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbLTE0MjU2ODY5NjMsMTkxNzU3MTczMywtMz
+YyMTYwNjQzXX0=
 -->
