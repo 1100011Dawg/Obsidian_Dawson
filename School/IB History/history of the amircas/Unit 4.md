@@ -23,6 +23,10 @@ Your analysis (bullet point this):
 	- the movments in canda inspired more rights to be given to indigenous population
 	- 1951 land claims
 	- 1960 right to vote given
+	- Red Power movment begins, had enough power for contitution express
+- Mexico
+	- around 1980 more NGo supporting theri rights
+	- 1992 addtion of multiculturism in Mexico
 	- 
 
 #### 4.1 Id terms
@@ -125,6 +129,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjg5MjYzMSwtMjExOTgyMzc0LDc4MT
+eyJoaXN0b3J5IjpbMTI3NjMwNzA1MSwtMjExOTgyMzc0LDc4MT
 A5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
 -->
