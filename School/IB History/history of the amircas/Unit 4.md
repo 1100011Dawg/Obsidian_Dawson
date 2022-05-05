@@ -61,7 +61,7 @@ Your analysis (bullet point this):
      - AIm tried to prvent this to happening to indians
 14.  Wounded Knee
      - the site of the 1890 massacre of around 300 Lakota wo/men and children, on the Pine Ridge Reservation.
-     - 
+     - shooting occured almost daily
 15.  Mestizo
      - 
 16.  Mulattoes
@@ -114,6 +114,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzQ3MzczNiwxOTE3NTcxNzMzLC0zNj
-IxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbOTYwNDg2MTY5LDE5MTc1NzE3MzMsLTM2Mj
+E2MDY0M119
 -->
