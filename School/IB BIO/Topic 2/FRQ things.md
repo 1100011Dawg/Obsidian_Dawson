@@ -17,8 +17,9 @@ holds the trna with the growing polypeptide o allow elongation
 
 inition start strar codin , peptide bond a and p site, ploy peptide in a side mov to p site outline(could do some drawing)
 
-
+hershey chase:provided evidence, two competing theries ptotein and DNA, ra
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTA5MDQ3NCwtMTkwMDcxODE2NF19
+eyJoaXN0b3J5IjpbLTIwNjc2MDQ0MzYsMjEzMTA5MDQ3NCwtMT
+kwMDcxODE2NF19
 -->
