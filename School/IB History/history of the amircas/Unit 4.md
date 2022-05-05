@@ -108,7 +108,7 @@ Your analysis (bullet point this):
      - 1966 many women inspired by Feminine Mystique sounded  NOWW to afvance womens rights
      - Demonstrated with Betty Friedan as presedent. 
 7.  Roe v. Wade -
-    
+     - was in 1973, gave women reporductive rights in the US supreme court desition. Thi allowed abortion in t
 8.  Encuentros (Encounters) -
 
 ___
@@ -140,7 +140,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMj
-ExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2
-NDNdfQ==
+eyJoaXN0b3J5IjpbNjgwNTQ1NTcsMjAxOTQxNTczOSwtMTMwNT
+UxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMz
+LC0zNjIxNjA2NDNdfQ==
 -->
