@@ -7,9 +7,9 @@
 
 **Question: “The civil rights of indigenous peoples in the Americas improved after 1945.” To what extent do you agree with this statement?**
 Explain what the question is asking (define any terms/ideas here):
- - The qeustion is asking about the general right of indigenous americans after 1945. the demoraction of time period allows there to be more contetion with the answer due to previous undenible reailty of mal 
+ - The qeustion is asking about the general right of indigenous americans after 1945. the demoraction of time period allows there to be more contetion with the answer due to previous undenible reailty of maltreatement before that.
 One word/sentence answer to the question:
- - 
+ - no 
 Set context / give background:
  - 
 Write out claims you would use to address this question followed by a list of concrete evidence you can use to address the question:
@@ -117,6 +117,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTAxODQ2Nyw3ODEwOTA5MDUsMTkxNz
+eyJoaXN0b3J5IjpbMTY4Nzg4NTYyNSw3ODEwOTA5MDUsMTkxNz
 U3MTczMywtMzYyMTYwNjQzXX0=
 -->
