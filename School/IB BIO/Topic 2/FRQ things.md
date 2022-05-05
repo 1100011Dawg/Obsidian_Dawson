@@ -24,7 +24,11 @@ steps 1 denaturation, seprate strands
 anneling(cool down tto primer bind to template, extention (extend primers)
 
 
+a dite: acdepts incoming trna, ribosomes are in cytoplams or rough ER 
+
+
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDgyNzcyNSwyMTMxMDkwNDc0LC0xOT
+eyJoaXN0b3J5IjpbLTczMjgwOTIyMiwyMTMxMDkwNDc0LC0xOT
 AwNzE4MTY0XX0=
 -->
