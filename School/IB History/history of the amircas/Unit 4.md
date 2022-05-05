@@ -15,7 +15,10 @@ Set context / give background:
 **Write out claims you would use to address this question followed by a list of concrete evidence you can use to address the question**:
  - the claims would be semi reptinous, with one being the situation of indigenous poeple in canda marketbly imprved, the next one would be the siutation in mexico improved, then the situation in latin america marketbly imprvoed with acts such as aim. The evidence for each will be first canda: succsfully patrialte express, 1960 right to vote 1951 land claim commition, mexio: add ademntment to constitution , human right more prsent 1970 more powerfull ngo, and for latin america laws that allowed right for indignous poeple to vote even though they cant read spanish, the situation in 1992 K'iche Maya, Evo Morales became the first Amymará to be elected presedenct.
 Your analysis (bullet point this):
- -  
+ -  Intro
+	 - Though the indigenous population of the americfas was violenetly suppresed, they regained traction after 1945
+	 - Places where they gained progress were areas such as canda, latin america,d n Mexico. 
+	 - This leads to the situation being marketbly beter 
 
 #### 4.1 Id terms
 1.  First Nations
@@ -117,6 +120,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk4MjM3NCw3ODEwOTA5MDUsMTkxNz
-U3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbLTEwNTMwODU0OTgsLTIxMTk4MjM3NCw3OD
+EwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
 -->
