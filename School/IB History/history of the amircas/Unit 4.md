@@ -106,7 +106,7 @@ Your analysis (bullet point this):
     - Book in 1963 by Betty Friedan, exposed the myth of happy housewives. 
 6.  National Organization for Women (NOW) -
      - 1966 many women inspired by Feminine Mystique sounded  NOWW to afvance womens rights
-     - 
+     - Demonstrated with Betty Friedan as presedent. 
 7.  Roe v. Wade -
     
 8.  Encuentros (Encounters) -
@@ -140,7 +140,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDE5ODk2OCwtMTMwNTUxOTY3NCwtMj
+eyJoaXN0b3J5IjpbMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMj
 ExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2
 NDNdfQ==
 -->
