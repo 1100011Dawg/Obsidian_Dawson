@@ -69,7 +69,7 @@ Your analysis (bullet point this):
      - Term used in Latin America to denominate persons of European and African ancestry and culture
      - otra vez
 17.  National Indigenist Institute/Instituto Nacional Indigenista (INI)
- - 
+ - was created in 1948, sought to integrate the indigenous population into Mexico . 
 
 #### Unit 4.3 Id terms
 1.  Tactics of Feminists pre-1945 (page 2, paragraph 2 under ‘Background pre-1945’) -
@@ -117,6 +117,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2ODY5NjMsMTkxNzU3MTczMywtMz
-YyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbNTM5NTU5MzQ1LDE5MTc1NzE3MzMsLTM2Mj
+E2MDY0M119
 -->
