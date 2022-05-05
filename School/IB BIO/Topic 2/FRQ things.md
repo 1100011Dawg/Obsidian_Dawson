@@ -29,12 +29,12 @@ trna activating enzymes bind amnio acid to the trna with matching anticodon, act
 one function non coding dna : regulate gene transcription
 
 prodcution of mran by transtion" 
-inition elonction 
+inition elonction bind to prommoter, elongation additon of culcetides, termnaiton end the process when hit stop codon. 
 
 
 > dillion: my laugh will aarrive in 3-5 buisness days
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjkzNTU3MCwyMTMxMDkwNDc0LC0xOT
+eyJoaXN0b3J5IjpbMTQ3NjM2Mzk2NCwyMTMxMDkwNDc0LC0xOT
 AwNzE4MTY0XX0=
 -->
