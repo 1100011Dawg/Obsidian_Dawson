@@ -111,7 +111,7 @@ Your analysis (bullet point this):
      - was in 1973, gave women reporductive rights in the US supreme court desition. Thi allowed abortion in the first three monthes of pregnancy. 
      - Still very contentious
 8.  Encuentros (Encounters) -
-
+ - was orginized in 1981 by 
 ___
 
 **In what ways, and for what reasons, did women’s role in society change after 1945? Support your answer with three specific examples from one or more countries.**
@@ -141,7 +141,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjQ2ODU5NCwyMDE5NDE1NzM5LC0xMz
-A1NTE5Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3
-MzMsLTM2MjE2MDY0M119
+eyJoaXN0b3J5IjpbNzkwNzMzOTU0LDIwMTk0MTU3MzksLTEzMD
+U1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTcz
+MywtMzYyMTYwNjQzXX0=
 -->
