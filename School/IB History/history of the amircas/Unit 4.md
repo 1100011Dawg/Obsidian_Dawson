@@ -117,7 +117,7 @@ ___
 
 **In what ways, and for what reasons, did women’s role in society change after 1945? Support your answer with three specific examples from one or more countries.**
 
-    I would say the main reson women's role in society shifted after 1945 was industrilization, though this was catalized by the war effort. Industrilization removed time consuming activites such as laundry, dish cleaning and speed up others. This in combination with the war effort had Women go into buisness due to the economic insentives. It mainly begain with lower class women but soon envolped most women, leading to a double work day. One important facotr in this was the Feminine Mystique, that " radiclized" women in order to pursue womens rights. some of these agendas incluce child care, maternity leaves, and alliviation of the double day of work. This was most blatant in america, becase Canda's groups weren't as militerized, but in Latin America the authortarian nature had these groups more subduied. The work force was one of the main changes in women's role in socity, but an addtiional role change was that in po
+    I would say the main reson women's role in society shifted after 1945 was industrilization, though this was catalized by the war effort. Industrilization removed time consuming activites such as laundry, dish cleaning and speed up others. This in combination with the war effort had Women go into buisness due to the economic insentives. It mainly begain with lower class women but soon envolped most women, leading to a double work day. One important facotr in this was the Feminine Mystique, that " radiclized" women in order to pursue womens rights. some of these agendas incluce child care, maternity leaves, and alliviation of the double day of work. This was most blatant in america, becase Canda's groups weren't as militerized, but in Latin America the authortarian nature had these groups more subduied. The work force was one of the main changes in women's role in socity, but an addtiional role change was that in politics. With many women sufferage movments taking palce before 1945 they had time to deveolp a political backing behind there demand. this backing included groups such as NOW contributing to women shaping their new role in society. 
 
 #### 4.4 ID terms
 1.  Bracero Program -
@@ -142,7 +142,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ3NTkyOTMsMjAxOTQxNTczOSwtMT
+eyJoaXN0b3J5IjpbLTE5NzUwODExNTAsMjAxOTQxNTczOSwtMT
 MwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcx
 NzMzLC0zNjIxNjA2NDNdfQ==
 -->
