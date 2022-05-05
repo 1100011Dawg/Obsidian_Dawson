@@ -18,7 +18,12 @@ Your analysis (bullet point this):
  -  Intro
 	 - Though the indigenous population of the americfas was violenetly suppresed, they regained traction after 1945
 	 - Places where they gained progress were areas such as canda, latin america,d n Mexico. 
-	 - This leads to the situation being marketbly beter 
+	 - This leads to the situation being marketbly beter than bfore. 
+- Canda
+	- the movments in canda inspired more rights to be given to indigenous population
+	- 1951 land claims
+	- 1960 right to vote given
+	- 
 
 #### 4.1 Id terms
 1.  First Nations
@@ -120,6 +125,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMwODU0OTgsLTIxMTk4MjM3NCw3OD
-EwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbMTAzMjg5MjYzMSwtMjExOTgyMzc0LDc4MT
+A5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
 -->
