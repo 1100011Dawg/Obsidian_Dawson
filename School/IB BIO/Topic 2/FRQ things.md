@@ -15,8 +15,10 @@ E-site: releases trna with no amino acid
 A site binds incomming trna with new amino acid
 holds the trna with the growing polypeptide o allow elongation
 
-inition start strar codin , peptide bond a and p site, ploy peptide in a side mov to p site ou
+inition start strar codin , peptide bond a and p site, ploy peptide in a side mov to p site outline(could do some drawing)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTY5MTIxNSwtMTkwMDcxODE2NF19
+eyJoaXN0b3J5IjpbMjEzMTA5MDQ3NCwtMTkwMDcxODE2NF19
 -->
