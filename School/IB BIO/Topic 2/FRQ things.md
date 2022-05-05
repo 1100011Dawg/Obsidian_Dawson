@@ -7,9 +7,11 @@ outline thee enzymes in DNA repiccation
  - ligase joins ozaki fragments
 Metzel stal is ecol had N 14 15 had heavy first than N14 they they use  centrifuge, the bands after genrations showed bybrid and light DNA
 
+component nuclesome, 2 DNA strands around 8 histores
 
+methylation effect gneeexpretion does no a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA3MTgxNjRdfQ==
+eyJoaXN0b3J5IjpbMzM0NjU4MzMzLC0xOTAwNzE4MTY0XX0=
 -->
