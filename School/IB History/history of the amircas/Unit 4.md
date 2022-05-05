@@ -31,7 +31,9 @@ Your analysis (bullet point this):
  - Latin merica
 	 - K'che Maya in Guatama created attention about the slaying of the Maya
 	 - addmenments to cosntitutions around 1990-2000
-	 - 
+	 - Bolivia had Indigious president.
+ - conclution
+	 - one common tie is the right to vote, and the more political power that they gained. 
 
 #### 4.1 Id terms
 1.  First Nations
@@ -133,6 +135,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTkzNjA0MSwtMjExOTgyMzc0LDc4MT
-A5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3OD
+EwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
 -->
