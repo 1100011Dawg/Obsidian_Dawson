@@ -11,7 +11,7 @@ Explain what the question is asking (define any terms/ideas here):
 One word/sentence answer to the question:
  - yes 
 Set context / give background:
- - Though in the United States the indigenous people of that lands right took a turn for the worse, the general improvemnt in canada and other American countries make up for this. For example in canda the red paper was estabilised in 1970, the affected the suposed patriation of the Canadian constitution. and 
+ - Though in the United States the indigenous people of that lands right took a turn for the worse, the general improvemnt in canada and other American countries make up for this. For example in canda the red paper was estabilised in 1970, the affected the suposed patriation of the Canadian constitution. and in 1992 there was an amendmentestablsied o show that mexico is a multicultural society. This is addtionally in contrast to direct violent action
 Write out claims you would use to address this question followed by a list of concrete evidence you can use to address the question:
  - 
 Your analysis (bullet point this):
@@ -117,6 +117,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Nzg5MTY3MSw3ODEwOTA5MDUsMTkxNz
-U3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbOTMxNDYyNzk5LDc4MTA5MDkwNSwxOTE3NT
+cxNzMzLC0zNjIxNjA2NDNdfQ==
 -->
