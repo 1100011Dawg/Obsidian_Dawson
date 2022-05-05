@@ -63,7 +63,7 @@ Your analysis (bullet point this):
      - the site of the 1890 massacre of around 300 Lakota wo/men and children, on the Pine Ridge Reservation.
      - 
 15.  Mestizo
-    
+     - 
 16.  Mulattoes
     
 17.  National Indigenist Institute/Instituto Nacional Indigenista (INI)
@@ -114,5 +114,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbLTkyMzQ3MzczNiwxOTE3NTcxNzMzLC0zNj
+IxNjA2NDNdfQ==
 -->
