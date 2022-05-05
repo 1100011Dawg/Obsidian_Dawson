@@ -12,8 +12,8 @@ One word/sentence answer to the question:
  - yes 
 Set context / give background:
  - Though in the United States the indigenous people of that lands right took a turn for the worse, the general improvemnt in canada and other American countries make up for this. For example in canda the red paper was estabilised in 1970, the affected the suposed patriation of the Canadian constitution. and in 1992 there was an amendmentestablsied o show that mexico is a multicultural society. This is addtionally in contrast to direct violent action against the indiegeinous population such as wounded knee and slavery. 
-Write out claims you would use to address this question followed by a list of concrete evidence you can use to address the question:
- - the claims would be semi reptinous, with one being the situation of indigenous poeple in canda marketbly imprved, the next one would be the siutation in mexico improved, then the situation in latin america marketbly imprvoed with acts such as aim. The evidence for each will be first canda: succsfully patrialte express, 1960 right to vote 1951 
+**Write out claims you would use to address this question followed by a list of concrete evidence you can use to address the question**:
+ - the claims would be semi reptinous, with one being the situation of indigenous poeple in canda marketbly imprved, the next one would be the siutation in mexico improved, then the situation in latin america marketbly imprvoed with acts such as aim. The evidence for each will be first canda: succsfully patrialte express, 1960 right to vote 1951 land claim commition, mexio: add ademntment to constitution , human right more prsent 1970 more powerfull ngo
 Your analysis (bullet point this):
  -  ff
 
@@ -117,6 +117,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTUwNjg2OCw3ODEwOTA5MDUsMTkxNz
+eyJoaXN0b3J5IjpbMTE2MDkwNTAxMiw3ODEwOTA5MDUsMTkxNz
 U3MTczMywtMzYyMTYwNjQzXX0=
 -->
