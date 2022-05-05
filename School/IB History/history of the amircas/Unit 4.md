@@ -91,7 +91,7 @@ Your analysis (bullet point this):
 
 #### Unit 4.3 Id terms
 1.  Tactics of Feminists pre-1945 (page 2, paragraph 2 under ‘Background pre-1945’) -
-  
+   - They signed petitions, enlisted supportive legislators, and worked at the local level. 
 2.  19th Amendment -
    
 3.  Patriarchy/Patriarchal Society -
@@ -135,6 +135,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3OD
-EwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbLTE0MzI2NDU1MjAsLTEzMDU1MTk2NzQsLT
+IxMTk4MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYw
+NjQzXX0=
 -->
