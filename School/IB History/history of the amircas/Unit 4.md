@@ -92,8 +92,10 @@ Your analysis (bullet point this):
 #### Unit 4.3 Id terms
 1.  Tactics of Feminists pre-1945 (page 2, paragraph 2 under ‘Background pre-1945’) -
    - They signed petitions, enlisted supportive legislators, and worked at the local level. 
+   - sometimes they got the right to vote because polititions new it would garner suppoort. 
 2.  19th Amendment -
-   
+    - happened in 1920, was in the united states, allowed womens suffrage
+    - womes suffreage in the america
 3.  Patriarchy/Patriarchal Society -
     
 4.  National Women’s Party (NWP) -
@@ -135,7 +137,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI2NDU1MjAsLTEzMDU1MTk2NzQsLT
-IxMTk4MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYw
-NjQzXX0=
+eyJoaXN0b3J5IjpbMTI1NTAxMjUxNywtMTMwNTUxOTY3NCwtMj
+ExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2
+NDNdfQ==
 -->
