@@ -135,6 +135,7 @@ ___
      - there was a strike there were growers sprayed them with pesticides
 5.  Alianza Federal de Pueblos Libres/Federal Land Grant Alliance -
      - Alianza was first called Alianza federal de mercedes or the federal land grant alliance. 
+     - 
 6.  Rodolfo Gonzales -
     
 7.  Brown Berets & United Mexica -
@@ -147,8 +148,8 @@ ___
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NzYyNTkyLDcyMzQ4MjI4MywtMTIyMj
-UzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5
-Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLT
-M2MjE2MDY0M119
+eyJoaXN0b3J5IjpbLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzND
+gyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3
+MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMT
+kxNzU3MTczMywtMzYyMTYwNjQzXX0=
 -->
