@@ -147,14 +147,16 @@ ___
      - founded in January 1970, in crystal city texas.
      - focused on issues such as economic power social equailty and elimination of violence againt mexican americans. 
 9.  Young Lords Organization (YLO) -
+     - Began as a gang in 1959, to protext territory in puertoRican ghetto, in chicago. transfored to a revolutionary-nationalistic movement.
+     - opperated community services.
      - 
 10.  Proposition 187 -
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDE2OTEwOSwtNjUzOTE5MTM5LC03OT
-AxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzNDgyMjgz
-LC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3MzksLT
-EzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMTkxNzU3
-MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbMTExNTY5NjA1LC02NTM5MTkxMzksLTc5MD
+EwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3MjM0ODIyODMs
+LTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQxNTczOSwtMT
+MwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcx
+NzMzLC0zNjIxNjA2NDNdfQ==
 -->
