@@ -149,12 +149,12 @@ ___
 9.  Young Lords Organization (YLO) -
      - Began as a gang in 1959, to protext territory in puertoRican ghetto, in chicago. transfored to a revolutionary-nationalistic movement.
      - opperated community services.
-     - 
+     - FBI weakened them with disinformation.
 10.  Proposition 187 -
-
+ - 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTY5NjA1LC02NTM5MTkxMzksLTc5MD
+eyJoaXN0b3J5IjpbMTIyMDc4NjE5LC02NTM5MTkxMzksLTc5MD
 EwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3MjM0ODIyODMs
 LTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQxNTczOSwtMT
 MwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcx
