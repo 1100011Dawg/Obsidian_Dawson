@@ -121,7 +121,8 @@ ___
 
 #### 4.4 ID terms
 1.  Bracero Program -
-    
+     - it recruited Mexican labourers to tkae the place of men drafted into the armed forces, it continued until 1964.
+     - 
 2.  Jones Act 1917 -
     
 3.  National Origins Act 1924 -
@@ -142,7 +143,8 @@ ___
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMj
-AxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5
-MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbLTE2MTM3OTk1MDAsLTEyMjI1Mzg3ODcsLT
+E5NzUwODExNTAsMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjEx
+OTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2ND
+NdfQ==
 -->
