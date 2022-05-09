@@ -131,6 +131,7 @@ ___
      - cubans went to florida. 
      - these waves had blacklash by United States citizens
 4.  Dolores Huerta and Cesar Chavez -
+     - Formed the National Farm Woeker Association(NFWA) in Delano, California. 
      - 
 5.  Alianza Federal de Pueblos Libres/Federal Land Grant Alliance -
     
@@ -146,8 +147,8 @@ ___
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOT
-c1MDgxMTUwLDIwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4
-MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX
-0=
+eyJoaXN0b3J5IjpbNzA2NTAyOTg5LDcyMzQ4MjI4MywtMTIyMj
+UzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5
+Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLT
+M2MjE2MDY0M119
 -->
