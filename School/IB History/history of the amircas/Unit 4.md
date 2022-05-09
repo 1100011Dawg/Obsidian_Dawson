@@ -140,9 +140,9 @@ ___
     
 10.  Proposition 187 -
 
-
+4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzUwODExNTAsMjAxOTQxNTczOSwtMT
-MwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcx
-NzMzLC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbLTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMj
+AxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5
+MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
 -->
