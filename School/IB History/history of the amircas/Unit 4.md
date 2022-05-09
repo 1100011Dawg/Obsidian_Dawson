@@ -122,9 +122,9 @@ ___
 #### 4.4 ID terms
 1.  Bracero Program -
      - it recruited Mexican labourers to tkae the place of men drafted into the armed forces, it continued until 1964.
-     - 
+     - brought in around 50,000 workers each year. took place after they explelled mexicans due to great depresion
 2.  Jones Act 1917 -
-    
+     - 
 3.  National Origins Act 1924 -
     
 4.  Dolores Huerta and Cesar Chavez -
@@ -143,8 +143,8 @@ ___
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM3OTk1MDAsLTEyMjI1Mzg3ODcsLT
-E5NzUwODExNTAsMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjEx
-OTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2ND
-NdfQ==
+eyJoaXN0b3J5IjpbLTgzMzI4NDM0MiwtMTIyMjUzODc4NywtMT
+k3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC0yMTE5
+ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLTM2MjE2MDY0M1
+19
 -->
