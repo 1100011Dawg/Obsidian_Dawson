@@ -132,9 +132,9 @@ ___
      - these waves had blacklash by United States citizens
 4.  Dolores Huerta and Cesar Chavez -
      - Formed the National Farm Woeker Association(NFWA) in Delano, California. 
-     - 
+     - there was a strike there were growers sprayed them with pesticides
 5.  Alianza Federal de Pueblos Libres/Federal Land Grant Alliance -
-    
+     - Alianza was first called Alianza federal de mercedes or the federal land grant alliance. 
 6.  Rodolfo Gonzales -
     
 7.  Brown Berets & United Mexica -
@@ -147,7 +147,7 @@ ___
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NTAyOTg5LDcyMzQ4MjI4MywtMTIyMj
+eyJoaXN0b3J5IjpbNTQ3NzYyNTkyLDcyMzQ4MjI4MywtMTIyMj
 UzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5
 Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLT
 M2MjE2MDY0M119
