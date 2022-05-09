@@ -138,7 +138,8 @@ ___
      -  movement to reclaim land as their rightfull heritage.
      - led by Reies López Tijerina
 6.  Rodolfo Gonzales -
-    
+     - Coloradan Rodolfa Gonzales was a feathereight boxer who became involved with politics afterwars, founded the cursade fo justice, opened a summer school for Chincano children and even hleped found the Balled Chicano de Atlan. 
+     - 
 7.  Brown Berets & United Mexica -
     
 8.  La Raza Unida Party -
@@ -149,7 +150,7 @@ ___
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk1OTQ1NiwtMjcwODQ5NjU5LDU0Nz
+eyJoaXN0b3J5IjpbLTc5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nz
 c2MjU5Miw3MjM0ODIyODMsLTEyMjI1Mzg3ODcsLTE5NzUwODEx
 NTAsMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LD
 c4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
