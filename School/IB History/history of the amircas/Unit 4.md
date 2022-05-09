@@ -129,8 +129,9 @@ ___
 3.  National Origins Act 1924 -
      - Produced a shortage in cheap labour, so puerto ricans migrated in amss. 
      - cubans went to florida. 
+     - these waves had blacklash by United States citizens
 4.  Dolores Huerta and Cesar Chavez -
-    
+     - 
 5.  Alianza Federal de Pueblos Libres/Federal Land Grant Alliance -
     
 6.  Rodolfo Gonzales -
@@ -145,8 +146,8 @@ ___
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTgxNDc4OSwtMTIyMjUzODc4NywtMT
-k3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC0yMTE5
-ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLTM2MjE2MDY0M1
-19
+eyJoaXN0b3J5IjpbNzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOT
+c1MDgxMTUwLDIwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4
+MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX
+0=
 -->
