@@ -124,9 +124,10 @@ ___
      - it recruited Mexican labourers to tkae the place of men drafted into the armed forces, it continued until 1964.
      - brought in around 50,000 workers each year. took place after they explelled mexicans due to great depresion
 2.  Jones Act 1917 -
-     - 
+     - made all puerto ricans us citizens. 
+	     - to promote labour
 3.  National Origins Act 1924 -
-    
+     - 
 4.  Dolores Huerta and Cesar Chavez -
     
 5.  Alianza Federal de Pueblos Libres/Federal Land Grant Alliance -
@@ -143,8 +144,8 @@ ___
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzI4NDM0MiwtMTIyMjUzODc4NywtMT
-k3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC0yMTE5
-ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLTM2MjE2MDY0M1
-19
+eyJoaXN0b3J5IjpbNjAyMzY5NjI4LC0xMjIyNTM4Nzg3LC0xOT
+c1MDgxMTUwLDIwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4
+MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX
+0=
 -->
