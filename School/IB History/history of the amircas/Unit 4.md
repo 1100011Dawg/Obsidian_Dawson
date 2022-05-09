@@ -139,9 +139,9 @@ ___
      - led by Reies López Tijerina
 6.  Rodolfo Gonzales -
      - Coloradan Rodolfa Gonzales was a feathereight boxer who became involved with politics afterwars, founded the cursade fo justice, opened a summer school for Chincano children and even hleped found the Balled Chicano de Atlan. 
-     - 
+     - Literary insperation came from him for the concept of Chicano.
 7.  Brown Berets & United Mexica -
-    
+     - 
 8.  La Raza Unida Party -
     
 9.  Young Lords Organization (YLO) -
@@ -150,8 +150,9 @@ ___
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nz
-c2MjU5Miw3MjM0ODIyODMsLTEyMjI1Mzg3ODcsLTE5NzUwODEx
-NTAsMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LD
-c4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbLTY1MzkxOTEzOSwtNzkwMTAyNzE0LC0yNz
+A4NDk2NTksNTQ3NzYyNTkyLDcyMzQ4MjI4MywtMTIyMjUzODc4
+NywtMTk3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC
+0yMTE5ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLTM2MjE2
+MDY0M119
 -->
