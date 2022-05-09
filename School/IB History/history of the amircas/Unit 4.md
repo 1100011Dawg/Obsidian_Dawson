@@ -151,12 +151,13 @@ ___
      - opperated community services.
      - FBI weakened them with disinformation.
 10.  Proposition 187 -
- - 
+ - California voters passed it in 1994 to prohibit undocumented aliens.
+ - sourt said california didnn't have the power
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDc4NjE5LC02NTM5MTkxMzksLTc5MD
-EwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3MjM0ODIyODMs
-LTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQxNTczOSwtMT
-MwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcx
-NzMzLC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOT
+E5MTM5LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIs
+NzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMT
+k0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5
+MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
 -->
