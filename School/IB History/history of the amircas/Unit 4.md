@@ -141,18 +141,19 @@ ___
      - Coloradan Rodolfa Gonzales was a feathereight boxer who became involved with politics afterwars, founded the cursade fo justice, opened a summer school for Chincano children and even hleped found the Balled Chicano de Atlan. 
      - Literary insperation came from him for the concept of Chicano.
 7.  Brown Berets & United Mexica -
-     - 
+     - was formerly the Young Citizens for Community Action.
+     - led school walkouts on 6 March 1968
 8.  La Raza Unida Party -
-    
+     - 
 9.  Young Lords Organization (YLO) -
     
 10.  Proposition 187 -
 
 4.5 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzkxOTEzOSwtNzkwMTAyNzE0LC0yNz
-A4NDk2NTksNTQ3NzYyNTkyLDcyMzQ4MjI4MywtMTIyMjUzODc4
-NywtMTk3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC
-0yMTE5ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLTM2MjE2
-MDY0M119
+eyJoaXN0b3J5IjpbOTQ3ODg2MzU1LC02NTM5MTkxMzksLTc5MD
+EwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3MjM0ODIyODMs
+LTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQxNTczOSwtMT
+MwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcx
+NzMzLC0zNjIxNjA2NDNdfQ==
 -->
