@@ -207,7 +207,7 @@ ___
 15.  Pollution Probe -
      - Enviromental organization, goal was acieved through letter campaigns, inquiries, stunts, and communitng meetings. Tried to imrpvoe Toronto's urban pollution crisis. Inspired organizations across the country. 
 16.  Royal Commission on the Status of Women in Canada (RCSW)(1967) -
- - 
+ - lanched as a responce to 6 month campaign mounted by 32 womens orginizati
 17.  Red Power Movement -
     
 18.  Quiet Revolution -
@@ -216,10 +216,10 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjgyNDEwNDYsLTE2NzYzMTg4NTIsLT
-I3MjgyODQ1OSw1Njc3MTEyMDcsMTIyMDc4NjE5LC02NTM5MTkx
-MzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3Mj
-M0ODIyODMsLTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQx
-NTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNS
-wxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbLTY3ODU4MTI2MywtMTY3NjMxODg1MiwtMj
+cyODI4NDU5LDU2NzcxMTIwNywxMjIwNzg2MTksLTY1MzkxOTEz
+OSwtNzkwMTAyNzE0LC0yNzA4NDk2NTksNTQ3NzYyNTkyLDcyMz
+Q4MjI4MywtMTIyMjUzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1
+NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LD
+E5MTc1NzE3MzMsLTM2MjE2MDY0M119
 -->
