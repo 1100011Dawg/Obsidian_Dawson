@@ -153,11 +153,49 @@ ___
 10.  Proposition 187 -
  - California voters passed it in 1994 to prohibit undocumented aliens.
  - sourt said california didnn't have the power
-4.5 
+Unit 4.5 ID Terms:
+
+1.  Baby Boom -
+
+2.  Julius and Ethel Rosenberg -
+
+3.  Students for a Democratic Society (SDS) -
+
+4.  Free Speech Movement (FSM) -
+
+5.  Hippies -
+
+6.  Counterculture -
+
+7.  Special Relationship -
+
+8.  New Left -
+
+9.  Katimavik -
+
+10.  Trudeaumania -
+
+11.  Marshall McLuhan -
+
+12.  National Film Board of Canada (NFB) -
+
+13.  Mutually Assured Destruction (MAD) -
+
+14.  Greenpeace -
+    
+15.  Pollution Probe -
+    
+16.  Royal Commission on the Status of Women in Canada (RCSW) -
+
+17.  Red Power Movement -
+    
+18.  Quiet Revolution -
+   
+Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods used by young protestors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOT
-E5MTM5LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIs
-NzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMT
-k0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5
-MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbMjAzNjA1ODcyLDU2NzcxMTIwNywxMjIwNz
+g2MTksLTY1MzkxOTEzOSwtNzkwMTAyNzE0LC0yNzA4NDk2NTks
+NTQ3NzYyNTkyLDcyMzQ4MjI4MywtMTIyMjUzODc4NywtMTk3NT
+A4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIz
+NzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLTM2MjE2MDY0M119
 -->
