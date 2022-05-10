@@ -178,10 +178,12 @@ ___
  - countercultrue
  - passed out flowers, long hair, used drugs, had sext, had cults, 
  - had the summer of love
+ - Police were not happy with them(Peoples park)
 6.  Counterculture -
  - term first described hippies, in the 1960, but it desscribes beliefs diffrent from the norm, grew to include other anti-establishment groups
 7.  Special Relationship -
-
+  - relationship with the US
+  - US presidents since FDR(roosevelt) have spoken of this, in 1972 Nixon declred this 
 8.  New Left -
 
 9.  Katimavik -
@@ -208,10 +210,10 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwODk4NzMwLC0xNjc2MzE4ODUyLC0yNz
-I4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOTE5MTM5
-LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzND
-gyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3
-MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMT
-kxNzU3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbMTI1NjE4MzQyMCwtMTY3NjMxODg1MiwtMj
+cyODI4NDU5LDU2NzcxMTIwNywxMjIwNzg2MTksLTY1MzkxOTEz
+OSwtNzkwMTAyNzE0LC0yNzA4NDk2NTksNTQ3NzYyNTkyLDcyMz
+Q4MjI4MywtMTIyMjUzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1
+NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LD
+E5MTc1NzE3MzMsLTM2MjE2MDY0M119
 -->
