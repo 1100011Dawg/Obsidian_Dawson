@@ -183,9 +183,10 @@ ___
  - term first described hippies, in the 1960, but it desscribes beliefs diffrent from the norm, grew to include other anti-establishment groups
 7.  Special Relationship -
   - relationship with the US
-  - US presidents since FDR(roosevelt) have spoken of this, in 1972 Nixon declred this 
+  - US presidents since FDR(roosevelt) have spoken of this, in 1972 Nixon declred this relatioship dead, after Trudeau introduced Third Option Policy, trying to stop Canadian dependence on US markets.
+  - still continues
 8.  New Left -
-
+ - Movement begining in the 1960 s, led by Herbert Marcuse. Goal was to breack aprt democratic partyleft, and fith for more social justice and against 
 9.  Katimavik -
 
 10.  Trudeaumania -
@@ -210,7 +211,7 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjE4MzQyMCwtMTY3NjMxODg1MiwtMj
+eyJoaXN0b3J5IjpbMTcwOTg3NTQ2NCwtMTY3NjMxODg1MiwtMj
 cyODI4NDU5LDU2NzcxMTIwNywxMjIwNzg2MTksLTY1MzkxOTEz
 OSwtNzkwMTAyNzE0LC0yNzA4NDk2NTksNTQ3NzYyNTkyLDcyMz
 Q4MjI4MywtMTIyMjUzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1
