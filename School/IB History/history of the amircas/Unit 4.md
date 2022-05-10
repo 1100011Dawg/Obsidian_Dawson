@@ -170,6 +170,8 @@ ___
 4.  Free Speech Movement (FSM)(1960) -
  - founded in San Francisco Bay, 
  - SLATE orginized inital protests that help begin FSM
+	 - went agaisnt berkley restrictive free speech
+ - 
 5.  Hippies -
 
 6.  Counterculture -
@@ -202,10 +204,10 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkxODI2MzgsNTY3NzExMjA3LDEyMj
-A3ODYxOSwtNjUzOTE5MTM5LC03OTAxMDI3MTQsLTI3MDg0OTY1
-OSw1NDc3NjI1OTIsNzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOT
-c1MDgxMTUwLDIwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4
-MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX
-0=
+eyJoaXN0b3J5IjpbLTI3MjgyODQ1OSw1Njc3MTEyMDcsMTIyMD
+c4NjE5LC02NTM5MTkxMzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5
+LDU0Nzc2MjU5Miw3MjM0ODIyODMsLTEyMjI1Mzg3ODcsLTE5Nz
+UwODExNTAsMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjExOTgy
+Mzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ
+==
 -->
