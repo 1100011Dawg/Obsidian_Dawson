@@ -171,6 +171,7 @@ ___
  - founded in San Francisco Bay, 
  - SLATE orginized inital protests that help begin FSM
 	 - went agaisnt berkley restrictive free speech
+ - also contributed to anti-war movment(vietnam)
 5.  Hippies -
  - 
 6.  Counterculture -
@@ -203,10 +204,10 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzEzOTcyMywtMjcyODI4NDU5LDU2Nz
-cxMTIwNywxMjIwNzg2MTksLTY1MzkxOTEzOSwtNzkwMTAyNzE0
-LC0yNzA4NDk2NTksNTQ3NzYyNTkyLDcyMzQ4MjI4MywtMTIyMj
-UzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5
-Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLT
-M2MjE2MDY0M119
+eyJoaXN0b3J5IjpbLTE3MjY2OTUxNTMsLTI3MjgyODQ1OSw1Nj
+c3MTEyMDcsMTIyMDc4NjE5LC02NTM5MTkxMzksLTc5MDEwMjcx
+NCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3MjM0ODIyODMsLTEyMj
+I1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQxNTczOSwtMTMwNTUx
+OTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC
+0zNjIxNjA2NDNdfQ==
 -->
