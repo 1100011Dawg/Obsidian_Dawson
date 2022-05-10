@@ -153,7 +153,9 @@ ___
 10.  Proposition 187 -
  - California voters passed it in 1994 to prohibit undocumented aliens.
  - sourt said california didnn't have the power
-Unit 4.5 ID Terms:
+
+
+#### Unit 4.5 ID Terms:
 
 1.  Baby Boom -
 
@@ -191,11 +193,14 @@ Unit 4.5 ID Terms:
     
 18.  Quiet Revolution -
    
-Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods used by young protestors.
+Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods used by young protestors:
+
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjA1ODcyLDU2NzcxMTIwNywxMjIwNz
-g2MTksLTY1MzkxOTEzOSwtNzkwMTAyNzE0LC0yNzA4NDk2NTks
-NTQ3NzYyNTkyLDcyMzQ4MjI4MywtMTIyMjUzODc4NywtMTk3NT
-A4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIz
-NzQsNzgxMDkwOTA1LDE5MTc1NzE3MzMsLTM2MjE2MDY0M119
+eyJoaXN0b3J5IjpbLTE0MjU4OTk0ODAsNTY3NzExMjA3LDEyMj
+A3ODYxOSwtNjUzOTE5MTM5LC03OTAxMDI3MTQsLTI3MDg0OTY1
+OSw1NDc3NjI1OTIsNzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOT
+c1MDgxMTUwLDIwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4
+MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX
+0=
 -->
