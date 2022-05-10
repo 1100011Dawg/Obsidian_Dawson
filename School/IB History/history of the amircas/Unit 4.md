@@ -213,15 +213,16 @@ ___
 17.  Red Power Movement -
      - Created in the US in the late 1960's to advocate for aboriginal intrests. Inspired by other minority groups protests, the Candain Red Power Movemnet advoted for the rights of a half of a million exploted oboriginal people, particualy by the changes to the Indian-Act in the 1950s/1960s.
 18.  Quiet Revolution -
-    - 
+    - Included govermetal steps to assert greater soverignty over Quebec political, socital, and economic institiutions. It was a decade of greate societal change carried out through peaceful menas. 
+    - sought ot modernize Quebec
 Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods used by young protestors:
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTAzNjA1OSwtMTY3NjMxODg1MiwtMj
-cyODI4NDU5LDU2NzcxMTIwNywxMjIwNzg2MTksLTY1MzkxOTEz
-OSwtNzkwMTAyNzE0LC0yNzA4NDk2NTksNTQ3NzYyNTkyLDcyMz
-Q4MjI4MywtMTIyMjUzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1
-NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LD
-E5MTc1NzE3MzMsLTM2MjE2MDY0M119
+eyJoaXN0b3J5IjpbLTIxMzE0MjUzNDgsLTE2NzYzMTg4NTIsLT
+I3MjgyODQ1OSw1Njc3MTEyMDcsMTIyMDc4NjE5LC02NTM5MTkx
+MzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3Mj
+M0ODIyODMsLTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQx
+NTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNS
+wxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
 -->
