@@ -164,7 +164,9 @@ ___
  - They were tired and convicted for spying for the U.S.S.R. Both exucuted, was contrivertial, latter evidence revealed in 1995 proved Ethel innocent, but Julius guiltly
  - one of many protests during era of counterculture
 3.  Students for a Democratic Society (SDS)(1960) -
- - 
+ - Outgrowth of left-wing orginizations, based in colledge campusues. 
+ - initialy headed by Tom Hayden
+ - Supprted anti-war movment
 4.  Free Speech Movement (FSM) -
 
 5.  Hippies -
@@ -199,7 +201,7 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODc5Nzc3NSw1Njc3MTEyMDcsMTIyMD
+eyJoaXN0b3J5IjpbMTY0OTkzMjk1Myw1Njc3MTEyMDcsMTIyMD
 c4NjE5LC02NTM5MTkxMzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5
 LDU0Nzc2MjU5Miw3MjM0ODIyODMsLTEyMjI1Mzg3ODcsLTE5Nz
 UwODExNTAsMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjExOTgy
