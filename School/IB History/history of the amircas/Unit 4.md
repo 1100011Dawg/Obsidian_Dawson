@@ -188,8 +188,8 @@ ___
 8.  New Left -
  - Movement begining in the 1960 s, led by Herbert Marcuse. Goal was to breack aprt democratic partyleft, and fith for more social justice and against military-industrial process. 
  - In canda this group was also anti-American, in favour of Quebec independece
-9.  Katimavik -
-
+9.  Katimavik(1977) -
+ - means meeting place in Inuktitut. Goal of engaging the you through community service with focuses on multiculturalism, envriomental protection. started 1,000 to 35,000 Canadians. 
 10.  Trudeaumania -
 
 11.  Marshall McLuhan -
@@ -212,7 +212,7 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAxNjM5NDksLTE2NzYzMTg4NTIsLT
+eyJoaXN0b3J5IjpbLTEyOTY5ODQxMzcsLTE2NzYzMTg4NTIsLT
 I3MjgyODQ1OSw1Njc3MTEyMDcsMTIyMDc4NjE5LC02NTM5MTkx
 MzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3Mj
 M0ODIyODMsLTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQx
