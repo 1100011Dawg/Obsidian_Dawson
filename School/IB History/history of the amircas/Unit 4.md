@@ -198,7 +198,7 @@ ___
  - Professor of Communication Theory from Edmonton, in 1964 seminal, *Understanding Media* he identified the vast influnce that new telecommunications were having on pop culture
  - coined term, "medium is the message"
 12.  National Film Board of Canada (NFB)(1939) -
- - produced a variet of fils
+ - produced a variet of filsm, that examined various eleiments of Canadian identiy, despite the fact some called it a colonial institution, with too small a budget, had award winning work. 
 13.  Mutually Assured Destruction (MAD) -
 
 14.  Greenpeace -
@@ -215,10 +215,10 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MDE2MzI0LC0xNjc2MzE4ODUyLC0yNz
-I4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOTE5MTM5
-LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzND
-gyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3
-MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMT
-kxNzU3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbLTEzODk0NjE3NzksLTE2NzYzMTg4NTIsLT
+I3MjgyODQ1OSw1Njc3MTEyMDcsMTIyMDc4NjE5LC02NTM5MTkx
+MzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3Mj
+M0ODIyODMsLTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQx
+NTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNS
+wxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
 -->
