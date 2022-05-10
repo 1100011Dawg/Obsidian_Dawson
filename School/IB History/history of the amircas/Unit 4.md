@@ -208,19 +208,20 @@ ___
      - Enviromental organization, goal was acieved through letter campaigns, inquiries, stunts, and communitng meetings. Tried to imrpvoe Toronto's urban pollution crisis. Inspired organizations across the country. 
 16.  Royal Commission on the Status of Women in Canada (RCSW)(1967) -
  - lanched as a responce to 6 month campaign mounted by 32 womens orginizations, let by Laura Sabia, president of the Candian Federation of University Women. conducted 3 years of studies and hearing and made 167 recomendations for reforms sucha s equal pay for equal work, maternity lead, birth control. Trudeau goverment responded in 1971 by creating Office of the Statude of Women. 
- - 
+ - Govemtn failed to concretly act
+ - Became canda's largest feminist lobby by 1972
 17.  Red Power Movement -
-    
+     - Created in the US in the late 1960's to advocate for aboriginal intrests. I
 18.  Quiet Revolution -
    
 Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods used by young protestors:
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE1NTY1MTEsLTE2NzYzMTg4NTIsLT
-I3MjgyODQ1OSw1Njc3MTEyMDcsMTIyMDc4NjE5LC02NTM5MTkx
-MzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3Mj
-M0ODIyODMsLTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQx
-NTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNS
-wxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbMjU4NzA3NjE5LC0xNjc2MzE4ODUyLC0yNz
+I4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOTE5MTM5
+LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzND
+gyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3
+MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMT
+kxNzU3MTczMywtMzYyMTYwNjQzXX0=
 -->
