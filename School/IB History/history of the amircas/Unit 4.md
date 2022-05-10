@@ -192,7 +192,8 @@ ___
  - means meeting place in Inuktitut. Goal of engaging the you through community service with focuses on multiculturalism, envriomental protection. started 1,000 to 35,000 Canadians. been part of the UN Economic and Social concil since 2008. 
  - legacy of Company of Young Candians
 10.  Trudeaumania -
- - 
+ - immence populartiy of TRudeau when he entered the House of Communes due to his youthfulness and promise of change.
+ - led to increase divorce rate, more sex drugs and achol.
 11.  Marshall McLuhan -
 
 12.  National Film Board of Canada (NFB) -
@@ -213,10 +214,10 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNjE3MzUzLC0xNjc2MzE4ODUyLC0yNz
-I4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOTE5MTM5
-LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzND
-gyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3
-MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMT
-kxNzU3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbLTMxNDI1NzY4OCwtMTY3NjMxODg1MiwtMj
+cyODI4NDU5LDU2NzcxMTIwNywxMjIwNzg2MTksLTY1MzkxOTEz
+OSwtNzkwMTAyNzE0LC0yNzA4NDk2NTksNTQ3NzYyNTkyLDcyMz
+Q4MjI4MywtMTIyMjUzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1
+NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LD
+E5MTc1NzE3MzMsLTM2MjE2MDY0M119
 -->
