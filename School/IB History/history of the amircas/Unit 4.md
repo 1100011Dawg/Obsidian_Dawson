@@ -189,9 +189,10 @@ ___
  - Movement begining in the 1960 s, led by Herbert Marcuse. Goal was to breack aprt democratic partyleft, and fith for more social justice and against military-industrial process. 
  - In canda this group was also anti-American, in favour of Quebec independece
 9.  Katimavik(1977) -
- - means meeting place in Inuktitut. Goal of engaging the you through community service with focuses on multiculturalism, envriomental protection. started 1,000 to 35,000 Canadians. 
+ - means meeting place in Inuktitut. Goal of engaging the you through community service with focuses on multiculturalism, envriomental protection. started 1,000 to 35,000 Canadians. been part of the UN Economic and Social concil since 2008. 
+ - legacy of Company of Young Candians
 10.  Trudeaumania -
-
+ - 
 11.  Marshall McLuhan -
 
 12.  National Film Board of Canada (NFB) -
@@ -212,10 +213,10 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY5ODQxMzcsLTE2NzYzMTg4NTIsLT
-I3MjgyODQ1OSw1Njc3MTEyMDcsMTIyMDc4NjE5LC02NTM5MTkx
-MzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3Mj
-M0ODIyODMsLTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQx
-NTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNS
-wxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbNzkyNjE3MzUzLC0xNjc2MzE4ODUyLC0yNz
+I4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOTE5MTM5
+LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzND
+gyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3
+MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMT
+kxNzU3MTczMywtMzYyMTYwNjQzXX0=
 -->
