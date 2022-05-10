@@ -179,7 +179,7 @@ ___
  - passed out flowers, long hair, used drugs, had sext, had cults, 
  - had the summer of love
 6.  Counterculture -
-
+ - term first described hippies, in the 1960, but it desscribes beliefs diffrent from the norm, grew to include other anti-establishment groups
 7.  Special Relationship -
 
 8.  New Left -
@@ -208,10 +208,10 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYzMTg4NTIsLTI3MjgyODQ1OSw1Nj
-c3MTEyMDcsMTIyMDc4NjE5LC02NTM5MTkxMzksLTc5MDEwMjcx
-NCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3MjM0ODIyODMsLTEyMj
-I1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQxNTczOSwtMTMwNTUx
-OTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC
-0zNjIxNjA2NDNdfQ==
+eyJoaXN0b3J5IjpbNjEwODk4NzMwLC0xNjc2MzE4ODUyLC0yNz
+I4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOTE5MTM5
+LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzND
+gyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3
+MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMT
+kxNzU3MTczMywtMzYyMTYwNjQzXX0=
 -->
