@@ -218,12 +218,12 @@ ___
     - 
 Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods used by young protestors:
 
-	
+	In the Mexiacan campiangns for voting rights and better conditions they used the methoed of school walkouts. For both American and Candian youth protestors the use of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjA5NDkyMSwtMTY3NjMxODg1MiwtMj
-cyODI4NDU5LDU2NzcxMTIwNywxMjIwNzg2MTksLTY1MzkxOTEz
-OSwtNzkwMTAyNzE0LC0yNzA4NDk2NTksNTQ3NzYyNTkyLDcyMz
-Q4MjI4MywtMTIyMjUzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1
-NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LD
-E5MTc1NzE3MzMsLTM2MjE2MDY0M119
+eyJoaXN0b3J5IjpbLTY5NzUyNzEzNywxNTMyMDk0OTIxLC0xNj
+c2MzE4ODUyLC0yNzI4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYx
+OSwtNjUzOTE5MTM5LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1ND
+c3NjI1OTIsNzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgx
+MTUwLDIwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NC
+w3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
 -->
