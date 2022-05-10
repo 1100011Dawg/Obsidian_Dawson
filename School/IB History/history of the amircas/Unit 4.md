@@ -161,9 +161,10 @@ ___
  - by 1960 close to half of all citizens of the USA were under 18
  - It was due to the second World War, and the prosperity.
 2.  Julius and Ethel Rosenberg -
- - They were tired and convicted for spying for the U.S.S.R. Both exucuted, was contrivertial, l
-3.  Students for a Democratic Society (SDS) -
-
+ - They were tired and convicted for spying for the U.S.S.R. Both exucuted, was contrivertial, latter evidence revealed in 1995 proved Ethel innocent, but Julius guiltly
+ - one of many protests during era of counterculture
+3.  Students for a Democratic Society (SDS)(1960) -
+ - 
 4.  Free Speech Movement (FSM) -
 
 5.  Hippies -
@@ -198,10 +199,10 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI0OTM2MTksNTY3NzExMjA3LDEyMj
-A3ODYxOSwtNjUzOTE5MTM5LC03OTAxMDI3MTQsLTI3MDg0OTY1
-OSw1NDc3NjI1OTIsNzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOT
-c1MDgxMTUwLDIwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4
-MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX
-0=
+eyJoaXN0b3J5IjpbMTg3ODc5Nzc3NSw1Njc3MTEyMDcsMTIyMD
+c4NjE5LC02NTM5MTkxMzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5
+LDU0Nzc2MjU5Miw3MjM0ODIyODMsLTEyMjI1Mzg3ODcsLTE5Nz
+UwODExNTAsMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjExOTgy
+Mzc0LDc4MTA5MDkwNSwxOTE3NTcxNzMzLC0zNjIxNjA2NDNdfQ
+==
 -->
