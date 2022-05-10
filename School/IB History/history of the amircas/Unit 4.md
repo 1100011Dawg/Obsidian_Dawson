@@ -211,17 +211,17 @@ ___
  - Govemtn failed to concretly act
  - Became canda's largest feminist lobby by 1972
 17.  Red Power Movement -
-     - Created in the US in the late 1960's to advocate for aboriginal intrests. I
+     - Created in the US in the late 1960's to advocate for aboriginal intrests. Inspired by other minority groups protests, the Candain Red Power Movemnet advoted for the rights of a half of a million exploted oboriginal people, particualy by the changes to the Indian-Act in the 1950s/1960s.
 18.  Quiet Revolution -
-   
+    - 
 Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods used by young protestors:
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NzA3NjE5LC0xNjc2MzE4ODUyLC0yNz
-I4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOTE5MTM5
-LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzND
-gyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3
-MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMT
-kxNzU3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbMTcxOTAzNjA1OSwtMTY3NjMxODg1MiwtMj
+cyODI4NDU5LDU2NzcxMTIwNywxMjIwNzg2MTksLTY1MzkxOTEz
+OSwtNzkwMTAyNzE0LC0yNzA4NDk2NTksNTQ3NzYyNTkyLDcyMz
+Q4MjI4MywtMTIyMjUzODc4NywtMTk3NTA4MTE1MCwyMDE5NDE1
+NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIzNzQsNzgxMDkwOTA1LD
+E5MTc1NzE3MzMsLTM2MjE2MDY0M119
 -->
