@@ -21,9 +21,10 @@
 | Nucleods of Cytosine, Guanine, Adenine | Nucleods of Cytosine, Guanine, Adenine |
 | Phostphate group | has phosphate group |
 | stores genitic info | stores gentic info |
-|located in 
+| located in nucleuous | Located in nucleas and cytosom |
+| Panta sugar backbone | Penta sugar backbone |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjU0MDYxOSwxODk2NDUwODYwLDEzMz
+eyJoaXN0b3J5IjpbLTk3MDEzNDEzOSwxODk2NDUwODYwLDEzMz
 MyMzYxNjFdfQ==
 -->
