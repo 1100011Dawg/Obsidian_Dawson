@@ -26,8 +26,8 @@
 
 Met Tyr Gly Gly Phe Leu Arg Arg Tyr Pro Lys Stop    Met is start AUG is start 
 
-AU
+aug uau ggc ggu uuc ccu ucg uaa 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjU3NDUyMCwxNzQyNTgxMzYzLC05Nz
+eyJoaXN0b3J5IjpbLTgwODA0ODkwNiwxNzQyNTgxMzYzLC05Nz
 AxMzQxMzksMTg5NjQ1MDg2MCwxMzMzMjM2MTYxXX0=
 -->
