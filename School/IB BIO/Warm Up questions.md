@@ -24,8 +24,8 @@
 | located in nucleuous | Located in nucleas and cytosom |
 | Panta sugar backbone | Penta sugar backbone |
 
-
+Met Tyr Gly Gly Phe Leu Arg ARg Tyr Pro Lys Stop  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjU4MTM2MywtOTcwMTM0MTM5LDE4OT
-Y0NTA4NjAsMTMzMzIzNjE2MV19
+eyJoaXN0b3J5IjpbNzEzOTY1OTksMTc0MjU4MTM2MywtOTcwMT
+M0MTM5LDE4OTY0NTA4NjAsMTMzMzIzNjE2MV19
 -->
