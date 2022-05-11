@@ -11,7 +11,12 @@
  - PH, Temputrue, adn substrate concetration all effected enzymatic activity, with the first two working by having a spefific zone that best suites the enzuem, the latter seems to go up log?
  - the pancrease produces the most digesttive enzymes, that are secreted into the small insestine
  - 
+
+| DNA | RNA |
+|--|--|
+| have OH  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3NTE2MDQsMTg5NjQ1MDg2MCwxMzMzMj
-M2MTYxXX0=
+eyJoaXN0b3J5IjpbLTE1OTQyMDk4MDcsMTg5NjQ1MDg2MCwxMz
+MzMjM2MTYxXX0=
 -->
