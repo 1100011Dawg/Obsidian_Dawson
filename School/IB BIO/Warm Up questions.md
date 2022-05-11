@@ -27,8 +27,9 @@
 Met Tyr Gly Gly Phe Leu Arg Arg Tyr Pro Lys Stop    Met is start AUG is start 
 Met Tyr Gly Gly Phe Pro Ser stop 
 aug uau ggc ggu uuc ccu ucg uaa 
-
+because anti sense strand
+it folds 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTQ0MTI2MSwxNzQyNTgxMzYzLC05Nz
-AxMzQxMzksMTg5NjQ1MDg2MCwxMzMzMjM2MTYxXX0=
+eyJoaXN0b3J5IjpbLTE0MDg2MzgyNzQsMTc0MjU4MTM2MywtOT
+cwMTM0MTM5LDE4OTY0NTA4NjAsMTMzMzIzNjE2MV19
 -->
