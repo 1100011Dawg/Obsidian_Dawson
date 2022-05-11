@@ -17,9 +17,13 @@
 | have OH on 3 carbon | have H on 3 carbon |
 | Has Thymine instead of Uricil | Has Urisicl instead of Thymine |
 | usualy double helix antiparrel | Usualy one strand |
-
+| has Dexyriboes as pentasugar | has ribose as penta sugar |
+| Nucleods of Cytosine, Guanine, Adenine | Nucleods of Cytosine, Guanine, Adenine |
+| Phostphate group | has phosphate group |
+| stores genitic info | stores gentic info |
+|located in 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNDA2MSwxODk2NDUwODYwLDEzMzMyMz
-YxNjFdfQ==
+eyJoaXN0b3J5IjpbLTIzMjU0MDYxOSwxODk2NDUwODYwLDEzMz
+MyMzYxNjFdfQ==
 -->
