@@ -24,7 +24,8 @@
 | located in nucleuous | Located in nucleas and cytosom |
 | Panta sugar backbone | Penta sugar backbone |
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDEzNDEzOSwxODk2NDUwODYwLDEzMz
-MyMzYxNjFdfQ==
+eyJoaXN0b3J5IjpbMTc0MjU4MTM2MywtOTcwMTM0MTM5LDE4OT
+Y0NTA4NjAsMTMzMzIzNjE2MV19
 -->
