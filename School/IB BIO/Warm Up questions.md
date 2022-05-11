@@ -14,9 +14,12 @@
 
 | DNA | RNA |
 |--|--|
-| have OH  |  |
+| have OH on 3 carbon | have H on 3 carbon |
+| Has Thymine instead of Uricil | Has Urisicl instead of Thymine |
+| usualy double helix antiparrel | Usualy one strand |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQyMDk4MDcsMTg5NjQ1MDg2MCwxMz
-MzMjM2MTYxXX0=
+eyJoaXN0b3J5IjpbNTEwNDA2MSwxODk2NDUwODYwLDEzMzMyMz
+YxNjFdfQ==
 -->
