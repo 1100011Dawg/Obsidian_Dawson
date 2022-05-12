@@ -224,14 +224,15 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 | Goverment  | individual |
 |--|--|
 | Royal Commission on the Status of Women in Canada started due to the protest | 6 month cmapiagn maternal live birth controal Laura Sabia |
-|  |  |
+| Trudeaumania | Young Lords Organization(puerto rican gang that evolved) |
+| New Left |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4OTQ3NTg4LC0yMjAyMTU0ODQsLTE0OT
-U0NzI4ODAsMTU5MDc1NjE4MywxNTMyMDk0OTIxLC0xNjc2MzE4
-ODUyLC0yNzI4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYxOSwtNj
-UzOTE5MTM5LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1
-OTIsNzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLD
-IwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEw
-OTA5MDVdfQ==
+eyJoaXN0b3J5IjpbMTE0MzY3NzYzMiwtMjIwMjE1NDg0LC0xND
+k1NDcyODgwLDE1OTA3NTYxODMsMTUzMjA5NDkyMSwtMTY3NjMx
+ODg1MiwtMjcyODI4NDU5LDU2NzcxMTIwNywxMjIwNzg2MTksLT
+Y1MzkxOTEzOSwtNzkwMTAyNzE0LC0yNzA4NDk2NTksNTQ3NzYy
+NTkyLDcyMzQ4MjI4MywtMTIyMjUzODc4NywtMTk3NTA4MTE1MC
+wyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIzNzQsNzgx
+MDkwOTA1XX0=
 -->
