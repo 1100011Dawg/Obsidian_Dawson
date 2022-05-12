@@ -223,14 +223,15 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 
 | Goverment  | individual |
 |--|--|
+| Royal Commission on the Status of Women in Canada started due to the protest | 6 month cmapiagn maternal live birth controal Laura Sabia |
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDIxNTQ4NCwtMTQ5NTQ3Mjg4MCwxNT
-kwNzU2MTgzLDE1MzIwOTQ5MjEsLTE2NzYzMTg4NTIsLTI3Mjgy
-ODQ1OSw1Njc3MTEyMDcsMTIyMDc4NjE5LC02NTM5MTkxMzksLT
-c5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2MjU5Miw3MjM0ODIy
-ODMsLTEyMjI1Mzg3ODcsLTE5NzUwODExNTAsMjAxOTQxNTczOS
-wtMTMwNTUxOTY3NCwtMjExOTgyMzc0LDc4MTA5MDkwNSwxOTE3
-NTcxNzMzXX0=
+eyJoaXN0b3J5IjpbODg4OTQ3NTg4LC0yMjAyMTU0ODQsLTE0OT
+U0NzI4ODAsMTU5MDc1NjE4MywxNTMyMDk0OTIxLC0xNjc2MzE4
+ODUyLC0yNzI4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYxOSwtNj
+UzOTE5MTM5LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1
+OTIsNzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLD
+IwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NCw3ODEw
+OTA5MDVdfQ==
 -->
