@@ -218,12 +218,16 @@ ___
     - 
 Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods used by young protestors:
 
-	In the Mexiacan campiangns for voting rights and better conditions they used the methoed of school walkouts. For both American and Candian youth protestors they used colledge as a platform to spred their methods. The candain protestors were less violent than the american ones, perhasp reflecting the Hiipy movment in the Bay area. Though this peace is also emulated in Canada, with Katimavik, being an example of such. Though a diffrence betwen these time periods between the United States and Canda, were the dispostion o fthe govemrnt, with Trudea being more liberal than his american counterparts during this time. I additionally tha
+	In the Mexiacan campiangns for voting rights and better conditions they used the methoed of school walkouts. For both American and Candian youth protestors they used colledge as a platform to spred their methods. The candain protestors were less violent than the american ones, perhasp reflecting the Hiipy movment in the Bay area. Though this peace is also emulated in Canada, with Katimavik, being an example of such. Though a diffrence betwen these time periods between the United States and Canda, were the dispostion o fthe govemrnt, with Trudea being more liberal than his american counterparts during this time. These diffrences stem for diffrent cultural intuations about what protest menas. In this their conception of how a protest should work effects the outcomes that will happen. 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDc1NjE4MywxNTMyMDk0OTIxLC0xNj
-c2MzE4ODUyLC0yNzI4Mjg0NTksNTY3NzExMjA3LDEyMjA3ODYx
-OSwtNjUzOTE5MTM5LC03OTAxMDI3MTQsLTI3MDg0OTY1OSw1ND
-c3NjI1OTIsNzIzNDgyMjgzLC0xMjIyNTM4Nzg3LC0xOTc1MDgx
-MTUwLDIwMTk0MTU3MzksLTEzMDU1MTk2NzQsLTIxMTk4MjM3NC
-w3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYyMTYwNjQzXX0=
+eyJoaXN0b3J5IjpbLTE0OTU0NzI4ODAsMTU5MDc1NjE4MywxNT
+MyMDk0OTIxLC0xNjc2MzE4ODUyLC0yNzI4Mjg0NTksNTY3NzEx
+MjA3LDEyMjA3ODYxOSwtNjUzOTE5MTM5LC03OTAxMDI3MTQsLT
+I3MDg0OTY1OSw1NDc3NjI1OTIsNzIzNDgyMjgzLC0xMjIyNTM4
+Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3MzksLTEzMDU1MTk2Nz
+QsLTIxMTk4MjM3NCw3ODEwOTA5MDUsMTkxNzU3MTczMywtMzYy
+MTYwNjQzXX0=
 -->
