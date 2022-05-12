@@ -226,13 +226,17 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 | Royal Commission on the Status of Women in Canada started due to the protest | 6 month cmapiagn maternal live birth controal Laura Sabia |
 | Trudeaumania | Young Lords Organization(puerto rican gang that evolved) |
 | New Left |  |
+| Bracero Program recruited mexican labourers
+ |  |
+| Jones Act 1917 puerto rican citizenship |  |
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzY3NzYzMiwtMjIwMjE1NDg0LC0xND
-k1NDcyODgwLDE1OTA3NTYxODMsMTUzMjA5NDkyMSwtMTY3NjMx
-ODg1MiwtMjcyODI4NDU5LDU2NzcxMTIwNywxMjIwNzg2MTksLT
-Y1MzkxOTEzOSwtNzkwMTAyNzE0LC0yNzA4NDk2NTksNTQ3NzYy
-NTkyLDcyMzQ4MjI4MywtMTIyMjUzODc4NywtMTk3NTA4MTE1MC
-wyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC0yMTE5ODIzNzQsNzgx
-MDkwOTA1XX0=
+eyJoaXN0b3J5IjpbLTIwMTU3NzQwODgsLTIyMDIxNTQ4NCwtMT
+Q5NTQ3Mjg4MCwxNTkwNzU2MTgzLDE1MzIwOTQ5MjEsLTE2NzYz
+MTg4NTIsLTI3MjgyODQ1OSw1Njc3MTEyMDcsMTIyMDc4NjE5LC
+02NTM5MTkxMzksLTc5MDEwMjcxNCwtMjcwODQ5NjU5LDU0Nzc2
+MjU5Miw3MjM0ODIyODMsLTEyMjI1Mzg3ODcsLTE5NzUwODExNT
+AsMjAxOTQxNTczOSwtMTMwNTUxOTY3NCwtMjExOTgyMzc0LDc4
+MTA5MDkwNV19
 -->
