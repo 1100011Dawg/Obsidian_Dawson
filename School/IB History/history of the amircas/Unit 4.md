@@ -227,16 +227,16 @@ Short Answer Question (5+ sentences) Prompt: Compare and contrast the methods us
 | Trudeaumania | Young Lords Organization(puerto rican gang that evolved) |
 | New Left | Betty Friedan(the feminie mystique) |
 | Bracero Program recruited mexican labourers
- |  |
+ | |
 | Jones Act 1917 puerto rican citizenship |  |
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjAwNzY3NSwtMjAxNTc3NDA4OCwtMj
-IwMjE1NDg0LC0xNDk1NDcyODgwLDE1OTA3NTYxODMsMTUzMjA5
-NDkyMSwtMTY3NjMxODg1MiwtMjcyODI4NDU5LDU2NzcxMTIwNy
-wxMjIwNzg2MTksLTY1MzkxOTEzOSwtNzkwMTAyNzE0LC0yNzA4
-NDk2NTksNTQ3NzYyNTkyLDcyMzQ4MjI4MywtMTIyMjUzODc4Ny
-wtMTk3NTA4MTE1MCwyMDE5NDE1NzM5LC0xMzA1NTE5Njc0LC0y
-MTE5ODIzNzRdfQ==
+eyJoaXN0b3J5IjpbMTQ3MTIxMDgzNSwxOTQ2MDA3Njc1LC0yMD
+E1Nzc0MDg4LC0yMjAyMTU0ODQsLTE0OTU0NzI4ODAsMTU5MDc1
+NjE4MywxNTMyMDk0OTIxLC0xNjc2MzE4ODUyLC0yNzI4Mjg0NT
+ksNTY3NzExMjA3LDEyMjA3ODYxOSwtNjUzOTE5MTM5LC03OTAx
+MDI3MTQsLTI3MDg0OTY1OSw1NDc3NjI1OTIsNzIzNDgyMjgzLC
+0xMjIyNTM4Nzg3LC0xOTc1MDgxMTUwLDIwMTk0MTU3MzksLTEz
+MDU1MTk2NzRdfQ==
 -->
