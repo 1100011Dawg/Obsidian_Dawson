@@ -24,7 +24,7 @@
 |  IB SITE   |  SUBJECT   |  Rating   |     |     |     |
 | --- | --- | --- | --- | --- | --- |
 |  https://www.unlockib.com/   |  IB General   |  5   |     |     |     |
-|     |     |     |     |     |     |
+|   https://studylib.net/  |   IB Study  |  7   |     |     |     |
 |     |     |     |     |     |     |
 |     |     |     |     |     |     |
 |     |     |     |     |     |     |
