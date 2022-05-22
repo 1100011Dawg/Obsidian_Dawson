@@ -11,4 +11,12 @@
 	 - IB Enviromental Science
  - IB Foreign Lang
 	 - IB spanish
-	 - IB 
+	 - IB French
+ - IB English
+ - IB MAth
+	 - IB SL
+	 - IB HL
+ - IB History
+ - TOK
+ - CAS
+ - 
