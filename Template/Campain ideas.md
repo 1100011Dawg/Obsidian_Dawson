@@ -3,4 +3,5 @@
  - turtles can give birth and die, if they give birth it is called a rumbling, if they die it is called a tumbling. fo rubling the top layer only produce minor earthquakes around once every 10 years, the socond top produces more servere earth quates every 100 years, with the 10000 year ones almost always wiping out most of civilizion, with the tumbling equivlant always being worse.
  - The middle of the second layer turtle(contenant size) is where most first layer turtles reside(state size) due to it being less arched, though there is more people being stepped on here, the outer edges do contain turtles and more permenant civiliations, though it is all more tilted. In this status on the outer edges is repersented by how tilted your house is, with perfelctly flat big houses only beloning to the upper class, with poor people not having enough money for that large of a foundation.  
  - Some turtles have died and there shells have split somehow(mabye giant birds using rocks?) in the centor allowing for great oceans, with poeple either at the edges or just floating. 
- - 
+ - persons/unique features per class
+	 - legend of great barbarian who held up a turtles foot, some cla
