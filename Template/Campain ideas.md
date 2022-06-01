@@ -1,4 +1,4 @@
 #### Turtles all the way down
  - They live on the top layers of an infinite stack of turtles, with mutiple turtles residing upon one turtle. In this there is a danger to being stomped on if they are one the second highest turtle layer, thus divoners use their sence to see if there is a chance of danger
  - turtles can give birth and die, if they give birth it is called a rumbling, if they die it is called a tumbling. fo rubling the top layer only produce minor earthquakes around once every 10 years, the socond top produces more servere earth quates every 100 years, with the 10000 year ones almost always wiping out most of civilizion, with the tumbling equivlant always being worse.
- - The middle of the second layer turtle(contenant size) is where most first 
+ - The middle of the second layer turtle(contenant size) is where most first layer turtles reside(state size) due to it being less arched, though there is more people being stepped on here, the outer edges do contain turtles and more permenant civiliations, though  
