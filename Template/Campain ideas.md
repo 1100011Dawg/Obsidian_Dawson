@@ -12,4 +12,5 @@
 - rumors of the land up north, a once rich grass land now being run to to the shell of the turtle, rumors of also robotic humans and animals,(and perhaps robitic turtles)(basically a highly advanced land reviving a dead shell.)
 - a lot of shells roll if if they are not in the center and they are dead
 - tortles are either highly regared o out casts(depends on cultures veiw of turtles). some believe the turltes tumblings and rumblings are the cause of all there problems and seek to destory them, other praise the turtles as a blessing upon nature.(similiar sometimes apply to other reptilain races but less so)
-- half dragons are almost always social out casts, eithe rregarded by turtles believes as decievers who strayed to far from
+- half dragons are almost always social out casts, eithe rregarded by turtles believes as decievers who strayed to far from their original form and took to the sky. or by anti0turtlists as only a sort of ally, met with suspition
+- aakras, by some 
