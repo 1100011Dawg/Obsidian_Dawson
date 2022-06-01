@@ -11,4 +11,4 @@
 	 - warlock can shoose a turtle as his god
 - rumors of the land up north, a once rich grass land now being run to to the shell of the turtle, rumors of also robotic humans and animals,(and perhaps robitic turtles)(basically a highly advanced land reviving a dead shell.)
 - a lot of shells roll if if they are not in the center and they are dead
-- tortles are either highly regared o out casts(depends on cultures veiw of turtles). 
+- tortles are either highly regared o out casts(depends on cultures veiw of turtles). some believe the turltes tumblings and rumblings are the cause of all there problems and seek to destory them, other praise the turtles as a 
