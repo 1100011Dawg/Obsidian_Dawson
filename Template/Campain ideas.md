@@ -15,4 +15,5 @@
 - half dragons are almost always social out casts, eithe rregarded by turtles believes as decievers who strayed to far from their original form and took to the sky. or by anti0turtlists as only a sort of ally, met with suspition
 - aakras, by some far ani-turtle cults regard them as theire savoirs hoping that they can call a giant bird(plant sized) in order to wipe out the turtles. 
 - can't see all the turtle layers because of mist from the rain from the skies
-- unique body parts might serve enique functions.(some migh live on the )
+- unique body parts might serve enique functions.(some migh live on the underside, inside in the mouth or somewhere else)
+- need to find immune responce for turtles?
