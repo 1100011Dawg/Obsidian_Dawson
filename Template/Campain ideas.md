@@ -16,4 +16,5 @@
 - aakras, by some far ani-turtle cults regard them as theire savoirs hoping that they can call a giant bird(plant sized) in order to wipe out the turtles. 
 - can't see all the turtle layers because of mist from the rain from the skies
 - unique body parts might serve enique functions.(some migh live on the underside, inside in the mouth or somewhere else)
-- need to find immune responce for turtles?
+- need to find immune responce for turtles?\
+- inspired by rock on the highway and had to think of campaign idea
