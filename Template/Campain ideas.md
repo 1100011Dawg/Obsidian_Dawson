@@ -9,4 +9,4 @@
 	 - druids can communicate witht he turtles at a high enough level(same for rangers though less so)
 	 - charectors with shields can join a few cults around the turtle
 	 - warlock can shoose a turtle as his god
-	 - 
+- rumors of the land up north, a once rich grass land now being run to to the shell of the turtle, rumors of also robotic humans and animals,(and perhaps robitic turtles)(basically a highly advanc)
