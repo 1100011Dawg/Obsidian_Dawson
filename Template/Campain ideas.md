@@ -7,4 +7,6 @@
 	 - legend of great barbarian who held up a turtles foot, some claim to be desended from him, 20th level can hold up the foot (but at great cost, either death ofr something really close)
 	 - Divinors determin if the current land might be stepped on
 	 - druids can communicate witht he turtles at a high enough level(same for rangers though less so)
+	 - charectors with shields can join a few cults around the turtle
+	 - warlock can shoose a turtle as his god
 	 - 
