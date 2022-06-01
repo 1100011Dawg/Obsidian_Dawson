@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/CAS Project/Citatations.md",
+            "file": "Template/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/CAS Project/Citatations.md",
+                "file": "Template/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/CAS Project/Citatations.md",
+                "file": "Template/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/CAS Project/Citatations.md"
+                "file": "Template/Untitled.md"
               }
             }
           },
@@ -146,6 +146,8 @@
   },
   "active": "50f94c9b05ecee97",
   "lastOpenFiles": [
+    "Template/Untitled.md",
+    "Template/Template_Default.md",
     "Personal/CAS Project/Citatations.md",
     "Personal/CAS Project/List of potential sites.md",
     "School/IB general/CAS.md",
@@ -153,8 +155,6 @@
     "Personal/Free writes/free write.md",
     "Personal/Free writes/2-22-22 Free Write.md",
     "Daily Notes/2021-07-23.md",
-    "Daily Notes/2021-08-08.md",
-    "Personal/Track.md",
-    "Personal/TODO.md"
+    "Daily Notes/2021-08-08.md"
   ]
 }
