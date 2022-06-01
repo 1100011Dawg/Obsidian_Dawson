@@ -13,4 +13,5 @@
 - a lot of shells roll if if they are not in the center and they are dead
 - tortles are either highly regared o out casts(depends on cultures veiw of turtles). some believe the turltes tumblings and rumblings are the cause of all there problems and seek to destory them, other praise the turtles as a blessing upon nature.(similiar sometimes apply to other reptilain races but less so)
 - half dragons are almost always social out casts, eithe rregarded by turtles believes as decievers who strayed to far from their original form and took to the sky. or by anti0turtlists as only a sort of ally, met with suspition
-- aakras, by some 
+- aakras, by some far ani-turtle cults regard them as theire savoirs hoping that they can call a giant bird(plant sized) in order to wipe out the turtles. 
+- can't see all the turtle lay
