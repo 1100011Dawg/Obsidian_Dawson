@@ -4,7 +4,10 @@
  - when going in for the high crotch grab your arm with your wrist, windshield wiper.
  - pull down hip don’t go on your hop. Get chicken wing when there down
  - dont get wrist before there elbow on the ground
- - 
+ - knee block
+ - use your head to block
+ - create angles
+ - stub then shoot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY5OTM2NThdfQ==
+eyJoaXN0b3J5IjpbMTM5ODEwMTM3LC0xNjA2OTkzNjU4XX0=
 -->
