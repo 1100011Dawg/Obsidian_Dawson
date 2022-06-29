@@ -8,6 +8,9 @@
  - use your head to block
  - create angles
  - stub then shoot
+ - work on open ent Similiar size
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODEwMTM3LC0xNjA2OTkzNjU4XX0=
+eyJoaXN0b3J5IjpbMTE3MzE4NjY1NywxMzk4MTAxMzcsLTE2MD
+Y5OTM2NThdfQ==
 -->
